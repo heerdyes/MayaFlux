@@ -1,0 +1,33 @@
+<map id="MayaFlux::Buffers::VolumeFieldProcessor::add_swap_field" name="MayaFlux::Buffers::VolumeFieldProcessor::add_swap_field">
+<area shape="rect" id="Node000001" title="Register a field to swap after each dispatch." alt="" coords="576,480,740,541"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a0aea3ade7e248189eca135d3b11751f8.html#a0aea3ade7e248189eca135d3b11751f8" title="Construct an advection stage from a generated ShaderSpec." alt="" coords="282,5,527,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,463,650,379,643,327,631,272,615,215,593,160,563,109,526,64,513,53,512,48,530,60,568,106,597,158,620,214,637,270,648,326,655,379,660,465"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a016b3328cf43e5e2a6752c2f044fb967.html#a016b3328cf43e5e2a6752c2f044fb967" title="Construct an advection stage." alt="" coords="282,75,527,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="652,463,643,392,622,303,606,256,585,212,558,170,526,134,513,122,512,117,530,130,563,167,589,209,610,254,627,301,648,391,657,465"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_a5ecf7bd41bf1a2ff52fa027cdb5adb13.html#a5ecf7bd41bf1a2ff52fa027cdb5adb13" title="Construct a buoyancy stage from a generated ShaderSpec." alt="" coords="294,144,514,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="646,464,632,409,608,343,573,276,551,246,526,219,514,208,513,203,530,215,556,243,578,274,613,341,637,407,651,465"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_ab537d0f887bda883a884d0d68bcdbe37.html#ab537d0f887bda883a884d0d68bcdbe37" title="Construct a buoyancy stage." alt="" coords="294,229,514,290"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="637,465,619,427,594,384,563,341,526,304,511,293,511,288,530,300,567,338,599,381,624,425,642,466"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1DiffuseProcessor_a88d66c6c9628bece51560e633cf5beb0.html#a88d66c6c9628bece51560e633cf5beb0" title="Construct a diffusion stage from a generated ShaderSpec." alt="" coords="281,315,528,359"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="624,467,582,419,555,395,527,374,505,362,504,357,529,369,559,390,585,415,629,467"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1DiffuseProcessor_ab64fd0cd7642236d428bea65641ea87e.html#ab64fd0cd7642236d428bea65641ea87e" title="Construct a diffusion stage." alt="" coords="281,384,528,429"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="589,472,527,443,496,432,495,427,529,439,594,471"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_aa93e80f43088296fd01528edcf06441b.html#aa93e80f43088296fd01528edcf06441b" title="Construct an influx stage from a generated ShaderSpec." alt="" coords="291,453,518,498"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="558,498,519,494,518,489,563,496"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_a9aa18fbf6c243349bb5522a02cdfab16.html#a9aa18fbf6c243349bb5522a02cdfab16" title="Construct an influx stage." alt="" coords="291,523,518,567"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="558,525,520,532,517,527,563,522"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1PressureProcessor_a969d468222a342848d54054924691312.html#a969d468222a342848d54054924691312" title="Construct a pressure solve stage from a generated ShaderSpec." alt="" coords="302,592,506,653"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="588,550,529,582,502,593,499,589,527,577,592,547"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1PressureProcessor_ab5e4ae464359d5924d30df83f3d35fac.html#ab5e4ae464359d5924d30df83f3d35fac" title="Construct a pressure solve stage." alt="" coords="302,677,506,738"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="632,552,588,613,560,642,530,667,508,680,505,675,526,663,557,638,584,610,628,556"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1SolenoidalProcessor_aa6d89bbf989bb664baece7c054892c62.html#aa6d89bbf989bb664baece7c054892c62" title="Construct a gradient subtraction stage from a generated ShaderSpec." alt="" coords="324,762,484,824"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="645,554,629,603,604,655,571,707,530,752,509,767,486,777,483,773,506,762,526,748,567,704,600,653,624,601,642,558"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1SolenoidalProcessor_a4bdf9ec487c290a2c06b349095e5aaac.html#a4bdf9ec487c290a2c06b349095e5aaac" title="Construct a gradient subtraction stage." alt="" coords="324,848,484,909"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="652,554,641,620,618,695,582,771,558,806,530,838,509,853,486,864,484,859,507,848,526,834,554,803,577,768,613,693,635,618,649,559"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1WallProcessor_aa9cdbb6f910a419f7f07765b8f0056fd.html#aa9cdbb6f910a419f7f07765b8f0056fd" title="Construct a free&#45;slip wall stage from a generated ShaderSpec." alt="" coords="299,933,510,978"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="657,555,651,636,631,734,615,785,593,835,565,882,530,923,512,937,509,932,526,919,561,879,588,833,610,783,626,733,646,635,654,559"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1WallProcessor_afd2cbc84c3ca6ce6b4f38e3bd405b069.html#afd2cbc84c3ca6ce6b4f38e3bd405b069" title="Construct a free&#45;slip wall stage." alt="" coords="299,1003,510,1047"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="652,554,636,662,609,791,592,855,573,912,553,960,530,992,511,1007,509,1002,526,988,548,957,568,911,587,853,603,790,630,661,649,559"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_ae5fed8d6e18a4f26a2058936a8dc869b.html#ae5fed8d6e18a4f26a2058936a8dc869b" title="Construct an influx stage already placed." alt="" coords="5,523,233,567"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="273,547,234,547,232,543,277,543"/>
+</map>

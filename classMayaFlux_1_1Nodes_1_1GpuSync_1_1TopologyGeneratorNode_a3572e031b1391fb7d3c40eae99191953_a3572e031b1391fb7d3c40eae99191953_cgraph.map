@@ -1,0 +1,23 @@
+<map id="MayaFlux::Nodes::GpuSync::TopologyGeneratorNode::regenerate_topology" name="MayaFlux::Nodes::GpuSync::TopologyGeneratorNode::regenerate_topology">
+<area shape="rect" id="Node000001" title="Manually trigger connection regeneration." alt="" coords="5,278,205,340"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a6d74d87a90faf6dcb17a752271eeeb17.html#a6d74d87a90faf6dcb17a752271eeeb17" title="Generate proximity graph using specified mode." alt="" coords="256,248,449,293"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,291,243,286,238,289,206,296"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1TopologyGeneratorNode_a78c9382efa79a3d4c42e6b4d1ef69200.html#a78c9382efa79a3d4c42e6b4d1ef69200" title="Refill m_positions from m_points, in place." alt="" coords="253,317,452,378"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="204,322,240,329,235,331,206,327"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a20b38e53041af570b0c8a5aeec5d1a58.html#a20b38e53041af570b0c8a5aeec5d1a58" title="Custom proximity graph via user function." alt="" coords="514,5,697,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,246,381,207,411,157,451,105,498,60,508,56,504,60,502,64,455,109,416,160,386,210,366,250"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a45146448dd2dea8cbbd59060db78afa4.html#a45146448dd2dea8cbbd59060db78afa4" title="Compute Gabriel graph." alt="" coords="532,75,680,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="370,246,424,188,460,157,499,129,519,121,515,124,501,134,463,161,428,192,374,249"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a6b9c33386b278f658a8ac40e9f160b4a.html#a6b9c33386b278f658a8ac40e9f160b4a" title="Compute K&#45;nearest neighbors graph." alt="" coords="528,144,684,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,245,499,199,520,193,515,196,501,203,400,250"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_a31bff583b9a47e0fe97108fad7e16a50.html#a31bff583b9a47e0fe97108fad7e16a50" title="Compute minimum spanning tree (Prim&#39;s algorithm)." alt="" coords="514,213,697,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="449,255,501,249,496,251,450,260"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kinesis_a963bd2d6956c8a5d36bb6d23415bb1ed.html#a963bd2d6956c8a5d36bb6d23415bb1ed" title="Compute nearest neighbor graph." alt="" coords="516,283,695,327"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="449,281,504,290,499,291,450,286"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kinesis_a70a08bceb23fffad5537d7ca3fde8478.html#a70a08bceb23fffad5537d7ca3fde8478" title="Compute radius threshold graph." alt="" coords="519,352,692,397"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="426,291,453,303,478,320,501,337,515,346,510,346,499,342,474,325,451,307,426,296"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kinesis_a2172d35410f483d4f3c385db1eac6815.html#a2172d35410f483d4f3c385db1eac6815" title="Compute relative neighborhood graph." alt="" coords="500,421,711,466"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="436,290,454,303,466,316,473,330,478,357,484,382,491,395,502,407,506,413,501,412,498,411,486,398,479,384,473,358,468,332,461,319,450,307,435,296"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kinesis_a01a9ab53b52e981e35f5c872f1fdbb9d.html#a01a9ab53b52e981e35f5c872f1fdbb9d" title="Compute sequential chain graph." alt="" coords="532,491,680,535"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="438,291,454,303,470,326,477,348,478,392,480,435,487,455,502,476,520,493,515,491,498,480,482,458,474,435,473,392,472,349,465,328,450,307,437,296"/>
+</map>

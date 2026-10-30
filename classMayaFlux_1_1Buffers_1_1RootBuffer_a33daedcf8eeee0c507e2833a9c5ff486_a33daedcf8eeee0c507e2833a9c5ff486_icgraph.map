@@ -1,0 +1,12 @@
+<map id="MayaFlux::Buffers::RootBuffer::is_buffer_acceptable" name="MayaFlux::Buffers::RootBuffer::is_buffer_acceptable">
+<area shape="rect" id="Node000001" title="Validates if a buffer is acceptable based on current token enforcement strategy." alt="" coords="658,125,813,187"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RootBuffer_a2b9197d91c068da2f1e55d7d64653562.html#a2b9197d91c068da2f1e55d7d64653562" title=" " alt="" coords="450,91,610,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="640,140,611,138,611,132,646,141"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1RootBuffer_a7a3dc4031be274b0cd452eba4993cf34.html#a7a3dc4031be274b0cd452eba4993cf34" title="Attempts to add a child buffer without throwing exceptions." alt="" coords="5,83,153,144"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="646,169,550,181,439,186,319,182,259,176,200,167,142,148,142,142,201,162,260,171,319,177,439,180,550,175,640,169"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1RootBuffer_a12baa134d64e4459eebe48ce9d6dd664.html#a12baa134d64e4459eebe48ce9d6dd664" title="Adds a tributary buffer to this root buffer." alt="" coords="221,5,382,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,86,382,69,382,63,438,86"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1RootBuffer_a369670e6eff7497260bcac971f482080.html#a369670e6eff7497260bcac971f482080" title="Process pending operations &#45; call this at start of processing cycles." alt="" coords="201,91,402,152"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="432,122,403,124,402,119,437,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,70,154,90,152,85,209,68"/>
+</map>

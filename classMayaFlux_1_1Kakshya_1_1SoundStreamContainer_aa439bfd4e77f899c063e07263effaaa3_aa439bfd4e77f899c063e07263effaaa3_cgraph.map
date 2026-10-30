@@ -1,0 +1,26 @@
+<map id="MayaFlux::Kakshya::SoundStreamContainer::read_sequential" name="MayaFlux::Kakshya::SoundStreamContainer::read_sequential">
+<area shape="rect" id="Node000001" title="Read data sequentially from the current position." alt="" coords="5,180,177,242"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a57c8173321d14283714748456d5460c7.html#a57c8173321d14283714748456d5460c7" title="Advance the read position by a specified amount." alt="" coords="225,108,404,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,181,212,171,208,174,178,186"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a2df106c31610185cee99251f3bad8aa7.html#a2df106c31610185cee99251f3bad8aa7" title="Peek at data without advancing the read position." alt="" coords="229,223,400,284"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,225,216,233,211,235,177,230"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a6b9b1e820df114a20a5384233008e015.html#a6b9b1e820df114a20a5384233008e015" title="Advance current positions by a number of frames, with optional looping." alt="" coords="459,108,616,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,133,446,133,441,135,405,138"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a27b9d48a60ea2512b02a8196c6581eec.html#a27b9d48a60ea2512b02a8196c6581eec" title="Extract channel count from dimensions." alt="" coords="676,5,850,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="592,105,676,73,671,75,594,110"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a707364e4c5a8e950a981eaf7ff5edff6.html#a707364e4c5a8e950a981eaf7ff5edff6" title="Get samples per channel (time dimension only)." alt="" coords="671,92,855,170"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="616,128,658,130,653,131,617,133"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a042de125fda620e471fd2a02de28805a.html#a042de125fda620e471fd2a02de28805a" title="Get the audio data as a specific type." alt="" coords="452,231,623,292"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="400,254,439,257,434,258,401,259"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kakshya_ab3b458f6c92031a38b8eb820d6d3324d.html#ab3b458f6c92031a38b8eb820d6d3324d" title="Get const span from DataVariant without conversion (zero&#45;copy for matching types)." alt="" coords="903,220,1060,265"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="623,238,671,231,783,226,890,233,885,234,783,232,672,236,624,243"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a2321cbc62aa5f61be7f780c2c8735fcc.html#a2321cbc62aa5f61be7f780c2c8735fcc" title="Get the cached spans for each channel, recomputing if dirty." alt="" coords="677,245,849,307"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="624,264,664,269,659,270,624,270"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kakshya_aabeece17084e84e555c71c127aa66eb2.html#aabeece17084e84e555c71c127aa66eb2" title="Interleave multiple channels of data into a single vector." alt="" coords="684,331,842,376"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="610,290,672,316,689,325,684,325,670,321,609,295"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="1108,220,1265,265"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1060,240,1095,243,1090,243,1061,245"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="1313,220,1487,265"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1266,240,1301,243,1295,243,1266,245"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="849,260,885,258,890,257,849,266"/>
+</map>

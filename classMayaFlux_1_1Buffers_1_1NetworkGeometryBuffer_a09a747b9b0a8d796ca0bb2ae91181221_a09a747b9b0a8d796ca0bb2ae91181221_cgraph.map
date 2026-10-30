@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::NetworkGeometryBuffer::NetworkGeometryBuffer" name="MayaFlux::Buffers::NetworkGeometryBuffer::NetworkGeometryBuffer">
+<area shape="rect" id="Node000001" title="Create geometry buffer from network." alt="" coords="5,83,194,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_abdc12d47c20fc3f0d9ac1976151b4614.html#abdc12d47c20fc3f0d9ac1976151b4614" title="Calculate initial buffer size based on network node count." alt="" coords="243,5,424,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,80,231,69,226,72,195,85"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a9070538a7af526d6943272f4d6d842a4.html#a9070538a7af526d6943272f4d6d842a4" title=" " alt="" coords="242,91,425,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,111,229,113,224,114,195,116"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a71bfbd383ca91bbd5541b653939d89a2.html#a71bfbd383ca91bbd5541b653939d89a2" title="Construct an unregistered VKBuffer." alt="" coords="260,160,407,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,139,248,156,242,157,194,144"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a0b88df705302552cb7b6442dd31ee2c3.html#a0b88df705302552cb7b6442dd31ee2c3" title="Infer Kakshya::DataDimension entries from a given byte count." alt="" coords="473,113,671,175"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,168,460,162,455,163,408,174"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="494,199,651,244"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="408,192,480,206,475,206,407,197"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="719,199,866,244"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="651,219,707,221,701,222,652,224"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::DataInsertion::modality_to_role" name="MayaFlux::Kakshya::DataInsertion::modality_to_role">
+<area shape="rect" id="Node000001" title="Convert modality to dimension role." alt="" coords="633,49,809,111"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1DataInsertion_aef790a2bbfc0106263f72e4586ae85ba.html#aef790a2bbfc0106263f72e4586ae85ba" title="Create dimension descriptor for structured data." alt="" coords="416,11,585,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="615,62,586,59,586,54,621,62"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1DataInsertion_a0f23ed3aa42003dcecb0ebbcd3260b65.html#a0f23ed3aa42003dcecb0ebbcd3260b65" title="Insert scalar array data." alt="" coords="211,91,368,152"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="615,90,369,117,368,111,621,90"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1DataInsertion_a7ab811648d7831d3c7c2dc06f5cb0e2b.html#a7ab811648d7831d3c7c2dc06f5cb0e2b" title="Insert structured GLM data with automatic dimension setup." alt="" coords="211,5,368,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,39,369,41,368,36,403,39"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1DataInsertion_af1dd90c7aeeb0f9073fc2013dc9c493e.html#af1dd90c7aeeb0f9073fc2013dc9c493e" title="Convert and insert from different type." alt="" coords="5,5,163,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,37,164,39,163,34,198,35"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1DataInsertion_afd3267ff190d889b84537ca75c7fff32.html#afd3267ff190d889b84537ca75c7fff32" title="Insert data from span (copy operation)." alt="" coords="5,91,163,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,72,161,93,159,88,197,74"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="197,85,160,70,160,65,203,84"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="193,122,163,124,163,119,198,121"/>
+</map>

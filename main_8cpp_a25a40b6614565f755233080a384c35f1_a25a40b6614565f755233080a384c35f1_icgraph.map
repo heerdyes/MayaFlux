@@ -1,0 +1,28 @@
+<map id="initialize" name="initialize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="779,254,857,282"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a01f29b8e9975b80306f4bc0b534a09d8.html#a01f29b8e9975b80306f4bc0b534a09d8" title="Add a routine to the scheduler based on its processing token." alt="" coords="502,5,731,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="810,237,801,200,786,153,763,105,730,64,715,53,715,48,733,60,767,102,791,150,806,198,815,240"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_ac663547dd9fc85f307003370fdf087a3.html#ac663547dd9fc85f307003370fdf087a3" title="Initialize Portal::Graphics Glue Layer." alt="" coords="518,75,715,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="802,239,773,190,753,163,730,140,700,123,701,117,733,136,757,160,778,187,807,240"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Portal_1_1Text_ab942e659934e6d68aa5f94300b7ed912.html#ab942e659934e6d68aa5f94300b7ed912" title="Initialize Portal::Text." alt="" coords="265,144,431,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="796,241,768,211,750,196,730,185,693,171,655,161,575,151,499,151,432,156,430,151,498,145,575,146,656,156,695,166,732,180,753,192,772,207,801,242"/>
+<area shape="rect" id="Node000007" href="$main_8cpp_a0ddf1224851353fc92bfbff6f499fa97.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="590,194,644,222"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="768,247,731,236,645,215,644,210,732,230,773,247"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a6e5c7168192f7ac506f120edaae73185.html#a6e5c7168192f7ac506f120edaae73185" title="Processes a single data sample." alt="" coords="510,245,723,290"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="761,268,724,270,723,265,766,267"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_a22d0a9752f15ab98f0bf241b44d208dd.html#a22d0a9752f15ab98f0bf241b44d208dd" title="Schedules a new free routine conditional task." alt="" coords="524,314,710,342"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="773,287,732,305,692,316,690,311,731,300,768,289"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_a967a14db2776c1d2805d3aff45e77a7e.html#a967a14db2776c1d2805d3aff45e77a7e" title="Schedules a new sound routine task." alt="" coords="524,366,710,394"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="800,292,770,327,733,355,704,368,702,363,730,351,767,323,795,294"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_a7d92c127beeb01028a2e57d42ee1a1ba.html#a7d92c127beeb01028a2e57d42ee1a1ba" title="Schedules a new sound routine task." alt="" coords="524,418,710,446"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="809,295,781,354,759,383,733,407,710,420,708,415,730,403,755,379,776,351,805,298"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PhysicsOperator_a99411015af9da1e5754e9c7b01e5bcf7.html#a99411015af9da1e5754e9c7b01e5bcf7" title="Seed physics state from upstream operator&#39;s vertex data." alt="" coords="518,470,715,532"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="813,295,804,333,788,377,764,420,733,459,716,472,714,467,729,455,760,417,783,374,798,332,809,298"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a25611dc038e2fa775987e640a7826262.html#a25611dc038e2fa775987e640a7826262" title="Initialize Portal::Graphics subsystem." alt="" coords="254,58,442,120"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="500,95,443,94,442,89,505,93"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a1278000eee96b8f7c3cefbe13f7f91a9.html#a1278000eee96b8f7c3cefbe13f7f91a9" title="Initialize with graphics configuration." alt="" coords="5,105,194,150"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,108,195,115,193,111,241,104"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="247,152,195,145,193,140,251,150"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a7d611787a0c8d858f159f9f5acf61373.html#a7d611787a0c8d858f159f9f5acf61373" title="Processes multiple samples at once." alt="" coords="242,245,454,290"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="492,268,455,270,454,265,498,267"/>
+</map>

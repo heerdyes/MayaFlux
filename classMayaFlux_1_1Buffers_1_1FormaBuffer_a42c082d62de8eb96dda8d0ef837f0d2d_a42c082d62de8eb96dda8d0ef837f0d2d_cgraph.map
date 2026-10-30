@@ -1,0 +1,36 @@
+<map id="MayaFlux::Buffers::FormaBuffer::operator=" name="MayaFlux::Buffers::FormaBuffer::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,181,235"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a7204a8b851b7a3491cad50ff71325446.html#a7204a8b851b7a3491cad50ff71325446" title="Bind a texture to a slot in the multi&#45;texture array at runtime." alt="" coords="244,9,436,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,189,156,127,189,93,227,64,239,59,236,63,230,69,193,97,160,130,112,192"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_ab8066f3d63396050331f2ca2e9707f9d.html#ab8066f3d63396050331f2ca2e9707f9d" title="Construct a FormaBuffer." alt="" coords="245,79,434,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,188,228,141,264,128,260,131,230,146,137,192"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a796c3fe3cc945ace371c6ced27f2f96e.html#a796c3fe3cc945ace371c6ced27f2f96e" title="Supply a texture to be bound on the next graphics tick." alt="" coords="248,156,432,201"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="180,198,235,192,231,195,182,203"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_aad06cc10e2b46e616df4c02d9e4830d9.html#aad06cc10e2b46e616df4c02d9e4830d9" title="Register with the graphics subsystem." alt="" coords="229,225,451,270"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="180,223,215,229,211,231,182,228"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a6e4b1818e6ff4682a0bc2095de0f5301.html#a6e4b1818e6ff4682a0bc2095de0f5301" title="Attach a RenderProcessor targeting the given window." alt="" coords="233,331,447,375"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="134,233,288,321,284,324,134,238"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a236d62b5a3f8a5799476fcd65e078fea.html#a236d62b5a3f8a5799476fcd65e078fea" title="Write vertex bytes into the buffer." alt="" coords="263,400,417,445"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="106,233,155,309,190,350,230,385,251,399,246,399,227,390,186,354,151,312,105,239"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a757d1c331b9cc7f3219fea5855abe794.html#a757d1c331b9cc7f3219fea5855abe794" title=" " alt="" coords="529,5,695,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="424,76,516,52,512,55,427,80"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a71bfbd383ca91bbd5541b653939d89a2.html#a71bfbd383ca91bbd5541b653939d89a2" title="Construct an unregistered VKBuffer." alt="" coords="538,75,686,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="434,97,525,97,520,99,436,102"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a0b88df705302552cb7b6442dd31ee2c3.html#a0b88df705302552cb7b6442dd31ee2c3" title="Infer Kakshya::DataDimension entries from a given byte count." alt="" coords="773,28,972,89"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="685,84,760,74,756,76,687,89"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="794,113,951,158"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="686,105,781,121,776,122,687,111"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="1020,113,1166,158"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="951,133,1007,135,1002,136,952,138"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6e843b1ce9e90e2df2501d28e60eab52.html#a6e843b1ce9e90e2df2501d28e60eab52" title="Set the buffer&#39;s default processor." alt="" coords="532,144,692,205"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="424,222,520,198,515,201,426,227"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a93f1d139e1fc4ab7689f2a205bf76563.html#a93f1d139e1fc4ab7689f2a205bf76563" title="Replace the buffer&#39;s processing chain." alt="" coords="500,229,725,274"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="451,247,487,249,481,251,452,252"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_aa9370fdd8ef512d6503c1c7ccdb0afda.html#aa9370fdd8ef512d6503c1c7ccdb0afda" title="Configure the internal m_render_processor from a RenderConfig." alt="" coords="526,322,698,384"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="447,350,514,352,508,354,448,356"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6cf409969c192851ab2cf7f0315d2a49.html#a6cf409969c192851ab2cf7f0315d2a49" title="Access the buffer&#39;s processing chain." alt="" coords="499,408,725,453"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="421,373,519,403,514,404,421,379"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_acb563960a9f338d6e93cf7bae6f64f46.html#acb563960a9f338d6e93cf7bae6f64f46" title="Called by derived classes to set their context&#45;specific defaults." alt="" coords="532,477,692,538"/>
+<area shape="poly" id="edge16_Node000013_Node000016" title=" " alt="" coords="432,373,453,386,470,405,478,425,485,444,501,463,521,479,516,478,497,467,481,447,473,427,465,408,449,390,432,378"/>
+<area shape="poly" id="edge14_Node000014_Node000014" title=" " alt="" coords="562,320,563,312,572,303,589,297,612,296,639,298,658,308,652,308,638,303,612,301,590,303,575,308,567,314,566,324"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Lila::Lila::stop_server" name="Lila::Lila::stop_server">
+<area shape="rect" id="Node000001" title="Stops the TCP server and disconnects all clients." alt="" coords="504,108,664,136"/>
+<area shape="rect" id="Node000002" href="$classLila_1_1Lila_a7c2d950ad25518d046e63f9aba71bf64.html#a7c2d950ad25518d046e63f9aba71bf64" title=" " alt="" coords="317,40,456,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,103,456,86,457,80,524,103"/>
+<area shape="rect" id="Node000004" href="$lila__server_8cpp_a3c04138a5bfe5d72780bb7e82a18e627.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point for the Lila server binary." alt="" coords="5,57,60,85"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="486,125,311,123,208,114,107,99,60,85,60,79,108,94,209,109,311,118,491,124"/>
+<area shape="rect" id="Node000006" href="$classLila_1_1Lila_ab866b1593249b5f8d207ec835b3bf828.html#ab866b1593249b5f8d207ec835b3bf828" title="Destructor; cleans up interpreter and server resources." alt="" coords="328,159,445,186"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="515,140,444,161,443,155,510,140"/>
+<area shape="rect" id="Node000003" href="$classLila_1_1Lila_a0ad6220ce135a02e117d58a45ba0c08a.html#a0ad6220ce135a02e117d58a45ba0c08a" title="Initializes the live coding environment." alt="" coords="119,5,258,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,44,256,36,256,31,304,43"/>
+<area shape="rect" id="Node000005" href="$classLila_1_1Lila_abb5723164800ad20ac4e91926c13300e.html#abb5723164800ad20ac4e91926c13300e" title="Starts the TCP server for remote live coding." alt="" coords="108,57,269,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="299,67,270,70,269,65,304,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="128,40,109,48,62,64,59,60,107,43,132,37"/>
+</map>

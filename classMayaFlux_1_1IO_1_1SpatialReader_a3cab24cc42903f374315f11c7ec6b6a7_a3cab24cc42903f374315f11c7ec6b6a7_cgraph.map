@@ -1,0 +1,31 @@
+<map id="MayaFlux::IO::SpatialReader::operator=" name="MayaFlux::IO::SpatialReader::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,311,212,356"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1SpatialReader_a496525b36e48ee65e62533bca690b575.html#a496525b36e48ee65e62533bca690b575" title="Release the archive." alt="" coords="514,6,720,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,310,126,254,153,182,173,144,196,108,225,75,258,48,286,33,315,21,377,7,440,3,501,7,496,9,440,8,378,13,317,27,288,38,261,53,228,79,201,111,177,147,158,184,131,256,117,311"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1SpatialReader_acbafc3c012dbdf6765d70596aa3c1f2a.html#acbafc3c012dbdf6765d70596aa3c1f2a" title="Object level tags a stream was written with, the same form SpatialCache::write_metadata takes." alt="" coords="260,276,466,321"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,317,246,313,242,316,214,322"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1SpatialReader_a28d47dc0ed823e43a315dbb29ab7a415.html#a28d47dc0ed823e43a315dbb29ab7a415" title="Number of samples in a stream, 0 for an unknown stream." alt="" coords="260,346,466,390"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,345,247,351,242,353,213,350"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1SpatialReader_a7681190801fe4d7e4a94dc6464fb8f59.html#a7681190801fe4d7e4a94dc6464fb8f59" title="Names of the streams found at open(), in file order." alt="" coords="260,415,466,460"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,353,261,400,279,409,274,410,259,405,156,359"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1SpatialReader_a589228e63ef433340a6058adccdc2067.html#a589228e63ef433340a6058adccdc2067" title="Topology a stream is read as: POINT_LIST or LINE_STRIP." alt="" coords="260,484,466,529"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="129,353,186,412,222,443,261,470,272,477,267,478,258,474,219,447,182,415,129,359"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1SpatialReader_aea476304f3ca8f21f0b9259cb95bcc5d.html#aea476304f3ca8f21f0b9259cb95bcc5d" title=" " alt="" coords="260,554,466,598"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="121,354,144,395,174,444,214,495,261,539,269,546,263,546,258,543,210,499,170,447,139,397,120,359"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1SpatialReader_a18f2764cddfdecb6025119725a7849a8.html#a18f2764cddfdecb6025119725a7849a8" title="Open an Ogawa or HDF5 archive and index its streams." alt="" coords="260,87,466,132"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="120,309,141,273,173,228,212,182,258,142,269,137,265,141,261,146,216,186,177,231,146,276,124,312"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1SpatialReader_a2d3ef6b6ae8b8b2848750f4d28fbdd4f.html#a2d3ef6b6ae8b8b2848750f4d28fbdd4f" title=" " alt="" coords="514,216,720,261"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="147,308,200,283,259,261,320,249,382,240,501,235,496,238,382,246,320,254,260,267,202,287,151,312"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1SpatialReader_a1a5721cf2f7ed67f8d44ba6d642b346f.html#a1a5721cf2f7ed67f8d44ba6d642b346f" title="Read one sample of a stream." alt="" coords="260,156,466,201"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="133,309,189,264,258,218,286,206,282,210,261,222,192,268,137,312"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1IO_1_1SpatialReader_af919f7f0ac72429dd6064a6d866668f0.html#af919f7f0ac72429dd6064a6d866668f0" title="Time in seconds the archive assigns to a sample." alt="" coords="260,623,466,668"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="116,353,135,407,164,475,206,547,232,580,261,609,267,615,262,614,258,613,228,583,202,550,159,478,130,409,115,359"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="434,84,533,54,528,57,437,89"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="314,86,313,77,321,68,338,62,363,60,390,63,408,71,403,73,389,68,363,66,339,68,324,72,318,78,320,87"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1FileReader_a24d94d5bc8b4294d61f43ac86f933050.html#a24d94d5bc8b4294d61f43ac86f933050" title="Resolve a filepath against the project source root if not found as&#45;is." alt="" coords="525,78,709,122"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="465,103,512,103,507,105,468,108"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1SpatialReader_a40162fb897bf5b707a6e80e104089b4a.html#a40162fb897bf5b707a6e80e104089b4a" title=" " alt="" coords="514,147,720,192"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="460,130,507,142,502,144,461,135"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="445,130,468,142,483,157,492,173,501,187,516,202,524,208,519,209,512,206,497,191,488,175,479,161,464,146,446,135"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="465,172,501,173,496,175,468,177"/>
+</map>

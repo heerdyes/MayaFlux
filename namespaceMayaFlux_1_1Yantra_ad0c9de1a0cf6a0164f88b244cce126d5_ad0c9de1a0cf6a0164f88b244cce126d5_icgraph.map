@@ -1,0 +1,20 @@
+<map id="MayaFlux::Yantra::config_from_spec" name="MayaFlux::Yantra::config_from_spec">
+<area shape="rect" id="Node000001" title="Derive a GpuComputeConfig from a ShaderSpec." alt="" coords="974,77,1154,122"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a37b115d59dbe1593c58ef631942b363e.html#a37b115d59dbe1593c58ef631942b363e" title="GpuComputeConfig for a given VisionOp and its parameters." alt="" coords="719,77,900,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="955,100,901,102,901,97,961,100"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a08ab089f0a700b0a70d6902294c38fb1.html#a08ab089f0a700b0a70d6902294c38fb1" title="Detect edges in the current image with the Canny pipeline." alt="" coords="464,5,645,50"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="1004,70,967,56,925,44,853,31,779,25,646,24,645,19,779,20,853,26,926,38,969,51,1010,71"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ComputationGrammar_1_1RuleBuilder_a6496b387f981b5b5757ade35e25092df.html#a6496b387f981b5b5757ade35e25092df" title="Sets the executor function for this rule." alt="" coords="693,147,926,191"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="967,126,895,149,894,143,962,127"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="850,62,836,58,809,56,786,58,771,63,765,69,766,78,762,75,760,67,768,58,785,53,810,51,837,53,855,62"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="710,73,636,53,636,48,716,72"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="235,65,416,110"/>
+<area shape="poly" id="edge9_Node000002_Node000004" title=" " alt="" coords="701,98,417,93,416,87,706,96"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a48bca474121218135f8e80630f3eac82.html#a48bca474121218135f8e80630f3eac82" title="Compute the Harris response of the current image." alt="" coords="464,125,645,186"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="706,122,646,138,646,133,701,123"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="450,55,414,67,413,62,455,54"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="361,50,349,46,325,44,304,46,291,51,285,57,286,66,282,64,280,55,288,46,303,41,325,39,350,41,367,50"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,65,187,110"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="217,88,188,90,186,85,222,87"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="447,124,403,113,403,108,452,125"/>
+</map>

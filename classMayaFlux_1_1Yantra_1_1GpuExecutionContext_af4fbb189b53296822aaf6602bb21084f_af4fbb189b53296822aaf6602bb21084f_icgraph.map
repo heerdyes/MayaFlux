@@ -1,0 +1,9 @@
+<map id="MayaFlux::Yantra::GpuExecutionContext::extract_inputs" name="MayaFlux::Yantra::GpuExecutionContext::extract_inputs">
+<area shape="rect" id="Node000001" title="Extract channel data and structure metadata from the input Datum." alt="" coords="562,48,792,93"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_aa508e728d529df34441c28d62413bb0c.html#aa508e728d529df34441c28d62413bb0c" title="Dispatch asynchronously and return a fence for polling." alt="" coords="259,5,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="544,52,503,48,503,43,549,51"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1GpuExecutionContext_a1dbe3b76ec8aefe2f57803a889443155.html#a1dbe3b76ec8aefe2f57803a889443155" title=" " alt="" coords="248,74,514,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="549,89,515,96,514,91,544,89"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a1bc14e2d9ca15b3a0aec0fa8f92a7f4c.html#a1bc14e2d9ca15b3a0aec0fa8f92a7f4c" title="Override for CHAINED mode: skips collect_gpu_outputs()." alt="" coords="5,91,200,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,113,200,116,200,110,235,113"/>
+</map>

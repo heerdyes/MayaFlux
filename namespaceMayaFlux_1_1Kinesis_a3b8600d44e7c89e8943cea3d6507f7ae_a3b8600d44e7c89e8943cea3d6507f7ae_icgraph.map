@@ -1,0 +1,24 @@
+<map id="MayaFlux::Kinesis::build_view_transform" name="MayaFlux::Kinesis::build_view_transform">
+<area shape="rect" id="Node000001" title="Build a ViewTransform from the current NavigationState without mutating it." alt="" coords="987,165,1149,210"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_a0c14a83b32a093a88b5e133b0a562502.html#a0c14a83b32a093a88b5e133b0a562502" title="Bind the screenspace navigation controller to a window and render processor." alt="" coords="729,65,939,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="997,159,888,113,889,108,1002,159"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_a9c48c41e32b3a27a4602996f86b222ba.html#a9c48c41e32b3a27a4602996f86b222ba" title="Compute a ViewTransform from the current NavigationState." alt="" coords="740,165,928,210"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="968,188,928,190,928,185,974,187"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nexus_1_1Locus_a8e9e5ff3ba69a3d52b5b4354b6b13c82.html#a8e9e5ff3ba69a3d52b5b4354b6b13c82" title="Perceive: run the user perception callable, then integrate the view." alt="" coords="744,235,924,279"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="978,214,913,237,911,231,973,215"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_ab8f207a0abf830f659f2c24b8aedf172.html#ab8f207a0abf830f659f2c24b8aedf172" title="Bind the screenspace navigation controller to all RenderProcessors currently registered against a win..." alt="" coords="472,5,681,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="718,61,675,53,675,48,723,61"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_a9be701daac0c0484aed1f9ad9f8d130e.html#a9be701daac0c0484aed1f9ad9f8d130e" title="Bind a navigation preset to a window and render processor using default settings." alt="" coords="239,65,424,110"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="712,89,425,90,424,85,716,86"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_af2205e6997a812a91f5c4b88a8beb585.html#af2205e6997a812a91f5c4b88a8beb585" title="Bind a navigation preset to all RenderProcessors currently registered against a window using default ..." alt="" coords="5,65,191,110"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,89,192,90,190,85,226,86"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_afbca6a63a999ca7602156fffa2c7dcd3.html#afbca6a63a999ca7602156fffa2c7dcd3" title="Bind the fly navigation controller to a window and render processor." alt="" coords="504,125,649,170"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="722,171,649,162,649,156,728,171"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Locus_a7c0b5ade3a05f7a0dd4087f27aa4cb46.html#a7c0b5ade3a05f7a0dd4087f27aa4cb46" title="Construct from a NavigationConfig with perception and influence functions." alt="" coords="487,195,666,239"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="723,200,667,209,666,204,728,200"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nexus_1_1Locus_ac594c11c182537980b6511b2979f0d1a.html#ac594c11c182537980b6511b2979f0d1a" title="Construct from a NavigationConfig with named perception and influence functions." alt="" coords="487,264,666,309"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="746,215,731,225,707,239,683,254,653,266,652,261,680,249,704,235,728,220,741,217"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="487,127,424,113,424,108,492,126"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_a32225e71700958f2fd21448719ab1ba1.html#a32225e71700958f2fd21448719ab1ba1" title="Bind the fly navigation controller to all RenderProcessors currently registered against a window." alt="" coords="259,135,404,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="486,152,404,157,404,152,491,150"/>
+</map>

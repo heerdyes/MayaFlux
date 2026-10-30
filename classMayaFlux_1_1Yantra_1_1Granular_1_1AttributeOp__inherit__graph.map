@@ -1,0 +1,13 @@
+<map id="MayaFlux::Yantra::Granular::AttributeOp" name="MayaFlux::Yantra::Granular::AttributeOp">
+<area shape="rect" id="Node000001" title="Computes a scalar attribute per grain and writes it onto each Region." alt="" coords="167,2128,366,2351"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1UniversalAnalyzer.html" title=" " alt="" coords="153,1431,380,2078"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,2091,269,2129,264,2127,265,2096"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title=" " alt="" coords="7,707,256,1316"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,1328,210,1431,205,1431,189,1333"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="5,5,255,615"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,627,134,707,128,707,131,632"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1UniversalAnalyzer.html" title="Template&#45;flexible analyzer base with instance&#45;defined I/O types." alt="" coords="282,688,525,1335"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="342,1347,329,1431,323,1430,340,1352"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="279,5,528,615"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="404,627,406,688,401,687,403,632"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MayaFlux::Yantra::VisionAnalyzer" name="MayaFlux::Yantra::VisionAnalyzer">
+<area shape="rect" id="Node000001" title="Resolves its configured VisionQuery, runs every resolved VisionSequence against a persistent VisionGp..." alt="" coords="160,1744,373,2659"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1FunctionalOperation.html" title=" " alt="" coords="122,1415,410,1694"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,1707,269,1745,264,1744,266,1712"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title=" " alt="" coords="5,688,255,1297"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,1309,235,1415,230,1415,207,1314"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="5,5,255,615"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,627,133,688,128,688,130,632"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1FunctionalOperation.html" title="Wraps a single callable as a ComputeOperation, for a wild or one&#45;off idea that does not warrant a han..." alt="" coords="279,870,528,1115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="369,1132,303,1415,298,1414,371,1127"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="279,5,528,615"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="404,627,406,870,401,870,403,632"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="MayaFlux::Portal::Graphics::SamplerForge::SamplerForge" name="MayaFlux::Portal::Graphics::SamplerForge::SamplerForge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1019,341,1236,386"/>
+<area shape="poly" id="edge14_Node000001_Node000001" title=" " alt="" coords="1169,326,1155,322,1127,320,1102,322,1087,327,1081,333,1082,342,1077,339,1076,331,1084,322,1101,317,1127,315,1156,317,1175,326"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1SamplerForge_a880d0694e043c227ecf475a1beb906cb.html#a880d0694e043c227ecf475a1beb906cb" title=" " alt="" coords="764,237,960,282"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1062,334,970,297,937,285,938,280,972,292,1067,335"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1SamplerForge_a37da39118dc6d9b58411570a07ffbf91.html#a37da39118dc6d9b58411570a07ffbf91" title=" " alt="" coords="764,307,960,351"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1001,348,961,345,961,339,1006,347"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1SamplerForge_af1da4de248505d3a97ea2acc2c79402a.html#af1da4de248505d3a97ea2acc2c79402a" title=" " alt="" coords="764,376,960,421"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1001,380,961,388,960,383,1006,380"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1SamplerForge_a5ff203bd8d4aef824ce6b232b404b9d0.html#a5ff203bd8d4aef824ce6b232b404b9d0" title=" " alt="" coords="753,445,971,490"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1067,392,972,435,938,447,937,442,970,431,1062,394"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a5b8716b439a362eaec3efd0f00966400.html#a5b8716b439a362eaec3efd0f00966400" title="Convenience wrapper around SamplerForge::instance()." alt="" coords="494,5,690,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="839,223,816,187,785,144,747,101,704,65,684,53,684,48,707,60,751,97,789,141,821,184,844,225"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_ac663547dd9fc85f307003370fdf087a3.html#ac663547dd9fc85f307003370fdf087a3" title="Initialize Portal::Graphics Glue Layer." alt="" coords="494,75,690,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="826,226,772,180,739,155,704,134,680,123,680,117,707,129,742,151,775,176,831,227"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a2db6a6533f028f5a3cd5c51301bd1e25.html#a2db6a6533f028f5a3cd5c51301bd1e25" title="Stages the pending TextureContainer at the declared input image binding and, in CONTAINER or IMAGE mo..." alt="" coords="488,144,696,205"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="772,232,691,208,691,203,777,232"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1UVFieldProcessor_afe97113b5f18d234bf5315b4fc0c97e7.html#afe97113b5f18d234bf5315b4fc0c97e7" title="Called after descriptor sets are created." alt="" coords="512,229,671,290"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="746,260,672,262,671,257,751,259"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a3889f398a94af104f9e3d00b1d059006.html#a3889f398a94af104f9e3d00b1d059006" title="Shutdown Portal::Graphics subsystem." alt="" coords="494,315,690,359"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="764,288,673,317,672,312,769,286"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a900b552562b4745ff6a9cbf645b3f152.html#a900b552562b4745ff6a9cbf645b3f152" title="Stage a TextureContainer layer at the declared input image binding." alt="" coords="497,384,686,445"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="761,289,755,296,739,315,732,334,724,354,707,374,688,387,685,382,704,370,719,351,727,332,735,312,752,292,756,291"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_ab5c76d76d4cea8942e39ec2644da0885.html#ab5c76d76d4cea8942e39ec2644da0885" title="Stage an arbitrary VKImage at the declared input image binding." alt="" coords="478,469,705,514"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="758,291,755,296,741,316,734,335,732,376,730,417,723,438,707,459,691,471,689,466,703,455,718,436,725,416,727,376,728,334,736,313,751,293,754,293"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a25611dc038e2fa775987e640a7826262.html#a25611dc038e2fa775987e640a7826262" title="Initialize Portal::Graphics subsystem." alt="" coords="242,66,430,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="476,98,431,100,429,94,480,96"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a1278000eee96b8f7c3cefbe13f7f91a9.html#a1278000eee96b8f7c3cefbe13f7f91a9" title="Initialize with graphics configuration." alt="" coords="5,75,194,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="224,99,195,99,193,95,228,95"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_add3c53f617b297ce6b56ee3109fb931e.html#add3c53f617b297ce6b56ee3109fb931e" title="Shutdown and cleanup subsystem resources." alt="" coords="242,315,430,359"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="475,338,431,340,430,334,481,336"/>
+</map>

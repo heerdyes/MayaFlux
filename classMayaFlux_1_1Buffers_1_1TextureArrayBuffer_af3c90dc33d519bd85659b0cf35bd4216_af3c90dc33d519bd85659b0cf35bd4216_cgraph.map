@@ -1,0 +1,26 @@
+<map id="MayaFlux::Buffers::TextureArrayBuffer::clear_layer" name="MayaFlux::Buffers::TextureArrayBuffer::clear_layer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,175,157,236"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_a18cd4cb90edc64b2da0254917a13bfe3.html#a18cd4cb90edc64b2da0254917a13bfe3" title="Allocate a persistent host&#45;visible staging buffer sized for repeated streaming uploads to an image of..." alt="" coords="225,63,390,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,172,203,134,217,130,213,133,206,139,136,176"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_aca801508ceb4f2c6936df5f5df65455a.html#aca801508ceb4f2c6936df5f5df65455a" title="Get GPU texture image Suitable for binding to shaders via RenderProcessor::bind_texture()." alt="" coords="212,148,403,193"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="156,191,198,186,194,189,158,196"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a335ffb0c43b53ec263ab6559ac29476b.html#a335ffb0c43b53ec263ab6559ac29476b" title="Get the global texture manager instance." alt="" coords="209,218,406,262"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="156,214,196,222,192,224,157,220"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a58ef131b515ebbe866efa8781c88050b.html#a58ef131b515ebbe866efa8781c88050b" title="Upload pixels into one layer of an array image." alt="" coords="205,292,410,337"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="134,234,206,272,233,286,228,286,203,277,133,239"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="476,5,643,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,72,464,57,459,60,391,77"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="460,91,660,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,97,446,104,441,105,391,103"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="712,83,912,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="660,111,699,113,694,114,661,116"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="763,81,764,72,773,63,789,58,812,56,838,59,856,68,851,68,837,64,812,61,790,63,776,68,769,75,767,84"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="462,211,658,256"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="406,235,449,236,443,237,406,240"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="709,211,915,256"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="658,231,696,233,691,234,658,236"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="764,209,763,201,771,192,787,186,812,185,839,187,857,196,852,196,838,192,812,190,788,192,774,197,768,203,769,212"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_af23625d18fe68e281f157b63a0466073.html#af23625d18fe68e281f157b63a0466073" title="Check if manager is initialized." alt="" coords="458,304,661,349"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="411,317,445,321,440,321,411,322"/>
+<area shape="poly" id="edge13_Node000011_Node000011" title=" " alt="" coords="512,302,510,294,518,285,535,280,560,278,587,280,605,290,599,289,586,286,560,283,536,285,521,290,515,296,516,306"/>
+</map>

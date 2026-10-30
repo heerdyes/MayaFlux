@@ -1,0 +1,16 @@
+<map id="MayaFlux::IO::FFmpegDemuxContext::close" name="MayaFlux::IO::FFmpegDemuxContext::close">
+<area shape="rect" id="Node000001" title="Close the format context and release all demux resources." alt="" coords="840,105,1056,150"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_a4039ea599bf98512cea0c1999b7ffceb.html#a4039ea599bf98512cea0c1999b7ffceb" title="Open a media file and probe stream information." alt="" coords="564,15,779,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="860,100,742,63,742,57,865,100"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_a0e4baf88de41b6d79598e4f9f893e551.html#a0e4baf88de41b6d79598e4f9f893e551" title=" " alt="" coords="282,75,498,119"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="823,122,498,106,498,100,828,120"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_aa03b57d86dcc4b460543e055e62a6d60.html#aa03b57d86dcc4b460543e055e62a6d60" title="Open an FFmpeg device input (camera, screen capture, etc.)." alt="" coords="564,135,779,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="822,141,780,148,779,143,828,140"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_a51ec81c9421e518753aa1e13d4c7eb6c.html#a51ec81c9421e518753aa1e13d4c7eb6c" title=" " alt="" coords="550,204,792,249"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="884,156,793,194,757,206,756,201,791,189,879,157"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1SoundFileReader_a55edd9ee43004846f85961b546c811c9.html#a55edd9ee43004846f85961b546c811c9" title="Check if this reader can open the given file." alt="" coords="278,5,502,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="545,33,503,34,502,29,551,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="546,64,498,77,497,71,551,62"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1SoundFileReader_a52301b9864559415b9df442d6884d946.html#a52301b9864559415b9df442d6884d946" title="Load an audio file into a size&#45;bounded DynamicSoundStream." alt="" coords="5,5,230,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,29,231,30,229,25,265,27"/>
+</map>

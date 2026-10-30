@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kakshya::SoundStreamContainer::get_frame_typed" name="MayaFlux::Kakshya::SoundStreamContainer::get_frame_typed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,177,97"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_a4d6dbfe4ade32fa9c748c6cf36988124.html#a4d6dbfe4ade32fa9c748c6cf36988124" title="Extract a single frame of data from a span." alt="" coords="232,5,389,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,49,219,43,214,45,177,54"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a2321cbc62aa5f61be7f780c2c8735fcc.html#a2321cbc62aa5f61be7f780c2c8735fcc" title="Get the cached spans for each channel, recomputing if dirty." alt="" coords="225,74,396,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,79,212,87,207,88,177,84"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kakshya_ab3b458f6c92031a38b8eb820d6d3324d.html#ab3b458f6c92031a38b8eb820d6d3324d" title="Get const span from DataVariant without conversion (zero&#45;copy for matching types)." alt="" coords="444,83,601,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="396,102,431,105,425,105,396,108"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="649,83,807,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="602,102,636,105,631,105,602,108"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="855,83,1028,127"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="807,102,842,105,837,105,807,108"/>
+</map>

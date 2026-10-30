@@ -1,0 +1,16 @@
+<map id="MayaFlux::Buffers::TextBuffer::setup_rendering" name="MayaFlux::Buffers::TextBuffer::setup_rendering">
+<area shape="rect" id="Node000001" title="Delegates to TextureBuffer::setup_rendering, then enables streaming mode on the TextureProcessor and ..." alt="" coords="5,99,206,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a7017d137d730b0d43e2a1e956ad8c6d2.html#a7017d137d730b0d43e2a1e956ad8c6d2" title="Get a RenderProcessor suitable for rendering this buffer." alt="" coords="271,5,428,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,96,259,67,255,70,173,101"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_a29e4156e10ad0af811e2e1fa253ced09.html#a29e4156e10ad0af811e2e1fa253ced09" title=" " alt="" coords="254,91,445,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,119,240,120,235,123,207,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_a8246ebf4f6657f85f2d0c7c0854249d1.html#a8246ebf4f6657f85f2d0c7c0854249d1" title="Setup rendering with RenderProcessor." alt="" coords="273,176,426,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,142,261,174,256,176,171,147"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_aa9370fdd8ef512d6503c1c7ccdb0afda.html#aa9370fdd8ef512d6503c1c7ccdb0afda" title="Configure the internal m_render_processor from a RenderConfig." alt="" coords="520,99,692,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="425,181,503,160,508,159,427,187"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6cf409969c192851ab2cf7f0315d2a49.html#a6cf409969c192851ab2cf7f0315d2a49" title="Access the buffer&#39;s processing chain." alt="" coords="493,184,719,229"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="426,204,480,207,475,207,426,209"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_aca801508ceb4f2c6936df5f5df65455a.html#aca801508ceb4f2c6936df5f5df65455a" title="Get GPU texture image Suitable for binding to shaders via RenderProcessor::bind_texture()." alt="" coords="510,254,702,298"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="426,225,509,249,504,249,426,230"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="556,97,557,88,567,79,583,74,606,72,633,75,651,84,646,84,632,80,606,77,584,79,569,84,562,91,561,100"/>
+</map>

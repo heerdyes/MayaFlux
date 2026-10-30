@@ -1,0 +1,14 @@
+<map id="MayaFlux::Kriya::BufferOperation::route_to_buffer" name="MayaFlux::Kriya::BufferOperation::route_to_buffer">
+<area shape="rect" id="Node000001" title="Route frames into one layer of a texture array buffer." alt="" coords="5,29,244,74"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a26be6275189effd1a9acbd7f2bd9a914.html#a26be6275189effd1a9acbd7f2bd9a914" title=" " alt="" coords="578,29,816,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,45,292,44,530,44,565,47,560,47,530,49,292,49,244,50"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a79b30c7f1c1d661c4006c1d774f0e77b.html#a79b30c7f1c1d661c4006c1d774f0e77b" title="Create a routing operation to AudioBuffer destination." alt="" coords="292,59,530,103"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="244,61,279,67,274,68,244,67"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a568cd5264502e48de8fc437c4e0149d6.html#a568cd5264502e48de8fc437c4e0149d6" title="Create a capture operation using BufferCapture configuration." alt="" coords="864,29,1103,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="817,58,852,61,846,61,817,63"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_aca2194bbbb9cc45ad3f81d02fe748b8b.html#aca2194bbbb9cc45ad3f81d02fe748b8b" title="Getters for user defined tag." alt="" coords="864,99,1103,143"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="793,72,876,95,871,94,792,77"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="861,43,832,45,832,40,867,43"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="930,27,928,19,937,10,956,5,984,3,1014,5,1034,14,1029,14,1013,10,983,8,957,10,940,15,933,21,934,30"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="530,66,565,65,560,66,531,71"/>
+</map>

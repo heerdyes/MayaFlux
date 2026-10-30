@@ -1,0 +1,18 @@
+<map id="MayaFlux::Nexus::Emitter::recenter" name="MayaFlux::Nexus::Emitter::recenter">
+<area shape="rect" id="Node000001" title="Read the attached buffer&#39;s geometry again and move the anchor to match." alt="" coords="5,52,196,97"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nexus_a60bdbcdb6a637bc81248165ecd2f64ea.html#a60bdbcdb6a637bc81248165ecd2f64ea" title="Read the buffer&#39;s geometry again and move the anchor to match." alt="" coords="244,52,440,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,72,231,74,226,75,196,77"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nexus_a38a4ffb36a511a9879f5dee9e2f64099.html#a38a4ffb36a511a9879f5dee9e2f64099" title="Anchor of a buffer&#39;s geometry in its own stored coordinates." alt="" coords="488,52,659,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,72,475,74,470,75,441,77"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="534,50,532,42,539,33,553,27,574,25,596,28,611,37,606,36,595,33,574,31,554,33,542,37,538,43,538,53"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a1f900447d934e9d0d88d4377cd6e6019.html#a1f900447d934e9d0d88d4377cd6e6019" title="Mean position across a window." alt="" coords="904,5,1052,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="651,49,707,37,800,27,891,27,886,27,801,33,708,42,652,54"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_a0d8c29115b08c11f5a7cb4c84ab79d45.html#a0d8c29115b08c11f5a7cb4c84ab79d45" title="Position of one record in interleaved vertex bytes." alt="" coords="904,87,1052,131"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="649,95,708,106,800,113,891,115,885,115,800,118,707,112,649,100"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kinesis_ab577a8cd26f627e22b3fdde7c4d3dd9c.html#ab577a8cd26f627e22b3fdde7c4d3dd9c" title="Area&#45;weighted centroid of the triangles of an indexed mesh." alt="" coords="707,52,856,97"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="660,72,694,74,689,74,660,77"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a0e0d3fef51c28469d86c6f9501d37439.html#a0e0d3fef51c28469d86c6f9501d37439" title="Simple moving average over the newest window samples." alt="" coords="1100,5,1248,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1052,25,1087,28,1082,28,1053,30"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="856,54,886,49,891,48,856,59"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="856,85,891,93,885,93,856,90"/>
+</map>

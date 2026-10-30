@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::ShaderProcessor::on_pipeline_created" name="MayaFlux::Buffers::ShaderProcessor::on_pipeline_created">
+<area shape="rect" id="Node000001" title="Called after pipeline is created." alt="" coords="261,91,414,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_aa224de245c77a9af81450eb15cb546fa.html#aa224de245c77a9af81450eb15cb546fa" title=" " alt="" coords="5,5,213,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,88,193,70,193,65,249,87"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_a8dffa1bdec232f8a9c7b39ce9a9f78bb.html#a8dffa1bdec232f8a9c7b39ce9a9f78bb" title=" " alt="" coords="12,91,206,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,122,207,124,206,119,248,121"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1DescriptorBindingsProcessor_a8635cde0f5937ac7a1bf5050adad8923.html#a8635cde0f5937ac7a1bf5050adad8923" title="Called after pipeline creation &#45; allocates GPU buffers for descriptors." alt="" coords="5,176,213,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,155,194,178,192,173,244,156"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="MayaFlux::Nodes::Generator::Impulse::update_phase_increment" name="MayaFlux::Nodes::Generator::Impulse::update_phase_increment">
+<area shape="rect" id="Node000001" title="Updates the phase increment based on a new frequency." alt="" coords="771,170,979,232"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a8978112944f7bc234c7ba9986bb243c5.html#a8978112944f7bc234c7ba9986bb243c5" title="Constructor with both frequency and amplitude modulation." alt="" coords="516,5,723,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="834,159,784,111,722,65,700,53,700,48,725,60,788,107,840,159"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a21246de238980b6b5ac3d57dd335a8ce.html#a21246de238980b6b5ac3d57dd335a8ce" title="Constructor with frequency modulation." alt="" coords="516,75,723,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="794,164,722,134,692,123,692,117,724,129,799,163"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_ac9ed9f1533e9d1b4242c8cb17708545f.html#ac9ed9f1533e9d1b4242c8cb17708545f" title="Constructor with amplitude modulation." alt="" coords="516,144,723,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="753,185,724,183,723,178,758,184"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a500ccf163a3f170b485bdfd183948878.html#a500ccf163a3f170b485bdfd183948878" title="Basic constructor with fixed parameters." alt="" coords="516,213,723,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="753,218,724,224,723,219,758,216"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a871f16ab043c372dedbf9f5c69965960.html#a871f16ab043c372dedbf9f5c69965960" title="Processes a single input sample and generates an impulse sample." alt="" coords="516,283,723,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="799,238,724,273,693,285,691,280,722,268,794,240"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_ad790e37afbf5d86458bbf763c8d25d89.html#ad790e37afbf5d86458bbf763c8d25d89" title="Sets the generator&#39;s frequency." alt="" coords="516,372,723,417"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="836,242,785,293,725,342,671,374,669,369,722,337,781,289,832,244"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a5aa86d7acca466adab508d227acd428d.html#a5aa86d7acca466adab508d227acd428d" title="Processes multiple samples at once." alt="" coords="261,223,468,267"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="504,279,462,271,462,265,510,278"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a1f36e6dfab10c0a1186688e83f17e581.html#a1f36e6dfab10c0a1186688e83f17e581" title="Virtual destructor." alt="" coords="5,283,213,327"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="499,307,213,308,213,302,502,303"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="249,273,208,284,206,280,254,270"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="499,376,213,326,213,320,502,372"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a9ebb052b29b9cb47520b2bf54414ec2d.html#a9ebb052b29b9cb47520b2bf54414ec2d" title="Resets the generator&#39;s phase and parameters." alt="" coords="261,393,468,438"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="498,405,469,410,468,404,503,404"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a1fcb90697dd84ff363c823fb482c1083.html#a1fcb90697dd84ff363c823fb482c1083" title="Sets all basic parameters at once." alt="" coords="261,463,468,507"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="546,422,469,453,435,465,433,460,467,448,541,423"/>
+</map>

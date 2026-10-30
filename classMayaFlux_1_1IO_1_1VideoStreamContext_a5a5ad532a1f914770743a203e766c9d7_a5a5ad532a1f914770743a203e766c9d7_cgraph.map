@@ -1,0 +1,27 @@
+<map id="MayaFlux::IO::VideoStreamContext::operator=" name="MayaFlux::IO::VideoStreamContext::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,205,258"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_afc3578ec70340ca93f0e5871e58f9356.html#afc3578ec70340ca93f0e5871e58f9356" title="Open the video stream from an already&#45;probed demux context." alt="" coords="261,213,460,258"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,233,248,235,243,237,206,238"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a05609c7f47345d8bc63c9f95c6906e99.html#a05609c7f47345d8bc63c9f95c6906e99" title="Open codec only, without initialising the SwsContext scaler." alt="" coords="261,144,460,189"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="189,210,263,192,259,195,191,215"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_aff7484db6f1b9c47cfe3b15c86dc7af1.html#aff7484db6f1b9c47cfe3b15c86dc7af1" title=" " alt="" coords="253,307,468,351"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="168,256,285,300,280,302,168,261"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a14482964c2c81868651a36fe90a69320.html#a14482964c2c81868651a36fe90a69320" title="Release codec and scaler resources." alt="" coords="524,283,723,327"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,256,524,278,519,278,448,261"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_abb390b1cd463e5df1e2a21f735bbeddb.html#abb390b1cd463e5df1e2a21f735bbeddb" title="Find the best stream of the requested media type." alt="" coords="516,5,731,50"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="451,211,466,199,479,182,486,166,489,131,493,96,500,78,514,61,517,61,521,58,518,64,505,81,498,97,495,132,491,167,484,185,470,203,454,215"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_acb3638800c71f90df7d5da4094c34e77.html#acb3638800c71f90df7d5da4094c34e77" title="Access a stream by index." alt="" coords="516,75,731,119"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="447,211,466,199,482,182,490,165,498,147,514,130,520,129,525,126,518,134,502,150,494,167,486,185,470,203,449,215"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_a8ea9c7c404909356ac05d7aa28270c3e.html#a8ea9c7c404909356ac05d7aa28270c3e" title="Initialise FFmpeg logging level once per process." alt="" coords="516,144,731,189"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="447,210,524,192,519,194,449,215"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_afdbf5c19097333ea191544b545f000a7.html#afdbf5c19097333ea191544b545f000a7" title="True if the format context is open and stream info was found." alt="" coords="516,213,731,258"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="460,233,503,235,498,236,461,238"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a37518951e40eec3177564a4e4f9de342.html#a37518951e40eec3177564a4e4f9de342" title="Allocate and initialise the SwsContext for pixel format conversion." alt="" coords="524,352,723,397"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="449,256,470,268,486,286,494,304,502,321,518,338,525,345,520,343,514,342,498,324,490,306,482,289,466,272,448,261"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="448,186,470,199,486,217,494,235,502,252,518,268,525,275,520,274,514,272,498,255,490,237,482,220,466,203,448,192"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="389,141,445,101,515,60,532,55,527,57,517,65,448,105,392,146"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="447,141,524,123,519,125,449,146"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="460,164,503,166,498,167,461,169"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="448,187,524,208,519,209,448,192"/>
+<area shape="poly" id="edge15_Node000010_Node000010" title=" " alt="" coords="312,305,310,296,319,288,335,282,360,280,388,283,406,292,401,291,387,288,360,285,336,287,321,292,315,298,317,307"/>
+</map>

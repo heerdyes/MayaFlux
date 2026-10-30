@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kinesis::Vision::VisionPass::ahead" name="MayaFlux::Kinesis::Vision::VisionPass::ahead">
+<area shape="rect" id="Node000001" title="Op at offset steps ahead, or nullptr past the end." alt="" coords="738,52,925,97"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a85b6496d55a7d154861cd5f79bb614b6.html#a85b6496d55a7d154861cd5f79bb614b6" title="Label components in the current image on the GPU." alt="" coords="476,5,678,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,58,678,54,678,49,725,58"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_ae21da7949376592693235e5ccadaeda7.html#ae21da7949376592693235e5ccadaeda7" title="Extract and rank keypoints from the current response image." alt="" coords="464,91,690,136"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="726,91,691,99,691,94,720,92"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="235,52,416,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,54,417,64,416,58,464,54"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="361,37,349,34,325,31,304,33,291,38,285,44,286,53,282,51,280,42,288,33,303,28,325,26,350,28,367,37"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,52,187,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,75,187,77,187,72,222,74"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="446,94,416,91,417,86,451,94"/>
+</map>

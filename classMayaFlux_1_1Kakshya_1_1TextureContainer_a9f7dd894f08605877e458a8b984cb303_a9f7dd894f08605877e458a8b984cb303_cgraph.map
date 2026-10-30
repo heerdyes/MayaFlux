@@ -1,0 +1,26 @@
+<map id="MayaFlux::Kakshya::TextureContainer::upload_image" name="MayaFlux::Kakshya::TextureContainer::upload_image">
+<area shape="rect" id="Node000001" title="Upload one layer into an existing VKImage instead of creating one." alt="" coords="5,313,238,358"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_ad95243cf087991eb17d5db20b3c68f8b.html#ad95243cf087991eb17d5db20b3c68f8b" title="Download a GPU&#45;held layer into m_data before a CPU read." alt="" coords="286,179,500,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,310,334,228,331,233,170,315"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="574,283,742,327"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="238,326,559,308,557,313,238,332"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a3a42e83f8a57c6ea8cf2e15cbaaf3892.html#a3a42e83f8a57c6ea8cf2e15cbaaf3892" title="Upload pixel data to an existing texture." alt="" coords="292,343,494,387"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="238,346,279,352,274,353,239,351"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kakshya_a505a6355fca48fde66db9c0ca1e23a17.html#a505a6355fca48fde66db9c0ca1e23a17" title="Get a pointer to the raw bytes of a DataVariant and its size." alt="" coords="314,412,472,457"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="179,356,287,397,308,407,302,406,285,402,178,361"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_af03e05d0eb86e4cb54e60976155cf366.html#af03e05d0eb86e4cb54e60976155cf366" title="Total byte count of the pixel buffer." alt="" coords="557,144,759,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,184,544,181,539,182,501,190"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a06abcb729d8e9784199cac59aef2a0d6.html#a06abcb729d8e9784199cac59aef2a0d6" title="Download pixel data from a VKImage, reusing a caller&#45;supplied persistent staging buffer." alt="" coords="548,213,768,258"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="500,212,535,219,530,220,501,218"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="442,221,549,268,570,277,564,277,547,273,441,227"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_a2ed230344b64dcf8cbcce94808dee8a3.html#a2ed230344b64dcf8cbcce94808dee8a3" title="Allocate a zeroed DataVariant of the alternative backing a format." alt="" coords="577,5,739,50"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="412,176,469,119,506,87,547,60,565,53,561,56,549,65,509,92,472,123,416,180"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kakshya_ad83915232ba3283db5c6ff26fa34dafe.html#ad83915232ba3283db5c6ff26fa34dafe" title="Get a mutable pointer to the raw bytes of a DataVariant and its size." alt="" coords="572,75,744,119"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="440,176,547,129,569,124,564,126,549,134,443,180"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_af23625d18fe68e281f157b63a0466073.html#af23625d18fe68e281f157b63a0466073" title="Check if manager is initialized." alt="" coords="816,277,1020,322"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="752,256,812,273,807,273,752,261"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="869,275,867,267,876,258,893,253,918,251,946,253,964,262,959,262,945,258,918,256,894,258,878,263,872,269,874,278"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kakshya_a7c5d5d6f0be24fe12ef6c67401c2c001.html#a7c5d5d6f0be24fe12ef6c67401c2c001" title="Byte width of the DataVariant element backing a given ImageFormat." alt="" coords="836,5,1000,50"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="739,25,822,27,817,28,740,30"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="494,361,625,354,768,337,826,327,831,326,769,342,625,359,494,366"/>
+</map>

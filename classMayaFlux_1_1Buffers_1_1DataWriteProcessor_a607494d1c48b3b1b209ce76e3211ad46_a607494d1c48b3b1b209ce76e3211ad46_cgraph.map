@@ -1,0 +1,25 @@
+<map id="MayaFlux::Buffers::DataWriteProcessor::upload_texture" name="MayaFlux::Buffers::DataWriteProcessor::upload_texture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,164,183"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_afa023b19b2c5da8c14e9de60820601b1.html#afa023b19b2c5da8c14e9de60820601b1" title="Extract a TextureAccess from a DataVariant." alt="" coords="231,14,388,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,119,167,93,210,68,227,63,222,66,213,73,170,97,130,123"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Buffers_a18cd4cb90edc64b2da0254917a13bfe3.html#a18cd4cb90edc64b2da0254917a13bfe3" title="Allocate a persistent host&#45;visible staging buffer sized for repeated streaming uploads to an image of..." alt="" coords="227,83,392,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,136,214,129,209,132,165,141"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a335ffb0c43b53ec263ab6559ac29476b.html#a335ffb0c43b53ec263ab6559ac29476b" title="Get the global texture manager instance." alt="" coords="212,168,408,213"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="163,163,199,171,194,172,164,168"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="231,238,388,282"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="136,181,213,223,228,232,223,231,210,228,134,186"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="473,5,639,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,85,461,66,456,68,394,90"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="456,91,656,136"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="393,111,443,113,438,114,393,116"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="707,71,907,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="656,106,694,107,689,107,657,111"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="758,69,759,60,768,51,784,46,807,44,833,47,851,57,846,56,832,52,807,49,785,51,771,56,764,63,762,72"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="458,168,654,213"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="408,188,445,191,440,191,409,193"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="704,180,910,225"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="655,193,691,197,686,197,655,198"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="760,178,758,170,766,161,782,156,807,154,834,156,852,166,846,165,833,162,807,159,783,161,769,166,763,172,764,182"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="483,238,629,282"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="389,258,470,260,465,260,389,263"/>
+</map>

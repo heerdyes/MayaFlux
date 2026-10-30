@@ -1,0 +1,7 @@
+<map id="MayaFlux::Kakshya::VideoStreamContainer::setup_ring" name="MayaFlux::Kakshya::VideoStreamContainer::setup_ring">
+<area shape="rect" id="Node000001" title="Allocate m_data[0] as a ring of ring_capacity frames." alt="" coords="476,5,644,67"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a42e2d6236d9f2439174e1c6fafd45c7b.html#a42e2d6236d9f2439174e1c6fafd45c7b" title="Keep only the most recent capacity frames." alt="" coords="257,5,428,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,36,428,39,428,34,463,36"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_ad6c9c3b8363c07af06006e1577563e07.html#ad6c9c3b8363c07af06006e1577563e07" title="Drop every frame and restart the write head at zero." alt="" coords="5,14,209,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,36,209,39,209,34,244,36"/>
+</map>

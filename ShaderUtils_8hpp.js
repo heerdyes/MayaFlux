@@ -1,0 +1,37 @@
+var ShaderUtils_8hpp =
+[
+    [ "MayaFlux::Portal::Graphics::BlendAttachmentConfig", "structMayaFlux_1_1Portal_1_1Graphics_1_1BlendAttachmentConfig.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1BlendAttachmentConfig" ],
+    [ "MayaFlux::Portal::Graphics::DepthStencilConfig", "structMayaFlux_1_1Portal_1_1Graphics_1_1DepthStencilConfig.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1DepthStencilConfig" ],
+    [ "MayaFlux::Portal::Graphics::DescriptorBindingInfo", "structMayaFlux_1_1Portal_1_1Graphics_1_1DescriptorBindingInfo.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1DescriptorBindingInfo" ],
+    [ "MayaFlux::Portal::Graphics::GpuBufferHandle", "structMayaFlux_1_1Portal_1_1Graphics_1_1GpuBufferHandle.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1GpuBufferHandle" ],
+    [ "MayaFlux::Portal::Graphics::GpuComputeConfig", "structMayaFlux_1_1Portal_1_1Graphics_1_1GpuComputeConfig.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1GpuComputeConfig" ],
+    [ "MayaFlux::Portal::Graphics::PushConstantBindingInfo", "structMayaFlux_1_1Portal_1_1Graphics_1_1PushConstantBindingInfo.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1PushConstantBindingInfo" ],
+    [ "MayaFlux::Portal::Graphics::PushConstantRangeInfo", "structMayaFlux_1_1Portal_1_1Graphics_1_1PushConstantRangeInfo.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1PushConstantRangeInfo" ],
+    [ "MayaFlux::Portal::Graphics::RasterizationConfig", "structMayaFlux_1_1Portal_1_1Graphics_1_1RasterizationConfig.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1RasterizationConfig" ],
+    [ "MayaFlux::Portal::Graphics::RenderPipelineConfig", "structMayaFlux_1_1Portal_1_1Graphics_1_1RenderPipelineConfig.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1RenderPipelineConfig" ],
+    [ "MayaFlux::Portal::Graphics::ShaderCompilerConfig", "structMayaFlux_1_1Portal_1_1Graphics_1_1ShaderCompilerConfig.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1ShaderCompilerConfig" ],
+    [ "MayaFlux::Portal::Graphics::ShaderReflectionInfo", "structMayaFlux_1_1Portal_1_1Graphics_1_1ShaderReflectionInfo.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1ShaderReflectionInfo" ],
+    [ "MayaFlux::Portal::Graphics::ShaderSource", "structMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSource.html", "structMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSource" ],
+    [ "MayaFlux::Portal::Graphics::CommandBufferID", "namespaceMayaFlux_1_1Portal_1_1Graphics_a361ccaaeba9761819dd59797b76adc75.html#a361ccaaeba9761819dd59797b76adc75", null ],
+    [ "MayaFlux::Portal::Graphics::DescriptorSetID", "namespaceMayaFlux_1_1Portal_1_1Graphics_ab09f59ef46503621e91b2f86263a9fd9.html#ab09f59ef46503621e91b2f86263a9fd9", null ],
+    [ "MayaFlux::Portal::Graphics::FenceID", "namespaceMayaFlux_1_1Portal_1_1Graphics_aea3212475d38dfc8bc63864058547a03.html#aea3212475d38dfc8bc63864058547a03", null ],
+    [ "MayaFlux::Portal::Graphics::FramebufferID", "namespaceMayaFlux_1_1Portal_1_1Graphics_ab7be7b425fb1d9d2f55d028e0e8b732d.html#ab7be7b425fb1d9d2f55d028e0e8b732d", null ],
+    [ "MayaFlux::Portal::Graphics::RenderPipelineID", "namespaceMayaFlux_1_1Portal_1_1Graphics_a94b136a1488e31511ca8b8d0859122d5.html#a94b136a1488e31511ca8b8d0859122d5", null ],
+    [ "MayaFlux::Portal::Graphics::SemaphoreID", "namespaceMayaFlux_1_1Portal_1_1Graphics_a688d45a6ecc014b1d584e2d8c1c7e459.html#a688d45a6ecc014b1d584e2d8c1c7e459", null ],
+    [ "MayaFlux::Portal::Graphics::ShaderID", "namespaceMayaFlux_1_1Portal_1_1Graphics_aa5e86827df231404d9171071fcd3e517.html#aa5e86827df231404d9171071fcd3e517", null ],
+    [ "MayaFlux::Portal::Graphics::DescriptorRole", "namespaceMayaFlux_1_1Portal_1_1Graphics_a65efb196b99a316996677c3815395d35.html#a65efb196b99a316996677c3815395d35", [
+      [ "MayaFlux::Portal::Graphics::DescriptorRole::UNIFORM", "namespaceMayaFlux_1_1Portal_1_1Graphics_a65efb196b99a316996677c3815395d35.html#a65efb196b99a316996677c3815395d35a891f35a29c3d51d02ffd42dd6dcc69b2", null ],
+      [ "MayaFlux::Portal::Graphics::DescriptorRole::STORAGE", "namespaceMayaFlux_1_1Portal_1_1Graphics_a65efb196b99a316996677c3815395d35.html#a65efb196b99a316996677c3815395d35a754a5d433173b5ddc7debc2110ac575f", null ],
+      [ "MayaFlux::Portal::Graphics::DescriptorRole::TEXTURE", "namespaceMayaFlux_1_1Portal_1_1Graphics_a65efb196b99a316996677c3815395d35.html#a65efb196b99a316996677c3815395d35a3f92f542bd9ec48f912b9350e22736ac", null ],
+      [ "MayaFlux::Portal::Graphics::DescriptorRole::STORAGE_IMAGE", "namespaceMayaFlux_1_1Portal_1_1Graphics_a65efb196b99a316996677c3815395d35.html#a65efb196b99a316996677c3815395d35a17a99bfdcbe59e8209f17c4da5de6ff9", null ]
+    ] ],
+    [ "MayaFlux::Portal::Graphics::to_buffer_usage_flags", "namespaceMayaFlux_1_1Portal_1_1Graphics_adbe3a9497518e9fdb2db312b2ddb529d.html#adbe3a9497518e9fdb2db312b2ddb529d", null ],
+    [ "MayaFlux::Portal::Graphics::to_vk_descriptor_type", "namespaceMayaFlux_1_1Portal_1_1Graphics_ad31a9ccf7e5bd372a1879350e58c0c86.html#ad31a9ccf7e5bd372a1879350e58c0c86", null ],
+    [ "MayaFlux::Portal::Graphics::INVALID_COMMAND_BUFFER", "namespaceMayaFlux_1_1Portal_1_1Graphics_af4c48615a63eeacb15f6ec44f261967f.html#af4c48615a63eeacb15f6ec44f261967f", null ],
+    [ "MayaFlux::Portal::Graphics::INVALID_DESCRIPTOR_SET", "namespaceMayaFlux_1_1Portal_1_1Graphics_aefa031c8fe0c15acdf78a1b039992f3f.html#aefa031c8fe0c15acdf78a1b039992f3f", null ],
+    [ "MayaFlux::Portal::Graphics::INVALID_FENCE", "namespaceMayaFlux_1_1Portal_1_1Graphics_a5b84f9d8a72e3d14294025695080d76d.html#a5b84f9d8a72e3d14294025695080d76d", null ],
+    [ "MayaFlux::Portal::Graphics::INVALID_FRAMEBUFFER", "namespaceMayaFlux_1_1Portal_1_1Graphics_a866c94ed69a080970caff34b6790443f.html#a866c94ed69a080970caff34b6790443f", null ],
+    [ "MayaFlux::Portal::Graphics::INVALID_RENDER_PIPELINE", "namespaceMayaFlux_1_1Portal_1_1Graphics_a218c60f13bf2e187cf204924e1937e6c.html#a218c60f13bf2e187cf204924e1937e6c", null ],
+    [ "MayaFlux::Portal::Graphics::INVALID_SEMAPHORE", "namespaceMayaFlux_1_1Portal_1_1Graphics_af0563a6230a0eefe3435cf11a10173a3.html#af0563a6230a0eefe3435cf11a10173a3", null ],
+    [ "MayaFlux::Portal::Graphics::INVALID_SHADER", "namespaceMayaFlux_1_1Portal_1_1Graphics_a54a53990589fdcb2c2538055ec519a9f.html#a54a53990589fdcb2c2538055ec519a9f", null ]
+];

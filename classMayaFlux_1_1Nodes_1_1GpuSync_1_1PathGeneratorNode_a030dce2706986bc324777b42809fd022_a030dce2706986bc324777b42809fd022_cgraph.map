@@ -1,0 +1,17 @@
+<map id="MayaFlux::Nodes::GpuSync::PathGeneratorNode::generate_path_vertices" name="MayaFlux::Nodes::GpuSync::PathGeneratorNode::generate_path_vertices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,228,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_a1fa1d4b458196ccf55bb3524e7916444.html#a1fa1d4b458196ccf55bb3524e7916444" title=" " alt="" coords="276,5,498,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,88,275,71,270,74,218,92"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_a8cc68b672e91088e02b9a020b0a80ae3.html#a8cc68b672e91088e02b9a020b0a80ae3" title=" " alt="" coords="276,91,498,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,119,263,120,258,123,229,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_af7678f1e765f09eee1c6221816b243f2.html#af7678f1e765f09eee1c6221816b243f2" title=" " alt="" coords="276,176,498,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,150,275,170,270,172,216,156"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_a3589630da979f758a3bf60f9ac7f18e9.html#a3589630da979f758a3bf60f9ac7f18e9" title="Vertices emitted per four&#45;point window." alt="" coords="546,133,762,195"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="498,186,533,183,528,184,499,192"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_a4c5763333ac9637a59711233243299ee.html#a4c5763333ac9637a59711233243299ee" title="Evaluate one window and write its vertices." alt="" coords="554,219,754,280"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="499,222,542,231,536,231,498,227"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kinesis_a35d638be94bbb4d5307c650183938820.html#a35d638be94bbb4d5307c650183938820" title="Tangents of a sampled curve by finite difference, coordinate&#45;major." alt="" coords="810,188,1013,233"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="754,232,792,229,797,228,755,237"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_af397575bfc8596ee095c189f5e28c6ff.html#af397575bfc8596ee095c189f5e28c6ff" title="Write colour and thickness for one window, leaving positions intact." alt="" coords="812,257,1011,319"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="754,262,799,271,794,271,754,267"/>
+</map>

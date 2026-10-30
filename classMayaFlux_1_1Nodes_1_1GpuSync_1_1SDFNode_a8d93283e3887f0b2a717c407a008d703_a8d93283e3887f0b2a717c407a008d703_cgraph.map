@@ -1,0 +1,37 @@
+<map id="MayaFlux::Nodes::GpuSync::SDFNode::compute_frame" name="MayaFlux::Nodes::GpuSync::SDFNode::compute_frame">
+<area shape="rect" id="Node000001" title="Re&#45;extract the isosurface if dirty, then upload via parent." alt="" coords="5,289,206,334"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a3b05244a99b639a2b98cf60744654a2b.html#a3b05244a99b639a2b98cf60744654a2b" title=" " alt="" coords="254,289,453,334"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,309,241,310,236,313,207,314"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1MeshWriterNode_a85987f2f0a2c7148831b8f947280933d.html#a85987f2f0a2c7148831b8f947280933d" title=" " alt="" coords="515,160,736,204"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,286,436,250,500,214,519,209,514,212,502,219,438,254,386,291"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1MeshWriterNode_ae25f2a644f82c96f8f1a862d401e472f.html#ae25f2a644f82c96f8f1a862d401e472f" title="Compute GPU data for this frame." alt="" coords="501,229,750,274"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="453,287,509,276,504,279,455,292"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kinesis_aae90616312e63c025dfc44f6245c3b43.html#aae90616312e63c025dfc44f6245c3b43" title="Extract an isosurface from a scalar field using marching cubes." alt="" coords="551,378,700,423"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="424,332,543,372,538,373,424,337"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1MeshWriterNode_a301a22619e02fe59a7456cfe860ddd60.html#a301a22619e02fe59a7456cfe860ddd60" title="Replace all vertex and index data from a MeshData owner." alt="" coords="521,472,730,516"/>
+<area shape="poly" id="edge18_Node000002_Node000016" title=" " alt="" coords="378,331,434,381,502,433,558,465,552,465,500,438,430,385,377,337"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a7b7a30b2a13cb2676713a352f298f607.html#a7b7a30b2a13cb2676713a352f298f607" title="Factory: layout for MeshVertex (position, color, weight, uv, normal, tangent)." alt="" coords="1058,348,1249,392"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="717,272,799,291,1045,347,1040,348,798,297,717,277"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_ad5f8bb454545911e4cef60543eb8e6be.html#ad5f8bb454545911e4cef60543eb8e6be" title="Resize vertex buffer to hold specified number of vertices." alt="" coords="1046,59,1261,121"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="734,226,748,215,764,193,770,171,769,124,767,101,769,78,778,56,797,36,830,17,866,6,904,3,943,5,1018,23,1085,52,1080,53,1016,29,942,11,904,8,867,11,832,22,800,40,782,59,774,79,772,101,774,124,776,171,769,195,752,219,737,231"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_aa5c884ec45de91156e1ede29e1a36877.html#aa5c884ec45de91156e1ede29e1a36877" title="Set index buffer for indexed drawing." alt="" coords="798,50,998,112"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="731,226,749,215,766,193,773,170,779,146,796,122,798,123,803,120,800,125,784,148,778,172,771,195,752,219,734,231"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a79b8530548d0f4b4c464071439faaac5.html#a79b8530548d0f4b4c464071439faaac5" title="Set cached vertex layout." alt="" coords="798,135,998,197"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="710,226,750,214,797,201,792,203,751,219,712,231"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_aa0ae4053aa8d9c3b5f4c707530819b67.html#aa0ae4053aa8d9c3b5f4c707530819b67" title="Set multiple vertices from typed array." alt="" coords="798,221,998,282"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="750,249,785,251,780,252,751,254"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="975,218,996,206,1053,169,1102,133,1107,130,1056,173,999,211,978,223"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_ae5284939e0d0c2d570576488644f8068.html#ae5284939e0d0c2d570576488644f8068" title="Set vertex stride (bytes per vertex)." alt="" coords="1054,221,1253,282"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="998,249,1041,251,1036,252,999,254"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="700,394,1045,376,1040,377,701,399"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kinesis_a3e6ac0a203b99a3e1d7d6becd8aec41f.html#a3e6ac0a203b99a3e1d7d6becd8aec41f" title=" " alt="" coords="818,546,978,591"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="701,408,728,418,752,433,764,446,771,458,777,484,783,508,790,520,800,532,808,540,803,539,796,536,785,523,778,510,772,485,766,460,760,449,749,437,726,423,700,413"/>
+<area shape="rect" id="Node000014" href="$structMayaFlux_1_1Kakshya_1_1MeshData_a3cecabe70345deaa8c2da479a1a8193a.html#a3cecabe70345deaa8c2da479a1a8193a" title="Construct an empty MeshData with the canonical 60&#45;byte mesh layout." alt="" coords="819,408,977,452"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="701,406,806,420,801,420,701,411"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1MeshInsertion_a618b35166b14858aca7b8f8c8ce693c8.html#a618b35166b14858aca7b8f8c8ce693c8" title="Insert a single flat mesh (no submesh tracking)." alt="" coords="805,477,991,522"/>
+<area shape="poly" id="edge17_Node000011_Node000015" title=" " alt="" coords="701,415,751,433,776,447,800,462,815,471,809,470,797,467,773,452,749,438,700,420"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_1_1Kinesis_a64bfe6458a57047ea3c126b2b27da092.html#a64bfe6458a57047ea3c126b2b27da092" title="Zero output below threshold, pass through above." alt="" coords="1079,546,1228,591"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="978,566,1066,569,1061,569,978,571"/>
+<area shape="poly" id="edge15_Node000014_Node000005" title=" " alt="" coords="977,409,1040,397,1045,395,978,414"/>
+<area shape="poly" id="edge19_Node000016_Node000016" title=" " alt="" coords="574,470,573,462,581,453,599,447,626,445,655,447,674,456,668,456,653,453,626,450,600,452,584,457,578,463,579,473"/>
+</map>

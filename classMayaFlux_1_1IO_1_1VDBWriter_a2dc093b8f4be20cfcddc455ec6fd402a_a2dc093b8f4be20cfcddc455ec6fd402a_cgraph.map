@@ -1,0 +1,18 @@
+<map id="MayaFlux::IO::VDBWriter::write" name="MayaFlux::IO::VDBWriter::write">
+<area shape="rect" id="Node000001" title="Write volume data to disk." alt="" coords="5,195,189,239"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1Detail_1_1VDBArchive_aacd6cd251bc5dba09b76b4eebb019ebe.html#aacd6cd251bc5dba09b76b4eebb019ebe" title="Build one grid from active cells and retain it for saving." alt="" coords="249,5,419,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,193,163,131,198,97,235,67,257,56,254,59,238,71,201,101,167,135,117,196"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_ad18c3092c8a26b207df1a6ff8ad8bbef.html#ad18c3092c8a26b207df1a6ff8ad8bbef" title="Cells in the lattice, which every field&#39;s element_count() must equal." alt="" coords="479,131,654,175"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,193,168,148,200,127,236,110,268,102,302,98,370,98,434,108,493,125,487,126,433,114,369,104,302,103,269,107,238,116,203,131,171,152,121,196"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1Detail_1_1VDBArchive_aaaa537e813caf7a67c5ed8e98e8fc996.html#aaaa537e813caf7a67c5ed8e98e8fc996" title=" " alt="" coords="243,125,425,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,192,242,173,238,177,177,196"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_a6eb5ed3d17b6580cc64d6a94088f8b5a.html#a6eb5ed3d17b6580cc64d6a94088f8b5a" title="Check that every field is densely populated over the lattice." alt="" coords="237,195,431,239"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="188,215,224,216,219,218,190,219"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1Detail_1_1VDBArchive_a42172959954794852199adc6ce3ca50a.html#a42172959954794852199adc6ce3ca50a" title=" " alt="" coords="246,264,422,309"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="175,237,243,258,238,260,176,243"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1IO_af70273974a6d4e868b4c016d2f944547.html#af70273974a6d4e868b4c016d2f944547" title="Resolve a writable path against the configured output directory." alt="" coords="252,333,416,378"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="124,237,176,278,238,319,250,327,245,327,235,323,173,283,124,242"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1Detail_1_1VDBArchive_a15fa4b9371c451d477f190a219b4e35e.html#a15fa4b9371c451d477f190a219b4e35e" title="Write every added grid to one file." alt="" coords="257,403,411,447"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="112,237,162,311,197,352,238,388,246,396,241,395,235,392,194,356,158,315,110,242"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="417,192,471,179,466,181,419,197"/>
+</map>

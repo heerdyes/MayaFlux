@@ -1,0 +1,31 @@
+<map id="MayaFlux::Kinesis::moving_average" name="MayaFlux::Kinesis::moving_average">
+<area shape="rect" id="Node000001" title="Simple moving average over the newest window samples." alt="" coords="1100,144,1248,189"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a1f900447d934e9d0d88d4377cd6e6019.html#a1f900447d934e9d0d88d4377cd6e6019" title="Mean position across a window." alt="" coords="904,109,1052,154"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1082,150,1052,147,1053,142,1087,151"/>
+<area shape="rect" id="Node000014" href="$namespaceMayaFlux_1_1Kinesis_afa60c435fec7cd5140903714d85c453c.html#afa60c435fec7cd5140903714d85c453c" title="Convenience overload of moving_average over a raw span, samples[0] newest." alt="" coords="904,179,1052,223"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="1087,182,1053,191,1052,185,1082,182"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_aaf3816fbfdfd47516d9c0d8887e93065.html#aaf3816fbfdfd47516d9c0d8887e93065" title="Convenience overload of centroid over a raw span of positions, samples[0] newest." alt="" coords="707,19,856,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="911,102,831,67,832,61,917,103"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Nexus_a38a4ffb36a511a9879f5dee9e2f64099.html#a38a4ffb36a511a9879f5dee9e2f64099" title="Anchor of a buffer&#39;s geometry in its own stored coordinates." alt="" coords="488,109,659,154"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="885,127,856,129,707,129,660,130,659,125,707,124,856,124,890,127"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kinesis_a3a1cf9a988f068a15b3d2a91730aa20f.html#a3a1cf9a988f068a15b3d2a91730aa20f" title="Bounding radius of a window around its centroid." alt="" coords="707,208,856,253"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="916,161,905,169,857,198,833,210,832,205,854,193,902,164,911,162"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_1_1Kinesis_ab577a8cd26f627e22b3fdde7c4d3dd9c.html#ab577a8cd26f627e22b3fdde7c4d3dd9c" title="Area&#45;weighted centroid of the triangles of an indexed mesh." alt="" coords="707,139,856,183"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="891,145,857,153,856,147,886,145"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="606,94,595,90,574,88,554,90,542,95,538,101,539,110,534,107,532,99,539,90,553,85,574,83,596,85,611,94"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Nexus_ad44add43b988749541d1a7d91239c707.html#ad44add43b988749541d1a7d91239c707" title="Build an attachment to buf." alt="" coords="253,75,431,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="470,117,431,113,431,108,475,116"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Nexus_a60bdbcdb6a637bc81248165ecd2f64ea.html#a60bdbcdb6a637bc81248165ecd2f64ea" title="Read the buffer&#39;s geometry again and move the anchor to match." alt="" coords="244,144,440,189"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="470,147,441,154,440,149,475,146"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Agent_a7f420f62150e3babe04fda42dd44c50b.html#a7f420f62150e3babe04fda42dd44c50b" title="Make an existing, already rendered buffer the look of this object." alt="" coords="10,5,191,50"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="245,71,181,53,181,48,250,69"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nexus_1_1Emitter_a70d813d4d303befb1af9ee9d25007057.html#a70d813d4d303befb1af9ee9d25007057" title="Make an existing, already rendered buffer the look of this object." alt="" coords="5,75,196,119"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="235,98,197,100,195,94,240,96"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Agent_ae4d2cf2382e2993a64f26e56d41d7f5c.html#ae4d2cf2382e2993a64f26e56d41d7f5c" title="Read the attached buffer&#39;s geometry again and move the anchor to match." alt="" coords="10,144,191,189"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="226,167,192,169,191,164,231,166"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nexus_1_1Emitter_a879ad09dc34d541933b717d4095cb469.html#a879ad09dc34d541933b717d4095cb469" title="Read the attached buffer&#39;s geometry again and move the anchor to match." alt="" coords="5,213,196,258"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="250,193,182,215,180,210,245,194"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kinesis_a621cb2f284e450173d116808db50e2c1.html#a621cb2f284e450173d116808db50e2c1" title="Convenience overload of spread_radius over a raw span of positions, samples[0] newest." alt="" coords="500,208,648,253"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="689,230,648,233,648,228,694,230"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="689,148,660,146,660,141,694,148"/>
+</map>

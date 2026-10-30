@@ -1,0 +1,13 @@
+<map id="MayaFlux::Yantra::ShaderExecutionContext::execute" name="MayaFlux::Yantra::ShaderExecutionContext::execute">
+<area shape="rect" id="Node000001" title="Injects multipass configuration into the context before dispatch when set_multipass() has been called..." alt="" coords="5,56,200,101"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1GpuExecutionContext_a1dbe3b76ec8aefe2f57803a889443155.html#a1dbe3b76ec8aefe2f57803a889443155" title="Dispatch to GPU and reconstruct a typed output Datum." alt="" coords="248,22,478,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,63,234,60,230,63,201,68"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_a8482c17bf60e9d60a08499cdc3833184.html#a8482c17bf60e9d60a08499cdc3833184" title="Add an INPUT binding, inferring the next available binding index." alt="" coords="270,91,456,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,89,257,98,252,100,200,94"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_a8043be1f8aae7bef373c4d1c20e4d554.html#a8043be1f8aae7bef373c4d1c20e4d554" title="Returns one past the highest binding index currently registered." alt="" coords="558,5,745,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,88,546,64,541,66,450,93"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ae9282681fc4bdbd90b40d09f58f37fd6.html#ae9282681fc4bdbd90b40d09f58f37fd6" title="Pre&#45;stage typed data for a specific binding slot, bypassing the default channel&#45;flattening path in pr..." alt="" coords="540,91,764,136"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="456,111,527,113,521,114,457,116"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_a975f791fdce597072a8104fa7f1452db.html#a975f791fdce597072a8104fa7f1452db" title="Construct with shader config and optional pre&#45;built binding list." alt="" coords="526,160,777,222"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="449,134,522,155,516,155,449,139"/>
+</map>

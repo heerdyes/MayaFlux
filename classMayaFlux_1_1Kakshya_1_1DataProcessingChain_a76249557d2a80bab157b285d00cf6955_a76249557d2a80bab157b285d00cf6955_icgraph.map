@@ -1,0 +1,20 @@
+<map id="MayaFlux::Kakshya::DataProcessingChain::remove_processor_direct" name="MayaFlux::Kakshya::DataProcessingChain::remove_processor_direct">
+<area shape="rect" id="Node000001" title="Performs immediate removal of a processor from the chain." alt="" coords="665,252,859,314"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a654f640a40d387cf100f89842b4523e1.html#a654f640a40d387cf100f89842b4523e1" title="Flushes all removals deferred during the most recent process iteration." alt="" coords="428,176,617,238"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,247,618,240,618,234,653,248"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a64a1057ed8e0ef5aa9fccea8f2334ad1.html#a64a1057ed8e0ef5aa9fccea8f2334ad1" title="Removes a processor from a container&#39;s chain." alt="" coords="443,295,602,356"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="653,302,603,314,602,309,647,303"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a611d5ebd3e20cb57bc72d0cba93eb362.html#a611d5ebd3e20cb57bc72d0cba93eb362" title="Processes a container with all its associated processors in sequence." alt="" coords="221,5,380,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,165,432,124,378,81,363,70,363,65,382,77,435,120,483,165"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a7d8f59ec3651bfaae4936d43a0612f53.html#a7d8f59ec3651bfaae4936d43a0612f53" title="Processes a container with only the processors matching a filter predicate." alt="" coords="221,91,380,152"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="424,170,380,155,380,149,429,170"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a5cba1c74b057ecadf98ed62b12e082ee.html#a5cba1c74b057ecadf98ed62b12e082ee" title="Processes a container with only the processors carrying a specific tag." alt="" coords="221,176,380,238"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="410,207,381,209,380,204,415,206"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a247ede616a95e4b1a58fe9c5ab6b5759.html#a247ede616a95e4b1a58fe9c5ab6b5759" title="Processes a container with only processors of a specific derived type." alt="" coords="221,261,380,323"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="429,243,381,264,380,259,424,244"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a94ba09b2c1cbc8dd03c218f49c4d49b1.html#a94ba09b2c1cbc8dd03c218f49c4d49b1" title=" " alt="" coords="5,133,173,195"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,77,222,81,138,135,134,131,219,77,229,73"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="203,142,174,150,172,145,207,139"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="203,189,174,184,173,178,208,187"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="431,350,379,360,325,361,271,355,219,337,179,309,145,271,119,232,103,198,104,193,124,229,149,268,182,305,222,332,272,350,325,356,378,354,425,350"/>
+</map>

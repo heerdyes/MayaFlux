@@ -1,0 +1,17 @@
+<map id="MayaFlux::Kinesis::Vision::KernelSpec::KernelSpec" name="MayaFlux::Kinesis::Vision::KernelSpec::KernelSpec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,261,386,323"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1KernelSpec_a310adefe86c51c053c5bce8fc3c1b426.html#a310adefe86c51c053c5bce8fc3c1b426" title="Convolve this kernel with another of the same length." alt="" coords="22,5,172,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,247,274,209,251,164,222,120,187,81,173,69,172,64,190,77,226,117,256,162,279,206,296,247"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1KernelSpec_ae41128aa8c4cdc3a235d3d288345ed42.html#ae41128aa8c4cdc3a235d3d288345ed42" title=" " alt="" coords="22,91,172,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,250,235,208,187,166,172,156,171,150,190,162,238,204,279,249"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1KernelSpec_ae1bc199b91bcb37cb597c1041503c601.html#ae1bc199b91bcb37cb597c1041503c601" title="Negate all taps." alt="" coords="22,176,172,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,258,173,239,171,234,225,256"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1KernelSpec_a4cb45ba0199e44bdf9a153ecb0885469.html#a4cb45ba0199e44bdf9a153ecb0885469" title="Divide all taps by their sum." alt="" coords="22,261,172,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,294,173,295,171,290,224,291"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1KernelSpec_a12e650e681ec2fda6b5ec68196c73986.html#a12e650e681ec2fda6b5ec68196c73986" title="Reverse tap order." alt="" coords="22,347,172,408"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="221,329,173,350,171,346,225,326"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1KernelSpec_a147e224683d4e539f31fbe40a8d8d45f.html#a147e224683d4e539f31fbe40a8d8d45f" title="Multiply all taps by a scalar." alt="" coords="5,432,189,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="280,333,240,381,190,422,169,434,166,430,187,418,236,377,276,337"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1KernelSpec_a060b6bcea2a6f6d265089a8ede548fc5.html#a060b6bcea2a6f6d265089a8ede548fc5" title="Add a scalar to all taps." alt="" coords="8,502,186,546"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="294,336,254,416,225,456,190,492,172,504,170,499,187,487,221,453,249,413,290,339"/>
+</map>

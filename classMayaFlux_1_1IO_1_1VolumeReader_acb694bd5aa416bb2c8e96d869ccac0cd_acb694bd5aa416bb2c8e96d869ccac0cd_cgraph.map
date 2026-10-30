@@ -1,0 +1,26 @@
+<map id="MayaFlux::IO::VolumeReader::load" name="MayaFlux::IO::VolumeReader::load">
+<area shape="rect" id="Node000001" title="Load every selected grid from a file in one call." alt="" coords="5,195,216,239"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1VolumeReader_acdd35fcfabdd57bf47dbf009ef42937c.html#acdd35fcfabdd57bf47dbf009ef42937c" title="Close the currently open file." alt="" coords="522,195,732,239"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,214,508,215,505,219,216,220"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1VolumeReader_adaa55771cd8cc310eeb25d033bf0cda0.html#adaa55771cd8cc310eeb25d033bf0cda0" title="Extract every selected grid after open() has already been called." alt="" coords="264,135,474,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,192,258,182,253,185,211,196"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1VolumeReader_a870f414ddeb0bf93dafdcabfc33160d3.html#a870f414ddeb0bf93dafdcabfc33160d3" title="Open a file for reading." alt="" coords="264,255,474,299"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="209,237,258,250,253,252,210,243"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1VolumeReader_a7d7eb40bd71849fb7e37e7bdf42f42ae.html#a7d7eb40bd71849fb7e37e7bdf42f42ae" title="Build VolumeData from selected grids over an explicit region." alt="" coords="522,75,732,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,132,516,122,511,124,469,137"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1VolumeReader_a3f50ca3b8122f3514a95e6be2f8f6460.html#a3f50ca3b8122f3514a95e6be2f8f6460" title=" " alt="" coords="780,144,991,189"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="474,156,767,163,763,165,474,162"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1VolumeField_ae602611d173d3534b8ca0e0fe464fce5.html#ae602611d173d3534b8ca0e0fe464fce5" title="Number of cells represented, dispatched on variant." alt="" coords="782,75,989,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="732,94,769,96,764,98,733,100"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_a6eb5ed3d17b6580cc64d6a94088f8b5a.html#a6eb5ed3d17b6580cc64d6a94088f8b5a" title="Check that every field is densely populated over the lattice." alt="" coords="788,5,983,50"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="712,72,788,54,783,56,714,77"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="713,117,788,139,782,140,713,123"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_ad18c3092c8a26b207df1a6ff8ad8bbef.html#ad18c3092c8a26b207df1a6ff8ad8bbef" title="Cells in the lattice, which every field&#39;s element_count() must equal." alt="" coords="1039,5,1214,50"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="983,25,1025,27,1020,28,983,30"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="467,252,516,243,511,244,469,257"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="474,279,599,274,666,264,732,249,789,225,838,199,843,197,792,230,733,254,667,270,600,279,475,284"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1VolumeReader_a8235bd25a8e9730a69092812171ff116.html#a8235bd25a8e9730a69092812171ff116" title="Check if a file can be read by this reader." alt="" coords="522,315,732,359"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="468,297,516,311,511,311,468,303"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1FileReader_a24d94d5bc8b4294d61f43ac86f933050.html#a24d94d5bc8b4294d61f43ac86f933050" title="Resolve a filepath against the project source root if not found as&#45;is." alt="" coords="535,384,719,429"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="402,297,458,333,523,369,539,378,534,378,521,374,455,338,401,302"/>
+</map>

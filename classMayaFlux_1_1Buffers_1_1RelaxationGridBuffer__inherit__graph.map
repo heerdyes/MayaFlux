@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::RelaxationGridBuffer" name="MayaFlux::Buffers::RelaxationGridBuffer">
+<area shape="rect" id="Node000001" title="GPU&#45;resident, double&#45;buffered SSBO state for synchronous local&#45;rule systems evaluated over a fixed 2D..." alt="" coords="5,1329,223,1976"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBuffer.html" title="Vulkan&#45;backed buffer wrapper used in processing chains." alt="" coords="6,503,222,1281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,1293,117,1329,112,1329,114,1298"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1Buffer.html" title="Backend&#45;agnostic interface for sequential data storage and transformation." alt="" coords="6,143,222,455"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,468,117,504,112,503,114,473"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="40,5,189,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,107,117,143,112,143,114,112"/>
+</map>

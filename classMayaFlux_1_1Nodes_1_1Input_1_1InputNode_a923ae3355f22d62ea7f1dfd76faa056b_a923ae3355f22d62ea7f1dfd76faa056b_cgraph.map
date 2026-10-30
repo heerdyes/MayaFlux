@@ -1,0 +1,13 @@
+<map id="MayaFlux::Nodes::Input::InputNode::process_batch" name="MayaFlux::Nodes::Input::InputNode::process_batch">
+<area shape="rect" id="Node000001" title="Process a batch of samples." alt="" coords="5,40,203,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_a7b64dd73ad7f5746fe7ec2f77ac3eaa7.html#a7b64dd73ad7f5746fe7ec2f77ac3eaa7" title="Process a single sample." alt="" coords="251,40,460,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,60,237,62,232,63,204,65"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_aba20c5f758d8788e6e7cdd0427adf2ba.html#aba20c5f758d8788e6e7cdd0427adf2ba" title=" " alt="" coords="508,5,724,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,46,495,44,490,45,461,51"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_aa1e2d3eb1a1c2e7ee3b9b65eea3b7c91.html#aa1e2d3eb1a1c2e7ee3b9b65eea3b7c91" title="Notify callbacks (minimal for InputNode)." alt="" coords="528,75,704,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="461,74,516,83,510,83,461,79"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_a2be2c134aaaf5c6c4696909b3de35baa.html#a2be2c134aaaf5c6c4696909b3de35baa" title="Retrieves the last created context object." alt="" coords="787,28,963,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="704,81,770,74,775,73,705,87"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_a00e489ddf0b8e4f74a220feeb318b36f.html#a00e489ddf0b8e4f74a220feeb318b36f" title="Update context after processing." alt="" coords="772,113,978,158"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="704,107,760,118,754,118,704,113"/>
+</map>

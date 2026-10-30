@@ -1,0 +1,11 @@
+<map id="MayaFlux::Kinesis::Stochastic::Estimate::trend_slope" name="MayaFlux::Kinesis::Stochastic::Estimate::trend_slope">
+<area shape="rect" id="Node000001" title="Linear trend slope across a span." alt="" coords="612,36,767,97"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_aebbf26e9dad6fdcb4be549d3407abb98.html#aebbf26e9dad6fdcb4be549d3407abb98" title="Rate at which two streams approach or separate." alt="" coords="413,5,561,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="595,49,562,45,562,39,600,49"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a2ba90a2a80f06a7fd8d10494fdbdeff0.html#a2ba90a2a80f06a7fd8d10494fdbdeff0" title=" " alt="" coords="410,74,564,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="600,84,565,93,564,88,595,84"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a502f5a8057dafa0db29ae244dd666427.html#a502f5a8057dafa0db29ae244dd666427" title="Feed one new sample, updating the running estimate." alt="" coords="208,74,362,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,105,362,108,362,102,397,105"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_ae7afdaace4daa51eda87a1275d920065.html#ae7afdaace4daa51eda87a1275d920065" title="Feed one sample and push the filtered result into a HistoryBuffer." alt="" coords="5,74,160,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,105,160,108,159,102,195,105"/>
+</map>

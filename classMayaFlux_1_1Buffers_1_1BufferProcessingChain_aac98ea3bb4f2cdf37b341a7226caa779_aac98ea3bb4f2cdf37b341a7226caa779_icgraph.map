@@ -1,0 +1,13 @@
+<map id="MayaFlux::Buffers::BufferProcessingChain::cleanup_rejected_processors" name="MayaFlux::Buffers::BufferProcessingChain::cleanup_rejected_processors">
+<area shape="rect" id="Node000001" title="Validates the processing token against the chain&#39;s preferred token." alt="" coords="651,71,869,132"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a23d4172a12da9ea88c8487ff720c824d.html#a23d4172a12da9ea88c8487ff720c824d" title="Applies the transformation pipeline to a buffer with intelligent execution." alt="" coords="436,28,603,90"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="633,80,604,76,604,71,639,79"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a59d5a166df6cf4d18c4250548a8f4b81.html#a59d5a166df6cf4d18c4250548a8f4b81" title="Internal processing method for non&#45;owning buffer contexts." alt="" coords="436,113,603,175"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="639,123,604,132,603,127,633,124"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_ae98d034f0b03f84e3c5960a255eb3984.html#ae98d034f0b03f84e3c5960a255eb3984" title=" " alt="" coords="5,29,173,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,53,388,53,221,53,174,56,172,51,221,48,388,48,423,52"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a1b98bf6c28cf994a1cefad945b80817c.html#a1b98bf6c28cf994a1cefad945b80817c" title="Applies preprocessors, processing chain, post processors and final processors sequentially to a buffe..." alt="" coords="221,63,388,124"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="418,75,389,83,388,77,423,74"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="122,16,110,11,89,8,71,10,58,15,52,21,52,30,46,29,47,19,55,10,69,5,89,3,112,5,127,14"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="203,79,174,76,173,71,208,77"/>
+</map>

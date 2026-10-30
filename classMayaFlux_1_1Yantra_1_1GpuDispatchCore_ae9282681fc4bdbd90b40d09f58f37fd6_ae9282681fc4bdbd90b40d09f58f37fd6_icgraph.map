@@ -1,0 +1,17 @@
+<map id="MayaFlux::Yantra::GpuDispatchCore::set_binding_data" name="MayaFlux::Yantra::GpuDispatchCore::set_binding_data">
+<area shape="rect" id="Node000001" title="Pre&#45;stage typed data for a specific binding slot, bypassing the default channel&#45;flattening path in pr..." alt="" coords="569,144,793,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_af8b028d6a2e47916df351bb69da221cd.html#af8b028d6a2e47916df351bb69da221cd" title="Add an INPUT_OUTPUT binding, inferring the next available binding index." alt="" coords="316,5,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,134,582,100,520,65,492,53,492,48,522,60,585,95,641,135"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_a551eebf6f30be72dbaefe33192e6d8c6.html#a551eebf6f30be72dbaefe33192e6d8c6" title="Add an INPUT_OUTPUT binding at an explicit index." alt="" coords="316,75,502,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="573,140,499,123,499,117,578,139"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_a8482c17bf60e9d60a08499cdc3833184.html#a8482c17bf60e9d60a08499cdc3833184" title="Add an INPUT binding, inferring the next available binding index." alt="" coords="316,144,502,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="551,167,503,169,502,164,556,166"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_abc21f825da961b13f6b6de0dfeadbff3.html#abc21f825da961b13f6b6de0dfeadbff3" title="Add an INPUT binding at an explicit index." alt="" coords="316,213,502,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="578,192,500,215,499,210,573,194"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a7f954b4d0efb4e87b0a36204513ba30c.html#a7f954b4d0efb4e87b0a36204513ba30c" title=" " alt="" coords="297,283,521,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="641,197,585,238,522,273,493,285,492,280,520,268,582,233,636,199"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_aa508e728d529df34441c28d62413bb0c.html#aa508e728d529df34441c28d62413bb0c" title="Dispatch asynchronously and return a fence for polling." alt="" coords="5,109,249,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,154,250,149,249,144,303,152"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_a61530137eabb72da29cf4248b7600bde.html#a61530137eabb72da29cf4248b7600bde" title="Injects multipass configuration into the context before dispatch when set_multipass() has been called..." alt="" coords="30,179,224,223"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="298,181,225,192,224,186,303,179"/>
+</map>

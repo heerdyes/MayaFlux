@@ -1,0 +1,32 @@
+<map id="MayaFlux::Nodes::Network::GpuFieldOperator::build_spec" name="MayaFlux::Nodes::Network::GpuFieldOperator::build_spec">
+<area shape="rect" id="Node000001" title="Assemble the compute spec for the current bindings." alt="" coords="5,349,226,394"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_a44f5c516ff6ccfe853b704dffbdd1749.html#a44f5c516ff6ccfe853b704dffbdd1749" title="Finalise and return the ShaderSpec." alt="" coords="288,5,505,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,348,135,290,165,213,185,171,209,131,238,93,272,60,280,57,277,61,275,64,242,97,214,134,190,174,169,215,140,292,124,350"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_a155d90298b041d5007e79fd55d610f5e.html#a155d90298b041d5007e79fd55d610f5e" title="Declare a function emitted before main() in the generated GLSL." alt="" coords="298,74,494,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,348,146,305,178,251,221,195,272,146,286,138,283,142,275,150,225,198,183,254,151,307,129,350"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_a5f58cbf0f6dd48fa0e858efc067f345e.html#a5f58cbf0f6dd48fa0e858efc067f345e" title="Supply a user kernel via MF_KERNEL." alt="" coords="284,160,509,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="131,348,189,282,228,246,272,215,286,210,282,213,275,219,232,250,193,285,136,351"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_afafd2127aa18baf52a9ed7ecac31b22b.html#afafd2127aa18baf52a9ed7ecac31b22b" title="Whether build_spec() needs a per&#45;vertex cluster id this cycle." alt="" coords="298,229,495,290"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="164,347,273,300,291,295,287,298,275,305,167,351"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_a468e0e2f7ccbab32e59ed547694484b7.html#a468e0e2f7ccbab32e59ed547694484b7" title="Declare a push constant field with explicit format." alt="" coords="296,315,496,359"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="225,356,283,350,279,353,227,360"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_af0948c64557984ec42018adc54c4c85a.html#af0948c64557984ec42018adc54c4c85a" title="Locate a target&#39;s word offset and component count in the layout." alt="" coords="274,384,519,429"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="225,383,260,388,256,391,227,388"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_a59cdd9a2ab439b42c89835809aae45f4.html#a59cdd9a2ab439b42c89835809aae45f4" title="Declare an SSBO binding." alt="" coords="289,453,504,498"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="164,392,275,439,297,447,292,449,273,443,164,397"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_afde92dafcd11bb416b08c83af5122a4c.html#afde92dafcd11bb416b08c83af5122a4c" title=" " alt="" coords="298,522,494,584"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="137,392,197,450,235,481,275,508,287,516,282,517,272,513,231,485,193,453,137,397"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_ae8f3bc1527fea22d1924573e2781299b.html#ae8f3bc1527fea22d1924573e2781299b" title="Whether any current binding is parametric, so the spec carries the block." alt="" coords="278,608,515,653"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="127,392,150,436,182,491,224,546,248,572,275,594,284,601,278,600,272,598,245,575,220,550,177,494,145,439,126,397"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_ab349ded3d71596d2354921387c82f84c.html#ab349ded3d71596d2354921387c82f84c" title="Override workgroup size." alt="" coords="298,677,494,738"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="123,392,143,448,173,520,217,597,244,632,275,663,288,674,282,673,272,667,240,635,213,600,168,523,138,450,122,397"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a1a6f442f75e19775fcf77da154f74990.html#a1a6f442f75e19775fcf77da154f74990" title="Byte size of one element of a GpuDataFormat." alt="" coords="578,5,753,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,25,564,26,559,29,507,30"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_a460309fa52867d4571b354af983e0694.html#a460309fa52867d4571b354af983e0694" title=" " alt="" coords="567,376,763,437"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="494,129,521,146,567,195,605,253,633,310,652,361,647,360,628,312,600,255,563,199,517,150,495,134"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="498,203,521,215,560,247,593,286,644,362,638,362,589,289,556,251,517,219,498,208"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="486,357,555,377,550,378,486,363"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="485,450,555,434,550,436,487,455"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="494,519,518,508,568,478,612,448,617,446,571,482,520,513,496,524"/>
+<area shape="poly" id="edge17_Node000013_Node000005" title=" " alt="" coords="494,679,517,663,563,614,600,557,628,501,648,454,651,450,633,503,605,560,567,617,521,667,496,684"/>
+</map>

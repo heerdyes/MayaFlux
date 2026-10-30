@@ -1,0 +1,11 @@
+<map id="MayaFlux::Core::GraphicsSubsystem::graphics_thread_loop" name="MayaFlux::Core::GraphicsSubsystem::graphics_thread_loop">
+<area shape="rect" id="Node000001" title="Graphics thread main loop." alt="" coords="5,99,246,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_af7661b41b9eb2e292868aca2f7116b9a.html#af7661b41b9eb2e292868aca2f7116b9a" title="Unified processing callback (alternative to separate methods)." alt="" coords="294,99,482,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,119,281,121,275,122,247,124"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a28ff7831678b8f7db1ada479ad23acc5.html#a28ff7831678b8f7db1ada479ad23acc5" title="Cleanup resources for windows that have been closed." alt="" coords="537,5,738,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,96,528,73,533,72,456,101"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a4abeb27756b788566c82fd5f6b4c2603.html#a4abeb27756b788566c82fd5f6b4c2603" title="Register markend windows from window manager for swapchain processing." alt="" coords="530,91,745,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="482,119,517,121,512,122,483,124"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a6fdf5dfa50f9032ed8733328b2e97094.html#a6fdf5dfa50f9032ed8733328b2e97094" title="Render all registered windows." alt="" coords="544,176,732,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="456,142,533,170,528,170,455,147"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="MayaFlux::Kinesis::Stochastic::Estimate::variance" name="MayaFlux::Kinesis::Stochastic::Estimate::variance">
+<area shape="rect" id="Node000001" title="Sample variance of a span." alt="" coords="846,74,1000,136"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_aafa948ab4085ed9b618db86833571308.html#aafa948ab4085ed9b618db86833571308" title="Estimate a repetition period by direct autocorrelation over a bounded lag range." alt="" coords="646,5,795,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="829,70,781,53,781,48,834,70"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_af7cde71aad7f9397ced13587376c837a.html#af7cde71aad7f9397ced13587376c837a" title="Standard deviation of a span." alt="" coords="643,74,798,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="828,105,798,108,798,102,833,105"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a24bde794a3ce27e3fa09d870a6532e1b.html#a24bde794a3ce27e3fa09d870a6532e1b" title=" " alt="" coords="410,154,595,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="834,138,798,150,694,169,596,181,595,176,693,164,797,145,828,139"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a921c15e895285770ab1faf2ef1a9bef4.html#a921c15e895285770ab1faf2ef1a9bef4" title=" " alt="" coords="422,69,584,130"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="625,103,584,104,584,99,630,102"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a502f5a8057dafa0db29ae244dd666427.html#a502f5a8057dafa0db29ae244dd666427" title="Feed one new sample, updating the running estimate." alt="" coords="208,112,362,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="404,119,363,130,362,125,409,118"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_ae7afdaace4daa51eda87a1275d920065.html#ae7afdaace4daa51eda87a1275d920065" title="Feed one sample and push the filtered result into a HistoryBuffer." alt="" coords="5,112,160,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="190,143,160,145,159,140,195,142"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="392,164,362,160,362,155,397,164"/>
+</map>

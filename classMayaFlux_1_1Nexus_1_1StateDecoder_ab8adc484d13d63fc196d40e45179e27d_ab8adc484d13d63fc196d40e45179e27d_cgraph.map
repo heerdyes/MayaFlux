@@ -1,0 +1,37 @@
+<map id="MayaFlux::Nexus::StateDecoder::reconstruct" name="MayaFlux::Nexus::StateDecoder::reconstruct">
+<area shape="rect" id="Node000001" title="Reconstruct all Fabrics in tapestry from base_dir." alt="" coords="5,213,236,258"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Tapestry_aae5f16adc0ea5376ea8ab31eb4c0592c.html#aae5f16adc0ea5376ea8ab31eb4c0592c" title="Create and register a named Expanse." alt="" coords="300,5,498,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,211,194,137,235,96,282,60,295,55,291,59,285,65,239,100,198,141,139,214"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Tapestry_ae296c3dae1311014d572aa83636b221d.html#ae296c3dae1311014d572aa83636b221d" title="create_fabric a new unnamed Fabric into the Tapestry." alt="" coords="300,75,498,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,211,209,170,282,129,301,123,297,127,285,134,212,175,153,215"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nexus_1_1Tapestry_adade2189240c4ffd84da97e4384ab3f8.html#adade2189240c4ffd84da97e4384ab3f8" title="Look up a named Expanse." alt="" coords="300,144,498,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,210,294,191,290,195,215,215"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Tapestry_a95b33acab612c67037bd1205609cc4fb.html#a95b33acab612c67037bd1205609cc4fb" title="Look up a named Fabric." alt="" coords="300,213,498,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="235,233,287,234,282,237,237,238"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1JSONSerializer_a9722723cb9849422458d73654df019b3.html#a9722723cb9849422458d73654df019b3" title="Last error message, empty if no error." alt="" coords="562,264,770,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="215,256,284,268,420,280,549,286,544,287,419,285,283,273,216,261"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1JSONSerializer_a374e5e6d710241a9d67a77d73faa48f9.html#a374e5e6d710241a9d67a77d73faa48f9" title="Read path and deserialize into T." alt="" coords="562,333,770,378"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="180,256,284,289,420,318,549,340,544,342,419,323,283,294,181,261"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Nexus_1_1StateDecoder_a4bbc19256f60fe110344ba93422ab45c.html#a4bbc19256f60fe110344ba93422ab45c" title="Patch existing entities and construct missing ones from schema." alt="" coords="284,384,514,429"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="145,256,207,309,245,337,285,363,312,378,307,378,282,367,242,342,204,313,145,261"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nexus_1_1Tapestry_afc45fcefda79c80b54e184d65f517032.html#afc45fcefda79c80b54e184d65f517032" title=" " alt="" coords="568,5,765,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,25,554,27,550,29,499,30"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1JSONSerializer_a6c34dd9fd91a37dd3d49032c25ba10c8.html#a6c34dd9fd91a37dd3d49032c25ba10c8" title=" " alt="" coords="818,333,1027,378"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="770,353,805,355,800,356,771,358"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1JSONSerializer_aafeb5b85d67b9718834be8d6041d587b.html#aafeb5b85d67b9718834be8d6041d587b" title=" " alt="" coords="818,240,1027,285"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="739,330,769,319,817,295,832,291,837,290,819,299,771,323,741,335"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="874,331,872,323,881,314,897,309,923,307,950,309,968,318,963,318,949,314,922,312,898,314,883,319,877,325,879,334"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1JSONSerializer_ae0cf11995cbf62670da70ed27b6f045c.html#ae0cf11995cbf62670da70ed27b6f045c" title=" " alt="" coords="1075,333,1283,378"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1027,362,1062,364,1056,365,1027,367"/>
+<area shape="rect" id="Node000011" href="$structMayaFlux_1_1IO_1_1Serializer_a339b05d8f4eae36335db2b8382a3b3de.html#a339b05d8f4eae36335db2b8382a3b3de" title=" " alt="" coords="1091,403,1267,447"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="1008,376,1082,398,1077,398,1008,381"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="1071,347,1042,349,1042,344,1077,347"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="438,381,495,350,561,319,575,316,580,314,563,323,498,355,440,386"/>
+<area shape="poly" id="edge19_Node000013_Node000008" title=" " alt="" coords="514,382,549,378,544,379,515,387"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Nexus_1_1Fabric_a2557668b6dec4b19b327a57384589f95.html#a2557668b6dec4b19b327a57384589f95" title="List all registered entity ids in insertion order." alt="" coords="576,472,756,517"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="469,427,584,467,579,467,469,432"/>
+<area shape="rect" id="Node000015" href="$namespaceMayaFlux_1_1Nexus_1_1State_a1f55759f773e0700e485e66e1c2b464a.html#a1f55759f773e0700e485e66e1c2b464a" title="Return true if s maps to a known Fabric::Kind token." alt="" coords="578,403,754,447"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="514,412,565,418,560,418,514,417"/>
+<area shape="rect" id="Node000016" href="$namespaceMayaFlux_1_1Reflect_a55410d139c7ce7efd95f82eb249562a7.html#a55410d139c7ce7efd95f82eb249562a7" title="Universal case&#45;insensitive string to enum converter using magic_enum." alt="" coords="843,402,1002,464"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="755,425,830,430,824,430,755,430"/>
+</map>

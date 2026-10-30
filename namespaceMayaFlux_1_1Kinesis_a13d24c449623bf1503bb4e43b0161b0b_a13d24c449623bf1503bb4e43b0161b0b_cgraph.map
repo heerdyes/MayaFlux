@@ -1,0 +1,11 @@
+<map id="MayaFlux::Kinesis::pop" name="MayaFlux::Kinesis::pop">
+<area shape="rect" id="Node000001" title="Convenience overload of pop over a raw span, samples[0] newest." alt="" coords="5,50,178,78"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a9af2f6f8b3bb91611bbf53436d00c7e9.html#a9af2f6f8b3bb91611bbf53436d00c7e9" title="Sixth difference: rate of change of crackle." alt="" coords="226,16,398,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,48,213,45,208,46,179,53"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_aae6dffc5cfe80ea00f71912d98c8c45e.html#aae6dffc5cfe80ea00f71912d98c8c45e" title="Build a HistoryBuffer&lt;T&gt; from a newest&#45;first span." alt="" coords="238,71,386,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,73,225,81,220,81,178,78"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_adae7c1fd68fa3eefdd9b0abf2731bbed.html#adae7c1fd68fa3eefdd9b0abf2731bbed" title="N&#45;th order backward finite difference of a HistoryBuffer, scaled by dt^N." alt="" coords="468,5,625,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,27,456,28,450,29,399,32"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Memory_1_1HistoryBuffer_a6f256636f3f3fc99269c77a8dc096b09.html#a6f256636f3f3fc99269c77a8dc096b09" title="Push new value to front of history." alt="" coords="446,75,647,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,92,433,95,428,95,387,97"/>
+</map>

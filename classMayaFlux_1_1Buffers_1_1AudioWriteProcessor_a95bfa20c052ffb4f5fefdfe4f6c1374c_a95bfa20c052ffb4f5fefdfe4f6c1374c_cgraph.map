@@ -1,0 +1,21 @@
+<map id="MayaFlux::Buffers::AudioWriteProcessor::~AudioWriteProcessor" name="MayaFlux::Buffers::AudioWriteProcessor::~AudioWriteProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,181,280"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_a8a07e9a5f1f787d305100a4bc5ab3597.html#a8a07e9a5f1f787d305100a4bc5ab3597" title="Clear any pending snapshot." alt="" coords="230,5,386,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,217,160,148,192,111,227,77,234,74,230,78,230,81,195,115,164,152,116,219"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_a0fe8ce94ad08df92768b0bc26b912af1.html#a0fe8ce94ad08df92768b0bc26b912af1" title="Returns true if a snapshot has been set and not yet consumed." alt="" coords="230,91,386,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,216,227,162,237,159,233,162,230,166,143,220"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_a504cbc48c181a542075e7ece6bb84b86.html#a504cbc48c181a542075e7ece6bb84b86" title="Checks if this processor can handle the specified buffer type." alt="" coords="230,176,386,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,230,217,224,213,227,182,234"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_ac21f05777e954026ae823db15e9d3dcf.html#ac21f05777e954026ae823db15e9d3dcf" title="Called when this processor is attached to a buffer." alt="" coords="230,261,386,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,264,217,273,213,275,182,269"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_a30a7d5480b5e147d66e3f0d98d42ead7.html#a30a7d5480b5e147d66e3f0d98d42ead7" title="The core processing function that must be implemented by derived classes." alt="" coords="229,347,388,408"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="142,278,230,333,238,339,233,339,227,337,141,283"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_a89113d581501392c92bb1551cedf578e.html#a89113d581501392c92bb1551cedf578e" title="Supply the next frame of double&#45;precision samples." alt="" coords="230,432,386,494"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="114,278,164,347,195,384,230,418,234,423,229,422,227,422,192,388,160,351,113,284"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_a46a9614377dc8707256b681bb417a09e.html#a46a9614377dc8707256b681bb417a09e" title=" " alt="" coords="436,304,592,366"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="388,358,423,353,418,355,389,364"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1AudioWriteProcessor_a0904677ec868719767453427e0cc2513.html#a0904677ec868719767453427e0cc2513" title=" " alt="" coords="436,389,592,451"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="388,391,423,401,418,401,388,397"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1AudioBuffer_a643c575b6348c28d1ec2e6ccc52baa61.html#a643c575b6348c28d1ec2e6ccc52baa61" title="Gets mutable access to the buffer&#39;s underlying audio data." alt="" coords="640,398,803,442"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="593,418,628,420,622,420,593,423"/>
+</map>

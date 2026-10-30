@@ -1,0 +1,41 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Main entry point for the Lila server binary." alt="" coords="5,376,60,404"/>
+<area shape="rect" id="Node000002" href="$classLila_1_1Lila_aec3f0d14ecd276253766586c091f7ef6.html#aec3f0d14ecd276253766586c091f7ef6" title="Blocks until server shutdown (main thread event loop)." alt="" coords="108,23,297,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,376,56,222,78,134,91,99,106,74,131,56,128,60,110,77,96,101,83,136,62,223,38,377"/>
+<area shape="rect" id="Node000004" href="$classLila_1_1Lila_acc07094389e76ecc3daf57e0ecb91789.html#acc07094389e76ecc3daf57e0ecb91789" title="Gets the last error message." alt="" coords="135,88,270,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="31,376,34,332,45,270,67,203,84,171,106,143,122,132,119,136,110,147,88,174,72,205,50,271,40,332,37,376"/>
+<area shape="rect" id="Node000005" href="$classLila_1_1Lila_a0ad6220ce135a02e117d58a45ba0c08a.html#a0ad6220ce135a02e117d58a45ba0c08a" title="Initializes the live coding environment." alt="" coords="133,156,272,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="33,375,40,342,53,296,74,248,106,206,132,189,129,193,110,210,79,251,58,298,45,343,38,376"/>
+<area shape="rect" id="Node000010" href="$classLila_1_1Lila_a2e7fa3e09220ec62ca411d7dee847410.html#a2e7fa3e09220ec62ca411d7dee847410" title="Stops the TCP server and disconnects all clients." alt="" coords="543,212,703,240"/>
+<area shape="poly" id="edge20_Node000001_Node000010" title=" " alt="" coords="34,376,41,348,55,313,76,277,106,249,139,235,183,225,295,215,417,214,530,219,526,221,417,219,295,220,184,230,141,240,109,254,80,281,60,315,47,349,39,377"/>
+<area shape="rect" id="Node000011" href="$classLila_1_1Commentator_a98e4ce508e7d00e86432682ebee177fb.html#a98e4ce508e7d00e86432682ebee177fb" title=" " alt="" coords="127,264,278,309"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="43,375,71,347,106,319,118,314,115,318,109,323,74,351,48,378"/>
+<area shape="rect" id="Node000013" href="$classLila_1_1Lila_aad917c66927d7d4d8997dfe5922e7a05.html#aad917c66927d7d4d8997dfe5922e7a05" title="Registers a callback for new client connections (server mode)." alt="" coords="129,333,276,378"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="59,383,115,372,112,376,62,387"/>
+<area shape="rect" id="Node000014" href="$classLila_1_1Lila_a7743bf0f9ea5ddff114a60805dec39a2.html#a7743bf0f9ea5ddff114a60805dec39a2" title="Registers a callback for client disconnections (server mode)." alt="" coords="124,403,281,447"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="59,393,111,404,106,407,61,398"/>
+<area shape="rect" id="Node000015" href="$classLila_1_1Lila_afa37a17df77ace1302088aaca69dbeee.html#afa37a17df77ace1302088aaca69dbeee" title="Registers a callback for server start events." alt="" coords="129,472,276,517"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="45,402,74,430,109,457,119,464,114,466,106,462,71,434,46,407"/>
+<area shape="rect" id="Node000016" href="$classLila_1_1Lila_af35871b7845a2c88bdcdd1249bb72d90.html#af35871b7845a2c88bdcdd1249bb72d90" title="Registers a callback for successful code evaluation." alt="" coords="124,540,281,568"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="37,402,62,464,82,498,109,527,116,532,110,534,106,531,78,501,57,466,37,407"/>
+<area shape="rect" id="Node000017" href="$lila__server_8cpp_a584651defbb462f67705814341745fe7.html#a584651defbb462f67705814341745fe7" title="Parses a string to a Lila::LogLevel value." alt="" coords="141,592,264,620"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="35,402,43,439,55,486,77,536,92,558,109,578,129,591,123,593,106,582,87,561,72,538,50,488,38,441,35,407"/>
+<area shape="rect" id="Node000018" href="$lila__server_8cpp_ac7608332d002ef2745359f4cada4afc8.html#ac7608332d002ef2745359f4cada4afc8" title="Prints usage information for the server binary." alt="" coords="154,644,251,672"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="34,402,39,448,49,509,71,574,88,604,110,630,123,640,141,649,136,650,121,645,106,634,83,607,66,576,44,510,34,449,34,407"/>
+<area shape="rect" id="Node000019" href="$lila__server_8cpp_a3b527c56ed133ee6815bfbc625e757af.html#a3b527c56ed133ee6815bfbc625e757af" title="Handles SIGINT and SIGTERM for graceful shutdown." alt="" coords="144,696,260,724"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="36,402,47,465,62,548,83,629,96,661,110,682,132,699,127,699,106,686,91,663,78,631,57,549,41,465,35,407"/>
+<area shape="rect" id="Node000003" href="$classLila_1_1Lila_ae6d11cedfffea22485c9d5329dfb3620.html#ae6d11cedfffea22485c9d5329dfb3620" title="Checks if the server is currently running." alt="" coords="349,5,491,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,31,336,30,331,33,299,35"/>
+<area shape="rect" id="Node000006" href="$classLila_1_1Lila_a0b9b46f17e79f52137d884f63146ff87.html#a0b9b46f17e79f52137d884f63146ff87" title=" " alt="" coords="350,75,490,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="259,154,296,142,352,124,349,127,298,148,262,158"/>
+<area shape="rect" id="Node000007" href="$classLila_1_1Lila_a7c2d950ad25518d046e63f9aba71bf64.html#a7c2d950ad25518d046e63f9aba71bf64" title=" " alt="" coords="350,144,490,189"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="271,167,337,166,333,169,274,171"/>
+<area shape="rect" id="Node000008" href="$classLila_1_1Lila_a20ca3ae2cc07e09e5394eba17871e6d0.html#a20ca3ae2cc07e09e5394eba17871e6d0" title=" " alt="" coords="555,144,691,189"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="489,164,542,165,537,168,491,169"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="490,184,561,207,556,208,491,190"/>
+<area shape="rect" id="Node000009" href="$classLila_1_1Lila_a070cf94c8302d0976cf369246996b96e.html#a070cf94c8302d0976cf369246996b96e" title="Escapes a string for safe JSON encoding." alt="" coords="751,152,914,180"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="690,164,738,165,733,167,692,169"/>
+<area shape="rect" id="Node000012" href="$classLila_1_1Commentator_ab024b3732ca10b7fb3da0b51efe5f1b1.html#ab024b3732ca10b7fb3da0b51efe5f1b1" title=" " alt="" coords="345,288,495,333"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="277,292,332,299,327,302,279,297"/>
+<area shape="poly" id="edge12_Node000012_Node000012" title=" " alt="" coords="381,287,380,278,387,269,400,263,420,261,442,264,456,272,451,273,440,269,420,267,401,269,390,273,385,279,386,288"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Lila::Lila::start_server" name="Lila::Lila::start_server">
+<area shape="rect" id="Node000001" title="Starts the TCP server for remote live coding." alt="" coords="5,44,167,72"/>
+<area shape="rect" id="Node000002" href="$classLila_1_1Lila_a7c2d950ad25518d046e63f9aba71bf64.html#a7c2d950ad25518d046e63f9aba71bf64" title=" " alt="" coords="215,36,354,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,56,201,58,196,59,167,61"/>
+<area shape="rect" id="Node000003" href="$classLila_1_1Lila_a20ca3ae2cc07e09e5394eba17871e6d0.html#a20ca3ae2cc07e09e5394eba17871e6d0" title=" " alt="" coords="414,5,549,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,45,396,41,401,40,355,50"/>
+<area shape="rect" id="Node000005" href="$classLila_1_1Lila_a2e7fa3e09220ec62ca411d7dee847410.html#a2e7fa3e09220ec62ca411d7dee847410" title="Stops the TCP server and disconnects all clients." alt="" coords="402,74,561,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="354,66,389,74,384,73,354,71"/>
+<area shape="rect" id="Node000004" href="$classLila_1_1Lila_a070cf94c8302d0976cf369246996b96e.html#a070cf94c8302d0976cf369246996b96e" title="Escapes a string for safe JSON encoding." alt="" coords="609,14,773,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="549,25,597,27,591,28,550,30"/>
+</map>

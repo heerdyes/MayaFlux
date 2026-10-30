@@ -1,0 +1,24 @@
+<map id="MayaFlux::Yantra::ConvolutionTransformer::ConvolutionTransformer" name="MayaFlux::Yantra::ConvolutionTransformer::ConvolutionTransformer">
+<area shape="rect" id="Node000001" title="Construct and configure a convolution transformer in one step." alt="" coords="5,195,269,239"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer_aceda525bf95eee89b2f7acdf6b1cc04c.html#aceda525bf95eee89b2f7acdf6b1cc04c" title="Add transformation key for multi&#45;dimensional transformations." alt="" coords="317,5,582,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,193,222,127,267,91,315,60,331,55,327,58,318,65,270,95,226,131,160,196"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ConvolutionTransformer_a10602064d45d9bb8321ec2741c6d8b48.html#a10602064d45d9bb8321ec2741c6d8b48" title="Constructs a ConvolutionTransformer with specified operation." alt="" coords="318,75,581,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,192,316,136,358,123,354,126,318,141,188,196"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer_aa787bdc8f1e1eb6da36f4ae9d000f623.html#aa787bdc8f1e1eb6da36f4ae9d000f623" title="Type&#45;safe parameter management with transformation&#45;specific defaults." alt="" coords="897,101,1101,146"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="245,192,316,180,469,161,622,146,884,129,879,131,622,151,469,166,317,185,248,197"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer_a7c264e7781dab83f55440d909ab16d8b.html#a7c264e7781dab83f55440d909ab16d8b" title="Set transformation intensity (0.0 = no transformation, 1.0 = full transformation)." alt="" coords="348,195,551,239"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="269,214,335,216,330,218,270,220"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer_aa79c73457b84e062329bf3f8782ed732.html#aa79c73457b84e062329bf3f8782ed732" title="Sets the transformation quality level." alt="" coords="348,264,551,309"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="241,237,335,259,330,261,241,243"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer_a7d66740e6fffc31d7140fe3746db6d9c.html#a7d66740e6fffc31d7140fe3746db6d9c" title="Sets the transformation scope." alt="" coords="348,333,551,378"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="171,237,238,278,318,319,337,328,332,328,316,323,236,283,171,242"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer_a58c588a05f0be691ba243137846f0106.html#a58c588a05f0be691ba243137846f0106" title="Sets the transformation strategy." alt="" coords="348,403,551,447"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="156,237,223,312,268,353,318,388,336,399,331,398,315,393,264,357,219,316,155,242"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ConvolutionTransformer_a85c0304af273a7392b541dc0ad831502.html#a85c0304af273a7392b541dc0ad831502" title="Sets default parameter values for all convolution operations." alt="" coords="630,58,849,120"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,91,617,92,612,93,582,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="850,101,884,108,879,108,850,106"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer_ae86a6743c591b4585419dbbd8698c4b4.html#ae86a6743c591b4585419dbbd8698c4b4" title="Transformation&#45;specific parameter handling (override for custom parameters)." alt="" coords="1149,50,1380,112"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1101,105,1136,102,1130,103,1102,110"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Reflect_a55410d139c7ce7efd95f82eb249562a7.html#a55410d139c7ce7efd95f82eb249562a7" title="Universal case&#45;insensitive string to enum converter using magic_enum." alt="" coords="1185,136,1344,197"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1101,137,1172,151,1166,151,1101,143"/>
+</map>

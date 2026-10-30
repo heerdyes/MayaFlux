@@ -1,0 +1,50 @@
+<map id="MayaFlux::IO::DelimitedTextWriter::DelimitedTextWriter" name="MayaFlux::IO::DelimitedTextWriter::DelimitedTextWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,204,212,249"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="60,204,59,194,67,185,84,179,109,177,136,180,154,187,149,190,135,185,108,183,85,185,70,189,64,195,65,203"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_aae921b0b46edfbd68eab94dcf162ae28.html#aae921b0b46edfbd68eab94dcf162ae28" title="Check for a .csv or .tsv output path." alt="" coords="514,185,720,230"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,220,500,210,497,214,213,225"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_aa22ab0bfa911313eb2404a75662201f6.html#aa22ab0bfa911313eb2404a75662201f6" title="Finalize and close the current file." alt="" coords="514,255,720,299"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,234,500,263,496,267,213,239"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a8a3179ed358ea47fc4e78ac15abef67a.html#a8a3179ed358ea47fc4e78ac15abef67a" title="Flush the current file without closing it." alt="" coords="260,75,466,119"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="139,202,194,165,258,129,275,124,271,128,261,134,197,170,143,205"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_ae5b38ad4299bda6b4859c7da1242f06e.html#ae5b38ad4299bda6b4859c7da1242f06e" title="Create or truncate a CSV or TSV file." alt="" coords="260,345,466,390"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="150,246,310,336,305,339,151,252"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a185d5411c03d338570de18c821626587.html#a185d5411c03d338570de18c821626587" title="Override the extension&#45;selected delimiter." alt="" coords="260,144,466,189"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="204,201,252,191,249,195,208,205"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a9c413529b174e02246f8f624c03d944c.html#a9c413529b174e02246f8f624c03d944c" title="Select whether a header record is written." alt="" coords="260,5,466,50"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="123,202,177,132,215,94,258,60,269,55,266,60,261,65,219,98,181,136,127,205"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a828aa791115c552bb7534d73d680ac61.html#a828aa791115c552bb7534d73d680ac61" title="Encode a bounded slice using the open file&#39;s layout." alt="" coords="260,719,466,763"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="123,247,347,704,341,706,119,251"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_aa50057c5dc2a3a11ace630b583487b82.html#aa50057c5dc2a3a11ace630b583487b82" title="Whether an output file is open." alt="" coords="768,191,975,235"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,252,767,238,763,241,710,256"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="466,102,589,118,656,131,721,146,768,163,814,183,809,184,767,168,720,152,655,136,589,123,468,107"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="384,343,440,292,475,264,513,240,526,235,522,239,515,245,478,269,443,296,388,347"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="426,343,540,303,536,307,429,347"/>
+<area shape="poly" id="edge11_Node000006_Node000004" title=" " alt="" coords="465,361,590,344,656,330,719,309,779,279,834,244,829,247,782,283,721,314,657,335,591,350,468,366"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1CompositeLayout_a72de478dc395559ec2bad49cfc499e62.html#a72de478dc395559ec2bad49cfc499e62" title="Declared fields in element order, with finalized byte offsets." alt="" coords="528,375,706,419"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="466,377,515,384,510,386,467,382"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1CompositeArray_a35d329f829da02eb1e4a2993e19e721c.html#a35d329f829da02eb1e4a2993e19e721c" title="Finalized layout shared by all elements." alt="" coords="530,444,704,489"/>
+<area shape="poly" id="edge12_Node000006_Node000008" title=" " alt="" coords="415,388,515,429,534,438,529,439,513,434,415,393"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1IO_af70273974a6d4e868b4c016d2f944547.html#af70273974a6d4e868b4c016d2f944547" title="Resolve a writable path against the configured output directory." alt="" coords="536,513,699,558"/>
+<area shape="poly" id="edge13_Node000006_Node000009" title=" " alt="" coords="384,388,441,443,477,473,515,499,527,506,521,507,513,503,474,477,438,447,384,393"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a64d4a88c0f55d941f33c9ca7a08d8269.html#a64d4a88c0f55d941f33c9ca7a08d8269" title=" " alt="" coords="768,599,975,643"/>
+<area shape="poly" id="edge14_Node000006_Node000010" title=" " alt="" coords="374,388,396,430,426,479,466,528,490,550,515,568,572,594,633,611,695,620,755,626,750,627,694,626,632,616,570,599,513,573,486,554,462,532,422,482,391,432,373,393"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="465,159,588,160,721,170,786,185,781,187,720,176,588,165,467,164"/>
+<area shape="poly" id="edge18_Node000012_Node000004" title=" " alt="" coords="465,39,591,65,657,85,721,109,782,142,834,181,829,181,779,147,719,114,656,90,589,70,467,44"/>
+<area shape="poly" id="edge21_Node000013_Node000004" title=" " alt="" coords="412,716,599,627,719,568,749,531,776,489,799,446,818,401,845,317,862,253,865,249,850,318,823,403,804,448,781,492,754,534,722,572,602,632,414,720"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Kakshya_1_1CompositeSlice_a2edc9200aec59d7ff7e14c7d8039039b.html#a2edc9200aec59d7ff7e14c7d8039039b" title="Borrow a selected element by slice&#45;relative index." alt="" coords="538,753,696,798"/>
+<area shape="poly" id="edge20_Node000013_Node000014" title=" " alt="" coords="466,752,525,762,520,763,467,758"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1CompositeSlice_a7f9f8f86682cfdca8893139d1192b7a0.html#a7f9f8f86682cfdca8893139d1192b7a0" title="Shared layout of all selected elements." alt="" coords="532,823,703,867"/>
+<area shape="poly" id="edge22_Node000013_Node000015" title=" " alt="" coords="411,761,515,808,534,817,528,817,513,813,410,766"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Kakshya_1_1CompositeSlice_a6dfb6e1e7083f835e305ed45e70c14da.html#a6dfb6e1e7083f835e305ed45e70c14da" title="Number of selected elements." alt="" coords="538,892,696,937"/>
+<area shape="poly" id="edge23_Node000013_Node000016" title=" " alt="" coords="384,761,440,819,476,850,515,877,527,886,522,885,513,882,473,854,437,823,382,766"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a9ef28ab3f3fce06513b8ef22a08db8c8.html#a9ef28ab3f3fce06513b8ef22a08db8c8" title=" " alt="" coords="514,684,720,729"/>
+<area shape="poly" id="edge24_Node000013_Node000017" title=" " alt="" coords="466,724,501,722,496,723,467,729"/>
+<area shape="poly" id="edge29_Node000017_Node000010" title=" " alt="" coords="685,681,791,648,786,650,687,686"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kakshya_1_1Composite_af9705b06dcff905f24c24913671a3703.html#af9705b06dcff905f24c24913671a3703" title="Whether a named field exists and is present in this element." alt="" coords="1023,715,1180,759"/>
+<area shape="poly" id="edge25_Node000017_Node000018" title=" " alt="" coords="721,705,843,709,975,717,1010,723,1005,723,974,722,842,714,721,710"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kakshya_1_1Composite_a16d07a50dd894cc938a3606fc7294596.html#a16d07a50dd894cc938a3606fc7294596" title="Read a present std::string field as borrowed UTF&#45;8 bytes." alt="" coords="793,756,950,801"/>
+<area shape="poly" id="edge26_Node000017_Node000019" title=" " alt="" coords="699,727,780,752,775,752,699,732"/>
+<area shape="poly" id="edge27_Node000019_Node000018" title=" " alt="" coords="950,762,1010,753,1005,754,951,767"/>
+<area shape="poly" id="edge28_Node000019_Node000019" title=" " alt="" coords="828,754,826,746,834,737,849,731,872,729,896,732,913,741,907,741,895,737,871,735,850,737,837,741,831,747,832,757"/>
+</map>

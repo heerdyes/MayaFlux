@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kriya::BufferPipeline::route_image" name="MayaFlux::Kriya::BufferPipeline::route_image">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,144,232,189"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kriya_1_1detail_a4c3f6e760338c532bd4bb057135bc520.html#a4c3f6e760338c532bd4bb057135bc520" title="Whether the buffer holds its frames as layers that can be written one at a time." alt="" coords="307,5,479,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,141,207,100,278,60,297,54,292,57,281,65,210,105,151,145"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1BufferCapture_a32a47d29f53ef9f9f9e143e6992bc531.html#a32a47d29f53ef9f9f9e143e6992bc531" title="Return the configured graphics source." alt="" coords="280,75,506,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,141,289,122,285,125,211,146"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_ae3432cb2bed402941236115ea71cdc5b.html#ae3432cb2bed402941236115ea71cdc5b" title=" " alt="" coords="280,144,506,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,164,266,165,261,167,233,169"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kriya_1_1detail_a5d67025051cc2fc258bb52e247084a9a.html#a5d67025051cc2fc258bb52e247084a9a" title="The GPU image a buffer displays, or null when it has none to copy from." alt="" coords="307,213,479,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="210,187,294,209,289,211,210,192"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kriya_1_1detail_a31ae829503ec085adf440e7dff5b1749.html#a31ae829503ec085adf440e7dff5b1749" title="Write a DataVariant into one layer of a layered buffer." alt="" coords="307,283,479,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,187,210,228,281,268,297,277,292,276,278,273,207,232,149,192"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_afa023b19b2c5da8c14e9de60820601b1.html#afa023b19b2c5da8c14e9de60820601b1" title="Extract a TextureAccess from a DataVariant." alt="" coords="554,283,711,327"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="479,302,541,305,536,305,480,308"/>
+</map>

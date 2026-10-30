@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Network::ModalNetwork" name="MayaFlux::Nodes::Network::ModalNetwork">
+<area shape="rect" id="Node000001" title="Network of resonant modes for modal synthesis." alt="" coords="97,1201,327,1938"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork.html" title="Abstract base class for structured collections of nodes with defined relationships." alt="" coords="5,302,200,1128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,1140,168,1201,162,1201,157,1145"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Nodes_1_1RoutingState.html" title="Represents the state of routing transitions for a node." alt="" coords="12,16,194,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,215,105,285,100,285,103,220"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Stochastic.html" title="Unified generative infrastructure for stochastic and procedural algorithms." alt="" coords="224,340,422,1089"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,1086,265,1185,259,1184,274,1091"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kinesis_1_1Stochastic_1_1GeneratorState.html" title="Encapsulates internal state for stateful generators." alt="" coords="230,5,415,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="323,226,325,324,320,324,323,231"/>
+</map>

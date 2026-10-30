@@ -1,0 +1,17 @@
+<map id="MayaFlux::IO::SoundFileWriter::post" name="MayaFlux::IO::SoundFileWriter::post">
+<area shape="rect" id="Node000001" title=" " alt="" coords="538,144,756,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1SoundFileWriter_a726a9340a5dbcb5f64b3c9e0ff877e7f.html#a726a9340a5dbcb5f64b3c9e0ff877e7f" title="Post a close command to the worker." alt="" coords="272,40,490,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,137,489,99,457,88,457,82,491,95,587,137"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1SoundFileWriter_af3e6de50c1028916dae873cb1400fca6.html#af3e6de50c1028916dae873cb1400fca6" title="Post one AudioBuffer&#39;s mono sample data to the work queue." alt="" coords="272,109,490,154"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="520,150,491,149,490,143,525,150"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1SoundFileWriter_a91d3184865630d0e08f21faa6cf92dc7.html#a91d3184865630d0e08f21faa6cf92dc7" title="Post planar per&#45;channel data to the work queue." alt="" coords="272,179,490,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="520,183,491,189,490,184,525,182"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1SoundFileWriter_a9ea21021cba109d3f0f539405f850196.html#a9ea21021cba109d3f0f539405f850196" title="Post interleaved double&#45;precision frames to the work queue." alt="" coords="272,248,490,293"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="587,195,491,238,457,250,456,245,489,233,582,196"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1SoundFileWriter_ad8376672e5b9d219f594137838223270.html#ad8376672e5b9d219f594137838223270" title=" " alt="" coords="5,5,224,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,47,225,44,223,39,259,45"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1SoundFileWriter_addf83d5a5c2ab910fcf92e43848177e3.html#addf83d5a5c2ab910fcf92e43848177e3" title=" " alt="" coords="5,75,224,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,80,225,85,223,80,258,77"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1SoundFileWriter_a59bb813328ff757df3353f10312116b1.html#a59bb813328ff757df3353f10312116b1" title="Post a SoundStreamContainer&#39;s planar channel data to the work queue." alt="" coords="5,248,224,293"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="253,270,224,273,224,268,259,270"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MayaFlux::Yantra::VisionGpuExecutor::build_flow_pyramid" name="MayaFlux::Yantra::VisionGpuExecutor::build_flow_pyramid">
+<area shape="rect" id="Node000001" title="Build the current frame&#39;s pyramid atlas from the working image." alt="" coords="693,21,875,82"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_ab77cf73e1042f5d71bc32153024fa296.html#ab77cf73e1042f5d71bc32153024fa296" title="Run any work a finished step owes the flow context." alt="" coords="464,29,645,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,52,646,54,646,49,681,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="591,14,578,10,555,8,533,10,520,15,515,21,516,30,511,27,510,19,517,10,532,5,555,3,580,5,596,15"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="235,29,416,74"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="446,52,416,54,416,49,451,52"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="361,14,349,10,325,8,304,10,291,15,285,21,286,30,282,27,280,19,288,10,303,5,325,3,350,5,366,14"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,29,187,74"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="217,52,187,54,187,49,222,51"/>
+</map>

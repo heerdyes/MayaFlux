@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::VertexLayout::find_word_offset" name="MayaFlux::Kakshya::VertexLayout::find_word_offset">
+<area shape="rect" id="Node000001" title="Word offset of the attribute matching the given modality, if any." alt="" coords="1167,48,1345,110"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Buffers_1_1SpatialHashConfig_a773f373af70d50e089f73f22ebca5fcc.html#a773f373af70d50e089f73f22ebca5fcc" title="Build hash grid parameters from a NetworkGeometryBuffer&#39;s network and its primary operator." alt="" coords="940,48,1119,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1149,79,1120,81,1119,76,1154,79"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_aaacb4c11779dc9cc883cf7425bc2e2c7.html#aaacb4c11779dc9cc883cf7425bc2e2c7" title="Find the first GpuFieldOperator in the network&#39;s operator chain and wire its compute stages: a Vertex..." alt="" coords="711,48,892,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="921,79,892,81,892,76,926,79"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_ad2976671728be8e38c0768ea2571c4df.html#ad2976671728be8e38c0768ea2571c4df" title="Initialize the buffer and its processors." alt="" coords="483,48,663,110"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="693,79,664,81,664,76,699,79"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1NetworkTextureBuffer_a4bb2294612914bf39dca7b39bf148a3b.html#a4bb2294612914bf39dca7b39bf148a3b" title="Wire processors into the chain." alt="" coords="254,5,417,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,60,417,53,417,48,471,60"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_a37a27815e9a0e498dcb08085593bf0f0.html#a37a27815e9a0e498dcb08085593bf0f0" title=" " alt="" coords="236,91,435,152"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="470,97,436,106,435,101,465,98"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1NetworkTextureBuffer_abdff0b4c91062556dea2ec33a3844ece.html#abdff0b4c91062556dea2ec33a3844ece" title=" " alt="" coords="5,5,188,67"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="236,37,189,39,188,34,241,35"/>
+</map>

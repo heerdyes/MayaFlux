@@ -1,0 +1,44 @@
+<map id="MayaFlux::Kakshya::Region::Region" name="MayaFlux::Kakshya::Region::Region">
+<area shape="rect" id="Node000001" title=" " alt="" coords="738,352,896,397"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kakshya_1_1Region_a172ebfd652ef6db98cce98051ac10fe8.html#a172ebfd652ef6db98cce98051ac10fe8" title="Create a Region for a single audio sample/channel location." alt="" coords="532,5,690,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="807,336,795,279,772,206,737,131,715,96,688,64,676,53,676,48,692,60,719,93,742,128,777,204,800,277,812,338"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kakshya_1_1Region_a182856464b376cd037d3473fa34e67d7.html#a182856464b376cd037d3473fa34e67d7" title="Create a Region representing a span in audio (frames and channels)." alt="" coords="532,75,690,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="803,336,786,292,762,238,730,182,688,134,675,123,675,117,692,130,734,179,767,235,791,290,808,338"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Kakshya_1_1Region_af41b77529b4917c5b96b993d07e27ed2.html#af41b77529b4917c5b96b993d07e27ed2" title="Create a Region representing a rectangular region in an image." alt="" coords="532,144,690,189"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="795,338,752,271,722,235,689,203,673,192,673,186,692,199,726,232,756,268,800,339"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Kakshya_1_1Region_a35df2c7f0d91ff4c1875f34a5fbe1209.html#a35df2c7f0d91ff4c1875f34a5fbe1209" title="Inequality comparison for Regions." alt="" coords="532,213,690,258"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="779,341,737,307,689,273,669,261,669,256,692,268,741,303,784,341"/>
+<area shape="rect" id="Node000011" href="$structMayaFlux_1_1Kakshya_1_1Region_af4f2267033ef69e788c07f9d7ac0b5ca.html#af4f2267033ef69e788c07f9d7ac0b5ca" title="Equality comparison for Regions." alt="" coords="532,283,690,327"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="732,347,680,331,680,325,737,346"/>
+<area shape="rect" id="Node000012" href="$structMayaFlux_1_1Kakshya_1_1Region_aab34f3a97a127d19a65350ce6d6ac42e.html#aab34f3a97a127d19a65350ce6d6ac42e" title="Check if this region overlaps with another region." alt="" coords="532,352,690,397"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="720,375,691,377,690,372,725,374"/>
+<area shape="rect" id="Node000013" href="$structMayaFlux_1_1Kakshya_1_1Region_a83c97d39ebb40e5058b9bfbd43ee846e.html#a83c97d39ebb40e5058b9bfbd43ee846e" title="Scale the region about its center by the given factors." alt="" coords="532,421,690,466"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="732,403,681,423,679,418,737,401"/>
+<area shape="rect" id="Node000014" href="$structMayaFlux_1_1Kakshya_1_1Region_af9de36901f8f5d8a9e579617abe7ed10.html#af9de36901f8f5d8a9e579617abe7ed10" title="Create a Region representing a single time point (e.g., a frame or sample)." alt="" coords="532,491,690,535"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="783,406,741,445,692,481,670,493,668,488,689,476,737,441,779,409"/>
+<area shape="rect" id="Node000016" href="$structMayaFlux_1_1Kakshya_1_1Region_a1b041dac695640864ce6456f0815df4c.html#a1b041dac695640864ce6456f0815df4c" title="Create a Region representing a time span (e.g., a segment of frames)." alt="" coords="532,560,690,605"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="799,408,756,480,726,517,692,550,674,562,672,557,689,546,722,513,752,477,795,412"/>
+<area shape="rect" id="Node000020" href="$structMayaFlux_1_1Kakshya_1_1Region_a267ac23e75ac406358ef9c74d559e8bb.html#a267ac23e75ac406358ef9c74d559e8bb" title="Translate the region by an offset vector." alt="" coords="532,629,690,674"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="807,410,791,459,767,513,734,569,692,619,676,631,674,626,688,615,730,566,762,511,786,457,803,413"/>
+<area shape="rect" id="Node000021" href="$structMayaFlux_1_1Kakshya_1_1Region_aa38b2cface936131840c4751bf1ab38e.html#aa38b2cface936131840c4751bf1ab38e" title="Create a Region representing a region in a video (frames and spatial rectangle)." alt="" coords="532,699,690,743"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="812,410,800,471,777,544,742,620,719,656,692,688,677,701,675,696,688,684,715,653,737,618,772,543,795,470,808,414"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1StreamSlice_a793abc8317d039e33107830847eb14fc.html#a793abc8317d039e33107830847eb14fc" title="Construct a slice spanning a frame sub&#45;region across all channels." alt="" coords="256,5,484,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="515,71,451,53,450,48,520,69"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1StreamSlice_a50a401098128db62668f45ed10e7fe5a.html#a50a401098128db62668f45ed10e7fe5a" title="Construct a slice spanning a frame and channel sub&#45;region." alt="" coords="277,75,463,119"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="515,98,465,99,463,95,519,96"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1StreamSlice_aee77dabfe2df2a0bdc9de61d21f61ef0.html#aee77dabfe2df2a0bdc9de61d21f61ef0" title="Construct a slice spanning the full stream across all channels." alt="" coords="274,144,466,189"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="516,125,452,146,449,141,520,122"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1SamplingPipeline_a91589d9604a3073b7be70e0911653a47.html#a91589d9604a3073b7be70e0911653a47" title="Construct a slice spanning a frame sub&#45;region." alt="" coords="8,5,205,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,29,207,30,203,25,242,26"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kriya_1_1SamplingPipeline_a2df0885bf079676c5cbf1edc69347855.html#a2df0885bf079676c5cbf1edc69347855" title="Construct a slice spanning the full stream." alt="" coords="5,144,208,189"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="256,168,210,169,207,164,261,165"/>
+<area shape="rect" id="Node000015" href="$structMayaFlux_1_1IO_1_1FileRegion_a3e60dc74e7f6385377e4b66bd154192f.html#a3e60dc74e7f6385377e4b66bd154192f" title="Convert this FileRegion to a Region for use in processing." alt="" coords="278,491,462,535"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="515,514,462,516,461,510,520,512"/>
+<area shape="poly" id="edge19_Node000016_Node000015" title=" " alt="" coords="515,556,450,539,450,533,521,555"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a1c63bd4249d63fc2ba58568bedf63ebc.html#a1c63bd4249d63fc2ba58568bedf63ebc" title="Enable or disable looping behavior for the stream." alt="" coords="284,560,456,621"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="515,586,457,590,456,585,520,585"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kakshya_1_1DynamicSoundStream_ab68f447003a3786f4d2add7eb52cd9c3.html#ab68f447003a3786f4d2add7eb52cd9c3" title="Disable circular buffer mode and return to linear operation." alt="" coords="19,517,194,578"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="266,575,194,564,194,559,271,573"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kakshya_1_1DynamicSoundStream_a9cfe8b08aab3f3a06d83844e3d0ac864.html#a9cfe8b08aab3f3a06d83844e3d0ac864" title="Enable circular buffer mode with fixed capacity." alt="" coords="19,602,194,664"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="266,608,195,621,193,616,271,606"/>
+</map>

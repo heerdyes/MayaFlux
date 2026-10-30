@@ -1,0 +1,37 @@
+<map id="MayaFlux::Buffers::TokenUnitManager::~TokenUnitManager" name="MayaFlux::Buffers::TokenUnitManager::~TokenUnitManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,537,231,599"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_ac106d4312b648bc603da6f94732ab324.html#ac106d4312b648bc603da6f94732ab324" title="Ensures a root audio unit exists for a specific token and channel." alt="" coords="279,60,473,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,536,134,459,162,354,183,298,208,241,239,187,277,139,289,129,286,134,281,142,244,190,213,244,188,300,167,356,140,460,126,537"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a07357824fe6b9475bda41f8b45668eb3.html#a07357824fe6b9475bda41f8b45668eb3" title="Ensures an audio unit exists and resizes it to the specified channel count." alt="" coords="521,9,715,71"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="121,536,141,425,175,276,196,202,220,135,247,81,262,61,277,46,303,30,330,18,389,5,449,4,508,11,503,14,449,9,389,11,332,23,305,35,280,50,266,65,252,84,225,137,201,204,180,278,146,426,127,537"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_ac9fd8c50e96db19443030c7582b9cc20.html#ac9fd8c50e96db19443030c7582b9cc20" title="Gets or creates a root audio unit for the specified token." alt="" coords="763,103,935,164"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="119,536,130,462,156,364,177,313,203,264,236,219,277,182,313,164,362,151,421,141,486,134,624,128,750,129,745,132,624,133,487,139,421,146,363,156,315,169,280,187,240,223,208,267,182,315,161,366,136,463,124,537"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a012057e576d30bf8dce1f3870d59a4dd.html#a012057e576d30bf8dce1f3870d59a4dd" title="Gets all active audio processing tokens." alt="" coords="290,196,462,258"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="126,536,146,480,177,409,221,334,247,299,277,268,283,265,280,270,281,272,251,303,225,337,182,411,151,482,131,538"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a96ed4545e23eca0cc7f2f745551d861c.html#a96ed4545e23eca0cc7f2f745551d861c" title="Gets all active graphics processing tokens." alt="" coords="286,281,466,343"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="133,536,190,447,230,397,277,353,284,350,281,354,280,357,234,401,194,450,138,538"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_ad321d898c2e645c2e302cd61cf931baa.html#ad321d898c2e645c2e302cd61cf931baa" title="Gets the buffer size for an audio unit." alt="" coords="290,367,462,428"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="151,536,208,487,277,438,288,434,284,438,280,443,212,491,155,539"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a024917026d236981dc80eacbda01cb23.html#a024917026d236981dc80eacbda01cb23" title="Gets the number of channels in an audio unit." alt="" coords="290,452,462,514"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="212,535,277,514,274,518,215,539"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a1fec27437763c5bec8ff1f2bcedd1a79.html#a1fec27437763c5bec8ff1f2bcedd1a79" title="Gets an existing audio unit without creating if missing." alt="" coords="290,537,462,599"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="230,566,277,567,272,570,233,571"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a4d8b6658b8ba5a37086de5f4ddc07f88.html#a4d8b6658b8ba5a37086de5f4ddc07f88" title="Gets an existing audio unit without creating if missing (mutable)." alt="" coords="290,623,462,684"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="212,597,278,619,273,622,214,602"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_ac67f221d25b3aff5146283dc5c78f20f.html#ac67f221d25b3aff5146283dc5c78f20f" title="Gets an existing graphics unit without creating if missing." alt="" coords="290,708,462,770"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="152,597,212,646,280,694,289,700,284,701,277,699,208,650,153,602"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a0e7b0fe7658405d81011637c27121499.html#a0e7b0fe7658405d81011637c27121499" title="Gets an existing graphics unit without creating if missing (mutable)." alt="" coords="288,793,464,855"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="136,597,194,686,234,736,280,780,285,784,280,785,277,784,230,739,190,690,136,602"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a70155d77198bd5159c5cf72c3682be0b.html#a70155d77198bd5159c5cf72c3682be0b" title="Gets or creates a root graphics unit for the specified token." alt="" coords="284,879,468,940"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="128,597,151,655,182,725,225,799,251,834,281,865,284,869,279,869,277,869,247,837,221,802,177,728,146,657,128,602"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a4531a511fff4b519167f92818c4e6ed6.html#a4531a511fff4b519167f92818c4e6ed6" title="Checks if an audio unit exists for the given token." alt="" coords="289,964,462,1026"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="124,597,142,669,171,763,191,813,216,862,246,909,281,951,283,954,278,954,277,954,241,912,211,865,186,815,166,765,137,671,124,602"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_adfa3bbc2ff0dea134e10dce005d61dee.html#adfa3bbc2ff0dea134e10dce005d61dee" title="Checks if a graphics unit exists for the given token." alt="" coords="289,1049,462,1111"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="122,597,135,684,160,799,181,862,207,924,240,983,281,1036,283,1040,277,1039,277,1039,236,986,202,927,176,864,155,801,130,685,121,602"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1TokenUnitManager_a015dbdf905331183c1737a227efd6a99.html#a015dbdf905331183c1737a227efd6a99" title="Resizes all buffers in an audio unit to the specified size." alt="" coords="524,656,713,718"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="124,597,144,717,177,876,198,956,222,1028,250,1085,265,1106,280,1121,329,1150,353,1157,375,1159,398,1156,422,1149,471,1121,513,1082,546,1035,572,983,590,928,602,872,610,820,616,735,619,731,615,820,607,873,595,929,577,985,551,1038,517,1086,475,1125,424,1154,399,1162,375,1164,352,1162,327,1154,277,1125,261,1109,245,1088,218,1030,193,958,172,878,139,718,123,602"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,68,508,62,504,66,475,73"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="473,97,750,123,746,126,474,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="695,69,760,96,755,97,697,74"/>
+<area shape="poly" id="edge19_Node000016_Node000004" title=" " alt="" coords="630,654,827,180,831,177,635,657"/>
+</map>

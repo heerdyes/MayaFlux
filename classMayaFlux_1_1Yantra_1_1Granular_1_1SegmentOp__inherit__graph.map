@@ -1,0 +1,19 @@
+<map id="MayaFlux::Yantra::Granular::SegmentOp" name="MayaFlux::Yantra::Granular::SegmentOp">
+<area shape="rect" id="Node000001" title="Segments container audio into fixed hop&#45;size grain windows." alt="" coords="417,2839,611,2995"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1FeatureExtractor.html" title=" " alt="" coords="396,2264,632,2789"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="516,2802,516,2840,512,2837,513,2806"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1UniversalExtractor.html" title=" " alt="" coords="258,1465,503,2169"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,2181,468,2264,462,2264,449,2186"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title=" " alt="" coords="7,735,256,1344"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,1356,271,1465,265,1465,234,1361"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="5,5,255,615"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,627,134,735,128,735,131,632"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1UniversalExtractor.html" title="Template&#45;flexible extractor base with instance&#45;defined I/O types." alt="" coords="281,688,526,1392"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="393,1404,394,1465,388,1464,392,1409"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="279,5,528,615"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="404,627,406,688,401,688,403,632"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1FeatureExtractor.html" title="Analyzer&#45;guided feature extractor with enum&#45;based configuration." alt="" coords="528,1540,772,2093"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="596,2105,567,2265,562,2263,593,2110"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="558,978,742,1101"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="651,1114,653,1541,648,1540,649,1119"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="MayaFlux::Yantra::GpuDispatchCore::set_push_constants" name="MayaFlux::Yantra::GpuDispatchCore::set_push_constants">
+<area shape="rect" id="Node000001" title="Set push constant data from a raw byte pointer." alt="" coords="736,160,961,205"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a85b6496d55a7d154861cd5f79bb614b6.html#a85b6496d55a7d154861cd5f79bb614b6" title="Label components in the current image on the GPU." alt="" coords="476,5,677,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="802,151,749,117,687,81,664,70,664,65,690,76,752,112,807,152"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aca2a28eb59977030ab7963605d9e87bc.html#aca2a28eb59977030ab7963605d9e87bc" title="Trace contours from the immediately preceding component labels." alt="" coords="466,91,687,136"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="740,156,667,139,667,134,746,156"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_abfe41e3a1963c06d5cd88813d4dbc9da.html#abfe41e3a1963c06d5cd88813d4dbc9da" title=" " alt="" coords="464,160,688,205"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="718,183,689,185,689,180,724,183"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_a57de3e223282186a4c6a8a425a86a27d.html#a57de3e223282186a4c6a8a425a86a27d" title="Set push constants from a trivially copyable struct or value." alt="" coords="483,230,669,274"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="746,209,667,232,666,227,740,210"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ab7fb632f513794cf4999868fd900efcc.html#ab7fb632f513794cf4999868fd900efcc" title="Typed convenience wrapper for set_push_constants(const void*, size_t)." alt="" coords="464,299,688,344"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="808,214,753,254,689,289,660,301,659,296,687,284,750,249,803,216"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="235,52,416,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,55,417,63,415,58,462,53"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="361,38,349,34,325,31,304,33,291,38,285,44,287,53,282,51,280,42,288,33,303,28,325,26,350,28,366,37"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,52,187,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,76,188,77,186,72,222,73"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="447,95,417,91,416,86,453,93"/>
+</map>

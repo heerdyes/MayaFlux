@@ -1,0 +1,9 @@
+<map id="MayaFlux::choose_audio_bounded" name="MayaFlux::choose_audio_bounded">
+<area shape="rect" id="Node000001" title="Present a native open&#45;file dialog filtered to audio formats and load the chosen file via IOManager::l..." alt="" coords="255,49,437,94"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_aa720d9a11b0f2dd92f3997b8a3065162.html#aa720d9a11b0f2dd92f3997b8a3065162" title="Construct a built SamplingPipeline from a file picked in a dialog." alt="" coords="9,5,203,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,49,173,36,173,31,242,47"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_a3cdbc7a526bb8acc621e0342237710ce.html#a3cdbc7a526bb8acc621e0342237710ce" title="Construct one built SamplingPipeline per channel from a file picked in a dialog." alt="" coords="5,57,207,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,72,208,74,207,69,242,71"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_a56f3a691551ac448a2708a1d0d39723d.html#a56f3a691551ac448a2708a1d0d39723d" title="Begin describing several taps that read a file picked in a dialog." alt="" coords="11,109,201,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,94,174,111,173,106,237,95"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Network::AssemblyOperator::get_vertex_count" name="MayaFlux::Nodes::Network::AssemblyOperator::get_vertex_count">
+<area shape="rect" id="Node000001" title="Get number of vertices (may differ from point count for topology/path)." alt="" coords="289,133,486,195"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1AssemblyOperator_a10c41e7078ad31687f1805b0eb952ead.html#a10c41e7078ad31687f1805b0eb952ead" title="One cluster id per item; coincides with get_vertex_count() since items carry no interpolation step of..." alt="" coords="24,5,222,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,126,239,81,215,70,214,65,242,76,327,124"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1AssemblyOperator_a0b9641db660d6f5084af63f0b6eda246.html#a0b9641db660d6f5084af63f0b6eda246" title="Get source point count (before topology expansion)." alt="" coords="24,91,222,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,147,222,140,222,135,276,145"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1AssemblyOperator_a99224e0ec0ebbf01385e50d86c218adb.html#a99224e0ec0ebbf01385e50d86c218adb" title="The universal Kakshya::Vertex attribute layout, vertex_count 0 when there are no items yet." alt="" coords="24,176,222,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,183,223,193,221,188,276,182"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1AssemblyOperator_a31e4391c350aea4eb7ff22a3d53e60fc.html#a31e4391c350aea4eb7ff22a3d53e60fc" title="Query operator internal state." alt="" coords="5,262,241,306"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="329,203,242,252,211,264,209,259,240,247,324,204"/>
+</map>

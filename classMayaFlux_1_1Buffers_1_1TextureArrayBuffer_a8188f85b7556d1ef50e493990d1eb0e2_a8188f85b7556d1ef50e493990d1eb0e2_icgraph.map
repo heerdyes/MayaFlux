@@ -1,0 +1,13 @@
+<map id="MayaFlux::Buffers::TextureArrayBuffer::bind_layer_data" name="MayaFlux::Buffers::TextureArrayBuffer::bind_layer_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="603,91,755,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a0ef07c36be777043835d06235ad2d438.html#a0ef07c36be777043835d06235ad2d438" title="Create the per&#45;layer buffer the shader reads as layerData." alt="" coords="404,48,555,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,102,556,98,556,92,591,102"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a9501e9ea05d88ab230cb6491a9e03470.html#a9501e9ea05d88ab230cb6491a9e03470" title="Setup rendering with RenderProcessor." alt="" coords="404,133,555,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="591,141,556,151,555,145,585,141"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_af10da116dad7523d9bec18225b679e02.html#af10da116dad7523d9bec18225b679e02" title=" " alt="" coords="205,48,356,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,79,357,81,356,76,391,78"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a178fe919a629041b190cdd25a5dde26b.html#a178fe919a629041b190cdd25a5dde26b" title="Set the params of one layer, layerData[2 * layer]." alt="" coords="5,5,157,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,60,157,55,157,50,192,59"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a759d53da225454d524585665cf83af1a.html#a759d53da225454d524585665cf83af1a" title="Set the timing of one layer, layerData[2 * layer + 1]." alt="" coords="5,91,157,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,99,158,108,156,103,192,97"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="MayaFlux::Kakshya::VideoStreamContainer::get_processing_state" name="MayaFlux::Kakshya::VideoStreamContainer::get_processing_state">
+<area shape="rect" id="Node000001" title="Get the current processing state of the container." alt="" coords="930,48,1098,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1VideoStreamContainer_ae11a6aebfd95ab9dafcb84ac2d2fa7ab.html#ae11a6aebfd95ab9dafcb84ac2d2fa7ab" title="Check if the container is ready for processing." alt="" coords="695,5,882,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="912,60,882,57,882,51,917,60"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a768e1da65e2b653f281c2e6a28c5b223.html#a768e1da65e2b653f281c2e6a28c5b223" title=" " alt="" coords="703,91,874,152"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="912,98,875,108,874,103,917,97"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1VideoStreamContainer_ad119ceeea666b00728bcb4d087d54f19.html#ad119ceeea666b00728bcb4d087d54f19" title="Process the container&#39;s data using the default processor." alt="" coords="478,5,646,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="677,37,647,39,646,34,682,36"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1CameraContainer_a55cca5bc67bab9ac239a43d15646419e.html#a55cca5bc67bab9ac239a43d15646419e" title="Override to fire request_frame after each processor cycle." alt="" coords="230,5,423,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,37,424,39,423,34,464,35"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a42e2d6236d9f2439174e1c6fafd45c7b.html#a42e2d6236d9f2439174e1c6fafd45c7b" title="Keep only the most recent capacity frames." alt="" coords="476,91,647,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="685,122,648,124,648,119,690,121"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_afc07027b51f5f0167e6d9d6e911f0b7d.html#afc07027b51f5f0167e6d9d6e911f0b7d" title=" " alt="" coords="476,176,647,238"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="693,157,646,178,645,173,688,159"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_ad6c9c3b8363c07af06006e1577563e07.html#ad6c9c3b8363c07af06006e1577563e07" title="Drop every frame and restart the write head at zero." alt="" coords="225,99,428,144"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="458,122,429,124,428,119,463,121"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a61fd1c056645c36e53dea515cbdc5dc8.html#a61fd1c056645c36e53dea515cbdc5dc8" title="Download a GPU image straight into the next frame slot." alt="" coords="241,172,412,234"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="458,206,413,207,412,202,463,205"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_af51e41b3705da656c94f859230337326.html#af51e41b3705da656c94f859230337326" title="Write one frame at the write head and advance it." alt="" coords="241,257,412,319"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="464,241,413,261,412,256,459,242"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a42dc09877d26a4868f362f9b2e317d15.html#a42dc09877d26a4868f362f9b2e317d15" title="Write one image, for example one read back from a GPU image." alt="" coords="5,257,177,319"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="223,288,177,291,177,286,228,288"/>
+</map>

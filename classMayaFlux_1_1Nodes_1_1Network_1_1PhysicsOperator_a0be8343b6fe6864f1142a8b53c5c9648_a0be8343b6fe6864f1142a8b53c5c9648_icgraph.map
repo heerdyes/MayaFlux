@@ -1,0 +1,9 @@
+<map id="MayaFlux::Nodes::Network::PhysicsOperator::get_vertex_count" name="MayaFlux::Nodes::Network::PhysicsOperator::get_vertex_count">
+<area shape="rect" id="Node000001" title="Get number of vertices (may differ from point count for topology/path)." alt="" coords="251,91,448,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PhysicsOperator_aa98158763bc91abccb4eb35182e34c72.html#aa98158763bc91abccb4eb35182e34c72" title="Per&#45;particle collection index, global index order." alt="" coords="5,5,203,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,86,195,70,195,65,247,84"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PhysicsOperator_a4a5452d43c9d461a2c348b78a1ad6be9.html#a4a5452d43c9d461a2c348b78a1ad6be9" title="Get vertex layout describing vertex structure." alt="" coords="5,91,203,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,122,204,124,203,119,238,121"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PhysicsOperator_a99411015af9da1e5754e9c7b01e5bcf7.html#a99411015af9da1e5754e9c7b01e5bcf7" title="Seed physics state from upstream operator&#39;s vertex data." alt="" coords="5,176,203,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,157,196,178,194,173,242,159"/>
+</map>

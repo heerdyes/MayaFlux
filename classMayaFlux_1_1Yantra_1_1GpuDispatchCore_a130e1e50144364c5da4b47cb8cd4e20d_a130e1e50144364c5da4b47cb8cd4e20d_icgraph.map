@@ -1,0 +1,22 @@
+<map id="MayaFlux::Yantra::GpuDispatchCore::stage_image_at" name="MayaFlux::Yantra::GpuDispatchCore::stage_image_at">
+<area shape="rect" id="Node000001" title="Register a VKImage at an explicit binding index." alt="" coords="766,175,991,219"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a2db6a6533f028f5a3cd5c51301bd1e25.html#a2db6a6533f028f5a3cd5c51301bd1e25" title="Stages the pending TextureContainer at the declared input image binding and, in CONTAINER or IMAGE mo..." alt="" coords="235,20,443,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="854,161,830,129,799,93,761,59,717,33,684,21,649,14,578,8,508,13,445,23,443,19,507,8,578,3,650,8,685,16,719,28,764,54,802,89,834,126,859,162"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a85b6496d55a7d154861cd5f79bb614b6.html#a85b6496d55a7d154861cd5f79bb614b6" title="Label components in the current image on the GPU." alt="" coords="504,128,705,189"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="748,179,706,175,706,170,753,179"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aca2a28eb59977030ab7963605d9e87bc.html#aca2a28eb59977030ab7963605d9e87bc" title="Trace contours from the immediately preceding component labels." alt="" coords="494,213,715,258"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="748,216,716,223,715,218,753,215"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a68c56cab9f4e440798a712fd9131cae5.html#a68c56cab9f4e440798a712fd9131cae5" title="Allocates the output storage image and stages it at the declared output binding." alt="" coords="508,42,701,104"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="820,167,717,118,692,107,692,102,719,113,825,167"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a900b552562b4745ff6a9cbf645b3f152.html#a900b552562b4745ff6a9cbf645b3f152" title="Stage a TextureContainer layer at the declared input image binding." alt="" coords="510,282,699,344"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="819,226,719,273,691,284,690,279,717,268,814,227"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_ab5c76d76d4cea8942e39ec2644da0885.html#ab5c76d76d4cea8942e39ec2644da0885" title="Stage an arbitrary VKImage at the declared input image binding." alt="" coords="491,368,718,413"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="853,231,796,297,760,330,720,358,696,370,694,365,717,354,756,326,792,293,849,233"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="248,160,430,205"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="486,170,431,177,429,172,491,168"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="377,145,364,141,339,139,316,141,302,145,296,151,298,160,293,159,291,150,299,141,315,135,339,133,365,136,382,145"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,160,187,205"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="230,184,188,185,186,180,235,181"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="476,211,430,203,430,198,481,210"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="490,64,444,62,443,57,495,63"/>
+</map>

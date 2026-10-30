@@ -1,0 +1,13 @@
+<map id="MayaFlux::Portal::Graphics::TextureLoom::upload_layer" name="MayaFlux::Portal::Graphics::TextureLoom::upload_layer">
+<area shape="rect" id="Node000001" title="Upload pixels into one layer of an array image." alt="" coords="404,56,609,101"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_af3c90dc33d519bd85659b0cf35bd4216.html#af3c90dc33d519bd85659b0cf35bd4216" title=" " alt="" coords="205,5,356,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,57,357,53,356,48,392,56"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_abb308b7a1106c79c340bbffe547dfbe6.html#abb308b7a1106c79c340bbffe547dfbe6" title="Replace the frame of one layer with raw pixels." alt="" coords="205,91,356,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="386,102,357,110,356,105,392,100"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a1d6d7ae0f2b8d9f619188372d0cdd853.html#a1d6d7ae0f2b8d9f619188372d0cdd853" title="Replace the frame of one layer with a GPU image, with no host read." alt="" coords="5,5,157,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,37,158,39,156,34,191,35"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_ad9f93a80063beda40e3fb95d6de1a815.html#ad9f93a80063beda40e3fb95d6de1a815" title="Write a frame at the write head and advance it, wrapping at the last layer." alt="" coords="5,91,157,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,123,158,124,156,119,192,120"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_abf5479ab183067327913cf60adbcd4cc.html#abf5479ab183067327913cf60adbcd4cc" title="Replace the frame of one layer with an image." alt="" coords="5,176,157,238"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="196,158,155,178,153,173,191,160"/>
+</map>

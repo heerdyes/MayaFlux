@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kinesis::Vision::VisionPass::set_geometry" name="MayaFlux::Kinesis::Vision::VisionPass::set_geometry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="693,83,842,144"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1VisionPass_a148869cd4c47bb5c1f53f2dd328c7db5.html#a148869cd4c47bb5c1f53f2dd328c7db5" title=" " alt="" coords="480,5,629,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="676,81,630,66,630,61,682,82"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_acd109192822f8aaded071b7f75785eab.html#acd109192822f8aaded071b7f75785eab" title="Arbitrary rectangular sub&#45;region of the current image, optionally resized back to the frame&#39;s own siz..." alt="" coords="464,91,645,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="675,114,646,116,646,111,681,113"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="235,122,416,166"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="681,142,646,151,586,157,526,159,416,155,416,150,526,153,586,151,645,146,675,142"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="451,127,417,135,416,129,446,128"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="361,106,349,103,325,100,304,102,291,107,285,113,286,123,282,120,280,112,288,103,303,97,325,95,350,98,366,107"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,122,187,166"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,144,187,147,187,142,222,144"/>
+</map>

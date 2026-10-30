@@ -1,0 +1,23 @@
+<map id="MayaFlux::Buffers::VolumeGridBuffer::VolumeGridBuffer" name="MayaFlux::Buffers::VolumeGridBuffer::VolumeGridBuffer">
+<area shape="rect" id="Node000001" title="Construct from a runtime&#45;built field list." alt="" coords="5,153,226,214"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_aeb75a632f17e60f509b754c2dd8909fb.html#aeb75a632f17e60f509b754c2dd8909fb" title="Populate m_fields from declarations." alt="" coords="287,37,483,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,150,273,108,289,103,285,106,275,113,183,154"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ae0727e84d97568acace892b473215dfa.html#ae0727e84d97568acace892b473215dfa" title="Set whether this buffer is for internal engine usage." alt="" coords="274,123,496,167"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="225,165,261,162,256,164,227,170"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_a546d0299aff2d88a2b0e5a12fde76ca1.html#a546d0299aff2d88a2b0e5a12fde76ca1" title="Bytes of vertex storage the extraction resolution requires." alt="" coords="289,192,481,253"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="226,197,276,206,271,207,226,202"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a71bfbd383ca91bbd5541b653939d89a2.html#a71bfbd383ca91bbd5541b653939d89a2" title="Construct an unregistered VKBuffer." alt="" coords="311,277,458,322"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="172,212,275,263,299,274,294,274,273,267,171,218"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_aca30ddb3fe275b513308b2bfeb98d98c.html#aca30ddb3fe275b513308b2bfeb98d98c" title="Allocate one field&#39;s slots and register it." alt="" coords="544,5,775,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,51,531,46,526,48,484,56"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ade826fd1619beabe131e5bb65ecf2bcd.html#ade826fd1619beabe131e5bb65ecf2bcd" title="Get all buffer resources at once (read&#45;only)." alt="" coords="584,74,736,136"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="483,78,570,92,565,93,484,84"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_a1901b1e0e73a902962b3259695feef3b.html#a1901b1e0e73a902962b3259695feef3b" title="Resolve a field by name." alt="" coords="823,5,1027,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="775,25,810,27,805,28,776,30"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a0b88df705302552cb7b6442dd31ee2c3.html#a0b88df705302552cb7b6442dd31ee2c3" title="Infer Kakshya::DataDimension entries from a given byte count." alt="" coords="560,196,759,257"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="459,277,543,257,548,256,460,283"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="581,281,738,326"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="459,298,568,302,563,302,459,303"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="852,281,998,326"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="739,301,839,304,834,304,739,306"/>
+</map>

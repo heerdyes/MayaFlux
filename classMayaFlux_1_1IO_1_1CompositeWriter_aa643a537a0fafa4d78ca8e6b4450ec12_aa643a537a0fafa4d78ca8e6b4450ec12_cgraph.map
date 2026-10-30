@@ -1,0 +1,21 @@
+<map id="MayaFlux::IO::CompositeWriter::get_last_error" name="MayaFlux::IO::CompositeWriter::get_last_error">
+<area shape="rect" id="Node000001" title="Get the last writer error." alt="" coords="5,179,231,223"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1CompositeWriter_a3ab2d2f1fa46334134439d94aa9eb9d8.html#a3ab2d2f1fa46334134439d94aa9eb9d8" title="Write a complete array in one call." alt="" coords="279,179,504,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,198,266,200,261,202,232,204"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1CompositeWriter_a950c6c5ef5c41e1977f6b55949d5d349.html#a950c6c5ef5c41e1977f6b55949d5d349" title="Finish the file and release its output stream." alt="" coords="552,5,777,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,176,470,119,509,87,551,60,566,55,561,58,553,65,512,92,474,123,415,180"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1CompositeArray_a35d329f829da02eb1e4a2993e19e721c.html#a35d329f829da02eb1e4a2993e19e721c" title="Finalized layout shared by all elements." alt="" coords="578,75,752,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="441,176,551,129,574,124,569,126,553,134,443,180"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1CompositeWriter_a4f27bbc6ce03779ce793f0b20cada374.html#a4f27bbc6ce03779ce793f0b20cada374" title="Open a new file with the schema all subsequent slices must use." alt="" coords="552,144,777,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="504,184,539,182,534,183,505,189"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1CompositeArray_a27600792242257eee9b70539967aba2b.html#a27600792242257eee9b70539967aba2b" title="Number of packed elements." alt="" coords="585,213,744,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="504,213,572,223,567,224,504,218"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1CompositeArray_ac4663132a467ebeca9c9c864c1606cc4.html#ac4663132a467ebeca9c9c864c1606cc4" title="Borrow consecutive elements without copying." alt="" coords="583,283,746,327"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="442,221,553,268,574,277,569,277,551,273,441,227"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1CompositeWriter_ac41bc4d06525cec0e5a36d3b5d6c5189.html#ac41bc4d06525cec0e5a36d3b5d6c5189" title="Write a bounded slice of elements." alt="" coords="552,352,777,397"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="414,221,474,279,512,310,553,337,566,346,561,345,551,342,509,315,470,283,412,226"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1CompositeArray_a92c33f8d97b049766838299ca27390d1.html#a92c33f8d97b049766838299ca27390d1" title="Validate and borrow the packed NDData stores and layout." alt="" coords="825,283,1003,327"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="747,302,812,305,807,305,747,308"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kakshya_abd102129d9eb24f95ee7447594e7af03.html#abd102129d9eb24f95ee7447594e7af03" title="Validate and borrow packed Composite&#45;compatible NDData." alt="" coords="1051,283,1213,327"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1003,302,1038,305,1033,305,1003,308"/>
+</map>

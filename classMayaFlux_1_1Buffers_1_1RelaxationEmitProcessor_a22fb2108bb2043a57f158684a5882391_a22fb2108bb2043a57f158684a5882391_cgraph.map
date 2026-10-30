@@ -1,0 +1,16 @@
+<map id="MayaFlux::Buffers::RelaxationEmitProcessor::processing_function" name="MayaFlux::Buffers::RelaxationEmitProcessor::processing_function">
+<area shape="rect" id="Node000001" title="Write the cell_state and vertices descriptors for the grid&#39;s current front generation,..." alt="" coords="5,91,190,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a9ae0c6aae9589585fd6f2e3fd3cea7bb.html#a9ae0c6aae9589585fd6f2e3fd3cea7bb" title="Check if descriptors are initialized." alt="" coords="259,5,418,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,88,246,68,242,71,188,92"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor_affdb219994d3337c3deafa77e7bc4017.html#affdb219994d3337c3deafa77e7bc4017" title="The core processing function that must be implemented by derived classes." alt="" coords="238,91,439,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,119,225,121,220,122,191,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1RelaxationEmitProcessor_a9237d26b30ae7ff0643a5489d4558344.html#a9237d26b30ae7ff0643a5489d4558344" title="Point cell_state at the grid&#39;s front generation and vertices at the grid&#39;s own vertex storage." alt="" coords="246,176,430,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,150,238,170,232,171,186,156"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="487,184,683,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,204,474,207,469,207,431,209"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="731,184,928,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="684,204,718,207,713,207,684,209"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="976,184,1206,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="928,204,963,207,957,207,928,209"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="1042,182,1040,174,1048,165,1065,160,1091,158,1119,160,1137,170,1132,169,1118,166,1091,163,1066,165,1051,170,1045,176,1046,186"/>
+</map>

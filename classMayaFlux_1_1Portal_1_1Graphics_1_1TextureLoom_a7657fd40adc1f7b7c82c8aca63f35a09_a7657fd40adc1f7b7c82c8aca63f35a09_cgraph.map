@@ -1,0 +1,15 @@
+<map id="MayaFlux::Portal::Graphics::TextureLoom::create_2d_array" name="MayaFlux::Portal::Graphics::TextureLoom::create_2d_array">
+<area shape="rect" id="Node000001" title="Create a 2D texture array." alt="" coords="5,112,232,157"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a26861705b8952f21e0b0c8363d6d43e2.html#a26861705b8952f21e0b0c8363d6d43e2" title="Calculate image data size." alt="" coords="299,5,496,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,110,296,71,292,74,185,114"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_af23625d18fe68e281f157b63a0466073.html#af23625d18fe68e281f157b63a0466073" title="Check if manager is initialized." alt="" coords="563,163,766,208"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,119,368,114,442,117,516,127,560,138,605,157,599,156,559,144,514,132,442,123,368,119,232,125"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a26fc4ebc243a75ef0d115344b95a5b0c.html#a26fc4ebc243a75ef0d115344b95a5b0c" title="Convert Portal ImageFormat to Vulkan format." alt="" coords="280,142,515,186"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="232,144,267,150,262,151,232,149"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a3a42e83f8a57c6ea8cf2e15cbaaf3892.html#a3a42e83f8a57c6ea8cf2e15cbaaf3892" title="Upload pixel data to an existing texture." alt="" coords="297,211,498,256"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="174,155,281,196,304,206,299,206,279,201,173,160"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a1a8ce2b9ced17d9ff6137c563c58a0e0.html#a1a8ce2b9ced17d9ff6137c563c58a0e0" title="Get bytes per pixel for a format." alt="" coords="566,5,763,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="496,34,554,36,548,37,497,39"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="614,161,612,153,621,144,639,138,665,137,693,139,712,148,707,148,692,144,665,142,640,144,624,149,618,155,619,164"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="498,213,545,207,550,206,499,218"/>
+</map>

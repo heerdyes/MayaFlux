@@ -1,0 +1,33 @@
+<map id="MayaFlux::Buffers::NodeTextureBuffer::setup_processors" name="MayaFlux::Buffers::NodeTextureBuffer::setup_processors">
+<area shape="rect" id="Node000001" title="Initialize the buffer, create GPU texture, and setup processors." alt="" coords="5,286,192,348"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1NodeTextureBuffer_ac0b2d907cfdd660dec29065570f5f479.html#ac0b2d907cfdd660dec29065570f5f479" title=" " alt="" coords="249,105,457,166"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,284,173,230,204,201,238,176,248,172,244,176,241,181,208,205,177,233,127,287"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6cf409969c192851ab2cf7f0315d2a49.html#a6cf409969c192851ab2cf7f0315d2a49" title="Access the buffer&#39;s processing chain." alt="" coords="240,191,466,235"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="157,283,239,245,260,239,256,242,241,250,160,288"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a9070538a7af526d6943272f4d6d842a4.html#a9070538a7af526d6943272f4d6d842a4" title=" " alt="" coords="261,260,444,305"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="191,302,248,295,244,298,193,307"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a335ffb0c43b53ec263ab6559ac29476b.html#a335ffb0c43b53ec263ab6559ac29476b" title="Get the global texture manager instance." alt="" coords="255,329,451,374"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="192,327,242,335,237,337,193,332"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6e843b1ce9e90e2df2501d28e60eab52.html#a6e843b1ce9e90e2df2501d28e60eab52" title="Set the buffer&#39;s default processor." alt="" coords="273,398,432,460"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="160,346,241,384,261,394,256,395,239,389,160,351"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a93f1d139e1fc4ab7689f2a205bf76563.html#a93f1d139e1fc4ab7689f2a205bf76563" title="Replace the buffer&#39;s processing chain." alt="" coords="240,484,466,529"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="121,346,172,409,205,442,241,469,251,477,246,477,238,474,201,446,168,413,119,351"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a6a22d5772fa65f30ef1ba4af5985ca14.html#a6a22d5772fa65f30ef1ba4af5985ca14" title="Generate a textured quad centred on the origin." alt="" coords="538,75,686,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,118,525,109,520,111,458,123"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a16b3cbfb638d1ce2063d8b9436faf7ec.html#a16b3cbfb638d1ce2063d8b9436faf7ec" title="Set vertex layout for this buffer." alt="" coords="534,144,690,205"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="457,149,522,160,517,161,458,154"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="563,73,561,64,570,56,587,50,612,48,640,50,658,59,653,60,639,56,612,53,588,55,573,60,567,66,568,75"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a391a8a7850356910c355a4dff9678bbf.html#a391a8a7850356910c355a4dff9678bbf" title="Factory: Create layout for textured quad primitives (position, texcoord)." alt="" coords="758,5,993,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="686,75,776,53,771,56,688,80"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_ace716df2f40f1b0e620049c240637942.html#ace716df2f40f1b0e620049c240637942" title="Uniform scaling of a scalar&#45;output tendency." alt="" coords="801,75,950,119"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="686,94,788,96,783,98,687,100"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a69d6a400c22a219150d8b28007441d5d.html#a69d6a400c22a219150d8b28007441d5d" title="Helper: compute stride from attributes if not explicitly set." alt="" coords="789,144,962,205"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="690,172,776,174,771,175,691,177"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a544b48334c1b582e8bf50da8215d2095.html#a544b48334c1b582e8bf50da8215d2095" title="Get size in bytes for a given modality Mirrors VKBuffer::get_format() logic." alt="" coords="1041,144,1214,205"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="962,172,1028,174,1023,175,963,177"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="514,329,710,374"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="451,349,501,351,496,352,452,354"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="773,329,978,374"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="711,349,760,351,755,352,711,354"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="828,327,826,319,834,310,851,305,876,303,903,305,920,314,915,314,901,310,875,308,852,310,837,315,831,321,832,330"/>
+</map>

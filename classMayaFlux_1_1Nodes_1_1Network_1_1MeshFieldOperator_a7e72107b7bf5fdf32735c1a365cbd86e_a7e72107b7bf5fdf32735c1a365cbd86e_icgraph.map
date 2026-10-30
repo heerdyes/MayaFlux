@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Network::MeshFieldOperator::get_or_create" name="MayaFlux::Nodes::Network::MeshFieldOperator::get_or_create">
+<area shape="rect" id="Node000001" title="Return an existing FieldOperator for the slot, or create and initialise one from the slot&#39;s current v..." alt="" coords="536,66,733,128"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshFieldOperator_a0b871da21bce330c36ccb8954d0dfb38.html#a0b871da21bce330c36ccb8954d0dfb38" title="Bind a SpatialField to a slot." alt="" coords="291,5,488,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,65,471,53,471,48,524,65"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshFieldOperator_ac1c8f545b0dbe8d8fc8bf2db50816ac9.html#ac1c8f545b0dbe8d8fc8bf2db50816ac9" title="Bind a UVField to a slot." alt="" coords="291,75,488,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="518,97,489,100,488,94,523,97"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshFieldOperator_a47d7d4b5496d081e24a041cce608c221.html#a47d7d4b5496d081e24a041cce608c221" title="Bind a VectorField to a slot." alt="" coords="291,144,488,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="524,129,472,146,470,141,518,130"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshFieldOperator_a9b617cbdcb8e258ea71a64c8e83e9a7c.html#a9b617cbdcb8e258ea71a64c8e83e9a7c" title=" " alt="" coords="5,136,243,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="272,167,243,169,243,164,278,166"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="MayaFlux::Yantra::Vision::VisionMatrix::count_call" name="MayaFlux::Yantra::Vision::VisionMatrix::count_call">
+<area shape="rect" id="Node000001" title=" " alt="" coords="969,147,1154,192"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a2b4603c6dfe456f170ee3b23740f8e8c.html#a2b4603c6dfe456f170ee3b23740f8e8c" title="Analyze image and keep it with its analysis until the next call." alt="" coords="739,112,921,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="951,153,921,151,921,146,956,153"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a9396645f14a650024aa7724c52cda201.html#a9396645f14a650024aa7724c52cda201" title="Extract from image with analysis and keep all three until the next call." alt="" coords="739,182,921,226"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="951,186,922,193,921,188,956,185"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a40cfb90e438c477e93b0941610a1bdc3.html#a40cfb90e438c477e93b0941610a1bdc3" title="execute() on frame index of source: a texture container&#39;s layer, or a video stream&#39;s or window&#39;s curr..." alt="" coords="500,112,681,157"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="721,135,682,137,681,132,726,134"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a25ca13f0e093395e60035bf472b2be3f.html#a25ca13f0e093395e60035bf472b2be3f" title=" " alt="" coords="500,182,681,226"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="721,204,682,207,681,202,726,204"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a5d254e3dd07a0a6fd7295839dca4d2b3.html#a5d254e3dd07a0a6fd7295839dca4d2b3" title=" " alt="" coords="490,251,691,296"/>
+<area shape="poly" id="edge15_Node000004_Node000011" title=" " alt="" coords="738,231,671,253,670,248,733,232"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a513ce8ce6f60a63c089542a6847ebf59.html#a513ce8ce6f60a63c089542a6847ebf59" title="Run config&#39;s query on its source live and show what its extraction takes from each frame in a texture..." alt="" coords="256,29,442,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="494,174,488,172,472,155,463,138,455,121,440,105,426,94,426,89,444,101,459,118,468,135,476,152,492,167,499,174"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a9c0a4f91e7ab9e7e22915631eecb5b19.html#a9c0a4f91e7ab9e7e22915631eecb5b19" title="Run query over the layers of frames in order and record what extract takes from each into a collectio..." alt="" coords="13,232,200,294"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="484,219,201,254,200,249,486,214"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a5e837adbce7a0442c0708ea40306595a.html#a5e837adbce7a0442c0708ea40306595a" title="Run query over frames in order and record what extract takes from each into a collection." alt="" coords="256,299,442,360"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="505,232,491,241,440,270,394,301,392,296,437,265,489,236,500,234"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a4a5f7b33ae43b6765d1929b49b086e4d.html#a4a5f7b33ae43b6765d1929b49b086e4d" title="Run config&#39;s query on its source live and record what its extraction takes from each frame into a gro..." alt="" coords="256,139,442,200"/>
+<area shape="poly" id="edge12_Node000005_Node000010" title=" " alt="" coords="482,189,443,186,442,180,487,189"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="386,15,373,11,349,8,328,10,314,15,307,21,306,30,301,28,303,19,311,10,327,5,349,3,374,5,391,15"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a2da528c40256c3cbe5e27e67bb97925d.html#a2da528c40256c3cbe5e27e67bb97925d" title=" " alt="" coords="5,122,208,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="242,98,175,123,172,119,246,95"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="238,300,200,291,200,286,243,299"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="386,284,373,280,349,277,328,279,314,284,307,291,306,300,302,297,303,288,311,279,327,274,349,272,374,275,391,285"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="238,159,209,157,207,152,243,157"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="386,125,373,120,349,117,328,119,314,124,307,131,306,140,302,137,303,128,311,119,327,114,349,112,374,115,391,124"/>
+</map>

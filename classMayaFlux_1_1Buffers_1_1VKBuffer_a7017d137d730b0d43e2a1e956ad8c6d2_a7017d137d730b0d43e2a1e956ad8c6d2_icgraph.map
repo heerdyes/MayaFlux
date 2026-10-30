@@ -1,0 +1,36 @@
+<map id="MayaFlux::Buffers::VKBuffer::get_render_processor" name="MayaFlux::Buffers::VKBuffer::get_render_processor">
+<area shape="rect" id="Node000001" title="Get a RenderProcessor suitable for rendering this buffer." alt="" coords="889,329,1045,391"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a8188f85b7556d1ef50e493990d1eb0e2.html#a8188f85b7556d1ef50e493990d1eb0e2" title=" " alt="" coords="665,133,816,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="930,316,889,271,839,224,803,198,803,193,842,219,893,267,935,318"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a9501e9ea05d88ab230cb6491a9e03470.html#a9501e9ea05d88ab230cb6491a9e03470" title="Setup rendering with RenderProcessor." alt="" coords="441,133,592,195"/>
+<area shape="poly" id="edge18_Node000001_Node000007" title=" " alt="" coords="905,321,840,285,592,193,593,188,842,280,910,321"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a9b076822260847b171bc14a0e71411af.html#a9b076822260847b171bc14a0e71411af" title=" " alt="" coords="665,295,816,356"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="871,346,817,340,817,334,876,346"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_adee02447a101c52029036008c0bc7072.html#adee02447a101c52029036008c0bc7072" title="Replace the default push constants with the shader&#39;s own." alt="" coords="441,475,592,536"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="871,371,742,394,683,407,642,421,627,431,617,441,594,465,577,477,575,472,591,461,613,437,623,427,639,416,681,402,741,389,876,370"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_acd9e85e4d00e68f4839bd14adaf9cdd8.html#acd9e85e4d00e68f4839bd14adaf9cdd8" title="Get additional live render processors attached through the chain." alt="" coords="651,431,830,492"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="886,397,812,433,810,427,880,398"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1TextBuffer_a20bb5344ba60f4af317a00cde144f63a.html#a20bb5344ba60f4af317a00cde144f63a" title="Delegates to TextureBuffer::setup_rendering, then enables streaming mode on the TextureProcessor and ..." alt="" coords="640,516,841,561"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="939,403,897,458,871,484,842,506,821,518,819,513,839,502,867,480,893,454,935,405"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a0ef07c36be777043835d06235ad2d438.html#a0ef07c36be777043835d06235ad2d438" title="Create the per&#45;layer buffer the shader reads as layerData." alt="" coords="441,48,592,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="647,130,593,110,593,105,653,129"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="647,165,593,167,592,162,652,163"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_af10da116dad7523d9bec18225b679e02.html#af10da116dad7523d9bec18225b679e02" title=" " alt="" coords="223,48,374,110"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,80,376,81,374,76,428,78"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a178fe919a629041b190cdd25a5dde26b.html#a178fe919a629041b190cdd25a5dde26b" title="Set the params of one layer, layerData[2 * layer]." alt="" coords="5,5,157,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,63,158,53,156,49,210,60"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a759d53da225454d524585665cf83af1a.html#a759d53da225454d524585665cf83af1a" title="Set the timing of one layer, layerData[2 * layer + 1]." alt="" coords="5,91,157,152"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="206,98,159,109,156,105,210,95"/>
+<area shape="poly" id="edge14_Node000008_Node000007" title=" " alt="" coords="673,285,639,261,615,234,591,209,577,198,577,193,594,205,619,231,642,257,678,286"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a84865f7dfd5a650ecd92e1616cebac7c.html#a84865f7dfd5a650ecd92e1616cebac7c" title="Set the mode number passed to the shader." alt="" coords="441,219,592,280"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="647,295,593,278,593,273,653,295"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="655,363,642,377,626,398,619,419,611,441,594,465,580,477,578,472,590,461,606,439,613,418,621,396,638,373,650,366"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a70a05914f95b5710d663a62431f61a02.html#a70a05914f95b5710d663a62431f61a02" title="Set the weight of one layer." alt="" coords="441,304,592,366"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="647,330,593,334,592,329,652,329"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_ab96b75c612cebf6e7cd47b4d161b9e9a.html#ab96b75c612cebf6e7cd47b4d161b9e9a" title="Set the weights of the first layers in order." alt="" coords="441,389,592,451"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="655,362,592,391,590,386,650,364"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_ad2e3ae4766aab573cb85846e4cd071b5.html#ad2e3ae4766aab573cb85846e4cd071b5" title="Make a layered texture buffer that draws to a window." alt="" coords="205,227,393,272"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="423,250,394,252,393,247,428,249"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a37f6bd8cfc34ac5913e30f2c9bb5b471.html#a37f6bd8cfc34ac5913e30f2c9bb5b471" title="Replace the default push constants with a block of type T." alt="" coords="223,475,374,536"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="423,506,375,508,375,503,428,505"/>
+</map>

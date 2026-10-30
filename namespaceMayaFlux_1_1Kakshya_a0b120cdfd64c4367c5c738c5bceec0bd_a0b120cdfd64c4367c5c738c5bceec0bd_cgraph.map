@@ -1,0 +1,17 @@
+<map id="MayaFlux::Kakshya::extract_region_data" name="MayaFlux::Kakshya::extract_region_data">
+<area shape="rect" id="Node000001" title="Extract region data from planar storage (separate per channel/variant)." alt="" coords="5,144,163,189"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_aae6a6e0c3cb0bad70acafc465c1ac867.html#aae6a6e0c3cb0bad70acafc465c1ac867" title="Extract a region of data from a flat data span using a Region and dimension info." alt="" coords="239,40,396,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,141,210,95,229,89,224,92,212,99,124,146"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kakshya_a4959849706d49ce6d6c8cf544e207fbf.html#a4959849706d49ce6d6c8cf544e207fbf" title="Flatten a vector of channel data into a single vector." alt="" coords="239,109,396,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="162,152,226,144,221,147,164,157"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_af774d3db588195d1a3322e51eebbe243.html#af774d3db588195d1a3322e51eebbe243" title="Get all non&#45;channel dimensions from a list of dimensions." alt="" coords="211,179,424,223"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="162,175,198,182,193,184,163,181"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kakshya_a2479c7817b562a13275654367e0b7c6b.html#a2479c7817b562a13275654367e0b7c6b" title="Remove the channel dimension from a Region." alt="" coords="215,248,420,293"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="123,187,212,233,229,242,224,242,210,238,122,192"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a11d6fefbc337609345969f80012578d0.html#a11d6fefbc337609345969f80012578d0" title="Convert N&#45;dimensional coordinates to a linear index for interleaved data." alt="" coords="472,5,633,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,48,459,41,454,43,397,53"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1Region_a872fb07c970339241d47d9afebae5e41.html#a872fb07c970339241d47d9afebae5e41" title="Get the total volume (number of elements) in the region." alt="" coords="474,75,631,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="396,71,461,83,456,84,396,77"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1Region_a7bd0f533faffde4edf348e70202065f8.html#a7bd0f533faffde4edf348e70202065f8" title="Get the span (length) of the region along a dimension." alt="" coords="681,75,839,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="632,94,668,97,663,97,632,100"/>
+</map>

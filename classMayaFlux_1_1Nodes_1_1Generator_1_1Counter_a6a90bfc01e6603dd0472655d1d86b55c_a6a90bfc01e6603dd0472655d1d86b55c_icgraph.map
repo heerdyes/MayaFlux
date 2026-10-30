@@ -1,0 +1,12 @@
+<map id="MayaFlux::Nodes::Generator::Counter::update_context" name="MayaFlux::Nodes::Generator::Counter::update_context">
+<area shape="rect" id="Node000001" title="Updates the context object for callbacks." alt="" coords="1027,36,1234,81"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Counter_a9a3072551dea8ab7e0d986379b9467ea.html#a9a3072551dea8ab7e0d986379b9467ea" title="Notifies all registered callbacks with the current context." alt="" coords="771,36,979,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1008,58,979,61,979,56,1014,58"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Counter_ada8aba131b5c5179a875e823d9e50d35.html#ada8aba131b5c5179a875e823d9e50d35" title="Processes a single data sample." alt="" coords="516,36,723,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="753,58,724,61,724,56,758,58"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Counter_a5a79205fb49862526c6867f1ccb34d98.html#a5a79205fb49862526c6867f1ccb34d98" title="Processes multiple samples at once." alt="" coords="261,5,468,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="498,44,468,43,468,37,503,44"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Counter_aeec43a55e8bb63ece5a835945c908ab6.html#aeec43a55e8bb63ece5a835945c908ab6" title=" " alt="" coords="5,36,213,81"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="498,62,468,65,261,65,213,64,213,59,261,60,468,60,503,62"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="243,42,213,49,213,43,248,42"/>
+</map>

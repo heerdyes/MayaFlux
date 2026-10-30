@@ -1,0 +1,21 @@
+<map id="MayaFlux::Portal::Graphics::TextureLoom::create_2d" name="MayaFlux::Portal::Graphics::TextureLoom::create_2d">
+<area shape="rect" id="Node000001" title="Create a 2D texture from a DataVariant in one shot." alt="" coords="5,96,202,141"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_afa023b19b2c5da8c14e9de60820601b1.html#afa023b19b2c5da8c14e9de60820601b1" title="Extract a TextureAccess from a DataVariant." alt="" coords="269,5,426,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,93,273,54,270,58,167,98"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a26861705b8952f21e0b0c8363d6d43e2.html#a26861705b8952f21e0b0c8363d6d43e2" title="Calculate image data size." alt="" coords="514,18,710,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,102,499,62,497,67,203,108"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_aaf5e48e2bb8325c1db70971a89cabec7.html#aaf5e48e2bb8325c1db70971a89cabec7" title="Create a 2D texture." alt="" coords="250,125,446,170"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,128,237,133,232,135,203,133"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_af23625d18fe68e281f157b63a0466073.html#af23625d18fe68e281f157b63a0466073" title="Check if manager is initialized." alt="" coords="777,224,981,269"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="144,138,210,173,295,213,393,251,495,278,560,288,611,290,729,278,777,273,783,272,730,284,611,296,559,294,493,284,391,256,293,218,207,178,144,144"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a1a8ce2b9ced17d9ff6137c563c58a0e0.html#a1a8ce2b9ced17d9ff6137c563c58a0e0" title="Get bytes per pixel for a format." alt="" coords="781,18,977,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="710,46,768,49,763,49,711,52"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="409,122,516,85,511,87,411,127"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="446,127,511,121,583,118,657,124,730,140,763,153,794,172,846,214,841,213,791,176,761,158,729,145,657,129,582,124,511,126,447,132"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a26fc4ebc243a75ef0d115344b95a5b0c.html#a26fc4ebc243a75ef0d115344b95a5b0c" title="Convert Portal ImageFormat to Vulkan format." alt="" coords="494,155,729,199"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="446,156,481,162,476,162,447,161"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a3a42e83f8a57c6ea8cf2e15cbaaf3892.html#a3a42e83f8a57c6ea8cf2e15cbaaf3892" title="Upload pixel data to an existing texture." alt="" coords="511,224,712,269"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="397,168,495,209,517,219,512,219,493,214,396,173"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="829,222,827,214,835,205,853,199,879,197,908,200,927,209,921,208,907,205,879,203,854,205,838,209,832,215,833,225"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="713,244,764,246,759,246,713,249"/>
+</map>

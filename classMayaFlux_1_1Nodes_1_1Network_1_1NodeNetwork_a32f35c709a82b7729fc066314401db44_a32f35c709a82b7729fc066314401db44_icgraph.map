@@ -1,0 +1,13 @@
+<map id="MayaFlux::Nodes::Network::NodeNetwork::apply_output_scale" name="MayaFlux::Nodes::Network::NodeNetwork::apply_output_scale">
+<area shape="rect" id="Node000001" title="Apply m_output_scale to m_last_audio_buffer." alt="" coords="311,160,563,205"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a69b521d0a9d42313b84f7e1b645185fd.html#a69b521d0a9d42313b84f7e1b645185fd" title="Build neighbor map for CHAIN topology." alt="" coords="34,5,234,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="387,152,329,117,262,81,235,70,234,64,264,76,332,112,392,151"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ModalNetwork_a0a7a7f26a40306a856e5be65c610f1a7.html#a0a7a7f26a40306a856e5be65c610f1a7" title="Process the network for the given number of samples." alt="" coords="21,91,247,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,157,235,139,234,134,324,155"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1RelationNetwork_a127bd53cb7acfbece334b39bc5fbe82f.html#a127bd53cb7acfbece334b39bc5fbe82f" title="Process the network for the given number of samples." alt="" coords="14,160,254,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,184,255,185,253,180,298,182"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ResonatorNetwork_ab3fa42f883efda46b4961b24c3654c2f.html#ab3fa42f883efda46b4961b24c3654c2f" title="Processes num_samples through all resonators and accumulates output." alt="" coords="8,230,260,274"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="319,210,235,232,234,227,324,208"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Network_1_1WaveguideNetwork_a474473fbb4038d846ed350acbd7e7312.html#a474473fbb4038d846ed350acbd7e7312" title="Process the network for the given number of samples." alt="" coords="5,299,263,344"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="394,213,333,254,264,289,232,301,230,296,262,284,330,249,389,215"/>
+</map>

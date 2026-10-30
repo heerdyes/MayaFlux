@@ -1,0 +1,9 @@
+<map id="MayaFlux::Nodes::Network::NodeNetwork::build_chain_neighbors" name="MayaFlux::Nodes::Network::NodeNetwork::build_chain_neighbors">
+<area shape="rect" id="Node000001" title="Build neighbor map for CHAIN topology." alt="" coords="5,36,206,97"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a32f35c709a82b7729fc066314401db44.html#a32f35c709a82b7729fc066314401db44" title="Apply m_output_scale to m_last_audio_buffer." alt="" coords="254,5,506,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,50,241,47,236,48,207,55"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a400c14b73f212acdf015f49432dae23c.html#a400c14b73f212acdf015f49432dae23c" title="Extract num_samples from node into buffer using snapshot guard." alt="" coords="281,74,478,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,78,269,89,263,89,206,83"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Buffers_ae642092d63445f1884326aba3d9b5189.html#ae642092d63445f1884326aba3d9b5189" title="Wait for an active snapshot context to complete using exponential backoff." alt="" coords="554,83,774,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="479,102,541,105,536,105,479,108"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="MayaFlux::Buffers::VolumeSurfaceProcessor::VolumeSurfaceProcessor" name="MayaFlux::Buffers::VolumeSurfaceProcessor::VolumeSurfaceProcessor">
+<area shape="rect" id="Node000001" title="Construct a surface extraction bridge." alt="" coords="5,142,196,204"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_a86eeb4e6a3c157b47da70d40a272b5d7.html#a86eeb4e6a3c157b47da70d40a272b5d7" title="Construct processor with shader path." alt="" coords="244,13,517,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,140,242,84,298,62,294,65,245,89,149,144"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VolumeSurfaceProcessor_afcbe54b7a52ca728626b9fa49deeaa45.html#afcbe54b7a52ca728626b9fa49deeaa45" title="Corner count of the grid, one greater per axis than the extraction resolution." alt="" coords="596,74,779,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,139,243,128,332,115,421,107,583,103,579,105,421,113,332,121,244,133,197,144"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VolumeSurfaceProcessor_a3f37e240eb92e4b3f89271ff27a4cb32.html#a3f37e240eb92e4b3f89271ff27a4cb32" title="Allocate the corner grid buffer for the current resolution." alt="" coords="289,142,472,204"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,170,276,172,271,174,197,176"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_ad0a4f166e8f9ed24f91e590f737a717f.html#ad0a4f166e8f9ed24f91e590f737a717f" title="Set dispatch mode." alt="" coords="295,228,466,289"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="196,199,282,227,277,229,196,205"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_adaaeab4489b75f391e28461fe22613ba.html#adaaeab4489b75f391e28461fe22613ba" title="Set manual dispatch group counts." alt="" coords="295,313,466,374"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="129,201,181,252,212,277,245,299,283,318,277,318,242,303,209,281,177,256,128,207"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a157ac2a18d9be2c9e45cb345b1bedeb3.html#a157ac2a18d9be2c9e45cb345b1bedeb3" title="Construct processor with shader path." alt="" coords="565,5,810,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,30,552,30,547,32,518,35"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="471,150,583,128,578,129,473,155"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="604,160,771,221"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="472,175,592,184,586,185,472,181"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="588,245,788,290"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="472,198,518,213,566,230,591,240,586,240,564,236,516,218,472,204"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="858,237,1059,298"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="788,265,845,267,840,268,789,270"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="906,235,907,226,917,218,934,212,959,210,987,213,1006,223,1000,222,985,218,958,215,935,217,919,222,912,229,910,239"/>
+</map>

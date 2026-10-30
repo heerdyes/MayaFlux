@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kinesis::compute_cube_index" name="MayaFlux::Kinesis::compute_cube_index">
+<area shape="rect" id="Node000001" title=" " alt="" coords="946,40,1105,85"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_aae90616312e63c025dfc44f6245c3b43.html#aae90616312e63c025dfc44f6245c3b43" title="Extract an isosurface from a scalar field using marching cubes." alt="" coords="748,40,898,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="927,62,898,65,898,60,933,62"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a065fdfe764dace0ba9ea5c0c20311aed.html#a065fdfe764dace0ba9ea5c0c20311aed" title="Extract an isosurface mesh from a scalar field over a lattice." alt="" coords="526,5,675,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="730,48,676,42,676,37,736,48"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a3b05244a99b639a2b98cf60744654a2b.html#a3b05244a99b639a2b98cf60744654a2b" title=" " alt="" coords="501,75,700,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="735,76,701,84,701,79,730,77"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a8d93283e3887f0b2a717c407a008d703.html#a8d93283e3887f0b2a717c407a008d703" title="Re&#45;extract the isosurface if dirty, then upload via parent." alt="" coords="253,40,453,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="483,81,453,79,453,74,488,81"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a61950494104522a83fb51c0149ea3345.html#a61950494104522a83fb51c0149ea3345" title="Construct and evaluate the initial isosurface." alt="" coords="253,109,452,154"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="488,113,453,120,453,115,483,113"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a60ac44da0ad9399e9e4eb82eae05a275.html#a60ac44da0ad9399e9e4eb82eae05a275" title=" " alt="" coords="5,40,205,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,63,205,65,205,60,240,62"/>
+</map>

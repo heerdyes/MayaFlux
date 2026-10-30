@@ -1,0 +1,24 @@
+<map id="MayaFlux::IO::IOManager" name="MayaFlux::IO::IOManager">
+<area shape="rect" id="Node000001" title="Optional orchestration layer for IO reader lifetime and IOService dispatch." alt="" coords="261,1980,474,2611"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Core_1_1GlobalStreamInfo.html" title="Comprehensive configuration for digital audio stream processing." alt="" coords="6,1500,241,1907"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,1904,257,2021,252,2022,207,1910"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Core_1_1GlobalStreamInfo_1_1ChannelConfig.html" title="Configuration for input or output data channels." alt="" coords="5,1148,215,1304"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,1301,120,1483,115,1483,112,1306"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Parallel_1_1AsyncGroup.html" title=" " alt="" coords="290,1570,445,1838"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="368,1835,370,1964,365,1963,367,1840"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="144,733,354,1023"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,1020,261,1206,271,1306,285,1404,301,1479,321,1554,315,1554,296,1481,280,1405,265,1306,256,1206,249,1026"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title="Lock&#45;free, unbounded, multi&#45;producer collection of in&#45;flight items." alt="" coords="309,5,557,346"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="298,283,266,324,240,371,225,415,214,461,205,556,208,648,218,733,213,733,202,649,199,555,209,460,220,413,235,369,262,321,300,278"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="280,419,490,709"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="410,358,405,419,400,419,410,363"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="513,419,723,709"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="563,356,571,369,590,419,585,419,566,371,564,361"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="384,706,372,1553,367,1553,381,711"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Parallel_1_1AsyncGroup.html" title="Owns a set of in&#45;flight std::async futures on behalf of a subsystem." alt="" coords="474,1047,615,1405"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="418,706,495,1023,497,1031,492,1031,490,1024,417,711"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="474,1416,420,1571,415,1569,472,1421"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="603,706,569,1031,564,1030,602,711"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Registry_1_1Service_1_1AudioBackendService.html" title="Backend audio subsystem service interface." alt="" coords="470,1637,684,1771"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="555,1768,482,1979,477,1977,552,1773"/>
+</map>

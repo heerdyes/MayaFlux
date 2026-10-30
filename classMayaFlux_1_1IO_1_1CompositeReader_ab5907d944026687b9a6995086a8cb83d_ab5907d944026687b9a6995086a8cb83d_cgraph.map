@@ -1,0 +1,25 @@
+<map id="MayaFlux::IO::CompositeReader::get_layout" name="MayaFlux::IO::CompositeReader::get_layout">
+<area shape="rect" id="Node000001" title="Inspect the schema established by open() without reading data." alt="" coords="5,248,237,293"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1CompositeReader_a29e5c6ede363325fa26ee2936f73e4b7.html#a29e5c6ede363325fa26ee2936f73e4b7" title="Read remaining elements into a new CompositeContainer." alt="" coords="285,5,516,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,247,154,206,188,156,232,105,283,60,294,56,290,59,286,64,235,108,193,159,159,209,136,249"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1CompositeReader_a11f870a7a82f171061d35c8ab260a972.html#a11f870a7a82f171061d35c8ab260a972" title="CompositeContainer is not a SignalSourceContainer." alt="" coords="285,75,516,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,246,202,188,241,156,283,129,298,124,294,128,286,134,244,161,205,192,145,249"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1CompositeReader_ad0c7b0c4c26b2911ee715e6891beb7ad.html#ad0c7b0c4c26b2911ee715e6891beb7ad" title="Get the container type this reader creates." alt="" coords="285,144,516,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,245,284,199,307,192,303,195,286,203,174,250"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1CompositeReader_a915ad4ef0e663796ecfd21bde2448611.html#a915ad4ef0e663796ecfd21bde2448611" title="Get the data type this reader produces." alt="" coords="285,213,516,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="236,254,272,251,267,253,238,258"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1CompositeReader_a91403aaa6ba1097ad7824dc67b402545.html#a91403aaa6ba1097ad7824dc67b402545" title="CompositeContainer is not a SignalSourceContainer." alt="" coords="285,283,516,327"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="237,282,272,288,267,290,238,287"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1CompositeReader_a4978737c68f09b4d7ae36c070b85a495.html#a4978737c68f09b4d7ae36c070b85a495" title="Composite data is not a DataVariant channel vector." alt="" coords="285,352,516,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="172,291,286,337,308,346,302,347,284,342,172,296"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1CompositeReader_a468758b0673a25e1c57be3a863b54fd8.html#a468758b0673a25e1c57be3a863b54fd8" title="Read an inclusive one&#45;dimensional file region." alt="" coords="285,421,516,466"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="144,291,205,349,244,380,286,407,299,415,294,415,283,411,241,384,202,353,143,296"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1CompositeReader_a8a97b78653ef5251b92f30bf5e049551.html#a8a97b78653ef5251b92f30bf5e049551" title="Use read_composite_region() for a schema&#45;bearing result." alt="" coords="285,491,516,535"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="134,290,159,331,193,381,235,432,286,476,295,484,290,483,283,480,232,436,188,384,154,334,133,295"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1CompositeReader_a73167ee56ca80205abdd47f62e93a326.html#a73167ee56ca80205abdd47f62e93a326" title="Read all remaining elements into one owning array." alt="" coords="564,5,795,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="516,25,551,27,546,29,518,30"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1CompositeReader_a6d265653d5188d5571a0615e09139786.html#a6d265653d5188d5571a0615e09139786" title="Read at most max_elements from the current file position." alt="" coords="564,387,795,431"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="516,427,551,425,546,426,517,432"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1FileReader_a350b954b9faedc9790d4fbb5437baf1b.html#a350b954b9faedc9790d4fbb5437baf1b" title="Seek to a specific position in the file." alt="" coords="588,456,772,501"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="517,455,575,465,569,465,517,461"/>
+</map>

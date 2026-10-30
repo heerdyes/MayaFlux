@@ -1,0 +1,49 @@
+<map id="MayaFlux::Kakshya::ContainerDataStructure::ContainerDataStructure" name="MayaFlux::Kakshya::ContainerDataStructure::ContainerDataStructure">
+<area shape="rect" id="Node000001" title="Construct a container structure with specified parameters." alt="" coords="1073,141,1255,203"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a6f7fbdb5b205e6af8746977f4fd8030a.html#a6f7fbdb5b205e6af8746977f4fd8030a" title="Create structure for interleaved audio data." alt="" coords="850,5,1025,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1098,133,1023,88,994,70,994,65,1026,83,1104,133"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a63496ffac721f53ea1802cd8acf7d7b8.html#a63496ffac721f53ea1802cd8acf7d7b8" title=" " alt="" coords="620,141,802,203"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="1057,137,1024,132,938,123,851,132,801,143,799,138,850,127,938,118,1025,127,1063,136"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a0cd95b347d67293bea124d06247d93fe.html#a0cd95b347d67293bea124d06247d93fe" title="Create structure for planar audio data." alt="" coords="850,141,1025,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1055,173,1026,175,1024,170,1060,171"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a3ec04f10c18dea5069c95665761cf183.html#a3ec04f10c18dea5069c95665761cf183" title="Create structure for interleaved image data." alt="" coords="850,312,1025,374"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="1126,213,1080,260,1026,302,1008,314,1005,309,1023,298,1076,256,1121,216"/>
+<area shape="rect" id="Node000022" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a1a2422e937320315187d3303e072d2c4.html#a1a2422e937320315187d3303e072d2c4" title="Create structure for planar image data." alt="" coords="850,227,1025,288"/>
+<area shape="poly" id="edge24_Node000001_Node000022" title=" " alt="" coords="1064,210,1022,229,1020,224,1069,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="866,77,852,88,763,143,760,139,849,83,870,74"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="832,173,804,175,802,170,837,171"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="850,302,848,302,832,280,824,258,816,238,800,217,788,206,788,201,804,213,821,235,829,256,836,277,852,298,855,303"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a3c3db06f96aa71048efbb69b369f25c7.html#a3c3db06f96aa71048efbb69b369f25c7" title=" " alt="" coords="623,227,799,288"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="837,306,795,292,795,286,843,306"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a4f3732dbd3029c2933d6d2f2b3efde3f.html#a4f3732dbd3029c2933d6d2f2b3efde3f" title=" " alt="" coords="621,312,801,374"/>
+<area shape="poly" id="edge12_Node000005_Node000010" title=" " alt="" coords="832,343,802,345,801,340,837,342"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kakshya_1_1VideoStreamContainer_a159d938b0c8e93c31384ca00885bb900.html#a159d938b0c8e93c31384ca00885bb900" title="Construct a VideoStreamContainer with specified parameters." alt="" coords="623,528,799,590"/>
+<area shape="poly" id="edge19_Node000005_Node000017" title=" " alt="" coords="895,384,747,530,744,525,890,386"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a5f81119925a499f1d0a0c06aa3ca9e8c.html#a5f81119925a499f1d0a0c06aa3ca9e8c" title="Append one layer held on the GPU by image." alt="" coords="348,149,536,211"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="606,229,537,210,536,205,611,227"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a6a412dc7869c160ce209222245c6ef57.html#a6a412dc7869c160ce209222245c6ef57" title="Construct with exactly layers layers, which may be zero." alt="" coords="317,235,568,280"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="605,258,569,260,567,255,610,257"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1TextureCollection_a860ad3cf3aa0bb9a16c4acfc634941db.html#a860ad3cf3aa0bb9a16c4acfc634941db" title="Copy image into the next layer." alt="" coords="40,158,230,202"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="330,182,232,183,229,178,335,178"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_adc912e0c1f0eca057044a7cfdf00ccf9.html#adc912e0c1f0eca057044a7cfdf00ccf9" title="Reallocate m_data and m_processed_data to match the current window dimensions." alt="" coords="348,304,536,366"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="603,341,538,340,536,335,608,339"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a34919c923894042f1e21d380db8649d3.html#a34919c923894042f1e21d380db8649d3" title="Construct from an existing managed window." alt="" coords="313,390,572,434"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="603,371,533,392,531,387,608,369"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a26aae90b117b7368abad9eaef45f5e89.html#a26aae90b117b7368abad9eaef45f5e89" title=" " alt="" coords="30,286,240,330"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="325,385,311,380,287,362,263,345,236,334,235,329,266,340,290,358,314,375,330,383"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a6e8f00fb926b6ae50594e7f4a3be2e1a.html#a6e8f00fb926b6ae50594e7f4a3be2e1a" title=" " alt="" coords="30,355,240,400"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="295,397,242,392,240,387,299,394"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_ab75d86d24c1de352fafd80d7a1f7ae72.html#ab75d86d24c1de352fafd80d7a1f7ae72" title=" " alt="" coords="5,424,265,469"/>
+<area shape="poly" id="edge17_Node000012_Node000015" title=" " alt="" coords="295,430,266,435,264,430,299,427"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a3210228ad996c6953ff65f240a4ae0f4.html#a3210228ad996c6953ff65f240a4ae0f4" title=" " alt="" coords="5,494,265,538"/>
+<area shape="poly" id="edge18_Node000012_Node000016" title=" " alt="" coords="325,442,314,449,290,466,266,484,237,495,234,491,263,479,287,462,311,445,329,439"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kakshya_1_1CameraContainer_a36164e4dc6df0a262c512a392d8e1a5b.html#a36164e4dc6df0a262c512a392d8e1a5b" title="Construct a CameraContainer with specified resolution and format." alt="" coords="314,459,571,504"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="605,527,571,519,531,507,530,502,573,514,611,527"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_aec014335ed24825560c6e7c1503ef6bd.html#aec014335ed24825560c6e7c1503ef6bd" title="Build a stream from a spec, enabling the ring when it asks for one." alt="" coords="357,528,528,590"/>
+<area shape="poly" id="edge21_Node000017_Node000019" title=" " alt="" coords="605,559,529,561,528,556,610,558"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Kakshya_1_1VideoFileContainer_acdb12eaf72d8abc921d84c3830bcd8c5.html#acdb12eaf72d8abc921d84c3830bcd8c5" title="Construct with default parameters." alt="" coords="364,613,521,675"/>
+<area shape="poly" id="edge22_Node000017_Node000020" title=" " alt="" coords="611,591,522,622,521,617,606,592"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Kakshya_1_1VideoFileContainer_a7e95ea1b537affd38a79bda24bddcbd3.html#a7e95ea1b537affd38a79bda24bddcbd3" title="Construct with explicit video parameters." alt="" coords="364,699,521,760"/>
+<area shape="poly" id="edge23_Node000017_Node000021" title=" " alt="" coords="676,600,629,648,573,689,522,712,521,707,571,685,626,644,671,602"/>
+<area shape="poly" id="edge25_Node000022_Node000003" title=" " alt="" coords="837,221,795,206,795,201,843,220"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MayaFlux::Vruta::EventSource" name="MayaFlux::Vruta::EventSource">
+<area shape="rect" id="Node000001" title="Abstract base for all awaitable signal sources." alt="" coords="207,5,413,301"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1BroadcastSource.html" title="Awaitable single&#45;value broadcast channel for cross&#45;thread signal delivery." alt="" coords="5,382,196,784"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,316,210,350,193,384,189,382,205,348,226,312"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1NetworkSource.html" title="Awaitable broadcast message stream for a network endpoint." alt="" coords="220,360,400,807"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,313,313,361,307,360,309,318"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1WindowEventSource.html" title="Awaitable stream of window input events." alt="" coords="424,349,639,818"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="395,312,415,348,427,371,421,371,410,350,394,317"/>
+</map>

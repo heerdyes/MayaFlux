@@ -1,0 +1,13 @@
+<map id="MayaFlux::IO::VideoStreamContext::open_device" name="MayaFlux::IO::VideoStreamContext::open_device">
+<area shape="rect" id="Node000001" title="Open codec only, without initialising the SwsContext scaler." alt="" coords="5,144,205,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a14482964c2c81868651a36fe90a69320.html#a14482964c2c81868651a36fe90a69320" title="Release codec and scaler resources." alt="" coords="261,5,460,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,142,185,101,251,60,268,55,263,58,254,65,188,105,135,146"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_abb390b1cd463e5df1e2a21f735bbeddb.html#abb390b1cd463e5df1e2a21f735bbeddb" title="Find the best stream of the requested media type." alt="" coords="253,75,468,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,141,263,122,259,125,191,146"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_acb3638800c71f90df7d5da4094c34e77.html#acb3638800c71f90df7d5da4094c34e77" title="Access a stream by index." alt="" coords="253,144,468,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,164,240,165,235,167,206,169"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_a8ea9c7c404909356ac05d7aa28270c3e.html#a8ea9c7c404909356ac05d7aa28270c3e" title="Initialise FFmpeg logging level once per process." alt="" coords="253,213,468,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="190,187,264,208,259,210,190,192"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_afdbf5c19097333ea191544b545f000a7.html#afdbf5c19097333ea191544b545f000a7" title="True if the format context is open and stream info was found." alt="" coords="253,283,468,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="133,186,188,228,254,268,268,277,263,276,251,273,185,232,132,192"/>
+</map>

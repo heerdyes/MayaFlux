@@ -1,0 +1,29 @@
+<map id="MayaFlux::Buffers::RenderProcessor::record_draw" name="MayaFlux::Buffers::RenderProcessor::record_draw">
+<area shape="rect" id="Node000001" title="Record an already validated attachment without repeating its lookup." alt="" coords="5,239,224,283"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a54c4e0f2eb44a261d8463e8423e3746d.html#a54c4e0f2eb44a261d8463e8423e3746d" title="Get the global render flow instance." alt="" coords="272,37,468,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,237,191,173,229,137,270,104,302,87,298,91,273,109,232,141,194,177,137,240"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="272,119,468,163"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="152,236,207,205,271,173,288,168,284,171,273,178,210,209,155,240"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_a48a13b34e7cf44301f4df7e8b124eb78.html#a48a13b34e7cf44301f4df7e8b124eb78" title="Called before each process callback." alt="" coords="293,188,447,249"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="223,240,279,232,275,235,225,245"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a1fd501788f3b88dcf76ff38d6812e81b.html#a1fd501788f3b88dcf76ff38d6812e81b" title="Resolve logical descriptor set index to actual index." alt="" coords="277,273,462,334"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="223,277,264,285,259,287,225,282"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_afc29bda3c0abfd76a1c160ccfcc62d8b.html#afc29bda3c0abfd76a1c160ccfcc62d8b" title="This processor&#39;s push constant data with buffer&#45;staged fragments overlaid at their declared offsets." alt="" coords="277,358,462,420"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="155,281,273,344,284,351,279,351,270,349,155,286"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_a62a243b291b41cca7ffcad715225d34e.html#a62a243b291b41cca7ffcad715225d34e" title="Resolve the active scissor against a live framebuffer size." alt="" coords="277,444,463,505"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="132,281,191,353,230,393,273,430,280,436,274,435,270,434,226,397,187,357,131,286"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1RenderFlow_a427f34bcec94e920d4dbbb76ae7f175f.html#a427f34bcec94e920d4dbbb76ae7f175f" title=" " alt="" coords="516,35,712,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,56,503,57,498,59,469,61"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1RenderFlow_ac4755ca2646bfa89ba72eed83150db73.html#ac4755ca2646bfa89ba72eed83150db73" title=" " alt="" coords="777,29,974,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="712,52,765,53,759,55,714,58"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="826,28,824,19,833,10,850,5,876,3,904,5,922,14,917,14,902,10,875,8,851,10,836,15,830,21,831,30"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="516,119,712,163"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="468,138,503,140,498,142,469,144"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="760,123,991,167"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="712,140,747,142,742,144,713,145"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="826,121,824,112,833,104,850,98,876,96,904,98,922,107,917,108,902,104,875,101,851,103,836,108,830,114,831,123"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_ab542f6ff3477ec68e1bef27aa85b7482.html#ab542f6ff3477ec68e1bef27aa85b7482" title="Whether this processor contributes to presentation." alt="" coords="540,188,689,249"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="447,216,526,217,521,219,448,221"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a497f347216f8aef622a7974cc4760eb9.html#a497f347216f8aef622a7974cc4760eb9" title="Byte width of this processor&#39;s push constant block, extended to cover any fragment staged on the buff..." alt="" coords="522,358,707,420"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="463,386,509,389,504,389,463,392"/>
+</map>

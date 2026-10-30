@@ -1,0 +1,16 @@
+<map id="MayaFlux::Yantra::VisionInternal::region_rect" name="MayaFlux::Yantra::VisionInternal::region_rect">
+<area shape="rect" id="Node000001" title="Pixel rectangle of a normalised region over a w x h image, clamped to the image." alt="" coords="738,83,920,127"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_ae21da7949376592693235e5ccadaeda7.html#ae21da7949376592693235e5ccadaeda7" title="Extract and rank keypoints from the current response image." alt="" coords="464,5,690,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,78,690,65,652,53,653,48,691,60,742,78"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a48bca474121218135f8e80630f3eac82.html#a48bca474121218135f8e80630f3eac82" title="Compute the Harris response of the current image." alt="" coords="486,74,668,136"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="720,105,669,108,668,102,725,105"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a3a8a1766e04cbf89623fd77d92ecfee5.html#a3a8a1766e04cbf89623fd77d92ecfee5" title="Track the previous frame&#39;s keypoints into the current frame." alt="" coords="486,160,668,221"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="749,132,669,162,668,157,744,133"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="235,83,416,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,56,465,65,401,85,400,80,463,60,490,54"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="361,68,349,64,325,61,304,63,291,68,285,74,287,83,282,81,280,73,288,64,303,58,325,56,350,59,367,67"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,83,187,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,106,188,108,186,102,222,104"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="468,105,417,108,416,102,473,105"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="469,155,393,131,394,125,474,155"/>
+</map>

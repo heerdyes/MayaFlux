@@ -1,0 +1,52 @@
+<map id="MayaFlux::IO::FFmpegCameraReader::operator=" name="MayaFlux::IO::FFmpegCameraReader::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,491,225,535"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a84ae2db5715986ec60e2d8bc79de7a5f.html#a84ae2db5715986ec60e2d8bc79de7a5f" title="Release device, decode, and scratch resources." alt="" coords="546,551,765,595"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,533,273,545,406,559,533,568,528,571,405,565,272,550,210,538"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_ac4fa0d7d8c20640c8c47b1673d2fa0aa.html#ac4fa0d7d8c20640c8c47b1673d2fa0aa" title="Create a CameraContainer sized to the negotiated device resolution." alt="" coords="276,5,495,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,490,123,409,132,354,146,294,166,231,193,170,228,111,271,60,277,57,274,62,275,64,232,115,198,172,171,233,152,295,138,355,128,410,120,490"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_aed93a9cfee1c0f2ba7ebade02de0481f.html#aed93a9cfee1c0f2ba7ebade02de0481f" title="Discover ready&#45;to&#45;open camera configurations without starting capture." alt="" coords="276,144,495,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="119,490,135,431,164,353,184,312,209,271,238,232,271,199,279,195,276,200,274,203,242,236,213,274,189,314,169,355,140,433,124,491"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_aa9e1fe70bd9d5f251ff5c4393bdbd60f.html#aa9e1fe70bd9d5f251ff5c4393bdbd60f" title=" " alt="" coords="273,213,498,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="122,489,142,443,174,383,217,322,243,293,271,268,281,264,277,268,274,272,246,297,221,325,179,386,147,445,127,491"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_af6b480f67c1dc9f9eec343cb0d19c87c.html#af6b480f67c1dc9f9eec343cb0d19c87c" title="Negotiated frame rate in fps." alt="" coords="276,283,495,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="128,489,185,415,225,373,271,337,283,332,280,337,274,342,229,377,189,418,133,492"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a06bdf1bdf126f53377036576e663b407.html#a06bdf1bdf126f53377036576e663b407" title="Negotiated output height in pixels." alt="" coords="276,352,495,397"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="143,489,201,447,271,407,289,401,285,405,274,411,204,452,147,492"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a8f4e0300744bb48c7aa45f87b53634c7.html#a8f4e0300744bb48c7aa45f87b53634c7" title="True if the device is open and ready to deliver frames." alt="" coords="276,421,495,466"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="204,488,283,468,279,472,207,492"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a5bc69714b7d301a56063de567ff40bc6.html#a5bc69714b7d301a56063de567ff40bc6" title="Last error string, empty if no error." alt="" coords="276,491,495,535"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="224,511,262,511,258,515,227,515"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_affd465fb72269109e4a17e88be938e18.html#affd465fb72269109e4a17e88be938e18" title="Open a camera device using the supplied config." alt="" coords="276,75,495,119"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="116,490,128,420,155,324,175,271,201,220,233,172,271,130,278,126,275,131,275,134,237,175,205,223,180,274,160,325,134,421,122,491"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a2900a5fcf051cb3ec772fa2d4138297f.html#a2900a5fcf051cb3ec772fa2d4138297f" title="Capture modes this source offers as defaults, ordered from safest to most demanding." alt="" coords="276,611,495,655"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="158,533,274,589,307,604,302,606,272,594,159,538"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_aa1a9d92180d2b246f123f6c3c2958ca7.html#aa1a9d92180d2b246f123f6c3c2958ca7" title="Produce one frame into the container." alt="" coords="1081,711,1300,755"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="124,533,145,580,176,637,219,692,245,716,274,735,302,746,337,756,423,769,525,775,638,775,869,763,1068,747,1063,748,869,768,638,780,525,780,422,774,336,761,300,751,271,739,242,720,215,696,172,640,141,583,124,539"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a3f6131c6f58e8ec5b71cbbebb421a8f0.html#a3f6131c6f58e8ec5b71cbbebb421a8f0" title="Signal the source to pull one frame." alt="" coords="546,800,765,845"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="122,533,141,587,171,655,191,690,215,724,242,754,274,779,303,795,334,808,400,825,467,833,533,836,528,837,467,838,399,831,333,813,301,800,271,783,239,758,211,727,187,693,166,657,136,589,122,539"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_ae2fe23ed71464ea2ed532a442ec21575.html#ae2fe23ed71464ea2ed532a442ec21575" title="Store a weak reference to the container for IOService dispatch." alt="" coords="276,680,495,725"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="133,533,193,599,231,635,274,665,285,672,280,674,271,670,228,639,189,603,134,539"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a01dbf8ce65895095c4d33540625c6f63.html#a01dbf8ce65895095c4d33540625c6f63" title="Setup an IOService for this reader with the given reader_id." alt="" coords="276,851,495,895"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="121,533,140,594,169,673,190,715,214,756,242,795,274,830,290,843,284,843,271,834,238,799,209,759,185,717,165,675,135,595,121,538"/>
+<area shape="rect" id="Node000023" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a6431c6a4422e8666a7bfaff39c0b984d.html#a6431c6a4422e8666a7bfaff39c0b984d" title="Negotiated output width in pixels." alt="" coords="276,920,495,965"/>
+<area shape="poly" id="edge27_Node000001_Node000023" title=" " alt="" coords="119,533,133,607,158,707,178,760,204,813,236,863,275,906,279,911,274,911,271,910,232,866,199,816,174,763,153,708,127,608,118,539"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_ad6505780d79ee7cc58d9a7216ea2412d.html#ad6505780d79ee7cc58d9a7216ea2412d" title=" " alt="" coords="813,581,1033,626"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="765,583,800,589,795,590,766,588"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1IO_af4b933beeff795cd2065686468b70829.html#af4b933beeff795cd2065686468b70829" title="Map an AVPixelFormat to the Portal ImageFormat backing it." alt="" coords="568,5,744,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="494,25,554,26,549,29,497,30"/>
+<area shape="poly" id="edge12_Node000012_Node000002" title=" " alt="" coords="482,117,500,130,540,176,573,229,599,286,619,343,644,452,655,536,649,534,639,453,614,345,594,288,568,232,536,180,496,134,483,122"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a90a87642439b306dc158927acc185438.html#a90a87642439b306dc158927acc185438" title=" " alt="" coords="546,680,765,725"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="495,700,533,702,528,703,496,705"/>
+<area shape="poly" id="edge20_Node000017_Node000003" title=" " alt="" coords="717,677,849,631,844,633,719,682"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a325f3cfd06c93db07e9b502b2203bc70.html#a325f3cfd06c93db07e9b502b2203bc70" title=" " alt="" coords="813,680,1033,725"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="765,700,800,702,795,703,766,705"/>
+<area shape="poly" id="edge19_Node000018_Node000014" title=" " alt="" coords="1033,712,1068,718,1063,719,1033,718"/>
+<area shape="poly" id="edge25_Node000019_Node000015" title=" " alt="" coords="495,850,533,845,528,846,496,855"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="556,955,756,999"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="471,893,499,905,524,923,547,940,562,949,557,948,545,945,520,927,497,910,470,899"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a22c6ffe496c721c1bdfe28c9a86c1c4f.html#a22c6ffe496c721c1bdfe28c9a86c1c4f" title="Register a backend service capability." alt="" coords="558,869,753,930"/>
+<area shape="poly" id="edge26_Node000019_Node000022" title=" " alt="" coords="495,881,545,888,540,889,496,887"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="823,946,1023,1008"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="756,974,810,977,804,977,756,980"/>
+<area shape="poly" id="edge24_Node000021_Node000021" title=" " alt="" coords="871,944,872,936,882,927,899,921,923,920,951,922,970,932,964,931,950,927,923,925,900,927,884,932,877,938,875,948"/>
+</map>

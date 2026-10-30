@@ -1,0 +1,19 @@
+<map id="MayaFlux::Yantra::OperationHelper::extract_composite_data" name="MayaFlux::Yantra::OperationHelper::extract_composite_data">
+<area shape="rect" id="Node000001" title="Borrow an owning Composite array without converting its fields." alt="" coords="639,125,868,170"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1OperationHelper_a2cf12f6d123039219aab6531f871aacc.html#a2cf12f6d123039219aab6531f871aacc" title="Borrow Composite data carried by a Datum." alt="" coords="362,5,591,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,118,590,71,544,53,544,48,592,67,698,118"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1OperationHelper_a4f89ea95aa3018c377517e34fe4e9eb1.html#a4f89ea95aa3018c377517e34fe4e9eb1" title="Borrow Composite records together with their row axis and field layout." alt="" coords="57,22,262,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="633,122,591,116,417,88,263,68,262,62,418,83,591,110,639,121"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1OperationHelper_ab10c73d0fa23b74be029d7c9a2dfbed4.html#ab10c73d0fa23b74be029d7c9a2dfbed4" title="Populate DataStructureInfo from a Datum without extracting spans." alt="" coords="374,125,579,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="621,148,580,150,579,145,626,147"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1OperationHelper_ab17db7c83a000467fd93600212f20895.html#ab17db7c83a000467fd93600212f20895" title="Project one exact&#45;type numeric Composite field to compatible NDData." alt="" coords="363,195,590,239"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="649,174,569,197,568,191,644,175"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1OperationHelper_a62ebfc1593a91638c9547dc32c2d7db5.html#a62ebfc1593a91638c9547dc32c2d7db5" title="Copy Composite records and replace one projected numeric field." alt="" coords="370,264,583,325"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="712,178,655,218,592,254,567,266,566,260,590,249,652,214,707,180"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="389,121,313,98,263,83,262,78,314,93,394,119"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1GpuExecutionContext_af4fbb189b53296822aaf6602bb21084f.html#af4fbb189b53296822aaf6602bb21084f" title=" " alt="" coords="5,108,314,187"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="356,148,315,150,313,145,361,147"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1OperationHelper_a47d2c500e53b315d72e5881508b27a63.html#a47d2c500e53b315d72e5881508b27a63" title="Extract one compatible numeric field for double&#45;based operations." alt="" coords="57,212,262,273"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="383,176,362,185,314,201,263,216,262,211,313,196,361,180,388,174"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="344,228,263,237,262,232,350,227"/>
+</map>

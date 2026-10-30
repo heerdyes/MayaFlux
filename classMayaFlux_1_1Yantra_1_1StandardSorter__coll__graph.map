@@ -1,0 +1,23 @@
+<map id="MayaFlux::Yantra::StandardSorter&lt; InputType, OutputType &gt;" name="MayaFlux::Yantra::StandardSorter&lt; InputType, OutputType &gt;">
+<area shape="rect" id="Node000001" title="Concrete implementation for standard comparison&#45;based sorting." alt="" coords="379,3410,604,4013"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1UniversalSorter.html" title=" " alt="" coords="378,2545,605,3361"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,3374,494,3412,489,3410,491,3379"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title=" " alt="" coords="61,1746,311,2355"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,2367,381,2617,375,2618,294,2372"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="5,592,255,1179"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,1191,174,1746,169,1746,145,1196"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Yantra_1_1ExecutionContext.html" title="Context information controlling how a compute operation executes." alt="" coords="232,5,426,497"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,390,199,453,170,522,155,576,150,575,165,520,194,451,233,385"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="279,592,528,1179"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="358,494,370,575,364,575,358,499"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Yantra_1_1Datum.html" title=" " alt="" coords="691,1203,882,1627"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="784,1624,776,1819,757,2044,724,2285,702,2405,675,2522,648,2613,614,2703,609,2701,643,2611,670,2521,697,2404,719,2284,752,2044,771,1818,782,1630"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Yantra_1_1Datum.html" title="Input/Output container for computation pipeline data flow with structure preservation." alt="" coords="556,47,768,455"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="758,466,774,520,789,608,801,698,812,879,813,1052,807,1203,802,1203,808,1052,807,880,795,699,784,609,769,521,758,472"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Yantra_1_1Datum.html" title=" " alt="" coords="552,665,743,1106"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="615,467,611,521,608,593,612,665,607,665,603,593,606,520,615,472"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1UniversalSorter.html" title="Template&#45;flexible sorter base with instance&#45;defined I/O types." alt="" coords="378,1651,605,2450"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="492,2463,494,2546,489,2545,491,2468"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="427,1191,464,1651,459,1651,427,1197"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="567,1109,547,1204,529,1310,516,1419,499,1635,494,1634,510,1419,524,1309,542,1202,569,1103"/>
+</map>

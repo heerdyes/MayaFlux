@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::DataProcessingChain::drain_pending_removals" name="MayaFlux::Kakshya::DataProcessingChain::drain_pending_removals">
+<area shape="rect" id="Node000001" title="Flushes all removals deferred during the most recent process iteration." alt="" coords="428,133,617,195"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a611d5ebd3e20cb57bc72d0cba93eb362.html#a611d5ebd3e20cb57bc72d0cba93eb362" title="Processes a container with all its associated processors in sequence." alt="" coords="221,5,380,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,125,379,81,360,70,360,65,381,77,460,125"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a7d8f59ec3651bfaae4936d43a0612f53.html#a7d8f59ec3651bfaae4936d43a0612f53" title="Processes a container with only the processors matching a filter predicate." alt="" coords="221,91,380,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="410,144,381,139,380,134,415,143"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a5cba1c74b057ecadf98ed62b12e082ee.html#a5cba1c74b057ecadf98ed62b12e082ee" title="Processes a container with only the processors carrying a specific tag." alt="" coords="221,176,380,238"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="410,186,381,194,380,189,415,185"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a247ede616a95e4b1a58fe9c5ab6b5759.html#a247ede616a95e4b1a58fe9c5ab6b5759" title="Processes a container with only processors of a specific derived type." alt="" coords="221,261,380,323"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="460,203,381,252,361,263,359,258,379,247,455,204"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1DataProcessingChain_a94ba09b2c1cbc8dd03c218f49c4d49b1.html#a94ba09b2c1cbc8dd03c218f49c4d49b1" title=" " alt="" coords="5,91,173,152"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,75,169,92,166,88,210,71"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="202,123,174,124,172,119,207,120"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="206,171,167,156,167,150,211,169"/>
+</map>

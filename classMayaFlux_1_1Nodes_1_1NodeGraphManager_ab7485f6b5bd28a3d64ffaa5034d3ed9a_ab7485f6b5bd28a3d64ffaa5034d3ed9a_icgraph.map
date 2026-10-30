@@ -1,0 +1,33 @@
+<map id="MayaFlux::Nodes::NodeGraphManager::get_root_node" name="MayaFlux::Nodes::NodeGraphManager::get_root_node">
+<area shape="rect" id="Node000001" title="Gets or creates the root node for a specific token and channel." alt="" coords="795,407,1011,451"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ab23bef98f4641dfb378e3e6d916e3d0e.html#ab23bef98f4641dfb378e3e6d916e3d0e" title="Add node to specific processing token and channel." alt="" coords="532,100,747,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="870,395,659,148,662,143,875,395"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ad54ac062c3ed2334c059b37005385128.html#ad54ac062c3ed2334c059b37005385128" title=" " alt="" coords="5,372,221,417"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="778,427,269,406,222,404,220,399,269,401,781,422"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_a8d0b0c63ee8bbfeb21afd9354c6c0cac.html#a8d0b0c63ee8bbfeb21afd9354c6c0cac" title="Process a specific channel within a token domain." alt="" coords="532,467,747,511"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="790,455,741,469,740,463,785,456"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_aa030ff4364fffb42fcb0bffaae717ce3.html#aa030ff4364fffb42fcb0bffaae717ce3" title="Process a single sample for a specific channel." alt="" coords="532,564,747,609"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="855,459,749,526,681,566,679,561,746,521,850,460"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ac75b54bb1112aada3dc0463f2a22654a.html#ac75b54bb1112aada3dc0463f2a22654a" title="Remove node from a specific processing token and channel." alt="" coords="532,305,747,350"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="826,401,700,353,700,348,831,400"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nodes_1_1detail_a3a213dab8c28d07aef066995d239f186.html#a3a213dab8c28d07aef066995d239f186" title=" " alt="" coords="287,5,466,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="558,95,441,53,440,48,563,93"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="549,97,486,86,413,81,375,83,339,89,303,99,270,115,251,132,231,159,189,231,152,310,126,373,121,370,147,308,184,229,226,156,247,128,267,111,301,94,337,84,375,77,413,75,487,80,554,95"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_a21874232e13df6434e6eb3c6077e6b75.html#a21874232e13df6434e6eb3c6077e6b75" title="Routes a node&#39;s output to specific channels within a token domain." alt="" coords="269,125,484,186"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="514,139,485,144,483,140,519,137"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a451b1033efd8624cdcdbfcbbd5df52f9.html#a451b1033efd8624cdcdbfcbbd5df52f9" title=" " alt="" coords="7,108,219,153"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,58,270,71,174,109,170,105,268,67,304,54"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="272,197,270,200,224,242,184,290,129,373,124,370,179,287,220,239,267,196,275,193"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="514,483,396,472,268,450,217,436,171,420,171,415,219,431,269,445,396,467,519,482"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ac7de635a4704e1ad846063babf541bd9.html#ac7de635a4704e1ad846063babf541bd9" title="Process all channels for a token and return channel&#45;separated data." alt="" coords="269,517,484,578"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="524,515,485,526,484,521,519,516"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="287,510,267,501,200,459,145,420,145,414,203,454,270,496,293,510"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="534,612,469,622,401,623,333,615,299,606,267,593,240,576,215,556,173,508,142,459,123,420,125,415,147,456,178,505,219,552,243,572,270,588,301,601,334,610,402,618,469,617,528,612"/>
+<area shape="poly" id="edge19_Node000010_Node000005" title=" " alt="" coords="514,310,396,307,332,311,269,321,205,344,150,374,147,370,202,339,268,316,331,305,396,301,519,308"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ac273f1e6f4adc9845bd162ca115d5c8c.html#ac273f1e6f4adc9845bd162ca115d5c8c" title="Cleans up completed routing transitions for a given token." alt="" coords="269,330,484,392"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="514,344,485,350,483,345,519,342"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Nodes_1_1detail_afa7265e8e74d953afc7f1e96ed89293a.html#afa7265e8e74d953afc7f1e96ed89293a" title=" " alt="" coords="269,211,484,255"/>
+<area shape="poly" id="edge17_Node000010_Node000012" title=" " alt="" coords="558,300,441,259,441,253,563,299"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="251,378,222,383,220,378,255,375"/>
+<area shape="poly" id="edge18_Node000012_Node000004" title=" " alt="" coords="285,206,268,201,163,156,162,151,270,196,290,204"/>
+</map>

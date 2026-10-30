@@ -1,0 +1,39 @@
+<map id="MayaFlux::Kakshya::PlotProcessor::~PlotProcessor" name="MayaFlux::Kakshya::PlotProcessor::~PlotProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,400,222,445"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_a9d832f41a3612decff881ac13ad8b1c0.html#a9d832f41a3612decff881ac13ad8b1c0" title="Bind a series slot to an AudioBuffer." alt="" coords="289,5,446,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,399,132,337,161,252,181,205,205,159,234,116,268,77,278,71,275,75,272,81,238,119,210,162,186,208,166,253,137,338,122,401"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_aa0851e3b0f068b98e87ee85c610c2a0e.html#aa0851e3b0f068b98e87ee85c610c2a0e" title="Bind a series slot to a callable." alt="" coords="289,91,446,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,399,140,351,172,288,214,222,240,190,268,162,277,157,274,161,271,166,244,194,219,225,176,291,145,353,125,401"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_a7770861586cd51f94726fc42c2550777.html#a7770861586cd51f94726fc42c2550777" title="Bind a series slot to a NodeNetwork with audio output." alt="" coords="289,176,446,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,399,185,326,224,285,268,247,277,244,273,248,271,252,228,288,189,330,132,402"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_ac1b8d27dc265a89badaf1af3b6a04215.html#ac1b8d27dc265a89badaf1af3b6a04215" title="Bind a series slot to a Node." alt="" coords="275,262,460,306"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="142,398,199,358,268,316,284,311,280,315,271,321,202,362,146,402"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_a129dc9ea687f770b2d0e509b3c2f1baf.html#a129dc9ea687f770b2d0e509b3c2f1baf" title=" " alt="" coords="270,331,465,376"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="197,398,271,379,267,382,200,402"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_abe1bcbb319156a8a0a9cdbec2294c958.html#abe1bcbb319156a8a0a9cdbec2294c958" title="Called when this processor is attached to a container." alt="" coords="277,400,458,445"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="221,420,263,421,259,424,223,425"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_a033ac0511484de59a7e0ed3a2d941543.html#a033ac0511484de59a7e0ed3a2d941543" title="Called when this processor is detached from a container." alt="" coords="275,470,460,514"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="197,443,271,464,266,467,199,448"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_abe66f2b7082b18c7d9aa1320ebcb66eb.html#abe66f2b7082b18c7d9aa1320ebcb66eb" title="Acquire data from all bound sources and write into the container." alt="" coords="284,539,451,584"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="143,443,202,484,271,524,285,532,280,533,268,529,199,488,144,448"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_acc7c7fe050959dbb080bbaeaea3b9eac.html#acc7c7fe050959dbb080bbaeaea3b9eac" title="Push raw sample data for a series." alt="" coords="283,608,452,653"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="130,443,188,517,227,558,271,594,280,601,275,601,268,598,223,562,184,521,129,448"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_af21aaf6854e4d757b2eb2517ad64a68a.html#af21aaf6854e4d757b2eb2517ad64a68a" title="Set the role and modality for a series binding." alt="" coords="276,677,459,739"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="124,443,147,490,179,548,220,609,271,664,275,668,270,668,268,667,216,612,174,551,142,492,124,448"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_a08f4b916773fb49228ba2cb6ba0ba5f5.html#a08f4b916773fb49228ba2cb6ba0ba5f5" title="Remove a binding from a series slot." alt="" coords="287,763,448,808"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="120,443,137,505,166,587,186,630,210,673,238,713,272,749,277,755,271,754,268,753,234,717,205,676,181,633,161,589,132,507,119,448"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_adc4d86392ad4c49ed1af47a2e687a46e.html#adc4d86392ad4c49ed1af47a2e687a46e" title=" " alt="" coords="513,360,678,422"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="447,536,463,525,480,503,487,480,494,457,511,432,513,434,517,430,515,435,499,459,492,482,485,505,467,529,450,541"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_add31f93a6d73db8ae465122269bfd5cd.html#add31f93a6d73db8ae465122269bfd5cd" title=" " alt="" coords="513,445,678,507"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="432,536,464,524,503,512,499,514,466,529,434,541"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_afa7161aafb11cabcbff61b9fd2b55977.html#afa7161aafb11cabcbff61b9fd2b55977" title=" " alt="" coords="513,531,678,592"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="451,559,500,561,495,562,452,564"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_ae05034f7f44104b2c78de61af091fd77.html#ae05034f7f44104b2c78de61af091fd77" title=" " alt="" coords="513,616,678,678"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="433,582,466,594,504,610,498,610,464,599,433,587"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor_a6fd28ede7168df97b3a688ce726b401d.html#a6fd28ede7168df97b3a688ce726b401d" title=" " alt="" coords="513,701,678,763"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="449,582,467,594,485,618,492,641,499,664,515,688,517,692,512,690,511,691,494,666,487,643,480,620,463,598,448,587"/>
+<area shape="rect" id="Node000014" href="$namespaceMayaFlux_1_1Buffers_a10f96d6572122cf5ec2922a9c3c76321.html#a10f96d6572122cf5ec2922a9c3c76321" title="Extract multiple samples from a node into a vector." alt="" coords="726,624,917,669"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="679,644,713,647,708,647,679,649"/>
+<area shape="rect" id="Node000015" href="$namespaceMayaFlux_1_1Buffers_ae642092d63445f1884326aba3d9b5189.html#ae642092d63445f1884326aba3d9b5189" title="Wait for an active snapshot context to complete using exponential backoff." alt="" coords="965,624,1185,669"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="917,644,952,647,946,647,917,649"/>
+</map>

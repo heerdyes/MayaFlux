@@ -1,0 +1,19 @@
+<map id="MayaFlux::Vruta::TaskScheduler::get_default_rate" name="MayaFlux::Vruta::TaskScheduler::get_default_rate">
+<area shape="rect" id="Node000001" title="Get the default rate for a processing token." alt="" coords="560,213,789,258"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a81c68c47d8ac2ce8f736f8d35f4fe20c.html#a81c68c47d8ac2ce8f736f8d35f4fe20c" title="Initialize a processing domain if it doesn&#39;t exist." alt="" coords="283,144,512,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,209,490,192,489,187,570,209"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_ac441836158c7cf40639d9fec1d942f0a.html#ac441836158c7cf40639d9fec1d942f0a" title="Get processing rate for a domain." alt="" coords="283,283,512,327"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="570,262,490,285,489,279,565,263"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a01f29b8e9975b80306f4bc0b534a09d8.html#a01f29b8e9975b80306f4bc0b534a09d8" title="Add a routine to the scheduler based on its processing token." alt="" coords="5,5,235,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,135,297,100,234,65,206,53,205,48,236,60,300,95,357,134"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_aae8937499ab86a866965f81d167c9738.html#aae8937499ab86a866965f81d167c9738" title="Register an externally&#45;owned clock as the authoritative source for a token domain." alt="" coords="5,75,235,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="288,141,213,123,212,117,293,138"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a0f11b2d2b042e45b941f9609654f5066.html#a0f11b2d2b042e45b941f9609654f5066" title="Register a custom processor for a specific token domain." alt="" coords="5,144,235,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="265,167,236,169,234,164,270,165"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a5f392865228c75f60264d38225a0eb35.html#a5f392865228c75f60264d38225a0eb35" title="Constructs a TaskScheduler with the specified sample rate." alt="" coords="5,213,235,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="288,194,213,215,211,210,293,192"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a99bd0b1b8f51d07e40aeaf1588342323.html#a99bd0b1b8f51d07e40aeaf1588342323" title="Converts a time in seconds to a number of samples." alt="" coords="5,283,235,327"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="265,306,235,308,235,302,270,304"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a1799325adcf528acaaff698264a9ac42.html#a1799325adcf528acaaff698264a9ac42" title="Convert seconds to processing units for a specific domain." alt="" coords="5,352,235,397"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="293,331,213,354,212,349,288,332"/>
+</map>

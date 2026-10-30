@@ -1,0 +1,9 @@
+<map id="MayaFlux::Nodes::Network::GraphicsOperator::extract_vertex_attributes" name="MayaFlux::Nodes::Network::GraphicsOperator::extract_vertex_attributes">
+<area shape="rect" id="Node000001" title="Extra named, per&#45;vertex attributes beyond position/color/size, for an external cache/export consumer." alt="" coords="695,5,893,67"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1IO_a4270f76b4396b335247bd792ced07cc9.html#a4270f76b4396b335247bd792ced07cc9" title="Pack one GraphicsOperator&#39;s current vertex state into a SpatialCache stream, as a Points or Curves sa..." alt="" coords="499,14,647,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="677,36,648,39,648,34,682,36"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1IO_a41beed1d97ed23922e7b0effd3bdf833.html#a41beed1d97ed23922e7b0effd3bdf833" title="Pack a NetworkGeometryBuffer&#39;s driving network into one or more SpatialCache streams,..." alt="" coords="255,5,451,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,36,451,39,451,34,486,36"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1IO_aff105666b9119fd8c7a0484e9a046b20.html#aff105666b9119fd8c7a0484e9a046b20" title="Build a SpatialCaptureSource that packs a NetworkGeometryBuffer&#39;s driving network through write_netwo..." alt="" coords="5,14,207,58"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,36,207,39,207,34,242,36"/>
+</map>

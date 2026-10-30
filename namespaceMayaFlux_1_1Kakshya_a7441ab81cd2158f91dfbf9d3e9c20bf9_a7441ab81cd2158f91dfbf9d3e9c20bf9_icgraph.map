@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::to_line_vertices" name="MayaFlux::Kakshya::to_line_vertices">
+<area shape="rect" id="Node000001" title="Batch&#45;project raw Vertex vector to LineVertex." alt="" coords="819,75,977,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork_a8c51a6028f5de39f80e605e1fa9066bf.html#a8c51a6028f5de39f80e605e1fa9066bf" title=" " alt="" coords="551,66,771,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="801,97,772,100,772,94,806,97"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork_aee69fa7a48f2beb3a97e7a22edf17b50.html#aee69fa7a48f2beb3a97e7a22edf17b50" title="Called once before first process_batch()." alt="" coords="285,5,503,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="534,65,483,53,483,48,539,64"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork_acc330c7695cd9d2d3e46e4acc38c0ee0.html#acc330c7695cd9d2d3e46e4acc38c0ee0" title="Reset network to initial state." alt="" coords="295,75,492,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="533,97,493,100,493,94,538,97"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork_a5bf88acf450983ded344055b1f293f3d.html#a5bf88acf450983ded344055b1f293f3d" title=" " alt="" coords="295,144,492,205"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="540,132,493,148,492,143,535,133"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork_ab597f3e0c2c0d407f166615d0b556451.html#ab597f3e0c2c0d407f166615d0b556451" title="Reinitialize point cloud with new parameters." alt="" coords="5,75,237,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="277,98,237,100,236,94,282,96"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork_a6b8d7ef9042babf95c1f192f3c1a7ba3.html#a6b8d7ef9042babf95c1f192f3c1a7ba3" title="Create and set operator in one call." alt="" coords="19,144,223,205"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="277,175,223,177,223,172,282,174"/>
+</map>

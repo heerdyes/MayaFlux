@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::triangle_soup_mesh" name="MayaFlux::Buffers::triangle_soup_mesh">
+<area shape="rect" id="Node000001" title="Wrap non&#45;indexed triangle vertices as MeshData." alt="" coords="5,105,158,150"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1MeshInsertion_a527a0701939e51357fd34340c97c2b85.html#a527a0701939e51357fd34340c97c2b85" title="Produce a MeshAccess over the current variant contents." alt="" coords="220,5,378,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,103,205,60,222,55,218,58,207,65,124,107"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1MeshData_a3cecabe70345deaa8c2da479a1a8193a.html#a3cecabe70345deaa8c2da479a1a8193a" title="Construct an empty MeshData with the canonical 60&#45;byte mesh layout." alt="" coords="220,75,378,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,114,207,109,202,111,159,119"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a7b7a30b2a13cb2676713a352f298f607.html#a7b7a30b2a13cb2676713a352f298f607" title="Factory: layout for MeshVertex (position, color, weight, uv, normal, tangent)." alt="" coords="440,104,631,149"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="158,128,206,129,392,129,427,130,421,131,392,134,206,134,159,133"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1MeshInsertion_a618b35166b14858aca7b8f8c8ce693c8.html#a618b35166b14858aca7b8f8c8ce693c8" title="Insert a single flat mesh (no submesh tracking)." alt="" coords="206,195,392,239"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="138,148,231,187,226,189,137,153"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a14e84697e2ffc829dea40c40cb3f0dbe.html#a14e84697e2ffc829dea40c40cb3f0dbe" title="Construct a MeshAccess from two DataVariant instances." alt="" coords="457,5,614,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,25,444,27,439,28,379,30"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="378,104,427,112,422,113,378,109"/>
+</map>

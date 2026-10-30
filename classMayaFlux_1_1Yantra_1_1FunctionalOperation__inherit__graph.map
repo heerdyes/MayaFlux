@@ -1,0 +1,11 @@
+<map id="MayaFlux::Yantra::FunctionalOperation&lt; InputType, OutputType &gt;" name="MayaFlux::Yantra::FunctionalOperation&lt; InputType, OutputType &gt;">
+<area shape="rect" id="Node000001" title="Wraps a single callable as a ComputeOperation, for a wild or one&#45;off idea that does not warrant a han..." alt="" coords="95,664,345,910"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1FunctionalOperation.html" title=" " alt="" coords="76,1027,364,1307"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,922,222,1028,217,1028,220,927"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="95,5,345,615"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,627,222,665,217,664,220,632"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer.html" title="Resolves its configured VisionQuery, runs every resolved VisionSequence against a persistent VisionGp..." alt="" coords="5,1356,218,2272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,1319,191,1357,186,1356,194,1324"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionExtractor.html" title="Extraction from each VisionAnalysis field." alt="" coords="242,1434,413,2194"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="246,1319,267,1435,262,1435,245,1324"/>
+</map>

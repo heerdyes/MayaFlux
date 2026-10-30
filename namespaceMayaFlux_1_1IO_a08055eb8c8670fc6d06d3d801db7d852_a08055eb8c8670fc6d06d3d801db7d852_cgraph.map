@@ -1,0 +1,7 @@
+<map id="MayaFlux::IO::upload_volume" name="MayaFlux::IO::upload_volume">
+<area shape="rect" id="Node000001" title="Upload every field of a host VolumeData into a GPU&#45;resident volume." alt="" coords="5,5,165,50"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_a6eb5ed3d17b6580cc64d6a94088f8b5a.html#a6eb5ed3d17b6580cc64d6a94088f8b5a" title="Check that every field is densely populated over the lattice." alt="" coords="213,5,407,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,25,200,27,194,28,165,30"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_ad18c3092c8a26b207df1a6ff8ad8bbef.html#ad18c3092c8a26b207df1a6ff8ad8bbef" title="Cells in the lattice, which every field&#39;s element_count() must equal." alt="" coords="455,5,630,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,25,442,28,437,28,408,30"/>
+</map>

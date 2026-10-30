@@ -1,0 +1,20 @@
+<map id="MayaFlux::Kriya::BufferPipeline::execute_streaming" name="MayaFlux::Kriya::BufferPipeline::execute_streaming">
+<area shape="rect" id="Node000001" title=" " alt="" coords="828,80,1055,125"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a3082bfe796961fd60e8949fd20ba640b.html#a3082bfe796961fd60e8949fd20ba640b" title=" " alt="" coords="280,5,506,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="810,86,507,46,506,40,815,84"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a546065a291fdaa6273cc9dbcfcb61d02.html#a546065a291fdaa6273cc9dbcfcb61d02" title=" " alt="" coords="554,109,780,154"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="810,117,781,122,780,117,815,116"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="600,103,505,65,472,53,472,48,507,60,606,102"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_ad4fe73b0d4d16e6b18491b487528fa88.html#ad4fe73b0d4d16e6b18491b487528fa88" title="Execute pipeline synchronized to audio hardware cycle boundaries." alt="" coords="280,75,506,119"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="536,116,507,114,506,109,541,115"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a465607590b51389606515eaaa9fc24dd.html#a465607590b51389606515eaaa9fc24dd" title="Execute the pipeline for a specified number of cycles." alt="" coords="280,144,506,189"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="536,149,507,155,506,149,541,147"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a89d448b3e441d37661b4757f8f91e0eb.html#a89d448b3e441d37661b4757f8f91e0eb" title="Execute the pipeline for a single cycle." alt="" coords="280,213,506,258"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="605,160,507,203,473,215,471,210,505,199,600,162"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_ae62c2f0e72af19c9b970038ed0259acf.html#ae62c2f0e72af19c9b970038ed0259acf" title="Execute pipeline with sample&#45;accurate timing between operations." alt="" coords="280,283,506,327"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="638,164,580,221,545,249,507,273,481,285,480,280,505,268,542,244,576,217,633,167"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a64761728d137b013513fe74c81b03062.html#a64761728d137b013513fe74c81b03062" title="Start continuous execution of the pipeline." alt="" coords="5,144,232,189"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="261,167,233,169,232,164,266,165"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a71b338f3d13496168e51bbcad3b7789f.html#a71b338f3d13496168e51bbcad3b7789f" title="Execute pipeline with real&#45;time rate control." alt="" coords="5,283,232,327"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="261,305,232,308,232,302,266,305"/>
+</map>

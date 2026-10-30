@@ -1,0 +1,27 @@
+<map id="MayaFlux::Registry::BackendRegistry::unregister_service" name="MayaFlux::Registry::BackendRegistry::unregister_service">
+<area shape="rect" id="Node000001" title="Unregister a service." alt="" coords="618,240,829,301"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1VideoFileReader_aa7942958f72f9cc0f0549ffd9fdadd40.html#aa7942958f72f9cc0f0549ffd9fdadd40" title="Close the currently open file." alt="" coords="330,75,552,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,229,626,190,569,151,509,123,509,117,571,147,629,186,680,229"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a154604a3069bdf0c84b973ca45240bf3.html#a154604a3069bdf0c84b973ca45240bf3" title="Shutdown and cleanup audio resources." alt="" coords="321,161,561,206"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="604,235,516,209,516,204,609,234"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a0464d61f9752a0848157b14c1ff0b37d.html#a0464d61f9752a0848157b14c1ff0b37d" title="Shutdown and cleanup subsystem resources." alt="" coords="312,248,570,293"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="600,271,571,273,570,268,605,270"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1IOManager_ab42d3a6d5feeacaf3012eb79c8c8da6e.html#ab42d3a6d5feeacaf3012eb79c8c8da6e" title="Unregisters IOService, releases all owned readers, clears stored buffers." alt="" coords="348,335,534,379"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="609,305,517,337,515,332,604,307"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a87be3d5a9e28a5e084ecba65d6c5385d.html#a87be3d5a9e28a5e084ecba65d6c5385d" title=" " alt="" coords="323,404,559,449"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="682,311,631,356,571,394,543,406,542,401,569,389,628,352,677,313"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1VideoFileReader_a4fde32d3018bb43d67972a0ff5fc0965.html#a4fde32d3018bb43d67972a0ff5fc0965" title="Open a file for reading." alt="" coords="24,5,245,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,72,237,53,236,48,326,69"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1VideoFileReader_af01d799de5c05dfbc69d9de7fcf36721.html#af01d799de5c05dfbc69d9de7fcf36721" title=" " alt="" coords="24,75,245,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,98,247,99,245,95,317,96"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_ae95cef33d0242701676ccf553f818484.html#ae95cef33d0242701676ccf553f818484" title=" " alt="" coords="14,144,255,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="303,177,256,176,254,171,308,175"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_aaea7bfd9d44c128135b4890252b13b08.html#aaea7bfd9d44c128135b4890252b13b08" title=" " alt="" coords="5,213,264,258"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="294,255,265,253,264,248,299,253"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a381f631b4f9b5ac70877bd7c8de38a2f.html#a381f631b4f9b5ac70877bd7c8de38a2f" title=" " alt="" coords="5,283,264,327"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="294,288,265,293,263,288,299,286"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1IOManager_a87fdb3896103ef73e3a949781808704e.html#a87fdb3896103ef73e3a949781808704e" title=" " alt="" coords="41,352,228,397"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="329,364,229,372,228,366,334,362"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1IOManager_ad92be69cbeb3eaa2a270f7dd3ecd3b16.html#ad92be69cbeb3eaa2a270f7dd3ecd3b16" title="Calls shutdown() if it has not already run." alt="" coords="41,421,228,466"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="339,383,313,394,264,412,225,423,223,418,263,406,311,389,334,385"/>
+</map>

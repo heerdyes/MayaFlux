@@ -1,0 +1,17 @@
+<map id="MayaFlux::Yantra::VisionGpuExecutor::build_flow_pyramid" name="MayaFlux::Yantra::VisionGpuExecutor::build_flow_pyramid">
+<area shape="rect" id="Node000001" title="Build the current frame&#39;s pyramid atlas from the working image." alt="" coords="5,108,187,169"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="235,35,431,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,105,254,83,249,86,188,110"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="235,116,431,161"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="187,136,222,138,216,139,188,141"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kinesis_1_1Vision_afc0c983bf8a8fb63f3d74e4ef6bc5ac8.html#afc0c983bf8a8fb63f3d74e4ef6bc5ac8" title="Place up to requested pyramid levels for a w x h base image." alt="" coords="247,185,418,230"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="187,162,242,180,237,181,187,168"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="484,29,680,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,52,470,54,465,55,432,58"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="732,29,963,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="680,49,720,51,714,52,681,54"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="797,27,796,19,804,10,822,5,848,3,876,5,895,14,889,14,875,10,847,8,823,10,807,15,801,21,802,30"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="479,123,684,167"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="431,138,466,142,461,142,432,144"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="535,121,533,113,541,104,557,98,582,96,609,99,626,108,621,107,607,104,582,101,558,103,544,108,538,114,539,124"/>
+</map>

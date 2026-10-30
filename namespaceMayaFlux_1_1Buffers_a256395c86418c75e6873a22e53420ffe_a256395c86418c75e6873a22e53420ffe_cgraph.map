@@ -1,0 +1,31 @@
+<map id="MayaFlux::Buffers::upload_audio_to_gpu" name="MayaFlux::Buffers::upload_audio_to_gpu">
+<area shape="rect" id="Node000001" title="Upload AudioBuffer to GPU (always double precision)." alt="" coords="5,75,165,119"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="213,23,370,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,75,200,67,195,70,166,79"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Buffers_aac5d05cf9bfc11ce6df03c3697b9e7ef.html#aac5d05cf9bfc11ce6df03c3697b9e7ef" title="Upload raw data to GPU buffer (auto&#45;detects host&#45;visible vs device&#45;local)." alt="" coords="218,109,365,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,108,205,116,200,118,166,113"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="426,5,572,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,36,413,34,408,36,371,41"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Buffers_a64c6abe8842e398d178e4275a4d4b404.html#a64c6abe8842e398d178e4275a4d4b404" title="Create staging buffer for transfers." alt="" coords="418,75,580,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="365,117,405,112,400,114,366,122"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Buffers_aef0500ee2ec9a75e2fe565ff287d81d5.html#aef0500ee2ec9a75e2fe565ff287d81d5" title="Upload data to a device&#45;local buffer using a staging buffer." alt="" coords="422,213,576,258"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="332,152,419,199,432,207,427,206,417,203,331,157"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Buffers_ade245c667165a5cba39db1a67391080c.html#ade245c667165a5cba39db1a67391080c" title="Upload data to a host&#45;visible buffer." alt="" coords="424,144,574,189"/>
+<area shape="poly" id="edge14_Node000004_Node000012" title=" " alt="" coords="365,141,411,151,406,152,366,147"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="645,62,812,124"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="580,93,633,94,627,95,581,98"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="628,148,829,193"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="571,117,645,143,639,143,571,122"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="881,136,1082,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="829,166,868,168,863,168,829,171"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="932,133,933,125,942,116,958,111,981,109,1008,112,1026,122,1020,121,1006,117,981,114,959,116,945,121,938,127,936,137"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="562,210,579,199,594,183,602,167,611,151,627,134,630,134,635,132,630,138,615,154,607,170,598,186,582,203,563,215"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="575,211,631,198,636,197,577,217"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a7893291a314cd16a4086b4af5547be3b.html#a7893291a314cd16a4086b4af5547be3b" title="Get raw buffer info for GPU upload." alt="" coords="641,217,816,262"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="576,234,628,238,623,238,576,240"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a22ed77a7c33e4413867656e1e7fa4fa7.html#a22ed77a7c33e4413867656e1e7fa4fa7" title=" " alt="" coords="877,221,1086,266"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="816,238,864,242,859,242,816,244"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="570,141,628,125,633,124,572,146"/>
+<area shape="poly" id="edge17_Node000012_Node000007" title=" " alt="" coords="575,165,616,168,610,169,575,170"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="571,186,645,212,639,212,571,192"/>
+</map>

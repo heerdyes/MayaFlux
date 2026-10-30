@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::GpuSync::PathGeneratorNode::regenerate_segment_range" name="MayaFlux::Nodes::GpuSync::PathGeneratorNode::regenerate_segment_range">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,241,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_a3589630da979f758a3bf60f9ac7f18e9.html#a3589630da979f758a3bf60f9ac7f18e9" title="Vertices emitted per four&#45;point window." alt="" coords="289,5,505,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,58,276,54,271,56,242,63"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_a4c5763333ac9637a59711233243299ee.html#a4c5763333ac9637a59711233243299ee" title="Evaluate one window and write its vertices." alt="" coords="297,91,496,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,95,284,103,279,104,241,100"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a35d638be94bbb4d5307c650183938820.html#a35d638be94bbb4d5307c650183938820" title="Tangents of a sampled curve by finite difference, coordinate&#45;major." alt="" coords="553,60,755,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,104,540,100,535,101,497,109"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_af397575bfc8596ee095c189f5e28c6ff.html#af397575bfc8596ee095c189f5e28c6ff" title="Write colour and thickness for one window, leaving positions intact." alt="" coords="554,129,754,191"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="497,134,542,143,536,143,497,139"/>
+</map>

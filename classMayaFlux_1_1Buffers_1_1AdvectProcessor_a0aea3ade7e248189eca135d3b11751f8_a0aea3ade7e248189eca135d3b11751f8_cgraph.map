@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::AdvectProcessor::AdvectProcessor" name="MayaFlux::Buffers::AdvectProcessor::AdvectProcessor">
+<area shape="rect" id="Node000001" title="Construct an advection stage from a generated ShaderSpec." alt="" coords="5,99,251,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_ae3eb55e4157368419502814690bdcbb4.html#ae3eb55e4157368419502814690bdcbb4" title="Register a field to swap after each dispatch." alt="" coords="303,5,468,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,96,290,67,286,70,199,101"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a580207a22f3d6e610ce05197a8f6ce07.html#a580207a22f3d6e610ce05197a8f6ce07" title="Build the binding table for the two field names." alt="" coords="299,91,472,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,119,285,121,280,122,252,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a446fc3970b1b1b9b1c4a0a7c41000c7c.html#a446fc3970b1b1b9b1c4a0a7c41000c7c" title="Construct from a shader path." alt="" coords="299,176,472,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,142,287,173,282,174,198,147"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_a86eeb4e6a3c157b47da70d40a272b5d7.html#a86eeb4e6a3c157b47da70d40a272b5d7" title="Construct processor with shader path." alt="" coords="520,146,793,190"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="472,192,507,189,502,190,472,197"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a840bea096f22b9649600f67cfc106b8a.html#a840bea096f22b9649600f67cfc106b8a" title="Register the binding table into m_config.bindings." alt="" coords="574,215,739,276"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="472,216,561,232,556,232,472,222"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a157ac2a18d9be2c9e45cb345b1bedeb3.html#a157ac2a18d9be2c9e45cb345b1bedeb3" title="Construct processor with shader path." alt="" coords="841,146,1087,190"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="794,166,829,168,823,168,794,171"/>
+</map>

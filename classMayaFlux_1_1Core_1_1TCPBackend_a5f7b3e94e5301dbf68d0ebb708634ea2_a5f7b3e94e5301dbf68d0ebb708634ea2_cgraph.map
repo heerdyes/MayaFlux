@@ -1,0 +1,27 @@
+<map id="MayaFlux::Core::TCPBackend::on_payload_received" name="MayaFlux::Core::TCPBackend::on_payload_received">
+<area shape="rect" id="Node000001" title="Payload read completion handler." alt="" coords="5,36,216,80"/>
+<area shape="poly" id="edge17_Node000001_Node000001" title=" " alt="" coords="61,35,60,25,68,16,85,11,111,9,138,11,156,19,151,21,137,17,110,14,86,16,71,21,65,27,67,35"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1TCPBackend_a9ef4e4a44ef32267f7c9434b21e069f5.html#a9ef4e4a44ef32267f7c9434b21e069f5" title="Handle a connection error (read/write failure)." alt="" coords="264,149,474,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,78,305,141,300,144,163,84"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1TCPBackend_a1eaeeb330ff17e4201e782674beab3e0.html#a1eaeeb330ff17e4201e782674beab3e0" title="Start the framed message receive chain on a connection." alt="" coords="1039,72,1249,116"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="216,57,560,65,991,81,1026,85,1021,85,991,86,560,70,216,62"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="320,147,318,139,327,130,344,124,369,122,397,125,415,134,410,134,395,130,369,128,345,129,329,134,323,140,325,150"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1TCPBackend_a7bc75526f7d59f64b7b37d4099903591.html#a7bc75526f7d59f64b7b37d4099903591" title="Schedule a reconnect attempt after the configured interval." alt="" coords="522,120,732,164"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="474,157,509,155,504,156,475,162"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1TCPBackend_a55966a09aa0a18a29f6d8d743c0dd1d0.html#a55966a09aa0a18a29f6d8d743c0dd1d0" title=" " alt="" coords="1039,166,1249,211"/>
+<area shape="poly" id="edge16_Node000002_Node000007" title=" " alt="" coords="474,172,522,174,1025,185,1021,189,522,179,474,178"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="578,118,577,109,585,100,602,95,627,93,655,95,673,105,668,104,654,101,627,98,603,100,588,105,582,111,583,120"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1TCPBackend_a2b5afc5ff4c5288e59708008bb3f1032.html#a2b5afc5ff4c5288e59708008bb3f1032" title="Initiate async_connect for an outbound endpoint." alt="" coords="780,120,991,164"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="733,148,767,151,762,151,733,153"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="777,133,748,136,748,130,782,133"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="837,118,835,109,843,100,860,95,886,93,913,95,932,105,926,104,912,101,885,98,861,100,846,105,840,111,841,121"/>
+<area shape="poly" id="edge8_Node000004_Node000005" title=" " alt="" coords="991,120,1020,117,1026,116,992,125"/>
+<area shape="poly" id="edge14_Node000004_Node000007" title=" " alt="" coords="991,158,1026,167,1020,167,991,164"/>
+<area shape="poly" id="edge13_Node000005_Node000005" title=" " alt="" coords="1095,70,1093,61,1102,52,1119,47,1144,45,1172,47,1190,57,1185,56,1170,53,1144,50,1120,52,1104,57,1098,63,1100,73"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1TCPBackend_a68bc7a28284ed1ac7631067ec3ca3598.html#a68bc7a28284ed1ac7631067ec3ca3598" title="Header read completion handler." alt="" coords="1297,72,1507,116"/>
+<area shape="poly" id="edge9_Node000005_Node000006" title=" " alt="" coords="1249,91,1284,94,1278,94,1250,97"/>
+<area shape="poly" id="edge12_Node000006_Node000001" title=" " alt="" coords="1350,71,1302,54,1248,38,1148,18,1069,11,887,10,626,10,522,13,417,21,232,42,230,37,416,15,521,8,626,5,887,5,1070,5,1149,13,1250,33,1304,49,1355,71"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="1386,116,1362,145,1330,176,1292,204,1250,226,1197,243,1143,256,1032,271,919,275,809,269,705,256,608,239,456,201,456,196,610,233,705,251,810,264,920,269,1031,266,1142,251,1196,238,1248,221,1289,200,1326,172,1358,142,1381,118"/>
+<area shape="poly" id="edge11_Node000006_Node000006" title=" " alt="" coords="1354,69,1352,61,1360,52,1377,47,1402,45,1430,47,1448,57,1443,56,1429,53,1402,50,1378,52,1363,57,1357,63,1358,73"/>
+<area shape="poly" id="edge15_Node000007_Node000007" title=" " alt="" coords="1095,164,1093,156,1102,147,1119,142,1144,140,1172,142,1190,151,1185,151,1170,147,1144,145,1120,147,1104,152,1098,158,1100,167"/>
+</map>

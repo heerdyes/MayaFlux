@@ -1,0 +1,10 @@
+<map id="MayaFlux::Buffers::SoundFileBridge::SoundFileBridge" name="MayaFlux::Buffers::SoundFileBridge::SoundFileBridge">
+<area shape="rect" id="Node000001" title="Construct a file&#45;to&#45;stream bridge." alt="" coords="5,64,203,125"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1SoundContainerBuffer_ab79dabd45d9b58c4b3310c9df74c78e2.html#ab79dabd45d9b58c4b3310c9df74c78e2" title="Construct a SoundContainerBuffer for a specific channel and container." alt="" coords="251,64,422,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,92,238,94,233,95,203,97"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1AudioBuffer_ae951dfe24fa0cdbf254622e694f0da8e.html#ae951dfe24fa0cdbf254622e694f0da8e" title="Creates a new uninitialized audio buffer." alt="" coords="470,29,651,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,75,457,71,452,72,423,81"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1SoundContainerBuffer_a2fc263d5560278db620a5dc36ee9392e.html#a2fc263d5560278db620a5dc36ee9392e" title="Attempt to enable zero&#45;copy operation if container layout allows." alt="" coords="479,98,642,176"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="422,108,466,119,461,119,422,113"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="518,27,516,19,524,10,539,5,561,3,585,5,601,14,596,14,584,10,561,8,540,10,527,15,522,21,523,30"/>
+</map>

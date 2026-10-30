@@ -1,0 +1,15 @@
+<map id="MayaFlux::IO::IOManager::capture_volume" name="MayaFlux::IO::IOManager::capture_volume">
+<area shape="rect" id="Node000001" title="Begin recording a numbered .vdb sequence from a volume." alt="" coords="5,40,192,85"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1IO_1_1Detail_a74a94460432e1a26bb477aa053411d3d.html#a74a94460432e1a26bb477aa053411d3d" title=" " alt="" coords="242,5,424,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,46,229,42,224,44,193,51"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1IOManager_add7c3d0e36556c60f2a8b5e221c1b677.html#add7c3d0e36556c60f2a8b5e221c1b677" title="Save an already&#45;downloaded VolumeData to disk asynchronously." alt="" coords="240,75,426,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,73,227,80,222,81,192,79"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1IO_1_1Detail_a157e331e4d56b757d7620b02cd63b267.html#a157e331e4d56b757d7620b02cd63b267" title=" " alt="" coords="479,40,655,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="426,81,466,77,461,78,427,86"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1IOManager_a0604e2f246faf9ae9d598cd28140d814.html#a0604e2f246faf9ae9d598cd28140d814" title="Retain a save task in m_save_tasks and opportunistically reclaim finished ones." alt="" coords="474,109,660,154"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="426,108,461,116,456,116,426,113"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1WriterRegistry_aa46ea7ad375565657b552522e327ceee.html#aa46ea7ad375565657b552522e327ceee" title=" " alt="" coords="708,5,918,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="656,47,696,44,690,45,656,53"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1WriterRegistry_a9ffbd681909928bb45748f2a1c578fb8.html#a9ffbd681909928bb45748f2a1c578fb8" title=" " alt="" coords="708,75,918,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="656,72,696,80,690,80,656,77"/>
+</map>

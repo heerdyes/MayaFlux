@@ -1,0 +1,17 @@
+<map id="MayaFlux::Core::BackendResourceManager::upload_image_data" name="MayaFlux::Core::BackendResourceManager::upload_image_data">
+<area shape="rect" id="Node000001" title="Upload data to an image (creates staging buffer internally)." alt="" coords="5,83,252,127"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_a0db85a56fc0aa2720febc7f3e8c3dbf9.html#a0db85a56fc0aa2720febc7f3e8c3dbf9" title="Cleanup a buffer and release associated resources." alt="" coords="300,5,546,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,80,323,53,318,56,218,84"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_a5dcf25547288ef33225a71929a05c358.html#a5dcf25547288ef33225a71929a05c358" title="Execute immediate command recording for buffer operations." alt="" coords="300,74,546,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,102,287,104,282,106,253,108"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ad1bfc97eb921df611d3503d11e6e2347.html#ad1bfc97eb921df611d3503d11e6e2347" title="Initialize a buffer for use with the graphics backend." alt="" coords="300,160,546,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,125,323,155,318,156,216,131"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ad5f783753dbe799e95ce480237b1c86b.html#ad5f783753dbe799e95ce480237b1c86b" title="Allocate a raw VkBuffer/VkDeviceMemory pair without an owning VKBuffer object." alt="" coords="594,125,840,170"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="546,165,581,164,576,164,547,170"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="638,195,796,239"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="547,194,626,206,620,206,546,200"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ab4e39f5b542838628a267c0cfe94dba4.html#ab4e39f5b542838628a267c0cfe94dba4" title="Find a suitable memory type for Vulkan buffer allocation." alt="" coords="888,125,1135,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="841,145,876,148,870,148,841,150"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="938,195,1085,239"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="796,214,926,217,920,217,796,220"/>
+</map>

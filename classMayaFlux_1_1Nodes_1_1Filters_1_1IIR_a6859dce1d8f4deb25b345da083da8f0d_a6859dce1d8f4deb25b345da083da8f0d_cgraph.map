@@ -1,0 +1,28 @@
+<map id="MayaFlux::Nodes::Filters::IIR::process_sample" name="MayaFlux::Nodes::Filters::IIR::process_sample">
+<area shape="rect" id="Node000001" title="Processes a single sample through the IIR filter." alt="" coords="5,304,188,349"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nodes_a2b661b58f860423fa6cf1d12c5accbd8.html#a2b661b58f860423fa6cf1d12c5accbd8" title="Atomically adds a flag to a node state." alt="" coords="239,5,426,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,303,117,253,143,188,182,120,206,88,234,60,242,57,239,61,237,64,210,92,186,123,148,190,122,255,106,304"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nodes_aa4e4a2ece2a22b6774a5978e557ea25e.html#aa4e4a2ece2a22b6774a5978e557ea25e" title="Atomically decrements the modulator count by a specified amount." alt="" coords="239,75,426,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,303,125,265,153,219,190,171,234,130,243,126,240,130,237,134,194,175,158,222,130,268,111,305"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Nodes_a7d0374eb13e0238f520338b13823a627.html#a7d0374eb13e0238f520338b13823a627" title="Atomically increments the modulator count by a specified amount." alt="" coords="239,144,426,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,302,166,251,199,223,234,199,247,194,243,198,237,203,202,227,170,255,120,305"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_a2209b1c029003086edcb2cbe67330a38.html#a2209b1c029003086edcb2cbe67330a38" title="Builds input history from external context or internal accumulation." alt="" coords="236,213,430,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="155,301,260,262,257,266,158,306"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_ac0deee4838989b7c7066163cb1f33342.html#ac0deee4838989b7c7066163cb1f33342" title="Updates the input history buffer with a new sample." alt="" coords="478,244,660,289"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="187,312,464,278,461,282,189,317"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_aa92ed8cf6d77f367dd4d280a2b3c22a8.html#aa92ed8cf6d77f367dd4d280a2b3c22a8" title="Gets the current gain value." alt="" coords="242,333,424,378"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="187,335,228,341,223,344,189,340"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_a6364ed527bdb9bfedd66e97867559710.html#a6364ed527bdb9bfedd66e97867559710" title="Checks if bypass is currently enabled." alt="" coords="236,403,430,447"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="144,347,237,388,254,396,249,397,235,393,145,352"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_ac2259ae23e570a9998150aa47956b1d8.html#ac2259ae23e570a9998150aa47956b1d8" title="Notifies all registered callbacks with the current filter context." alt="" coords="242,472,424,517"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="116,347,168,402,201,432,237,457,247,465,242,465,234,462,198,436,165,406,116,352"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Nodes_a7c82f258078606084a01f72dfba3bb92.html#a7c82f258078606084a01f72dfba3bb92" title="Attempts to reset the processed state of a node." alt="" coords="246,541,420,586"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="108,347,129,387,157,435,193,484,237,527,244,533,239,533,234,531,189,487,152,438,124,389,107,352"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_a59f5df676e80ba01c27b1715cdc4a036.html#a59f5df676e80ba01c27b1715cdc4a036" title="Updates the output history buffer with a new sample." alt="" coords="242,611,424,655"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="104,347,121,399,147,466,186,536,210,568,237,596,243,603,237,601,234,600,206,571,181,538,142,468,116,401,103,352"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="430,246,465,252,460,253,431,251"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_af9a4446a720cd845e1782e8ef4c9570d.html#af9a4446a720cd845e1782e8ef4c9570d" title="Gets the last created context object." alt="" coords="478,437,660,482"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="424,478,465,475,460,476,425,484"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_ae37b4b8dd0a7f42c98c3ce67c8fb68a3.html#ae37b4b8dd0a7f42c98c3ce67c8fb68a3" title="Updates filter&#45;specific context object." alt="" coords="478,507,660,551"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="424,505,465,513,460,514,425,510"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="MayaFlux::Nodes::Node::get_gpu_data_buffer" name="MayaFlux::Nodes::Node::get_gpu_data_buffer">
+<area shape="rect" id="Node000001" title="Provides access to the GPU data buffer." alt="" coords="756,144,933,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1BinaryOpNode_aed8b0cd44597535d061a454f8336bf8b.html#aed8b0cd44597535d061a454f8336bf8b" title="Creates a new binary operation node." alt="" coords="501,5,703,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="805,133,760,99,707,65,683,53,683,48,710,60,764,95,810,134"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a0bfe16a8cecbae2f07f84a7ed6e5c168.html#a0bfe16a8cecbae2f07f84a7ed6e5c168" title="Creates a composite operation node (unmanaged)." alt="" coords="496,75,708,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="747,140,683,123,683,117,752,139"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a5c2a8f9629b944138e996e90d5fb5f10.html#a5c2a8f9629b944138e996e90d5fb5f10" title="Creates a composite operation node (managed)." alt="" coords="496,144,708,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="738,167,709,169,709,164,743,166"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_a130070e53c152e62f147c26f4a284456.html#a130070e53c152e62f147c26f4a284456" title="Constructor using explicit coefficient vectors." alt="" coords="511,213,693,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="752,193,684,215,682,210,747,194"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Random_a9da1c04af2ff848fdf8d4abf4ba2e0b8.html#a9da1c04af2ff848fdf8d4abf4ba2e0b8" title="Constructor for the stochastic generator." alt="" coords="498,283,706,327"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="810,198,764,238,710,273,683,285,682,280,707,268,760,234,805,200"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1BinaryOpNode_a04efe95bc9b8da596ed2ad325bd9d632.html#a04efe95bc9b8da596ed2ad325bd9d632" title="Creates a new binary operation node (managed)." alt="" coords="241,5,443,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,29,444,30,442,25,488,27"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a19e96a619f45d9ee39ee962530fe8b88.html#a19e96a619f45d9ee39ee962530fe8b88" title="Creates a composite operation node with derived node types (managed)." alt="" coords="236,75,448,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="478,98,449,100,448,94,483,96"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_aee2ca03622d626c78fef086adab63b56.html#aee2ca03622d626c78fef086adab63b56" title="Constructor using explicit coefficient vectors (no input node)." alt="" coords="251,144,433,189"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="498,209,428,192,428,187,503,208"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1FIR_acb214673502211b9303827c4c0d79d0e.html#acb214673502211b9303827c4c0d79d0e" title="Creates an FIR filter with specified coefficients." alt="" coords="251,213,433,258"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="493,236,434,238,433,233,498,235"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1IIR_a04c55437405d002d15a331a19239d07b.html#a04c55437405d002d15a331a19239d07b" title="Creates an IIR filter with specified coefficients." alt="" coords="251,283,433,327"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="498,263,429,285,428,279,503,262"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1IIR_a898e22ad367a772db0af8cf7b1d6a6ed.html#a898e22ad367a772db0af8cf7b1d6a6ed" title="Creates an IIR filter with specified coefficients (no input node)." alt="" coords="251,352,433,397"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="505,265,498,272,482,289,474,306,466,324,450,342,429,354,428,349,446,338,462,321,470,304,478,286,494,268,500,267"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1FIR_a37727ffbffab17108506c17eff7f9a63.html#a37727ffbffab17108506c17eff7f9a63" title="Creates an FIR filter with specified coefficients (no input node)." alt="" coords="5,213,188,258"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="233,237,189,238,188,233,238,235"/>
+</map>

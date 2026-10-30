@@ -1,0 +1,15 @@
+<map id="MayaFlux::Core::SubsystemProcessingHandle" name="MayaFlux::Core::SubsystemProcessingHandle">
+<area shape="rect" id="Node000001" title="Unified interface combining buffer and node processing for subsystems." alt="" coords="624,587,849,721"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1BufferProcessingHandle.html" title="Thread&#45;safe interface for buffer operations within a processing domain." alt="" coords="5,5,235,514"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,500,249,512,289,541,332,566,378,586,426,603,520,628,610,644,604,644,519,633,424,608,376,591,330,570,286,545,245,516,235,506"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1NodeProcessingHandle.html" title="Interface for node graph operations within a processing domain." alt="" coords="258,126,483,394"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,390,454,455,497,512,550,558,611,598,606,597,547,562,493,515,449,458,417,395"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1TaskSchedulerHandle.html" title=" " alt="" coords="507,148,720,371"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="650,369,713,571,708,570,646,373"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1WindowManagerHandle.html" title=" " alt="" coords="744,192,974,326"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="841,325,768,563,765,572,761,568,763,562,837,328"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1InputManagerHandle.html" title=" " alt="" coords="998,159,1208,360"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1075,358,1040,441,1016,480,987,515,960,542,929,565,864,604,862,599,926,561,956,538,984,512,1011,477,1035,438,1071,362"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Core_1_1SubsystemTokens.html" title="Processing token configuration for subsystem operation." alt="" coords="1232,192,1424,326"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1319,324,1306,374,1286,424,1259,473,1222,516,1183,546,1139,572,1094,593,1047,610,953,634,866,648,865,643,951,629,1045,605,1092,588,1137,567,1180,542,1218,512,1254,470,1282,422,1301,372,1315,328"/>
+</map>

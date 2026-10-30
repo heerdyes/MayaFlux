@@ -1,0 +1,17 @@
+<map id="MayaFlux::Buffers::ShaderProcessor::on_shader_loaded" name="MayaFlux::Buffers::ShaderProcessor::on_shader_loaded">
+<area shape="rect" id="Node000001" title="Called after shader is loaded." alt="" coords="913,48,1066,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_aaadd8ac9b438fa8658e52561d65b6693.html#aaadd8ac9b438fa8658e52561d65b6693" title="Hot&#45;reload shader from ShaderFoundry." alt="" coords="689,5,847,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="895,61,848,54,848,49,900,61"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_af6abf1b7268faeb627e3554e282bde9f.html#af6abf1b7268faeb627e3554e282bde9f" title=" " alt="" coords="671,91,865,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="900,96,866,105,865,100,895,97"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a89618010c366c34c7e4c7968750175ae.html#a89618010c366c34c7e4c7968750175ae" title="The core processing function that must be implemented by derived classes." alt="" coords="416,5,623,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="659,85,611,70,612,65,664,85"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_aadb3a42f427db73ee7f40139f8241c3a.html#aadb3a42f427db73ee7f40139f8241c3a" title="Update entire configuration." alt="" coords="441,91,598,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="653,122,599,124,599,119,658,121"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_aadeab6294ee97ac6e5e525f99e857080.html#aadeab6294ee97ac6e5e525f99e857080" title="Update shader path and reload." alt="" coords="441,176,598,238"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="664,157,599,182,598,177,659,158"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VertexFieldProcessor_ab6f4a8e2f483583ddda5b78f6ebc8b48.html#ab6f4a8e2f483583ddda5b78f6ebc8b48" title="Recompile and rebuild the pipeline when the operator has changed." alt="" coords="211,91,368,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="423,122,369,124,368,119,428,121"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1VertexFieldProcessor_a1b40eb331f5f050b3034fe50c36aa90f.html#a1b40eb331f5f050b3034fe50c36aa90f" title="Rebuild on a stale revision, resolve the range, write push constants." alt="" coords="5,91,163,152"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="193,122,164,124,163,119,198,121"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="MayaFlux::Yantra::VisionExtractor" name="MayaFlux::Yantra::VisionExtractor">
+<area shape="rect" id="Node000001" title="Extraction from each VisionAnalysis field." alt="" coords="181,2286,352,3045"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1FunctionalOperation.html" title=" " alt="" coords="122,1957,410,2236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,2249,269,2287,264,2286,266,2254"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title=" " alt="" coords="5,1230,255,1839"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,1851,235,1957,230,1957,207,1856"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="5,570,255,1157"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,1169,133,1230,128,1230,130,1174"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Yantra_1_1ExecutionContext.html" title="Context information controlling how a compute operation executes." alt="" coords="169,5,363,497"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="177,499,174,521,167,553,162,553,169,520,178,494"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="279,570,528,1157"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="355,494,363,520,371,553,365,553,358,521,355,499"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1FunctionalOperation.html" title="Wraps a single callable as a ComputeOperation, for a wild or one&#45;off idea that does not warrant a han..." alt="" coords="279,1412,528,1657"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="371,1669,303,1957,298,1956,369,1674"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="404,1169,406,1412,401,1411,403,1174"/>
+</map>

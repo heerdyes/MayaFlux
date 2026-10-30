@@ -1,0 +1,12 @@
+<map id="MayaFlux::Yantra::TemporalTransformer&lt; InputType, OutputType &gt;" name="MayaFlux::Yantra::TemporalTransformer&lt; InputType, OutputType &gt;">
+<area shape="rect" id="Node000001" title="Concrete transformer for time&#45;domain operations." alt="" coords="17,2817,229,3181"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1UniversalTransformer.html" title="Template&#45;flexible transformer base with instance&#45;defined I/O types." alt="" coords="17,1905,229,2768"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,2780,125,2817,120,2817,122,2785"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title=" " alt="" coords="5,1252,240,1856"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,1868,125,1906,120,1906,123,1874"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Yantra_1_1ExecutionContext.html" title="Context information controlling how a compute operation executes." alt="" coords="26,5,220,497"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,494,115,570,112,863,115,1157,116,1235,111,1235,110,1157,107,863,110,570,114,499"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="314,570,564,1157"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="219,424,298,568,309,589,303,590,294,571,220,429"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="307,1152,242,1298,237,1297,308,1147"/>
+</map>

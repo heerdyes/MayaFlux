@@ -1,0 +1,57 @@
+<map id="MayaFlux::Yantra::Vision::VisionWorkflow::process_to_live_container" name="MayaFlux::Yantra::Vision::VisionWorkflow::process_to_live_container">
+<area shape="rect" id="Node000001" title="process_to_live_container() with a matrix the caller made and configured." alt="" coords="5,278,192,340"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_a661fe2e26577560e051b8112e531723c.html#a661fe2e26577560e051b8112e531723c" title="Record a signal into one channel of a stream, a block at a time." alt="" coords="273,235,439,263"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,283,239,272,275,266,270,268,240,277,193,288"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a0b2372d158f118164eac79d03cef09da.html#a0b2372d158f118164eac79d03cef09da" title=" " alt="" coords="240,287,472,331"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="191,306,226,308,221,310,193,312"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a7be3e502a880c68b8fbc402b4a853884.html#a7be3e502a880c68b8fbc402b4a853884" title="Subscribe consumer and start the producer named name, which stops the run at source&#39;s end,..." alt="" coords="265,380,446,425"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="186,338,280,373,275,375,185,343"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_aa1955a73119c9e977f59ab989e74597e.html#aa1955a73119c9e977f59ab989e74597e" title="Creates a new buffer pipeline instance." alt="" coords="550,135,729,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,232,556,183,551,186,402,237"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a0ac7d04d700cd62771bf75748a1f2c91.html#a0ac7d04d700cd62771bf75748a1f2c91" title="Create a routing operation to DynamicSoundStream destination." alt="" coords="520,231,758,275"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="439,248,507,250,502,252,440,253"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a28ade831a9d3861f7bbd931c6d545069.html#a28ade831a9d3861f7bbd931c6d545069" title=" " alt="" coords="812,5,1039,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="674,132,734,96,805,60,826,54,821,57,807,65,736,100,676,137"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_ab62f030499d58eb3e1d5c43ca3bc230e.html#ab62f030499d58eb3e1d5c43ca3bc230e" title="Gets the buffer manager from the default engine." alt="" coords="846,75,1005,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="729,136,833,116,828,118,730,141"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_ac4ab74951370ff0dd899203f3b94c775.html#ac4ab74951370ff0dd899203f3b94c775" title="Gets the default engine instance." alt="" coords="1127,138,1297,166"/>
+<area shape="poly" id="edge15_Node000003_Node000007" title=" " alt="" coords="729,154,1114,152,1109,154,729,159"/>
+<area shape="rect" id="Node000015" href="$namespaceMayaFlux_aebfa66114d29585723a0c38dfe4c75b9.html#aebfa66114d29585723a0c38dfe4c75b9" title="Gets the task scheduler from the default engine." alt="" coords="833,194,1018,222"/>
+<area shape="poly" id="edge16_Node000003_Node000015" title=" " alt="" coords="729,170,831,190,826,191,730,176"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1Engine_ae91ca2d8b17039d5aab98e53258bb777.html#ae91ca2d8b17039d5aab98e53258bb777" title="Gets the buffer manager." alt="" coords="1124,69,1300,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1005,93,1111,93,1106,94,1006,98"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1005,109,1123,134,1118,135,1006,115"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1internal_ac0f0b4b1cae6af4441db0ea022e15583.html#ac0f0b4b1cae6af4441db0ea022e15583" title=" " alt="" coords="1379,129,1548,174"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1297,149,1366,151,1361,152,1298,154"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1internal_a3cc5413e05c2f9c9f04372841aa0a5b1.html#a3cc5413e05c2f9c9f04372841aa0a5b1" title=" " alt="" coords="1596,129,1740,174"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1549,149,1584,151,1579,152,1549,154"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1internal_ac4d6952d58cdfd56964a883d40aa655d.html#ac4d6952d58cdfd56964a883d40aa655d" title=" " alt="" coords="1788,95,1980,139"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1740,137,1775,134,1770,135,1741,143"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Journal_1_1Archivist_a82e2d12db8781df4afc43ef4c1fba2be.html#a82e2d12db8781df4afc43ef4c1fba2be" title="Shutdown the logging system." alt="" coords="1809,164,1958,209"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="1740,161,1796,172,1791,172,1740,166"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1internal_ac26a7a92aa4af34c366aad03b68ea71e.html#ac26a7a92aa4af34c366aad03b68ea71e" title=" " alt="" coords="2030,95,2173,139"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1980,114,2017,117,2011,117,1981,120"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Journal_1_1Archivist_a8b7829e34d79ec5bbbf02e3d4afbdab9.html#a8b7829e34d79ec5bbbf02e3d4afbdab9" title="Get the singleton instance of the Archivist." alt="" coords="2028,164,2174,209"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1959,184,2015,186,2010,187,1959,189"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Journal_1_1Archivist_a89abaefd2bfc4c39e9dbd92e5c6a7337.html#a89abaefd2bfc4c39e9dbd92e5c6a7337" title=" " alt="" coords="2222,164,2369,209"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="2175,184,2210,186,2205,186,2175,189"/>
+<area shape="poly" id="edge14_Node000014_Node000014" title=" " alt="" coords="2258,162,2257,154,2263,145,2276,139,2296,137,2316,140,2330,149,2325,148,2315,145,2295,143,2278,145,2267,149,2262,155,2263,165"/>
+<area shape="poly" id="edge17_Node000015_Node000007" title=" " alt="" coords="1000,191,1125,168,1120,170,1001,196"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Core_1_1Engine_ae1a29a6547fe253fbb389413040276d2.html#ae1a29a6547fe253fbb389413040276d2" title="Gets the task scheduler." alt="" coords="1124,189,1300,234"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="1018,206,1111,210,1106,211,1018,212"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a26be6275189effd1a9acbd7f2bd9a914.html#a26be6275189effd1a9acbd7f2bd9a914" title=" " alt="" coords="806,283,1045,327"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="759,272,794,281,789,281,759,277"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a568cd5264502e48de8fc437c4e0149d6.html#a568cd5264502e48de8fc437c4e0149d6" title="Create a capture operation using BufferCapture configuration." alt="" coords="1093,283,1331,327"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="1045,311,1080,314,1075,314,1045,317"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_aca2194bbbb9cc45ad3f81d02fe748b8b.html#aca2194bbbb9cc45ad3f81d02fe748b8b" title="Getters for user defined tag." alt="" coords="1093,352,1331,397"/>
+<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="1021,325,1105,348,1099,348,1021,331"/>
+<area shape="poly" id="edge22_Node000019_Node000018" title=" " alt="" coords="1090,296,1060,299,1060,293,1095,296"/>
+<area shape="poly" id="edge23_Node000019_Node000019" title=" " alt="" coords="1164,281,1163,273,1171,264,1187,258,1212,256,1239,259,1257,268,1251,267,1238,264,1212,261,1188,263,1174,268,1168,274,1169,284"/>
+<area shape="poly" id="edge29_Node000022_Node000022" title=" " alt="" coords="307,378,305,370,314,361,331,355,356,353,384,356,402,365,396,365,382,361,356,359,332,361,317,365,311,371,312,381"/>
+<area shape="rect" id="Node000023" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a964fd04cf360c5e433781c533a6d458b.html#a964fd04cf360c5e433781c533a6d458b" title=" " alt="" coords="548,352,730,397"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="447,391,536,384,530,385,447,396"/>
+<area shape="rect" id="Node000025" href="$namespaceMayaFlux_1_1Kriya_a62435bb589511d2066c250f604e24326.html#a62435bb589511d2066c250f604e24326" title="Call callback with every value source signals, registered on events." alt="" coords="540,420,738,448"/>
+<area shape="poly" id="edge30_Node000022_Node000025" title=" " alt="" coords="447,410,528,421,522,421,447,415"/>
+<area shape="rect" id="Node000024" href="$main_8cpp_a13a43e6d814de94978c515cb084873b1.html#a13a43e6d814de94978c515cb084873b1" title=" " alt="" coords="904,360,947,388"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="730,372,891,374,886,375,730,377"/>
+</map>

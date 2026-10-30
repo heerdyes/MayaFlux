@@ -1,0 +1,13 @@
+<map id="MayaFlux::Portal::Forma::internal::Atelier::create_surface" name="MayaFlux::Portal::Forma::internal::Atelier::create_surface">
+<area shape="rect" id="Node000001" title="Build a window through create_window, then a Surface on it." alt="" coords="5,48,186,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a18530bd8200cf89d10e03b80eab9c811.html#a18530bd8200cf89d10e03b80eab9c811" title="Build a Surface from a SurfaceConfig, creating Layer and Context when config.layer/config...." alt="" coords="234,5,414,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,59,221,55,216,57,187,65"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a806d0c28fa7673aab9b61e9a134221a1.html#a806d0c28fa7673aab9b61e9a134221a1" title="Create a window through the stored WindowManager and show it." alt="" coords="234,91,414,152"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,93,221,101,215,102,186,98"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_af684f6f03bb9a9bcb744e2134e6f9769.html#af684f6f03bb9a9bcb744e2134e6f9769" title="Construct a Layer and a Context wired to window." alt="" coords="462,14,681,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,34,449,36,444,37,415,39"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_a04fb0b546bfa364a04dfe6f609f8b769.html#a04fb0b546bfa364a04dfe6f609f8b769" title="Transfer ownership of an existing object to the persistent store for process lifetime." alt="" coords="729,22,856,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="681,34,716,36,711,36,682,39"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1internal_ac26a7a92aa4af34c366aad03b68ea71e.html#ac26a7a92aa4af34c366aad03b68ea71e" title=" " alt="" coords="904,14,1047,58"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="856,34,891,36,885,36,856,39"/>
+</map>

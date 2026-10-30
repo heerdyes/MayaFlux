@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Constant" name="MayaFlux::Nodes::Constant">
+<area shape="rect" id="Node000001" title="Zero&#45;overhead scalar source node that emits a fixed value on every tick." alt="" coords="115,1185,304,1481"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Node.html" title="Base interface for all computational processing nodes." alt="" coords="5,279,200,1112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,1124,188,1186,182,1185,174,1129"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Nodes_1_1RoutingState.html" title="Represents the state of routing transitions for a node." alt="" coords="9,5,191,206"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,203,104,263,98,263,101,209"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Nodes_1_1Constant_1_1ConstantContext.html" title="Minimal concrete context for Constant — no extra fields beyond the base." alt="" coords="227,651,416,740"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,739,241,1169,236,1168,311,741"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1NodeContext.html" title="Base context class for node callbacks." alt="" coords="214,36,431,176"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,188,324,651,319,651,322,193"/>
+</map>

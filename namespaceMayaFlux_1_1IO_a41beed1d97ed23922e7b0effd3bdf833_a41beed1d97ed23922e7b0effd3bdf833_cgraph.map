@@ -1,0 +1,35 @@
+<map id="MayaFlux::IO::write_network_geometry_buffer_sample" name="MayaFlux::IO::write_network_geometry_buffer_sample">
+<area shape="rect" id="Node000001" title="Pack a NetworkGeometryBuffer&#39;s driving network into one or more SpatialCache streams,..." alt="" coords="5,266,202,328"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1IO_a4270f76b4396b335247bd792ced07cc9.html#a4270f76b4396b335247bd792ced07cc9" title="Pack one GraphicsOperator&#39;s current vertex state into a SpatialCache stream, as a Points or Curves sa..." alt="" coords="250,275,398,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,295,236,296,232,299,203,299"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_a6e74103054f2cd24fb5a8540adaf2886.html#a6e74103054f2cd24fb5a8540adaf2886" title="Per&#45;vertex collection index, global index order." alt="" coords="451,53,648,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,273,376,201,407,161,444,124,452,122,448,125,448,128,411,164,380,204,338,276"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_a69fdd53be349dd3486aded46d215a9a1.html#a69fdd53be349dd3486aded46d215a9a1" title="Get number of vertices (may differ from point count for topology/path)." alt="" coords="703,20,900,81"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="325,273,335,223,356,157,372,123,391,91,415,62,445,39,473,24,503,14,565,4,628,5,690,16,685,18,628,11,566,9,504,19,475,29,447,43,419,66,395,94,376,126,361,159,340,224,330,275"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_a8abd4d8f5aada515a7cf488e28fbf0e8.html#a8abd4d8f5aada515a7cf488e28fbf0e8" title="Topology this operator&#39;s vertex data is authored for, if it holds a node to ask." alt="" coords="446,138,653,200"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="352,272,395,241,445,209,457,206,452,209,447,214,398,245,356,276"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_a07f0592f395428b033a3329f791078b8.html#a07f0592f395428b033a3329f791078b8" title="Extra named, per&#45;vertex attributes beyond position/color/size, for an external cache/export consumer." alt="" coords="451,224,648,285"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="397,281,438,275,433,277,399,286"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_ab81d738f15801d53b31580b6f0b5254d.html#ab81d738f15801d53b31580b6f0b5254d" title="Per&#45;vertex velocity, for a consumer that wants to write it as a native channel (e...." alt="" coords="451,309,648,371"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="398,308,438,317,433,319,399,314"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_ab8b0c8d444f282cc605c205def7210fd.html#ab8b0c8d444f282cc605c205def7210fd" title="Get vertex data for GPU upload." alt="" coords="451,394,648,456"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="354,317,398,349,447,380,457,387,452,387,445,385,395,353,354,323"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_a7b8d6d5117c8244564ce6148eafd3549.html#a7b8d6d5117c8244564ce6148eafd3549" title="Get vertex layout describing vertex structure." alt="" coords="451,480,648,541"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="337,317,380,390,411,430,448,466,453,471,447,470,444,470,407,434,376,393,335,322"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1SpatialCache_ac96ac81ab8d0066f81b9e89b47fe47f2.html#ac96ac81ab8d0066f81b9e89b47fe47f2" title="Append one sample to a named stream." alt="" coords="450,565,650,610"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="331,317,345,367,367,430,401,495,423,525,448,551,453,557,448,556,444,555,418,528,396,498,362,432,340,369,329,322"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="648,68,690,64,685,67,650,73"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1SpatialCache_a76b7760ae664ada78f27312377790cf7.html#a76b7760ae664ada78f27312377790cf7" title=" " alt="" coords="950,531,1150,575"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="626,562,652,551,675,532,685,523,700,516,734,507,769,503,839,502,906,510,967,526,962,526,905,516,839,507,769,508,735,513,702,521,688,528,678,536,655,555,628,567"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1SpatialCache_abaddd5694375dc2701c4e1fae7b45cec.html#abaddd5694375dc2701c4e1fae7b45cec" title=" " alt="" coords="950,600,1150,645"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="589,608,642,634,702,655,765,663,830,663,893,656,947,649,953,648,894,661,831,668,765,668,701,660,640,639,588,613"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1IO_1_1SpatialCache_a56eebd45abf6d1b878966d70cc350872.html#a56eebd45abf6d1b878966d70cc350872" title=" " alt="" coords="701,600,902,645"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="650,599,689,607,683,607,650,604"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1IO_1_1SpatialCache_a749b6a053d761b36c218aa766cbaa769.html#a749b6a053d761b36c218aa766cbaa769" title=" " alt="" coords="701,531,902,575"/>
+<area shape="poly" id="edge17_Node000010_Node000014" title=" " alt="" coords="650,571,689,569,683,569,651,577"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="1003,529,1001,521,1009,512,1025,506,1050,504,1077,507,1094,516,1089,515,1075,512,1050,509,1027,511,1012,516,1006,522,1007,532"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="884,597,950,581,955,580,885,602"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="902,620,937,622,932,623,902,625"/>
+<area shape="poly" id="edge18_Node000014_Node000011" title=" " alt="" coords="902,550,937,553,932,553,902,556"/>
+<area shape="poly" id="edge19_Node000014_Node000012" title=" " alt="" coords="885,573,955,596,950,595,884,579"/>
+</map>
