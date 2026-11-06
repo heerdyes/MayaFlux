@@ -1,0 +1,72 @@
+<map id="MayaFlux::Kriya::mouse_pressed" name="MayaFlux::Kriya::mouse_pressed">
+<area shape="rect" id="Node000001" title="Creates an Event coroutine that triggers on specific mouse button press." alt="" coords="1715,213,1894,258"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Wiring_af32900423bc2e18633ca0f7dd74f051a.html#af32900423bc2e18633ca0f7dd74f051a" title="Apply the configured wiring." alt="" coords="1474,144,1658,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1708,209,1646,192,1645,187,1713,208"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_a6613e51ffdbc148b6667699e873a87a6.html#a6613e51ffdbc148b6667699e873a87a6" title="Schedule a mouse button press handler." alt="" coords="1486,213,1646,258"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1696,236,1647,238,1646,233,1702,235"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_aa42296d51149bf551f43678912150ef0.html#aa42296d51149bf551f43678912150ef0" title=" " alt="" coords="1465,387,1667,431"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="1763,266,1600,388,1597,384,1758,268"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_afbca6a63a999ca7602156fffa2c7dcd3.html#afbca6a63a999ca7602156fffa2c7dcd3" title="Bind the fly navigation controller to a window and render processor." alt="" coords="1240,283,1385,327"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1468,262,1386,288,1384,283,1473,261"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_ae1c3585aeff050b127d356422bf64f2a.html#ae1c3585aeff050b127d356422bf64f2a" title="Bind the orbit navigation controller to a window and render processor." alt="" coords="1234,75,1392,119"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1470,206,1464,203,1447,185,1439,167,1431,150,1416,134,1392,120,1392,115,1419,130,1435,147,1444,165,1452,182,1467,199,1475,206"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_ac830fe2d111c7598a5c75d700dc364a4.html#ac830fe2d111c7598a5c75d700dc364a4" title="Bind the 2D pan/zoom controller to a window and render processor." alt="" coords="1236,144,1389,189"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="1468,210,1389,190,1389,185,1473,209"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_a0c14a83b32a093a88b5e133b0a562502.html#a0c14a83b32a093a88b5e133b0a562502" title="Bind the screenspace navigation controller to a window and render processor." alt="" coords="1208,213,1417,258"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="1468,236,1418,238,1417,233,1473,235"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_a32225e71700958f2fd21448719ab1ba1.html#a32225e71700958f2fd21448719ab1ba1" title="Bind the fly navigation controller to all RenderProcessors currently registered against a window." alt="" coords="983,283,1128,327"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1222,306,1128,308,1127,302,1227,304"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_a9be701daac0c0484aed1f9ad9f8d130e.html#a9be701daac0c0484aed1f9ad9f8d130e" title="Bind a navigation preset to a window and render processor using default settings." alt="" coords="963,144,1148,189"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1224,281,1206,272,1190,255,1182,237,1174,220,1158,203,1141,192,1141,187,1162,199,1178,217,1186,235,1194,252,1210,268,1229,282"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_af2205e6997a812a91f5c4b88a8beb585.html#af2205e6997a812a91f5c4b88a8beb585" title="Bind a navigation preset to all RenderProcessors currently registered against a window using default ..." alt="" coords="717,144,903,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="945,167,904,169,902,164,950,165"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="1216,123,1142,146,1140,141,1221,121"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_a48c5b40b6bfbe03a5edbe73ca9e305c8.html#a48c5b40b6bfbe03a5edbe73ca9e305c8" title="Bind the orbit navigation controller to all RenderProcessors currently registered against a window." alt="" coords="976,5,1134,50"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1216,72,1135,52,1135,46,1221,71"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="1218,167,1149,169,1148,164,1223,166"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_aa1b5ed52d7fa0292fe10837a1cde8477.html#aa1b5ed52d7fa0292fe10837a1cde8477" title="Bind the 2D pan/zoom controller to all RenderProcessors currently registered against a window." alt="" coords="979,75,1132,119"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1219,142,1132,120,1132,115,1224,141"/>
+<area shape="poly" id="edge15_Node000012_Node000006" title=" " alt="" coords="1210,209,1141,192,1141,187,1215,208"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_ab8f207a0abf830f659f2c24b8aedf172.html#ab8f207a0abf830f659f2c24b8aedf172" title="Bind the screenspace navigation controller to all RenderProcessors currently registered against a win..." alt="" coords="951,213,1160,258"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1190,236,1161,238,1160,233,1195,235"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a7287e64dcc62fe5f54a34e133c3b0332.html#a7287e64dcc62fe5f54a34e133c3b0332" title="Construct and immediately register event coroutines." alt="" coords="1222,525,1403,570"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="1513,438,1356,527,1354,522,1508,440"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a28702124429e8f6bee9b661817ec468a.html#a28702124429e8f6bee9b661817ec468a" title=" " alt="" coords="965,421,1146,466"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="1248,518,1159,481,1128,469,1128,464,1161,476,1254,518"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a72c1dcbe74fb5ea9dd82eae374317fc2.html#a72c1dcbe74fb5ea9dd82eae374317fc2" title=" " alt="" coords="965,491,1146,535"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="1205,534,1146,528,1146,522,1210,533"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_adf3083a490c76194f3d2d60c5210634d.html#adf3083a490c76194f3d2d60c5210634d" title="Attach key&#45;delta handlers to a Mapped&lt;float&gt; element." alt="" coords="965,560,1146,605"/>
+<area shape="poly" id="edge20_Node000015_Node000018" title=" " alt="" coords="1205,562,1146,573,1145,568,1210,561"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_aeea994e08dd419cd1048afeb075caee9.html#aeea994e08dd419cd1048afeb075caee9" title=" " alt="" coords="965,629,1146,674"/>
+<area shape="poly" id="edge21_Node000015_Node000019" title=" " alt="" coords="1254,576,1161,619,1129,631,1127,626,1159,615,1248,578"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a2c316ead9a2a49e06c9f9d2026a08dec.html#a2c316ead9a2a49e06c9f9d2026a08dec" title=" " alt="" coords="965,699,1146,743"/>
+<area shape="poly" id="edge22_Node000015_Node000020" title=" " alt="" coords="1284,581,1230,637,1197,665,1161,689,1137,701,1135,696,1159,684,1194,660,1227,633,1280,583"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a8181540781224f42713d086009ce64a7.html#a8181540781224f42713d086009ce64a7" title="Register a key handler that fires on the initial press and on every repeat, with a deterministic firs..." alt="" coords="961,768,1150,813"/>
+<area shape="poly" id="edge23_Node000015_Node000021" title=" " alt="" coords="1296,582,1274,625,1244,671,1206,718,1162,758,1141,770,1139,765,1158,754,1202,714,1239,668,1269,622,1292,585"/>
+<area shape="rect" id="Node000026" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a24215068b23f816bf1002405c1a61e5a.html#a24215068b23f816bf1002405c1a61e5a" title="Register a drag handler receiving only the cursor position." alt="" coords="965,352,1146,397"/>
+<area shape="poly" id="edge30_Node000015_Node000026" title=" " alt="" coords="1279,513,1227,462,1194,435,1159,411,1136,400,1136,394,1161,407,1197,431,1230,458,1285,514"/>
+<area shape="rect" id="Node000022" href="$structMayaFlux_1_1Portal_1_1Forma_1_1TextField_abae518577372556cbec65a69bb2d26a3.html#abae518577372556cbec65a69bb2d26a3" title=" " alt="" coords="720,768,900,813"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="942,790,901,793,900,788,948,790"/>
+<area shape="rect" id="Node000023" href="$structMayaFlux_1_1Portal_1_1Forma_1_1TextField_a20b101aef26d8710a14abb0b3c705f4c.html#a20b101aef26d8710a14abb0b3c705f4c" title="Register the text field element and wire text editing onto it." alt="" coords="489,768,669,813"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="702,790,670,793,670,788,707,790"/>
+<area shape="rect" id="Node000024" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a4d8d6a3f54c57284141331e37153b682.html#a4d8d6a3f54c57284141331e37153b682" title="Build a text&#45;capable FormaBuffer, register a TextField, and wire text editing onto it in one call." alt="" coords="5,768,186,813"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="470,794,441,797,234,797,186,796,186,791,234,792,441,792,476,794"/>
+<area shape="rect" id="Node000025" href="$structMayaFlux_1_1Portal_1_1Forma_1_1TextField_ab37d173483ea4e704f5c55865e384d72.html#ab37d173483ea4e704f5c55865e384d72" title="Fluent creator: place this field inside an already&#45;placed Scrollable, growing itself taller than its ..." alt="" coords="247,737,428,782"/>
+<area shape="poly" id="edge28_Node000023_Node000025" title=" " alt="" coords="471,777,428,774,428,768,476,777"/>
+<area shape="poly" id="edge27_Node000024_Node000024" title=" " alt="" coords="133,753,120,749,95,747,73,749,59,753,53,759,55,768,49,767,48,758,56,749,72,743,96,741,122,744,139,753"/>
+<area shape="poly" id="edge29_Node000025_Node000024" title=" " alt="" coords="229,773,187,782,186,776,234,773"/>
+<area shape="rect" id="Node000027" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_afe922a07ca998f1e8a4a280bf879c46e.html#afe922a07ca998f1e8a4a280bf879c46e" title="Register a drag handler writing a projected cursor position to state." alt="" coords="720,352,900,397"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="947,375,901,377,900,372,952,374"/>
+<area shape="rect" id="Node000028" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_aaffec53482614041489673a30c5fbf06.html#aaffec53482614041489673a30c5fbf06" title="Produce a Form::wire that registers a drag writing a projected cursor position." alt="" coords="489,352,669,397"/>
+<area shape="poly" id="edge32_Node000027_Node000028" title=" " alt="" coords="702,375,671,377,669,372,707,374"/>
+<area shape="rect" id="Node000029" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_acaa5ff3c6a6e38495d474104c17ecc84.html#acaa5ff3c6a6e38495d474104c17ecc84" title="Geometry function for a horizontal fader in NDC space." alt="" coords="234,283,441,327"/>
+<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="482,348,419,331,417,325,487,346"/>
+<area shape="rect" id="Node000030" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_ac8f8eb20d142ea566f2c0dd725831058.html#ac8f8eb20d142ea566f2c0dd725831058" title="Geometry function for a 2D position picker in NDC space." alt="" coords="238,352,437,397"/>
+<area shape="poly" id="edge34_Node000028_Node000030" title=" " alt="" coords="471,375,439,377,437,372,476,373"/>
+<area shape="rect" id="Node000031" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_a710eeb343ab712b1b4a469fc520c3294.html#a710eeb343ab712b1b4a469fc520c3294" title="Geometry function for a radial indicator in NDC space." alt="" coords="247,421,428,466"/>
+<area shape="poly" id="edge35_Node000028_Node000031" title=" " alt="" coords="482,403,419,423,417,418,487,400"/>
+<area shape="rect" id="Node000032" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_a94abc30494c411dcb42a81174bcf28c1.html#a94abc30494c411dcb42a81174bcf28c1" title="Geometry function for a value scrubber along an arbitrary polyline." alt="" coords="245,491,430,535"/>
+<area shape="poly" id="edge36_Node000028_Node000032" title=" " alt="" coords="544,405,497,446,442,481,417,492,414,488,440,476,494,441,540,408"/>
+<area shape="rect" id="Node000033" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_a206d0f38a20e294215a75b9c3921ba77.html#a206d0f38a20e294215a75b9c3921ba77" title="Geometry function for a vertical fader in NDC space." alt="" coords="242,213,433,258"/>
+<area shape="poly" id="edge37_Node000028_Node000033" title=" " alt="" coords="539,342,494,307,440,273,416,261,415,256,442,268,497,303,545,342"/>
+</map>

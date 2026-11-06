@@ -1,0 +1,9 @@
+<map id="MayaFlux::Yantra::TextureExecutionContext::resolve_texture_container" name="MayaFlux::Yantra::TextureExecutionContext::resolve_texture_container">
+<area shape="rect" id="Node000001" title="Extracts a TextureContainer pointer from datum.container if present." alt="" coords="581,32,772,93"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_ab6ef199b39ff1f0edc897b52f0bc0e6e.html#ab6ef199b39ff1f0edc897b52f0bc0e6e" title="Stashes the TextureContainer from datum.container for use in on_before_gpu_dispatch; returns empty ch..." alt="" coords="297,40,533,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,62,534,65,533,60,568,62"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a6efdbdab590b023b1629f655c98f6775.html#a6efdbdab590b023b1629f655c98f6775" title="Non&#45;blocking dispatch." alt="" coords="5,5,249,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,47,249,45,249,40,284,46"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a1bc14e2d9ca15b3a0aec0fa8f92a7f4c.html#a1bc14e2d9ca15b3a0aec0fa8f92a7f4c" title="Override for CHAINED mode: skips collect_gpu_outputs()." alt="" coords="30,75,224,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="278,79,225,88,224,83,284,78"/>
+</map>

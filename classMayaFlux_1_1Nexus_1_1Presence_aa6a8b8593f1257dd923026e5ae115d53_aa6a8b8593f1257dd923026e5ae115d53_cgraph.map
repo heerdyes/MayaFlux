@@ -1,0 +1,20 @@
+<map id="MayaFlux::Nexus::Presence::invoke_influence" name="MayaFlux::Nexus::Presence::invoke_influence">
+<area shape="rect" id="Node000001" title="Invoke the influence function with the supplied context." alt="" coords="5,144,207,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Agent_a1d9dc25a849e8f3e6e70b8953a208189.html#a1d9dc25a849e8f3e6e70b8953a208189" title="Invoke the influence function with the supplied context." alt="" coords="255,144,435,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,164,241,166,236,167,208,169"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nexus_a3ac45e04cc5cbafcb140a207046575cd.html#a3ac45e04cc5cbafcb140a207046575cd" title="Rebuild the transform from ctx and place every render processor of the buffer." alt="" coords="492,75,671,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,141,486,125,491,124,424,146"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Nexus_aca257ba0c1936bef2205e72ed369964d.html#aca257ba0c1936bef2205e72ed369964d" title="For each sink that has a producer fn, call it and push the result." alt="" coords="483,144,680,189"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="435,164,470,166,465,167,436,169"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Nexus_ac24bca091d8c076d66b372d5b1fb999f.html#ac24bca091d8c076d66b372d5b1fb999f" title="For each sink that has a producer fn, call it and push the result." alt="" coords="483,213,680,258"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="424,187,491,208,485,208,423,192"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a31c7405c0820777acb0f374e504e5ffd.html#a31c7405c0820777acb0f374e504e5ffd" title="Rigid transform that rotates about a local pivot and lands the pivot on a world point." alt="" coords="743,5,891,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="659,72,725,55,731,53,661,77"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Nexus_a61beb68adf0686b0e0fe5c3339838a3c.html#a61beb68adf0686b0e0fe5c3339838a3c" title="Place every render processor of the buffer that is not placed yet." alt="" coords="728,75,906,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="671,94,716,97,710,97,671,100"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1EigenAccess_a09e5c309b24fd567bcddab3ff3136894.html#a09e5c309b24fd567bcddab3ff3136894" title="Convert DataVariant to Eigen column vector." alt="" coords="731,144,903,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="681,164,718,166,713,167,681,169"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1EigenAccess_a9f0abf0a2e29fe0338333907b7e88869.html#a9f0abf0a2e29fe0338333907b7e88869" title=" " alt="" coords="954,136,1111,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="903,164,941,166,935,166,903,169"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="990,133,991,125,999,116,1013,111,1032,109,1055,112,1070,122,1065,121,1054,117,1032,114,1014,116,1002,121,996,127,994,137"/>
+</map>

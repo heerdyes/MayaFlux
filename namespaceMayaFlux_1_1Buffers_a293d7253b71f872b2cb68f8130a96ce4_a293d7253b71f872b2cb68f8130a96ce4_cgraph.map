@@ -1,0 +1,29 @@
+<map id="MayaFlux::Buffers::upload_resizing" name="MayaFlux::Buffers::upload_resizing">
+<area shape="rect" id="Node000001" title="Upload size bytes to target, growing both buffers first if needed." alt="" coords="5,76,153,121"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_ac51ef5cd822b61ca97282bdbecef0e7d.html#ac51ef5cd822b61ca97282bdbecef0e7d" title="Grow a GPU buffer (and its paired staging buffer) to fit required bytes." alt="" coords="201,42,359,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,84,187,79,183,82,154,89"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Buffers_aac5d05cf9bfc11ce6df03c3697b9e7ef.html#aac5d05cf9bfc11ce6df03c3697b9e7ef" title="Upload raw data to GPU buffer (auto&#45;detects host&#45;visible vs device&#45;local)." alt="" coords="206,111,354,156"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,109,194,117,189,119,153,114"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Buffers_a64c6abe8842e398d178e4275a4d4b404.html#a64c6abe8842e398d178e4275a4d4b404" title="Create staging buffer for transfers." alt="" coords="407,42,569,86"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,108,407,91,402,93,350,113"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Buffers_aef0500ee2ec9a75e2fe565ff287d81d5.html#aef0500ee2ec9a75e2fe565ff287d81d5" title="Upload data to a device&#45;local buffer using a staging buffer." alt="" coords="412,180,565,225"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="349,154,407,175,402,175,349,159"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Buffers_ade245c667165a5cba39db1a67391080c.html#ade245c667165a5cba39db1a67391080c" title="Upload data to a host&#45;visible buffer." alt="" coords="413,111,563,156"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="353,131,400,133,395,134,354,136"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="634,107,801,168"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="560,84,622,106,617,106,560,90"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="617,38,818,82"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="569,60,604,62,599,63,570,65"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="870,29,1070,91"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="818,58,857,60,852,60,818,63"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="921,27,922,19,931,10,947,5,970,3,997,5,1015,15,1009,15,995,11,970,8,948,10,934,15,927,21,925,31"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="564,178,617,166,622,165,566,184"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="551,177,568,166,583,148,591,130,599,111,616,93,620,92,625,90,619,97,603,114,595,132,587,151,571,170,553,182"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a7893291a314cd16a4086b4af5547be3b.html#a7893291a314cd16a4086b4af5547be3b" title="Get raw buffer info for GPU upload." alt="" coords="630,192,805,237"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="565,204,617,209,612,209,565,209"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a22ed77a7c33e4413867656e1e7fa4fa7.html#a22ed77a7c33e4413867656e1e7fa4fa7" title=" " alt="" coords="866,192,1075,237"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="805,212,853,215,848,215,805,217"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="564,132,621,136,616,136,564,137"/>
+<area shape="poly" id="edge16_Node000011_Node000006" title=" " alt="" coords="559,108,628,88,634,87,561,113"/>
+<area shape="poly" id="edge15_Node000011_Node000009" title=" " alt="" coords="552,154,618,178,639,187,634,187,616,183,551,159"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kinesis::Vision::VisionPass&lt; Handle &gt;" name="MayaFlux::Kinesis::Vision::VisionPass&lt; Handle &gt;">
+<area shape="rect" id="Node000001" title="State threaded through one execution of a VisionSequence." alt="" coords="73,1051,212,1537"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1VisionSequence.html" title="Ordered VisionSteps and the backend chosen to execute them." alt="" coords="5,754,167,866"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,863,115,1034,109,1034,92,868"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1VisionResult.html" title="Result of executing a VisionSequence on one frame." alt="" coords="191,643,336,978"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,975,210,1035,205,1033,221,980"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1BufferOutputs.html" title="Live device views of the GPU&#45;resident export buffers, one named slot per exporting op,..." alt="" coords="82,346,231,480"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,478,217,626,211,626,175,483"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1ContoursBufferView.html" title="Live device view of FindContours&#39; traced contours, when FindContoursParams::export_contours_buffer is..." alt="" coords="63,5,251,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="157,181,159,330,154,329,157,186"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1ImageOutputs.html" title="One image slot per VisionOp that produces an image, populated only for whichever of these ops ran in ..." alt="" coords="255,257,406,570"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="305,567,297,627,292,626,303,572"/>
+</map>

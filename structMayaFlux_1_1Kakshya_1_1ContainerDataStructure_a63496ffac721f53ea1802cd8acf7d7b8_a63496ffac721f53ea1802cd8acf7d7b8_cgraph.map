@@ -1,0 +1,41 @@
+<map id="MayaFlux::Kakshya::ContainerDataStructure::ContainerDataStructure" name="MayaFlux::Kakshya::ContainerDataStructure::ContainerDataStructure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,269,188,331"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a6f7fbdb5b205e6af8746977f4fd8030a.html#a6f7fbdb5b205e6af8746977f4fd8030a" title="Create structure for interleaved audio data." alt="" coords="264,5,438,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,268,128,227,156,178,191,128,234,83,252,72,249,77,237,88,195,131,160,181,133,230,113,270"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a1f3533029575064eb81b8497ed810a7f.html#a1f3533029575064eb81b8497ed810a7f" title="Construct a container structure with specified parameters." alt="" coords="516,141,698,203"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="110,268,130,232,157,193,192,156,234,127,269,114,306,106,343,103,380,105,453,116,519,135,514,137,451,121,380,110,343,109,306,112,271,119,237,132,196,160,161,196,134,235,115,270"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a0cd95b347d67293bea124d06247d93fe.html#a0cd95b347d67293bea124d06247d93fe" title="Create structure for planar audio data." alt="" coords="264,141,438,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,267,234,212,252,206,248,210,237,217,145,271"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a57b0e1be2019f9ab7a5f15f684f9438e.html#a57b0e1be2019f9ab7a5f15f684f9438e" title="Get the expected dimension roles for this structure&#39;s modality." alt="" coords="236,227,467,288"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="186,283,222,278,218,281,190,287"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a66ef35f8ee5235a55c1febf8a7e7b0fa.html#a66ef35f8ee5235a55c1febf8a7e7b0fa" title="Calculate expected number of data variants for given dimensions." alt="" coords="245,483,458,544"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="116,329,167,399,200,436,237,469,244,474,239,475,234,473,196,440,163,403,116,334"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_aa09ef04e0462f01f0bdc287700a874b5.html#aa09ef04e0462f01f0bdc287700a874b5" title="Calculate size of a specific variant in the organization." alt="" coords="264,701,438,763"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="114,329,169,431,238,555,323,688,317,689,233,558,164,433,114,334"/>
+<area shape="rect" id="Node000014" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a3ec04f10c18dea5069c95665761cf183.html#a3ec04f10c18dea5069c95665761cf183" title="Create structure for interleaved image data." alt="" coords="264,312,438,374"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="187,313,251,324,246,327,189,318"/>
+<area shape="rect" id="Node000015" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a1a2422e937320315187d3303e072d2c4.html#a1a2422e937320315187d3303e072d2c4" title="Create structure for planar image data." alt="" coords="264,397,438,459"/>
+<area shape="poly" id="edge23_Node000001_Node000015" title=" " alt="" coords="142,329,237,383,252,391,247,393,234,388,144,334"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,65,468,83,550,132,545,134,466,88,430,70"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="438,170,502,171,498,174,440,175"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a2527c8aa70b6230e3bef36ecf2ab9dd8.html#a2527c8aa70b6230e3bef36ecf2ab9dd8" title=" " alt="" coords="520,373,694,435"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="438,480,466,468,514,444,527,440,523,444,516,449,468,473,441,484"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a4ab75a72c0d78644119b6d52ba81335f.html#a4ab75a72c0d78644119b6d52ba81335f" title=" " alt="" coords="520,483,694,544"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="457,511,506,512,501,515,459,516"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="557,372,558,363,567,354,584,349,607,347,633,349,651,358,646,360,632,355,607,352,585,354,570,359,563,365,562,374"/>
+<area shape="poly" id="edge11_Node000008_Node000008" title=" " alt="" coords="557,481,558,472,567,463,584,458,607,456,633,459,651,468,646,469,632,464,607,461,585,463,570,468,563,475,562,484"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_acf719f2e5b2aec01f6216485a6292075.html#acf719f2e5b2aec01f6216485a6292075" title=" " alt="" coords="520,592,694,654"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="424,698,521,659,517,662,427,703"/>
+<area shape="rect" id="Node000011" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a3acd7b2eef42b568f24ef44873c1871b.html#a3acd7b2eef42b568f24ef44873c1871b" title=" " alt="" coords="520,701,694,763"/>
+<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="438,730,507,731,502,733,440,735"/>
+<area shape="rect" id="Node000012" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a1062b79c1db078ed5da6357c0fcd9144.html#a1062b79c1db078ed5da6357c0fcd9144" title=" " alt="" coords="515,812,698,890"/>
+<area shape="poly" id="edge17_Node000009_Node000012" title=" " alt="" coords="420,761,509,804,504,805,419,766"/>
+<area shape="rect" id="Node000013" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a3dfde9825905a794a0c903e55236ec1f.html#a3dfde9825905a794a0c903e55236ec1f" title=" " alt="" coords="520,939,694,1000"/>
+<area shape="poly" id="edge19_Node000009_Node000013" title=" " alt="" coords="381,761,442,827,517,900,551,929,546,928,513,903,438,831,379,766"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="557,591,558,581,567,573,584,567,607,565,633,568,651,577,646,578,632,573,607,571,585,573,570,577,563,584,562,593"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="557,700,558,691,567,682,584,677,607,675,633,677,651,687,646,687,632,683,607,680,585,682,570,687,563,693,561,703"/>
+<area shape="poly" id="edge18_Node000012_Node000012" title=" " alt="" coords="557,809,560,800,569,792,585,787,607,785,633,788,650,798,645,798,631,793,607,790,586,792,572,797,564,803,561,813"/>
+<area shape="poly" id="edge20_Node000013_Node000013" title=" " alt="" coords="557,937,558,928,567,919,584,914,607,912,633,915,651,925,646,924,632,920,607,917,585,919,570,924,563,931,561,940"/>
+<area shape="poly" id="edge22_Node000014_Node000003" title=" " alt="" coords="437,313,466,298,520,257,570,212,567,216,524,261,468,302,440,317"/>
+<area shape="poly" id="edge24_Node000015_Node000003" title=" " alt="" coords="437,401,465,383,504,345,537,301,564,256,585,220,588,215,569,259,542,304,508,349,469,388,441,405"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MayaFlux::Config::store_journal_entries" name="MayaFlux::Config::store_journal_entries">
+<area shape="rect" id="Node000001" title="Stores journal entries to a file by adding a FileSink to the Archivist." alt="" coords="5,65,181,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Journal_1_1Archivist_a129a86762e45b9743ff20b2b49d961b3.html#a129a86762e45b9743ff20b2b49d961b3" title="Add a log sink for output." alt="" coords="237,5,383,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,62,224,51,220,53,177,67"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Journal_1_1Archivist_a8b7829e34d79ec5bbbf02e3d4afbdab9.html#a8b7829e34d79ec5bbbf02e3d4afbdab9" title="Get the singleton instance of the Archivist." alt="" coords="465,65,611,110"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,85,450,85,448,90,181,90"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Config_ab127e81fe5c30eea2ed3fbf5f6c8da30.html#ab127e81fe5c30eea2ed3fbf5f6c8da30" title="Sets the minimum severity level for journal entries to be logged." alt="" coords="229,125,391,170"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="176,108,216,121,211,121,176,113"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Journal_1_1Archivist_a89abaefd2bfc4c39e9dbd92e5c6a7337.html#a89abaefd2bfc4c39e9dbd92e5c6a7337" title=" " alt="" coords="685,65,832,110"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="612,85,673,87,667,88,612,90"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="717,63,715,55,722,46,737,41,759,39,782,41,798,50,793,50,781,46,758,44,738,46,725,51,720,57,721,66"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="391,124,447,111,453,110,392,129"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Journal_1_1Archivist_aa3b412f52649f428b64d69a2c200e05b.html#aa3b412f52649f428b64d69a2c200e05b" title="Set the minimum severity level for logging." alt="" coords="439,135,637,179"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="391,148,426,152,421,152,391,154"/>
+</map>

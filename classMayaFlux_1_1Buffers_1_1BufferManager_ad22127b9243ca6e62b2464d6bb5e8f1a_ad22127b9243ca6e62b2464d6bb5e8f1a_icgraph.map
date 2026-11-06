@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::BufferManager::remove_buffer" name="MayaFlux::Buffers::BufferManager::remove_buffer">
+<area shape="rect" id="Node000001" title="Removes a buffer from a token." alt="" coords="484,101,659,162"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nexus_af91b9d6cc18e3069164b9a8c0eac027d.html#af91b9d6cc18e3069164b9a8c0eac027d" title="Unregister and destroy the audio sink on channel." alt="" coords="244,75,436,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,117,437,114,436,109,471,116"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Nexus_a7f86903f43923d0c160c62665ceca9ab.html#a7f86903f43923d0c160c62665ceca9ab" title="Unregister and destroy the render sink targeting window." alt="" coords="244,144,436,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="466,148,437,155,436,149,471,147"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nexus_1_1Agent_a213a1ba21b358621511fe6b6197f6a17.html#a213a1ba21b358621511fe6b6197f6a17" title="Unregister the audio sink on channel." alt="" coords="10,5,191,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,71,181,53,180,48,248,69"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Emitter_afe36c3e14fb66ee75720696e344b952f.html#afe36c3e14fb66ee75720696e344b952f" title="Unregister the audio sink on channel." alt="" coords="5,75,196,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,98,197,100,195,94,231,96"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Agent_ac3bde89755102bf23e753265207b1c01.html#ac3bde89755102bf23e753265207b1c01" title="Unregister the render sink targeting window." alt="" coords="10,144,191,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="226,167,192,169,191,164,231,166"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nexus_1_1Emitter_ac66797bd88ffa37ba8aa1610bb41e6cc.html#ac66797bd88ffa37ba8aa1610bb41e6cc" title="Unregister the render sink targeting window." alt="" coords="5,213,196,258"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="248,193,181,215,180,210,243,194"/>
+</map>

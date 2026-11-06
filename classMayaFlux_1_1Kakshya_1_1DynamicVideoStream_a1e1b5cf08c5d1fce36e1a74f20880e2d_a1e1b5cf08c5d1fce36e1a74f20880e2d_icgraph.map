@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kakshya::DynamicVideoStream::flat_bytes" name="MayaFlux::Kakshya::DynamicVideoStream::flat_bytes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="663,91,835,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a56f80056f79a786802fd7c704fd9a627.html#a56f80056f79a786802fd7c704fd9a627" title=" " alt="" coords="444,48,615,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="646,102,616,98,616,93,651,102"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a6b4a81376c18f043a0eb0a7680fc2e62.html#a6b4a81376c18f043a0eb0a7680fc2e62" title="Pre&#45;allocate room for frames in linear mode." alt="" coords="444,133,615,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="651,141,616,150,615,145,646,141"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a61fd1c056645c36e53dea515cbdc5dc8.html#a61fd1c056645c36e53dea515cbdc5dc8" title="Download a GPU image straight into the next frame slot." alt="" coords="225,5,396,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,60,397,56,396,50,432,59"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_af51e41b3705da656c94f859230337326.html#af51e41b3705da656c94f859230337326" title="Write one frame at the write head and advance it." alt="" coords="225,91,396,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,99,397,107,396,102,432,98"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1DynamicVideoStream_a42dc09877d26a4868f362f9b2e317d15.html#a42dc09877d26a4868f362f9b2e317d15" title="Write one image, for example one read back from a GPU image." alt="" coords="5,91,177,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,122,178,124,177,119,212,121"/>
+</map>

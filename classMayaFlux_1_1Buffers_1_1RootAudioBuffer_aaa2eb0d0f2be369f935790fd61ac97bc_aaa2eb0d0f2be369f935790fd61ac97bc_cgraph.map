@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::RootAudioBuffer::~RootAudioBuffer" name="MayaFlux::Buffers::RootAudioBuffer::~RootAudioBuffer">
+<area shape="rect" id="Node000001" title="Virtual destructor for proper resource management." alt="" coords="5,181,219,243"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RootAudioBuffer_aeb041d448588cd04a1888b91c60d3db3.html#aeb041d448588cd04a1888b91c60d3db3" title="Processes this buffer using its default aggregation processor." alt="" coords="267,100,452,162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,178,254,165,249,167,209,183"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1RootAudioBuffer_ad7da6c7309c493f4c8e10b5d3c6f6bc5.html#ad7da6c7309c493f4c8e10b5d3c6f6bc5" title="Resizes this buffer and all tributary buffers." alt="" coords="272,190,446,234"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,210,259,211,254,213,220,215"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1RootAudioBuffer_a8ba80913d766c8416d69f399cc8b8faf.html#a8ba80913d766c8416d69f399cc8b8faf" title="Sets direct node network output data for this buffer." alt="" coords="282,259,437,320"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="213,241,269,260,264,261,213,246"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1RootBuffer_a4caaf6780d877fb987e33dc37f628e2c.html#a4caaf6780d877fb987e33dc37f628e2c" title=" " alt="" coords="500,5,702,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,97,509,72,504,74,441,102"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1RootBuffer_a369670e6eff7497260bcac971f482080.html#a369670e6eff7497260bcac971f482080" title=" " alt="" coords="502,92,700,170"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="452,128,489,130,484,131,453,133"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1AudioBuffer_a5ad2d67ac40adb78ef0bc8feec00291f.html#a5ad2d67ac40adb78ef0bc8feec00291f" title="Adjusts the audio buffer&#39;s sample capacity." alt="" coords="528,194,675,238"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="447,211,515,214,509,215,447,216"/>
+</map>

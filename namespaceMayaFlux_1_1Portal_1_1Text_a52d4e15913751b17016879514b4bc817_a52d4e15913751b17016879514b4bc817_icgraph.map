@@ -1,0 +1,15 @@
+<map id="MayaFlux::Portal::Text::decompose_glyph" name="MayaFlux::Portal::Text::decompose_glyph">
+<area shape="rect" id="Node000001" title="Decompose a Unicode codepoint into a tessellated polyline outline." alt="" coords="1002,44,1169,89"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Text_aacc529c8024423e6c622d8a59fd02be1.html#aacc529c8024423e6c622d8a59fd02be1" title="Decompose a Unicode codepoint using the default atlas pixel size." alt="" coords="762,5,928,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="984,51,928,44,928,38,990,51"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GlyphGeometryNode_a39969c549307dc7b874fb9e794b4fb16.html#a39969c549307dc7b874fb9e794b4fb16" title="Rebuild outline geometry from the current text and pen settings." alt="" coords="735,74,954,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="990,82,955,90,954,85,984,82"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GlyphGeometryNode_aa2c050b302cf38e5125047fd4f1cd6d7.html#aa2c050b302cf38e5125047fd4f1cd6d7" title="Construct from a UTF&#45;8 string with an explicit FontFace." alt="" coords="376,13,687,58"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="717,78,635,61,636,56,722,77"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GlyphGeometryNode_ae6d0646f782caeb8a210c8344e63130b.html#ae6d0646f782caeb8a210c8344e63130b" title="Construct from a UTF&#45;8 string using the default font." alt="" coords="376,83,687,127"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="717,105,687,108,687,102,722,105"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GlyphGeometryNode_ad5ec71c50169fad44dcd56ed9fc04bcf.html#ad5ec71c50169fad44dcd56ed9fc04bcf" title="Replace the text string and rebuild outlines." alt="" coords="418,152,645,197"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="722,132,636,154,635,149,717,133"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GlyphGeometryNode_a201df6dd1dfe5816ed2b73df0c0aa7db.html#a201df6dd1dfe5816ed2b73df0c0aa7db" title=" " alt="" coords="5,152,328,197"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="400,174,328,177,328,172,405,174"/>
+</map>

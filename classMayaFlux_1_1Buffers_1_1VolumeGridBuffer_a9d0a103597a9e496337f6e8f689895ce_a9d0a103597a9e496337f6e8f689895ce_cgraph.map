@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::VolumeGridBuffer::VolumeGridBuffer" name="MayaFlux::Buffers::VolumeGridBuffer::VolumeGridBuffer">
+<area shape="rect" id="Node000001" title="Construct a volume with no fields, to be declared after." alt="" coords="5,74,226,136"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ae0727e84d97568acace892b473215dfa.html#ae0727e84d97568acace892b473215dfa" title="Set whether this buffer is for internal engine usage." alt="" coords="274,5,496,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,71,293,53,288,56,226,76"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_a546d0299aff2d88a2b0e5a12fde76ca1.html#a546d0299aff2d88a2b0e5a12fde76ca1" title="Bytes of vertex storage the extraction resolution requires." alt="" coords="289,74,481,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,102,275,104,270,106,227,108"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a71bfbd383ca91bbd5541b653939d89a2.html#a71bfbd383ca91bbd5541b653939d89a2" title="Construct an unregistered VKBuffer." alt="" coords="311,160,458,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,134,299,156,293,158,225,139"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a0b88df705302552cb7b6442dd31ee2c3.html#a0b88df705302552cb7b6442dd31ee2c3" title="Infer Kakshya::DataDimension entries from a given byte count." alt="" coords="544,113,742,174"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="459,169,531,160,526,161,459,174"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="564,199,722,243"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="459,191,551,207,546,207,459,196"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="790,199,937,243"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="722,218,778,221,772,221,723,224"/>
+</map>

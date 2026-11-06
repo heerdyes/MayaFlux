@@ -1,0 +1,23 @@
+<map id="MayaFlux::Core::BackendPipelineManager::setup_backend_service" name="MayaFlux::Core::BackendPipelineManager::setup_backend_service">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,144,244,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_a36eed98ca9ff2ec793b8f973aad46db6.html#a36eed98ca9ff2ec793b8f973aad46db6" title="Cleanup a compute resource allocated by the backend." alt="" coords="292,5,556,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,141,216,100,291,60,311,54,307,57,293,65,218,105,158,146"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_aca992392679ff8f5de70d2c50c700b8c.html#aca992392679ff8f5de70d2c50c700b8c" title="Create a compute pipeline." alt="" coords="299,75,549,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,141,312,122,307,125,225,146"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_a2db5a8b9c1c0a16320c451d6cfa07be2.html#a2db5a8b9c1c0a16320c451d6cfa07be2" title="Create a descriptor set layout." alt="" coords="300,144,548,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="243,164,287,165,282,167,245,169"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_a6953351a691029868a4fdc05448686da.html#a6953351a691029868a4fdc05448686da" title="Create a descriptor manager for managing descriptor sets." alt="" coords="292,213,556,258"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="224,187,312,208,307,210,224,192"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_ac70dd77091d307d9d7a314fa283a6ba5.html#ac70dd77091d307d9d7a314fa283a6ba5" title="Create a shader module from SPIR&#45;V binary." alt="" coords="305,283,543,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="157,187,218,228,293,268,312,277,306,277,291,273,216,233,156,192"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Core_1_1ComputePipelineConfig_a92bc0c7ce6032af5f1c51ecd9a1bbd98.html#a92bc0c7ce6032af5f1c51ecd9a1bbd98" title=" " alt="" coords="611,5,853,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="526,71,618,53,613,55,527,77"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_ae931b9a03efe4233795fb81803db34ab.html#ae931b9a03efe4233795fb81803db34ab" title=" " alt="" coords="611,75,853,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="549,94,598,96,593,98,550,100"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Core_1_1DescriptorSetLayoutConfig_af8bd5a3ce4c379707ad5cbf309224b98.html#af8bd5a3ce4c379707ad5cbf309224b98" title=" " alt="" coords="625,144,839,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="547,164,612,166,607,167,548,169"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_a9ef462ac433a311b4af78291d94cea9a.html#a9ef462ac433a311b4af78291d94cea9a" title=" " alt="" coords="604,213,860,258"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="556,233,591,235,585,236,557,238"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Core_1_1BackendPipelineManager_a3377e89bbe6bb1ca7998d44f094fbb03.html#a3377e89bbe6bb1ca7998d44f094fbb03" title=" " alt="" coords="613,283,851,327"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="543,302,600,305,595,305,543,308"/>
+</map>

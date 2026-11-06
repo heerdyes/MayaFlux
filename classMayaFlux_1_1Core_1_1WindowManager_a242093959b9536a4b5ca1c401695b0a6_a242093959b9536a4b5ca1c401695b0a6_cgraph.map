@@ -1,0 +1,25 @@
+<map id="MayaFlux::Core::WindowManager::operator=" name="MayaFlux::Core::WindowManager::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,185,246,230"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1WindowManager_aa8f06e54dee7a8e5bc2ad14e836432a3.html#aa8f06e54dee7a8e5bc2ad14e836432a3" title="Creates a new window." alt="" coords="294,5,534,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,183,209,126,249,94,292,67,322,54,318,58,295,71,252,99,213,130,151,187"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1WindowManager_aee2217ec1caa91ae8e6c976909661779.html#aee2217ec1caa91ae8e6c976909661779" title="Destroys a window by pointer." alt="" coords="582,85,822,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,183,216,143,254,125,293,110,362,96,433,89,502,88,569,92,564,94,502,93,433,95,363,102,294,116,256,129,219,148,158,187"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1WindowManager_ac9e4a63cbea960dda7f7da8ce8eeff6a.html#ac9e4a63cbea960dda7f7da8ce8eeff6a" title="Destroys a window by title." alt="" coords="294,125,534,170"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="235,182,291,172,286,175,237,187"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1WindowManager_a686f2d909f8efc8fcee6cf6f3619bbde.html#a686f2d909f8efc8fcee6cf6f3619bbde" title="Finds window by title." alt="" coords="582,175,822,219"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="246,203,568,197,565,202,246,208"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Core_1_1WindowManager_a09130a2f541396be27519186bdd1bfb1.html#a09130a2f541396be27519186bdd1bfb1" title="Gets window by index." alt="" coords="294,245,534,290"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="236,228,291,241,286,243,236,233"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Core_1_1WindowManager_a5027f56f1f2239d60b3c412c1ffca002.html#a5027f56f1f2239d60b3c412c1ffca002" title="Gets all active windows." alt="" coords="294,315,534,359"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="162,228,223,264,295,300,314,309,309,309,293,305,221,269,161,233"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Core_1_1WindowManager_a6969dff5a9f733a710ed7e402b35edae.html#a6969dff5a9f733a710ed7e402b35edae" title="Constructs WindowManager with global graphics config." alt="" coords="294,384,534,429"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="145,228,207,298,249,337,295,369,307,378,301,377,292,374,245,341,203,302,143,233"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1WindowManager_a70ca15b7f426ce702541bb0651a11084.html#a70ca15b7f426ce702541bb0651a11084" title="Factory for creating backend&#45;specific windows." alt="" coords="582,5,822,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="534,25,569,27,564,29,535,30"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Parallel_a5da0996dba37190dffba9510d880a0c9.html#a5da0996dba37190dffba9510d880a0c9" title=" " alt="" coords="910,51,1071,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="822,91,897,84,892,85,824,96"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1WindowManager_aa656d799b806fb38cac28a02f1048f2c.html#aa656d799b806fb38cac28a02f1048f2c" title="Removes window from lookup table." alt="" coords="870,120,1111,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="823,120,857,126,852,126,823,125"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="534,128,569,126,564,127,535,133"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="534,166,569,173,564,174,535,171"/>
+</map>

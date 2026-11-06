@@ -1,0 +1,11 @@
+<map id="MayaFlux::Buffers::RelaxationEmitProcessor" name="MayaFlux::Buffers::RelaxationEmitProcessor">
+<area shape="rect" id="Node000001" title="ComputeProcessor that reads the current front generation&#39;s raw state buffer from a RelaxationGridBuff..." alt="" coords="5,2153,205,2466"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor.html" title="Specialized ShaderProcessor for Compute Pipelines." alt="" coords="8,1597,203,2105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,2117,108,2154,103,2153,105,2123"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor.html" title="Abstract base class for shader&#45;based buffer processing." alt="" coords="7,565,204,1549"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,1561,108,1597,103,1597,105,1567"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor.html" title=" " alt="" coords="9,344,201,517"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,529,108,565,103,565,105,534"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor.html" title="Central computational transformation interface for continuous buffer processing." alt="" coords="16,5,194,296"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,308,108,344,103,344,105,313"/>
+</map>

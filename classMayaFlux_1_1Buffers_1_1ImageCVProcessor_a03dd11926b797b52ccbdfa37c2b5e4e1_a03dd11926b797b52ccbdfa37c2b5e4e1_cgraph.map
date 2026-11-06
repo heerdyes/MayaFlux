@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::ImageCVProcessor::processing_function" name="MayaFlux::Buffers::ImageCVProcessor::processing_function">
+<area shape="rect" id="Node000001" title="Download the current GPU image, run the VisionSequence, store the result." alt="" coords="5,66,227,128"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_a5388bfa76cc5244415f1f3a85e936ab0.html#a5388bfa76cc5244415f1f3a85e936ab0" title="Download a VKImage to CPU and return a normalised float span." alt="" coords="275,40,462,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,79,262,77,257,78,228,84"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Buffers_a2c2e96c241e921ee618a49090b99581c.html#a2c2e96c241e921ee618a49090b99581c" title="Resolve the GPU&#45;resident image from any GpuImageSource buffer." alt="" coords="294,109,442,154"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="227,110,281,119,276,120,227,115"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a3fce6f8c1ae722c66e6717c2f42c8b39.html#a3fce6f8c1ae722c66e6717c2f42c8b39" title="Extract a DataVariant holding pixel data as a normalised float span." alt="" coords="530,5,687,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,46,517,41,512,42,463,51"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="510,75,706,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="462,73,497,81,492,81,462,79"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="754,75,960,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="707,94,741,97,736,97,707,100"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="810,73,808,65,816,56,833,50,857,48,884,51,901,60,896,59,883,56,857,53,834,55,819,60,813,66,814,76"/>
+</map>

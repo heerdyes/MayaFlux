@@ -1,0 +1,18 @@
+<map id="MayaFlux::Buffers::VertexFieldProcessor::on_attach" name="MayaFlux::Buffers::VertexFieldProcessor::on_attach">
+<area shape="rect" id="Node000001" title="Called when this processor is attached to a buffer." alt="" coords="5,129,163,191"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_ae72d99984f65f41164441d313ae0af88.html#ae72d99984f65f41164441d313ae0af88" title="Bind a VKBuffer to a named shader descriptor." alt="" coords="218,44,383,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,127,208,110,204,113,164,131"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1VertexFieldProcessor_a1a85474c27a0f8e9cd7ef3771d802d5a.html#a1a85474c27a0f8e9cd7ef3771d802d5a" title="Ensure the backing hash_cluster_id state field exists, when m_needs_cluster_id is true." alt="" coords="211,129,390,191"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="162,158,197,159,192,161,164,163"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor_aabc0443cf162db0fdca77c2f555a1920.html#aabc0443cf162db0fdca77c2f555a1920" title="Called when this processor is attached to a buffer." alt="" coords="227,215,374,276"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="163,189,215,210,210,211,163,194"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor_ad871cad95dbb2a178d1752aa8573eabc.html#ad871cad95dbb2a178d1752aa8573eabc" title=" " alt="" coords="438,44,631,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,72,425,74,420,76,384,77"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="696,5,863,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="631,57,684,51,678,52,632,62"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="679,91,880,136"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="632,87,666,95,661,95,632,93"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="928,83,1128,144"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="880,111,915,113,910,114,880,116"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="980,81,980,72,989,63,1005,58,1028,56,1054,59,1071,69,1066,68,1052,64,1028,61,1006,63,992,68,985,75,984,84"/>
+</map>

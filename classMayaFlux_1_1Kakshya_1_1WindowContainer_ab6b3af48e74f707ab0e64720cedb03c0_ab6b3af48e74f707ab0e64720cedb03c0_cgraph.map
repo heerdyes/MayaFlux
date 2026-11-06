@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::WindowContainer::get_region_data" name="MayaFlux::Kakshya::WindowContainer::get_region_data">
+<area shape="rect" id="Node000001" title="Extract data for all regions across all region groups that spatially intersect region." alt="" coords="5,66,171,128"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_ad322e2da4b0bd3c2aacd5935dfa0cd39.html#ad322e2da4b0bd3c2aacd5935dfa0cd39" title="Extract the data described by region from src using the container&#39;s dimension descriptors." alt="" coords="219,40,376,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,81,206,77,201,79,172,86"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_a87a81c8814eeeda9c096e85b6aef3281.html#a87a81c8814eeeda9c096e85b6aef3281" title="Test whether two N&#45;dimensional regions overlap on every shared axis." alt="" coords="219,109,376,154"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="171,108,206,116,201,116,171,113"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_aae6a6e0c3cb0bad70acafc465c1ac867.html#aae6a6e0c3cb0bad70acafc465c1ac867" title="Extract a region of data from a flat data span using a Region and dimension info." alt="" coords="424,40,581,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,60,411,62,406,63,377,65"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kakshya_a11d6fefbc337609345969f80012578d0.html#a11d6fefbc337609345969f80012578d0" title="Convert N&#45;dimensional coordinates to a linear index for interleaved data." alt="" coords="629,5,791,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,47,617,43,611,44,582,52"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1Region_a872fb07c970339241d47d9afebae5e41.html#a872fb07c970339241d47d9afebae5e41" title="Get the total volume (number of elements) in the region." alt="" coords="631,75,789,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="582,73,619,81,613,81,582,78"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1Region_a7bd0f533faffde4edf348e70202065f8.html#a7bd0f533faffde4edf348e70202065f8" title="Get the span (length) of the region along a dimension." alt="" coords="839,75,996,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="789,94,826,97,820,97,789,100"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MayaFlux::Nodes::GpuSync::TextureNode" name="MayaFlux::Nodes::GpuSync::TextureNode">
+<area shape="rect" id="Node000001" title="Base class for texture&#45;generating nodes." alt="" coords="119,1458,321,2016"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GpuSync.html" title=" " alt="" coords="20,1161,209,1385"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,1396,159,1458,154,1458,143,1402"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Node.html" title="Base interface for all computational processing nodes." alt="" coords="5,279,200,1112"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,1124,115,1162,110,1162,112,1130"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Nodes_1_1RoutingState.html" title="Represents the state of routing transitions for a node." alt="" coords="12,5,194,206"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,203,105,263,100,263,103,209"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1TextureContext.html" title="Context for TextureNode &#45; provides pixel buffer access." alt="" coords="238,1217,426,1329"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="320,1326,294,1442,289,1441,318,1331"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1NodeContext.html" title="Base context class for node callbacks." alt="" coords="224,626,440,765"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,778,335,1217,330,1217,331,783"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1GpuVectorData.html" title="GPU&#45;uploadable 1D array data interface." alt="" coords="464,615,694,776"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="561,788,521,946,491,1031,455,1113,420,1169,383,1219,378,1216,416,1166,450,1111,486,1029,516,944,559,793"/>
+</map>

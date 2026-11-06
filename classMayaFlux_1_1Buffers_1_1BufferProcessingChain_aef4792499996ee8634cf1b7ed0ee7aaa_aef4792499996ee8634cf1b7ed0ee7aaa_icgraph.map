@@ -1,0 +1,18 @@
+<map id="MayaFlux::Buffers::BufferProcessingChain::add_processor_direct" name="MayaFlux::Buffers::BufferProcessingChain::add_processor_direct">
+<area shape="rect" id="Node000001" title=" " alt="" coords="908,44,1075,106"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a8a06f46d7b89b81b87a256f188b53c81.html#a8a06f46d7b89b81b87a256f188b53c81" title="Adds a processor to the transformation pipeline for a specific buffer." alt="" coords="221,5,388,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="890,64,859,64,602,49,389,41,388,36,602,44,860,59,895,64"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_ab06548041e8f068a9d83945bcac22a90.html#ab06548041e8f068a9d83945bcac22a90" title="Process pending processor operations." alt="" coords="651,74,860,153"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="895,91,861,99,860,94,890,91"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_ae98d034f0b03f84e3c5960a255eb3984.html#ae98d034f0b03f84e3c5960a255eb3984" title=" " alt="" coords="5,73,173,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,69,174,80,172,75,208,66"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="122,60,110,55,89,52,71,54,58,59,52,65,52,74,46,73,47,63,55,54,69,49,89,47,112,49,127,58"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a23d4172a12da9ea88c8487ff720c824d.html#a23d4172a12da9ea88c8487ff720c824d" title="Applies the transformation pipeline to a buffer with intelligent execution." alt="" coords="436,77,603,139"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="633,111,604,113,604,107,638,111"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a59d5a166df6cf4d18c4250548a8f4b81.html#a59d5a166df6cf4d18c4250548a8f4b81" title="Internal processing method for non&#45;owning buffer contexts." alt="" coords="436,163,603,224"/>
+<area shape="poly" id="edge9_Node000004_Node000007" title=" " alt="" coords="639,153,605,168,603,162,634,154"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="419,110,174,108,173,102,422,105"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a1b98bf6c28cf994a1cefad945b80817c.html#a1b98bf6c28cf994a1cefad945b80817c" title="Applies preprocessors, processing chain, post processors and final processors sequentially to a buffe..." alt="" coords="221,141,388,203"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="423,137,389,150,388,145,418,138"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="203,141,173,133,173,128,208,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MayaFlux::Parallel::AsyncGroup::finish" name="MayaFlux::Parallel::AsyncGroup::finish">
+<area shape="rect" id="Node000001" title=" " alt="" coords="466,40,616,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Parallel_1_1AsyncGroup_acc4f41dfcce08a9ade658720b8ddec40.html#acc4f41dfcce08a9ade658720b8ddec40" title="Blocks until every currently submitted future completes." alt="" coords="264,5,412,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,47,412,43,412,38,453,47"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Parallel_1_1AsyncGroup_ae891e0a0f3434000ff27e12d616a808a.html#ae891e0a0f3434000ff27e12d616a808a" title="Retains fut and opportunistically reclaims completed work." alt="" coords="258,75,418,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,77,419,86,418,81,448,78"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Parallel_1_1AsyncGroup_a37900fb4a33d9720ea3ac21841c700bc.html#a37900fb4a33d9720ea3ac21841c700bc" title="Drains all in&#45;flight work before destruction." alt="" coords="5,5,210,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,28,211,30,210,25,251,27"/>
+</map>

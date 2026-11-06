@@ -1,0 +1,9 @@
+<map id="MayaFlux::Vruta::IClock" name="MayaFlux::Vruta::IClock">
+<area shape="rect" id="Node000001" title="Abstract base interface for all clock types in the multimodal scheduling system." alt="" coords="266,5,431,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1CustomClock.html" title="Configurable timing system for custom processing domains." alt="" coords="5,405,217,656"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,200,231,239,187,322,153,406,148,404,183,320,226,236,258,195"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1FrameClock.html" title="Frame&#45;accurate timing system for visual processing domain." alt="" coords="240,237,456,823"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="349,202,351,238,346,237,348,207"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1SampleClock.html" title="Sample&#45;accurate timing system for audio processing domain." alt="" coords="480,405,691,656"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="441,195,471,236,514,320,549,406,544,405,510,322,466,239,440,200"/>
+</map>

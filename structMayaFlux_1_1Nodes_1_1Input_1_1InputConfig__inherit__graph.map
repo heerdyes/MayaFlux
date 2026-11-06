@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Input::InputConfig" name="MayaFlux::Nodes::Input::InputConfig">
+<area shape="rect" id="Node000001" title="Configuration for InputNode behavior." alt="" coords="289,5,454,184"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Nodes_1_1Input_1_1HIDConfig.html" title="Unified configuration for all HID input types." alt="" coords="5,277,170,656"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,150,228,188,183,234,154,278,149,276,179,230,224,184,278,146"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Nodes_1_1Input_1_1MIDIConfig.html" title="MIDI input node configuration." alt="" coords="194,232,360,701"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="346,196,339,233,334,231,344,201"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Nodes_1_1Input_1_1OSCConfig.html" title="Configuration for OSC input node argument extraction." alt="" coords="384,321,549,612"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,196,432,322,427,321,397,201"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Nodes_1_1Input_1_1TabletConfig.html" title="Selects which part of a tablet frame becomes the node&#39;s scalar." alt="" coords="573,266,738,668"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="466,146,518,184,563,230,587,266,581,265,559,234,515,188,466,151"/>
+</map>

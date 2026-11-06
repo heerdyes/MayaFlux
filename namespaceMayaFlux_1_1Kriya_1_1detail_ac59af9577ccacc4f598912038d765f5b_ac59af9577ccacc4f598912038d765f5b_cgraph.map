@@ -1,0 +1,37 @@
+<map id="MayaFlux::Kriya::detail::resolve_graphics_read" name="MayaFlux::Kriya::detail::resolve_graphics_read">
+<area shape="rect" id="Node000001" title="Finish the pending read as one DataVariant." alt="" coords="5,122,181,166"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1DataReadProcessor_a4e739538a697e53381c8c93de0e6559d.html#a4e739538a697e53381c8c93de0e6559d" title="Finish the read as raw bytes." alt="" coords="229,44,476,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,119,228,99,256,92,252,96,229,104,166,124"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1DataReadProcessor_ab395e9e042bb50388d64751e7a06fd93.html#ab395e9e042bb50388d64751e7a06fd93" title="Finish a read_mesh() read as MeshData." alt="" coords="229,199,476,244"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="165,164,229,184,257,194,252,195,228,189,165,170"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1DataReadProcessor_a53b49c433748d98ace54b60a0884728b.html#a53b49c433748d98ace54b60a0884728b" title="Finish a pixel read as typed ImageData with its format and dimensions." alt="" coords="250,113,454,175"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="180,142,237,143,232,146,182,147"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1DataReadProcessor_ac90e3861ca68b753670c9c266191c284.html#ac90e3861ca68b753670c9c266191c284" title=" " alt="" coords="524,83,723,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,86,511,93,506,94,477,91"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Buffers_a625b092777dc56b97d2f8a8033b71df5.html#a625b092777dc56b97d2f8a8033b71df5" title="Express a buffer handle as the slot the back_buffers transfer helpers take." alt="" coords="792,22,939,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="723,82,780,69,775,70,725,87"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Buffers_ac7562e9a3e4bfeda5e4dce28876c09e2.html#ac7562e9a3e4bfeda5e4dce28876c09e2" title="Wait for a recorded download, then copy it out of staging." alt="" coords="771,91,960,136"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="723,111,758,113,753,114,724,116"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="1025,5,1191,67"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="937,88,1012,67,1007,68,939,93"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="1008,91,1208,136"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="960,111,995,113,989,114,961,116"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="1256,83,1456,144"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1208,111,1243,113,1238,114,1209,116"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="1308,81,1309,72,1318,63,1334,58,1356,56,1382,59,1400,69,1394,68,1381,64,1356,61,1335,63,1321,68,1313,75,1312,84"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="441,196,475,184,550,153,555,151,477,189,443,201"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Buffers_a4799ccd125119dbc8aaf42bcc6ed4e4c.html#a4799ccd125119dbc8aaf42bcc6ed4e4c" title="Wrap non&#45;indexed triangle vertices as MeshData." alt="" coords="548,230,700,274"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="476,233,535,242,530,242,477,238"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1MeshInsertion_a527a0701939e51357fd34340c97c2b85.html#a527a0701939e51357fd34340c97c2b85" title="Produce a MeshAccess over the current variant contents." alt="" coords="787,160,944,205"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="699,228,769,210,775,209,701,233"/>
+<area shape="rect" id="Node000013" href="$structMayaFlux_1_1Kakshya_1_1MeshData_a3cecabe70345deaa8c2da479a1a8193a.html#a3cecabe70345deaa8c2da479a1a8193a" title="Construct an empty MeshData with the canonical 60&#45;byte mesh layout." alt="" coords="787,230,944,274"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="700,250,774,252,769,252,700,255"/>
+<area shape="rect" id="Node000014" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a7b7a30b2a13cb2676713a352f298f607.html#a7b7a30b2a13cb2676713a352f298f607" title="Factory: layout for MeshVertex (position, color, weight, uv, normal, tangent)." alt="" coords="1012,259,1204,304"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="700,271,772,284,887,291,999,290,994,291,887,296,771,289,700,276"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1MeshInsertion_a618b35166b14858aca7b8f8c8ce693c8.html#a618b35166b14858aca7b8f8c8ce693c8" title="Insert a single flat mesh (no submesh tracking)." alt="" coords="772,350,959,394"/>
+<area shape="poly" id="edge17_Node000010_Node000015" title=" " alt="" coords="666,272,773,328,800,344,795,343,770,333,665,278"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kakshya_a14e84697e2ffc829dea40c40cb3f0dbe.html#a14e84697e2ffc829dea40c40cb3f0dbe" title="Construct a MeshAccess from two DataVariant instances." alt="" coords="1029,160,1186,205"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="944,180,1017,183,1011,183,945,185"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="945,259,1000,268,994,268,945,264"/>
+<area shape="poly" id="edge19_Node000016_Node000003" title=" " alt="" coords="454,130,511,126,506,127,456,135"/>
+</map>

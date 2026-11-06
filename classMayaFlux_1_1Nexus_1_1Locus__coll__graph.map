@@ -1,0 +1,9 @@
+<map id="MayaFlux::Nexus::Locus" name="MayaFlux::Nexus::Locus">
+<area shape="rect" id="Node000001" title="Agent that perceives the world from a navigation state and influences how the things it touches are v..." alt="" coords="182,620,353,960"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Agent.html" title="Object that both perceives nearby entities and acts on MayaFlux objects." alt="" coords="5,5,175,547"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,534,212,620,206,620,180,539"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kinesis_1_1NavigationState.html" title="Mutable first&#45;person navigation state." alt="" coords="199,120,336,432"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,430,270,603,265,602,266,434"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kinesis_1_1ViewTransform.html" title="View and projection matrices as a named push constant slot." alt="" coords="360,220,498,332"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="415,330,352,547,333,605,328,603,346,546,412,334"/>
+</map>

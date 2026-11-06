@@ -1,0 +1,25 @@
+<map id="MayaFlux::Nodes::GpuSync::GeometryWriterNode" name="MayaFlux::Nodes::GpuSync::GeometryWriterNode">
+<area shape="rect" id="Node000001" title="Base class for nodes that generate 3D geometry data." alt="" coords="657,1180,846,1710"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryLeafNode.html" title="One independent, arbitrary&#45;topology geometry item." alt="" coords="5,2010,194,2345"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="641,1481,539,1523,421,1583,362,1620,306,1661,254,1708,208,1760,173,1818,146,1881,127,1947,114,2011,109,2010,122,1946,141,1879,168,1815,204,1757,250,1704,302,1657,359,1615,419,1578,537,1518,645,1477"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryReadbackNode.html" title="GeometryWriterNode that downloads vertex data from a GPU buffer each frame." alt="" coords="218,2054,418,2300"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="644,1526,592,1574,534,1629,479,1692,433,1760,397,1832,370,1909,350,1985,336,2055,331,2054,345,1984,365,1907,392,1830,428,1757,475,1689,530,1626,588,1570,648,1522"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GlyphGeometryNode.html" title="GeometryWriterNode that emits glyph vector outlines as LINE_LIST geometry." alt="" coords="443,1831,631,2524"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="655,1722,646,1759,625,1832,620,1830,641,1758,653,1727"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1MeshWriterNode.html" title="Indexed triangle mesh for static or infrequently&#45;updated geometry." alt="" coords="655,1988,848,2367"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="753,1723,754,1988,749,1987,751,1728"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode.html" title="Generates dense vertex paths from sparse control points or freehand drawing." alt="" coords="872,1758,1106,2596"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="849,1722,862,1758,875,1797,870,1796,857,1759,848,1727"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PointCollectionNode.html" title="Unstructured collection of 3D points for visualization." alt="" coords="1131,2010,1319,2345"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="858,1508,926,1556,997,1614,1064,1682,1094,1718,1121,1757,1152,1817,1177,1881,1196,1947,1209,2011,1204,2009,1191,1948,1172,1883,1148,1819,1116,1760,1090,1722,1060,1685,993,1618,923,1560,859,1513"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1TopologyGeneratorNode.html" title="Generates dynamic mesh topology from sparse control points." alt="" coords="1343,1834,1541,2521"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="859,1473,973,1513,1036,1540,1101,1572,1165,1610,1227,1653,1284,1702,1334,1757,1359,1793,1380,1834,1375,1834,1354,1796,1330,1760,1280,1706,1224,1657,1162,1614,1098,1577,1034,1545,971,1518,861,1478"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GpuSync.html" title=" " alt="" coords="657,908,846,1132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="752,1144,754,1180,749,1179,751,1149"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Node.html" title="Base interface for all computational processing nodes." alt="" coords="654,5,849,860"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="752,872,754,909,749,908,751,878"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode.html" title="MeshWriterNode that extracts a TRIANGLE_LIST isosurface from a Kinesis::SpatialField each frame via m..." alt="" coords="657,2644,846,3046"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="753,2380,754,2645,749,2644,750,2384"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1LineSegmentsNode.html" title="Accumulates discrete unconnected line segments for LINE_LIST rendering." alt="" coords="895,2689,1083,3002"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="991,2609,991,2691,987,2688,987,2614"/>
+</map>

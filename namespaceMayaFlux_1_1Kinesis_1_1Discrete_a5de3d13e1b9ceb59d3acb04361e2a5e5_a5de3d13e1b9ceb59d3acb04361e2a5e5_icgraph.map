@@ -1,0 +1,10 @@
+<map id="MayaFlux::Kinesis::Discrete::normalize" name="MayaFlux::Kinesis::Discrete::normalize">
+<area shape="rect" id="Node000001" title="Normalize to [target_min, target_max] in&#45;place Single&#45;pass min/max reduction followed by a single tra..." alt="" coords="461,64,609,109"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_a718383f1c65bd89371249e51a6170a28.html#a718383f1c65bd89371249e51a6170a28" title="Auto&#45;correlation via FFT." alt="" coords="233,29,410,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,72,411,69,411,63,448,72"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_a6999262b0f729dbdf1076f3a63355188.html#a6999262b0f729dbdf1076f3a63355188" title="Cross&#45;correlation via FFT." alt="" coords="231,99,413,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="449,100,414,109,413,103,443,101"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="355,14,344,10,322,8,302,10,290,15,285,21,286,30,281,28,280,19,287,10,301,5,322,3,345,5,360,14"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_af87d4b84d6d3f96cb339c7216db65678.html#af87d4b84d6d3f96cb339c7216db65678" title="Matched filter (normalised cross&#45;correlation)." alt="" coords="5,99,183,143"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="212,121,183,124,183,118,218,121"/>
+</map>

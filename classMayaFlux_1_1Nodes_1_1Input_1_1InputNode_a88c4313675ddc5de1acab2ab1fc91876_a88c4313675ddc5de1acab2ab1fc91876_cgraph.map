@@ -1,0 +1,20 @@
+<map id="MayaFlux::Nodes::Input::InputNode::process_input" name="MayaFlux::Nodes::Input::InputNode::process_input">
+<area shape="rect" id="Node000001" title="Process an input value from a backend." alt="" coords="5,133,200,178"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_aba20c5f758d8788e6e7cdd0427adf2ba.html#aba20c5f758d8788e6e7cdd0427adf2ba" title=" " alt="" coords="248,64,464,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,130,259,112,255,115,188,135"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_aa6aa698e25bb20035ac50308e7674bde.html#aa6aa698e25bb20035ac50308e7674bde" title="Extract a scalar value from an InputValue." alt="" coords="259,133,452,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,153,246,154,241,157,201,158"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_aa1e2d3eb1a1c2e7ee3b9b65eea3b7c91.html#aa1e2d3eb1a1c2e7ee3b9b65eea3b7c91" title="Notify callbacks (minimal for InputNode)." alt="" coords="268,245,444,290"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="156,176,292,237,287,240,155,181"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Core_1_1InputValue_ae01efb8d00817b4186bb78d114aadd95.html#ae01efb8d00817b4186bb78d114aadd95" title=" " alt="" coords="514,5,715,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,130,462,119,477,105,486,90,495,75,510,60,517,59,522,56,514,64,499,79,490,93,481,108,466,123,445,135"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Core_1_1InputValue_ad3004f6824e46da4a1abcbdc407acfca.html#ad3004f6824e46da4a1abcbdc407acfca" title=" " alt="" coords="514,99,715,143"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="452,140,501,136,496,137,454,145"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Core_1_1InputValue_a15c8d662a26a110fac92e92c0e4de474.html#a15c8d662a26a110fac92e92c0e4de474" title=" " alt="" coords="514,168,715,213"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="453,166,501,174,496,175,453,171"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="566,97,564,88,572,80,589,74,615,72,643,74,661,83,655,84,641,80,615,77,590,79,575,84,569,90,571,99"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_a2be2c134aaaf5c6c4696909b3de35baa.html#a2be2c134aaaf5c6c4696909b3de35baa" title="Retrieves the last created context object." alt="" coords="527,237,702,298"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="444,265,514,267,509,268,444,270"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Input_1_1InputNode_a00e489ddf0b8e4f74a220feeb318b36f.html#a00e489ddf0b8e4f74a220feeb318b36f" title="Update context after processing." alt="" coords="512,323,717,367"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="434,288,526,318,520,318,433,293"/>
+</map>

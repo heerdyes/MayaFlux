@@ -1,0 +1,17 @@
+<map id="MayaFlux::Buffers::extract_single_sample" name="MayaFlux::Buffers::extract_single_sample">
+<area shape="rect" id="Node000001" title="Extract a single sample from a node with proper snapshot management." alt="" coords="779,99,948,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1AggregateBindingsProcessor_a8fbc90ba064854f3d0aea9c7c37c7ecd.html#a8fbc90ba064854f3d0aea9c7c37c7ecd" title="BufferProcessor interface &#45; uploads all aggregates." alt="" coords="524,5,731,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="783,94,715,70,715,65,789,94"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1DescriptorBindingsProcessor_a8f82e6151c65aeda64bffe59a8ce801b.html#a8f82e6151c65aeda64bffe59a8ce801b" title=" " alt="" coords="524,91,731,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="761,122,732,124,732,119,767,121"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1NodeBindingsProcessor_ac3b7f2177e5238a79a7eab8fa403e3d5.html#ac3b7f2177e5238a79a7eab8fa403e3d5" title=" " alt="" coords="536,177,719,256"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="795,149,720,182,719,177,789,151"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1AggregateBindingsProcessor_a5c5e84e0a2c4a784ca5e260c5fc5373e.html#a5c5e84e0a2c4a784ca5e260c5fc5373e" title="Default constructor." alt="" coords="261,5,476,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,37,477,39,476,34,511,36"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1DescriptorBindingsProcessor_aeb95fbc5d56f8dd9841bf1663e2eb27d.html#aeb95fbc5d56f8dd9841bf1663e2eb27d" title="Update descriptor from binding source (node, audio buffer, etc.)." alt="" coords="265,91,472,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="506,122,473,124,472,119,511,121"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1DescriptorBindingsProcessor_a7f3868a3f75b5b5b82dcac442b63db4b.html#a7f3868a3f75b5b5b82dcac442b63db4b" title=" " alt="" coords="5,91,213,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="247,122,214,124,213,119,252,121"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1NodeBindingsProcessor_a9e34683edc8a22b84caa07129b961dd2.html#a9e34683edc8a22b84caa07129b961dd2" title=" " alt="" coords="281,185,456,247"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="518,216,456,219,456,214,524,216"/>
+</map>

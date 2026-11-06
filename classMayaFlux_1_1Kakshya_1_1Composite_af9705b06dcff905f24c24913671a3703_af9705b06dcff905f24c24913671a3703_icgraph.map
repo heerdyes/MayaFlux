@@ -1,0 +1,27 @@
+<map id="MayaFlux::Kakshya::Composite::has" name="MayaFlux::Kakshya::Composite::has">
+<area shape="rect" id="Node000001" title="Whether a named field exists and is present in this element." alt="" coords="974,155,1131,200"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1Composite_af98580780816ecbccab37da62698e333.html#af98580780816ecbccab37da62698e333" title="Borrow the bytes of a fixed or dynamic BLOB field." alt="" coords="768,155,926,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="956,178,926,180,926,175,961,177"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1Composite_a8b2af9a1e71a7a0f36e5e04152700c25.html#a8b2af9a1e71a7a0f36e5e04152700c25" title="Borrow a dynamic value; an absent field returns std::nullopt." alt="" coords="538,181,696,225"/>
+<area shape="poly" id="edge15_Node000001_Node000004" title=" " alt="" coords="969,204,926,215,866,220,805,221,696,215,696,210,805,216,866,215,925,210,964,204"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1Composite_aed9236ad8984ca298cb37998c9ae53dd.html#aed9236ad8984ca298cb37998c9ae53dd" title="Read a present arithmetic field by exact value type." alt="" coords="284,213,442,257"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="989,205,926,227,861,238,794,246,661,253,540,251,442,245,442,240,540,246,661,248,794,241,860,233,925,222,983,206"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1Composite_a16d07a50dd894cc938a3606fc7294596.html#a16d07a50dd894cc938a3606fc7294596" title="Read a present std::string field as borrowed UTF&#45;8 bytes." alt="" coords="768,62,926,107"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="987,148,925,121,899,110,900,104,927,116,992,149"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a9ef28ab3f3fce06513b8ef22a08db8c8.html#a9ef28ab3f3fce06513b8ef22a08db8c8" title=" " alt="" coords="514,38,720,83"/>
+<area shape="poly" id="edge16_Node000001_Node000007" title=" " alt="" coords="1031,140,1013,113,989,80,959,51,924,28,893,17,860,11,793,11,728,23,674,40,672,35,727,18,792,6,861,5,895,11,927,23,963,46,993,77,1017,110,1036,143"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="878,139,867,136,847,134,828,136,816,140,811,146,812,156,808,153,806,145,813,136,827,131,847,129,869,131,884,140"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1Composite_a293e43a24ddd0519c7247b1f5f51a012.html#a293e43a24ddd0519c7247b1f5f51a012" title=" " alt="" coords="532,109,702,153"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="751,159,702,151,702,145,756,159"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="756,188,697,197,696,192,751,188"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="526,214,442,228,442,222,520,215"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="751,104,703,116,702,111,756,103"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="777,114,770,121,756,133,747,144,737,156,722,168,693,182,692,177,719,163,733,152,742,141,752,129,767,117,772,116"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="878,46,867,43,847,41,828,42,816,47,811,53,812,63,808,60,806,52,813,43,827,37,847,35,869,38,884,46"/>
+<area shape="poly" id="edge11_Node000006_Node000007" title=" " alt="" coords="751,75,721,74,720,68,756,74"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a828aa791115c552bb7534d73d680ac61.html#a828aa791115c552bb7534d73d680ac61" title="Encode a bounded slice using the open file&#39;s layout." alt="" coords="260,38,466,83"/>
+<area shape="poly" id="edge12_Node000007_Node000008" title=" " alt="" coords="496,61,467,63,466,58,501,60"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a75c6c86b93c7ecae45d6cb2abcc9d04a.html#a75c6c86b93c7ecae45d6cb2abcc9d04a" title=" " alt="" coords="5,38,212,83"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="242,61,213,63,211,58,247,59"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="149,24,135,19,108,17,85,18,70,23,64,29,65,37,60,37,59,28,67,19,84,13,109,11,136,14,154,22"/>
+</map>

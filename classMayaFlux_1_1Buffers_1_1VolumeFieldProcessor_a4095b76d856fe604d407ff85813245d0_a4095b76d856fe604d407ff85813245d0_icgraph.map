@@ -1,0 +1,55 @@
+<map id="MayaFlux::Buffers::VolumeFieldProcessor::write_lattice_word7" name="MayaFlux::Buffers::VolumeFieldProcessor::write_lattice_word7">
+<area shape="rect" id="Node000001" title="Write word seven of the parameter prefix, at byte offset 28." alt="" coords="785,269,950,331"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_aefba36ed55ddfe94f07ea9d85f8ddee7.html#aefba36ed55ddfe94f07ea9d85f8ddee7" title="The core processing function that must be implemented by derived classes." alt="" coords="530,29,728,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="844,255,801,180,771,140,736,105,721,94,720,89,739,101,775,136,805,177,850,255"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_a05423b89de8c8910425d704cd6e1a26d.html#a05423b89de8c8910425d704cd6e1a26d" title="Reset elapsed time to zero." alt="" coords="543,115,714,160"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="830,258,788,215,736,174,715,163,714,158,739,170,792,211,835,257"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1DiffuseProcessor_a34f5e46443a52a298d035f857727d567.html#a34f5e46443a52a298d035f857727d567" title="Write the product of rate and time step into word seven." alt="" coords="543,184,714,246"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="768,267,715,248,714,243,773,265"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a470e0cfbb87154f815b1ac14a2222a96.html#a470e0cfbb87154f815b1ac14a2222a96" title="Write time step and dissipation past the shared prefix." alt="" coords="530,316,728,361"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="768,317,730,325,727,321,772,314"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_a99506cbb79a551fd36d12b0bde0cde7a.html#a99506cbb79a551fd36d12b0bde0cde7a" title="Write every parameter past the shared prefix." alt="" coords="520,680,737,725"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="842,342,646,682,641,679,839,346"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_a01ca64335d4e3e111218cb774f9b1f54.html#a01ca64335d4e3e111218cb774f9b1f54" title="Write every parameter past the shared prefix." alt="" coords="534,1219,723,1264"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="857,345,638,1219,633,1218,852,347"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1DiffuseProcessor_a713aebbfaf663d8931d764163b0f938e.html#a713aebbfaf663d8931d764163b0f938e" title="Write the coefficient into the shared prefix." alt="" coords="299,5,454,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="527,181,518,174,500,150,493,127,487,104,470,81,455,67,453,62,474,77,491,101,498,125,505,148,522,170,532,179"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1DiffuseProcessor_ae395f7d8c85937d96b2d3a4796268679.html#ae395f7d8c85937d96b2d3a4796268679" title="Set the diffusion rate." alt="" coords="281,91,472,136"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="530,179,519,175,471,151,444,139,442,134,473,146,521,170,535,176"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1DiffuseProcessor_adbcc5de8fec3562476e721fe9c9beeb5.html#adbcc5de8fec3562476e721fe9c9beeb5" title="Set the integration step." alt="" coords="297,160,456,222"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="525,207,457,201,455,196,530,204"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a0c6b57249714b70c283637ab685668ef.html#a0c6b57249714b70c283637ab685668ef" title="Reserve the full parameter block and write the step and dissipation words." alt="" coords="300,245,453,307"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="519,313,455,298,453,293,523,311"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_ad217a4a12dc3262a352bb40dfbc3da33.html#ad217a4a12dc3262a352bb40dfbc3da33" title="Set the multiplicative decay applied to the carried value." alt="" coords="298,331,455,392"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="512,351,457,357,454,352,516,347"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a80c13372f5ed50e9e25f0216c5534a48.html#a80c13372f5ed50e9e25f0216c5534a48" title="Set the integration step passed to the shader each cycle." alt="" coords="298,416,455,478"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="559,370,452,417,449,413,562,366"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_aace1aa56f386797668051148b3e58eac.html#aace1aa56f386797668051148b3e58eac" title="Raise the parameter block and write the tail." alt="" coords="290,501,462,563"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="590,670,536,624,471,577,453,566,452,561,473,573,539,620,595,669"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_a6e0277b1e1b5bffd348fd2f9d15340cc.html#a6e0277b1e1b5bffd348fd2f9d15340cc" title="Set the temperature at which the rise term vanishes." alt="" coords="288,587,464,648"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="544,676,466,650,464,645,548,674"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_a21ce8d736f6899d7732bf040c2bc1eaf.html#a21ce8d736f6899d7732bf040c2bc1eaf" title="Set the coefficient on the density value." alt="" coords="288,672,464,734"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="502,704,466,705,464,700,507,701"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_aef87e64108b77e8ba463233bdba43a39.html#aef87e64108b77e8ba463233bdba43a39" title="Set the force axis and magnitude." alt="" coords="288,757,464,819"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="544,732,467,760,463,756,548,729"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_a989c621fbe33e2cdc431ee6702d28792.html#a989c621fbe33e2cdc431ee6702d28792" title="Set the coefficient on the temperature difference." alt="" coords="288,843,464,904"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="591,738,539,786,473,833,454,844,450,840,471,829,536,781,594,734"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Buffers_1_1BuoyancyProcessor_a444896c59fa2ddcc47cd9351ed345ffe.html#a444896c59fa2ddcc47cd9351ed345ffe" title="Set the integration step passed to the shader each cycle." alt="" coords="288,928,464,990"/>
+<area shape="poly" id="edge17_Node000012_Node000018" title=" " alt="" coords="610,737,556,828,518,876,474,918,458,929,454,926,470,914,514,872,552,825,607,741"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_aab9d8eb17f37230f1c2a7ed51941afdd.html#aab9d8eb17f37230f1c2a7ed51941afdd" title="Replace centre, radius, rate, time step and falloff at once." alt="" coords="282,1014,470,1058"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="601,1206,546,1140,510,1104,471,1073,451,1062,451,1056,473,1069,514,1100,550,1136,606,1207"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_a32ce482fadb6758138f24c1e77f96f41.html#a32ce482fadb6758138f24c1e77f96f41" title="Raise the parameter block and write everything past the prefix." alt="" coords="303,1083,450,1144"/>
+<area shape="poly" id="edge21_Node000019_Node000022" title=" " alt="" coords="572,1212,471,1159,449,1147,448,1142,473,1154,577,1211"/>
+<area shape="rect" id="Node000023" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_a8102a55d8436c93bff3cae030de89ccc.html#a8102a55d8436c93bff3cae030de89ccc" title="Set the shape&#39;s world&#45;space centre." alt="" coords="302,1168,450,1230"/>
+<area shape="poly" id="edge22_Node000019_Node000023" title=" " alt="" coords="516,1224,451,1214,450,1209,521,1222"/>
+<area shape="rect" id="Node000024" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_acb8728512f3ac6dc31a7f3cf5f28a595.html#acb8728512f3ac6dc31a7f3cf5f28a595" title="Set the shape&#39;s edge softness." alt="" coords="302,1253,450,1315"/>
+<area shape="poly" id="edge23_Node000019_Node000024" title=" " alt="" coords="516,1261,452,1274,450,1269,521,1259"/>
+<area shape="rect" id="Node000025" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_acd735348f27c31bc7f75e12faa165272.html#acd735348f27c31bc7f75e12faa165272" title="Set the shape&#39;s characteristic size." alt="" coords="302,1339,450,1400"/>
+<area shape="poly" id="edge24_Node000019_Node000025" title=" " alt="" coords="577,1271,473,1329,450,1341,447,1336,471,1324,572,1273"/>
+<area shape="rect" id="Node000026" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_af6eca8cdf922c07e942349a6d4c69628.html#af6eca8cdf922c07e942349a6d4c69628" title="Set the amount added per unit time at shape value one." alt="" coords="286,1424,467,1469"/>
+<area shape="poly" id="edge25_Node000019_Node000026" title=" " alt="" coords="606,1275,550,1347,514,1383,473,1414,452,1426,450,1421,471,1410,510,1379,546,1343,601,1278"/>
+<area shape="rect" id="Node000027" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_a3a62d9b9fce0f3fa03c98b7c2da34879.html#a3a62d9b9fce0f3fa03c98b7c2da34879" title="Set the integration step." alt="" coords="302,1493,450,1555"/>
+<area shape="poly" id="edge26_Node000019_Node000027" title=" " alt="" coords="614,1277,592,1325,560,1379,521,1434,474,1484,452,1499,450,1494,470,1479,517,1431,556,1376,587,1322,610,1280"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Buffers_1_1InfluxProcessor_ae5fed8d6e18a4f26a2058936a8dc869b.html#ae5fed8d6e18a4f26a2058936a8dc869b" title="Construct an influx stage already placed." alt="" coords="5,1014,233,1058"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="264,1038,235,1038,232,1034,268,1035"/>
+</map>

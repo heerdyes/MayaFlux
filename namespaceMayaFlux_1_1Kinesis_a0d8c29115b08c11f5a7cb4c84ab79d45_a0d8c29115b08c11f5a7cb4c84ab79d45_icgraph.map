@@ -1,0 +1,23 @@
+<map id="MayaFlux::Kinesis::position_at" name="MayaFlux::Kinesis::position_at">
+<area shape="rect" id="Node000001" title="Position of one record in interleaved vertex bytes." alt="" coords="904,79,1052,123"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a48bc0731c2aec9bafaa25f9debec0546.html#a48bc0731c2aec9bafaa25f9debec0546" title="Arithmetic centroid of the positions in interleaved vertex bytes." alt="" coords="707,19,856,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="886,74,856,66,856,61,891,74"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nexus_a38a4ffb36a511a9879f5dee9e2f64099.html#a38a4ffb36a511a9879f5dee9e2f64099" title="Anchor of a buffer&#39;s geometry in its own stored coordinates." alt="" coords="488,109,659,154"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="886,108,660,128,660,123,891,107"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kinesis_ab577a8cd26f627e22b3fdde7c4d3dd9c.html#ab577a8cd26f627e22b3fdde7c4d3dd9c" title="Area&#45;weighted centroid of the triangles of an indexed mesh." alt="" coords="707,139,856,183"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="891,128,857,141,856,136,886,129"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="606,94,595,90,574,88,554,90,542,95,538,101,539,110,534,107,532,99,539,90,553,85,574,83,596,85,611,94"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Nexus_ad44add43b988749541d1a7d91239c707.html#ad44add43b988749541d1a7d91239c707" title="Build an attachment to buf." alt="" coords="253,75,431,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,117,431,113,431,108,475,116"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Nexus_a60bdbcdb6a637bc81248165ecd2f64ea.html#a60bdbcdb6a637bc81248165ecd2f64ea" title="Read the buffer&#39;s geometry again and move the anchor to match." alt="" coords="244,144,440,189"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="470,147,441,154,440,149,475,146"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nexus_1_1Agent_a7f420f62150e3babe04fda42dd44c50b.html#a7f420f62150e3babe04fda42dd44c50b" title="Make an existing, already rendered buffer the look of this object." alt="" coords="10,5,191,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="245,71,181,53,181,48,250,69"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Emitter_a70d813d4d303befb1af9ee9d25007057.html#a70d813d4d303befb1af9ee9d25007057" title="Make an existing, already rendered buffer the look of this object." alt="" coords="5,75,196,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="235,98,197,100,195,94,240,96"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nexus_1_1Agent_ae4d2cf2382e2993a64f26e56d41d7f5c.html#ae4d2cf2382e2993a64f26e56d41d7f5c" title="Read the attached buffer&#39;s geometry again and move the anchor to match." alt="" coords="10,144,191,189"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="226,167,192,169,191,164,231,166"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Emitter_a879ad09dc34d541933b717d4095cb469.html#a879ad09dc34d541933b717d4095cb469" title="Read the attached buffer&#39;s geometry again and move the anchor to match." alt="" coords="5,213,196,258"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="250,193,182,215,180,210,245,194"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="689,148,660,146,660,141,694,148"/>
+</map>

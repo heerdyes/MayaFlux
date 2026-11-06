@@ -1,0 +1,34 @@
+<map id="MayaFlux::Portal::Forma::destroy" name="MayaFlux::Portal::Forma::destroy">
+<area shape="rect" id="Node000001" title="Tear down an element and everything related to it." alt="" coords="5,277,186,322"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Forma_acd944a5f64ed887bcb7bab38ee13f093.html#acd944a5f64ed887bcb7bab38ee13f093" title="Return the application&#45;level Bridge instance." alt="" coords="234,64,414,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,275,157,203,192,162,232,126,252,114,249,118,235,130,196,166,162,207,112,278"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Layer_a5ef0a8c9d5e0d9c5bc88b344fd4fe86f.html#a5ef0a8c9d5e0d9c5bc88b344fd4fe86f" title="Return id plus every id transitively related to it." alt="" coords="466,205,647,250"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="110,276,159,219,194,191,233,169,267,159,302,155,338,155,373,159,440,175,498,198,493,199,438,180,372,164,337,160,302,160,268,164,235,174,197,195,163,223,114,279"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Surface_a59632cf950ca32272134390bb45ee7ab.html#a59632cf950ca32272134390bb45ee7ab" title="Access the event router." alt="" coords="234,184,414,229"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="148,274,233,239,251,233,247,236,235,243,151,279"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Surface_a75c1be61d11b8a157158eee48c4e5992.html#a75c1be61d11b8a157158eee48c4e5992" title="Access the spatial registry." alt="" coords="234,277,414,322"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="185,297,220,298,216,301,187,302"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Layer_a94ec57826c7fb864846696d2c1ce0fde.html#a94ec57826c7fb864846696d2c1ce0fde" title="Remove an element by id, cascading to every related id." alt="" coords="234,347,414,391"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="171,320,235,340,231,343,172,325"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Bridge_a367d65aefbad4e7a1d844a1a9be38d1a.html#a367d65aefbad4e7a1d844a1a9be38d1a" title="Cancel all inbound and outbound bindings for an element." alt="" coords="234,416,414,461"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="122,320,174,361,235,401,246,409,241,409,232,406,170,365,122,325"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a7582469623030bcf42989c0d1f9451b7.html#a7582469623030bcf42989c0d1f9451b7" title="Remove all callbacks registered for an element id." alt="" coords="234,485,414,530"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="110,320,160,394,195,435,235,471,243,478,237,477,232,475,191,439,156,397,109,325"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1internal_abdc2f8c3b42bcb7e0e99aae7e15a4615.html#abdc2f8c3b42bcb7e0e99aae7e15a4615" title="Accessor for the process&#45;wide Atelier." alt="" coords="466,29,647,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,71,454,66,449,69,415,75"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_ae6a68b62f4ba807365f83dc74b9671dd.html#ae6a68b62f4ba807365f83dc74b9671dd" title="Bridge instance constructed during initialize." alt="" coords="466,99,647,143"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="413,97,454,104,449,106,415,102"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a08a096e054a0c2a721c1a399c95af469.html#a08a096e054a0c2a721c1a399c95af469" title=" " alt="" coords="699,29,893,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="647,49,686,51,681,53,648,54"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_adc8bc2941915c24780f852e152d31af7.html#adc8bc2941915c24780f852e152d31af7" title=" " alt="" coords="941,29,1122,74"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="893,49,928,51,922,52,894,54"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="987,28,985,19,993,10,1008,5,1031,3,1057,5,1074,14,1068,14,1055,10,1031,8,1009,10,996,15,990,21,991,30"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="280,276,279,267,286,258,301,253,324,251,349,253,365,262,360,263,347,258,324,256,303,258,289,263,284,269,285,278"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="389,344,413,332,469,296,516,261,521,259,472,300,415,337,391,348"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Layer_a6a279bbd434c7f805d6d21f4bf1e2155.html#a6a279bbd434c7f805d6d21f4bf1e2155" title=" " alt="" coords="466,347,647,391"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="414,366,454,368,449,370,415,372"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Bridge_a5f483010f6e367397305db3d02398a0a.html#a5f483010f6e367397305db3d02398a0a" title=" " alt="" coords="466,416,647,461"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="414,436,454,438,449,439,414,441"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Bridge_ac14fb1d2e20704c4966cabc3c823d0aa.html#ac14fb1d2e20704c4966cabc3c823d0aa" title=" " alt="" coords="462,485,651,530"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="401,459,467,480,462,480,401,464"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Filters::IIR::IIR" name="MayaFlux::Nodes::Filters::IIR::IIR">
+<area shape="rect" id="Node000001" title="Creates an IIR filter with specified coefficients (no input node)." alt="" coords="5,75,188,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_a130070e53c152e62f147c26f4a284456.html#a130070e53c152e62f147c26f4a284456" title="Constructor using explicit coefficient vectors." alt="" coords="236,75,418,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,94,223,96,217,98,188,100"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Node_adecd36f4b9db4faad89b99a2daa77024.html#adecd36f4b9db4faad89b99a2daa77024" title="Provides access to the GPU data buffer." alt="" coords="469,5,645,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,72,464,56,469,54,404,77"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_aa87283a1006a9a9a24c0e5cfaa72ec53.html#aa87283a1006a9a9a24c0e5cfaa72ec53" title="Updates the feedback (denominator) coefficients." alt="" coords="466,75,648,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="418,94,453,97,448,97,418,100"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1Filter_ab682c4bdf1bda81b6b1cc94ccfb9c405.html#ab682c4bdf1bda81b6b1cc94ccfb9c405" title="Updates the feedforward (numerator) coefficients." alt="" coords="466,144,648,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="404,117,469,139,463,139,403,123"/>
+</map>

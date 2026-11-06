@@ -1,0 +1,7 @@
+<map id="MayaFlux::Nodes::Network::NetworkOperator::get_type_name" name="MayaFlux::Nodes::Network::NetworkOperator::get_type_name">
+<area shape="rect" id="Node000001" title="Type name for introspection." alt="" coords="251,48,448,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1FieldOperator_a37c560c008b5eb6cf3e143c664efca00.html#a37c560c008b5eb6cf3e143c664efca00" title="Seed vertex data from the upstream operator&#39;s current output." alt="" coords="5,5,203,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,60,203,56,203,51,238,58"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PhysicsOperator_a99411015af9da1e5754e9c7b01e5bcf7.html#a99411015af9da1e5754e9c7b01e5bcf7" title="Seed physics state from upstream operator&#39;s vertex data." alt="" coords="5,91,203,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,99,204,107,203,102,238,98"/>
+</map>

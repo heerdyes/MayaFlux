@@ -1,0 +1,16 @@
+<map id="MayaFlux::Nexus::make_attachment" name="MayaFlux::Nexus::make_attachment">
+<area shape="rect" id="Node000001" title="Build an attachment to buf." alt="" coords="5,52,184,97"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nexus_a38a4ffb36a511a9879f5dee9e2f64099.html#a38a4ffb36a511a9879f5dee9e2f64099" title="Anchor of a buffer&#39;s geometry in its own stored coordinates." alt="" coords="232,52,403,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,72,219,74,214,75,184,77"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="278,50,276,42,283,33,297,27,317,25,340,28,355,37,350,37,338,33,317,31,298,33,286,37,281,43,282,53"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a1f900447d934e9d0d88d4377cd6e6019.html#a1f900447d934e9d0d88d4377cd6e6019" title="Mean position across a window." alt="" coords="647,5,796,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,49,451,37,544,27,635,27,629,27,544,33,451,42,396,54"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a0d8c29115b08c11f5a7cb4c84ab79d45.html#a0d8c29115b08c11f5a7cb4c84ab79d45" title="Position of one record in interleaved vertex bytes." alt="" coords="647,87,796,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="393,95,451,106,544,113,634,115,629,115,544,118,451,112,392,100"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_ab577a8cd26f627e22b3fdde7c4d3dd9c.html#ab577a8cd26f627e22b3fdde7c4d3dd9c" title="Area&#45;weighted centroid of the triangles of an indexed mesh." alt="" coords="451,52,599,97"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="403,72,438,74,433,75,403,77"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a0e0d3fef51c28469d86c6f9501d37439.html#a0e0d3fef51c28469d86c6f9501d37439" title="Simple moving average over the newest window samples." alt="" coords="844,5,992,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="796,25,831,27,825,28,796,30"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="599,54,630,49,635,48,600,59"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="600,85,634,93,629,93,600,90"/>
+</map>

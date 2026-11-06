@@ -1,0 +1,16 @@
+<map id="MayaFlux::Vruta::SoundRoutine::is_active" name="MayaFlux::Vruta::SoundRoutine::is_active">
+<area shape="rect" id="Node000001" title="Checks if the coroutine is still active." alt="" coords="828,96,1055,141"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1SoundRoutine_a7ddfb09bc6f2d7638b13027ecb7a6738.html#a7ddfb09bc6f2d7638b13027ecb7a6738" title="Gets the sample position when this routine should next execute." alt="" coords="554,5,780,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="854,91,737,53,738,48,860,91"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1SoundRoutine_a72b413b3d210f5b0709f36def23fe9f8.html#a72b413b3d210f5b0709f36def23fe9f8" title=" " alt="" coords="5,135,232,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="810,114,780,116,667,113,554,116,385,129,233,145,232,140,384,123,554,110,667,108,780,110,816,114"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1SoundRoutine_adc6115b080837da5c2ac50d7aa784dbf.html#adc6115b080837da5c2ac50d7aa784dbf" title="Restarts the coroutine from the beginning." alt="" coords="554,125,780,170"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="810,132,781,138,781,133,815,132"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Vruta_1_1SoundRoutine_a6936d0555115de0ddde7aa770a6674c0.html#a6936d0555115de0ddde7aa770a6674c0" title="Attempts to resume the coroutine with explicit temporal context." alt="" coords="554,195,780,239"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="875,146,781,185,746,197,745,192,779,180,870,147"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="162,120,147,116,118,113,93,115,77,120,70,126,72,134,67,134,65,124,74,115,92,110,119,108,148,110,167,119"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="554,191,506,185,364,170,232,163,232,157,364,165,506,180,559,191"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Vruta_1_1SoundRoutine_a95a75cccc20a0811d93a5c30a87d93e8.html#a95a75cccc20a0811d93a5c30a87d93e8" title="Attempts to resume the coroutine if it&#39;s ready to execute." alt="" coords="280,195,506,239"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="535,217,507,220,506,214,541,217"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="270,191,224,183,224,177,275,191"/>
+</map>

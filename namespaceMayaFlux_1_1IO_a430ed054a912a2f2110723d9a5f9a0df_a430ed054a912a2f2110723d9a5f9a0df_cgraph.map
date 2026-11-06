@@ -1,0 +1,20 @@
+<map id="MayaFlux::IO::save_spatial_snapshot" name="MayaFlux::IO::save_spatial_snapshot">
+<area shape="rect" id="Node000001" title="Open a fresh SpatialCache, write every source once, then close it." alt="" coords="5,133,152,178"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1SpatialCache_af4391ee94079d44e2c410c70ad7449bd.html#af4391ee94079d44e2c410c70ad7449bd" title="Finalize and close the archive." alt="" coords="200,5,400,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,131,146,95,198,60,213,55,209,59,201,65,149,99,106,134"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1SpatialCache_a76b7760ae664ada78f27312377790cf7.html#a76b7760ae664ada78f27312377790cf7" title=" " alt="" coords="200,99,400,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,142,186,138,182,141,153,147"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1SpatialCache_a7d53c246c7b2e8d6492b2d61286c860c.html#a7d53c246c7b2e8d6492b2d61286c860c" title="Open an Alembic archive for writing, Ogawa backend." alt="" coords="200,261,400,306"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="119,176,248,252,244,254,118,181"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1IO_a7a8c537450f6ce9496ebbd1d5886cddb.html#a7a8c537450f6ce9496ebbd1d5886cddb" title="Substitute a frame index into a numbered output pattern." alt="" coords="218,168,382,213"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="151,165,205,174,201,176,153,170"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="257,97,256,89,263,80,278,74,300,72,324,75,340,83,334,84,322,80,300,77,279,79,266,84,261,90,263,99"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="258,260,256,251,263,242,278,237,300,235,324,237,340,246,334,246,322,242,300,240,279,242,266,247,261,253,262,262"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1IO_af70273974a6d4e868b4c016d2f944547.html#af70273974a6d4e868b4c016d2f944547" title="Resolve a writable path against the configured output directory." alt="" coords="466,173,630,218"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="364,258,466,225,471,223,366,263"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1SpatialCache_abaddd5694375dc2701c4e1fae7b45cec.html#abaddd5694375dc2701c4e1fae7b45cec" title=" " alt="" coords="448,255,648,299"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="400,278,435,280,430,280,401,284"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1SpatialCache_a8b97315575606988edce07247f029c66.html#a8b97315575606988edce07247f029c66" title=" " alt="" coords="448,324,648,369"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="391,304,445,320,439,320,391,309"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="382,189,454,193,449,194,382,195"/>
+</map>

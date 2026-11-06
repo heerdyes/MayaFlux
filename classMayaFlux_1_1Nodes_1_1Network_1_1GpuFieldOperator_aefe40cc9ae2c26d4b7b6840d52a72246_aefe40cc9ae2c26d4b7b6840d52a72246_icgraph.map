@@ -1,0 +1,23 @@
+<map id="MayaFlux::Nodes::Network::GpuFieldOperator::store" name="MayaFlux::Nodes::Network::GpuFieldOperator::store">
+<area shape="rect" id="Node000001" title="Store a binding after validation." alt="" coords="575,283,772,327"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a6f25abc59693d6ab7b1b5ffe0655b6a7.html#a6f25abc59693d6ab7b1b5ffe0655b6a7" title="Bind a scalar field." alt="" coords="330,5,527,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,267,637,222,609,167,571,112,525,64,510,53,509,48,529,60,576,109,613,165,642,220,662,268"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a04d4087c1ee7df7ab785b0a7c7a1829a.html#a04d4087c1ee7df7ab785b0a7c7a1829a" title="Bind a two&#45;component field." alt="" coords="330,75,527,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="648,270,598,202,564,165,525,134,507,123,506,117,529,129,567,162,602,198,654,270"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a357cec594ff11f845e60cc7903450f62.html#a357cec594ff11f845e60cc7903450f62" title="Bind a three&#45;component field to one or more vec3 targets." alt="" coords="330,144,527,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="631,273,583,238,526,203,502,192,501,187,528,199,586,234,636,273"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a269ce3b8ea5cc413dcaf03278918cdd5.html#a269ce3b8ea5cc413dcaf03278918cdd5" title="Bind a scalar field of position, time and live parameters." alt="" coords="330,213,527,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="575,278,510,261,510,256,580,277"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_ade45a8c37aec7265421fbd48267c73a3.html#ade45a8c37aec7265421fbd48267c73a3" title="Bind a two&#45;component field of position, time and live parameters." alt="" coords="330,283,527,327"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="557,306,528,308,527,302,562,304"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_acf4ba5cb4fe4d2a841e1055c887cbf6a.html#acf4ba5cb4fe4d2a841e1055c887cbf6a" title="Bind a three&#45;component field of position, time and live parameters." alt="" coords="330,352,527,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="575,333,511,354,509,349,580,331"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a1462dc9a02a821b0defd2bd171740cd1.html#a1462dc9a02a821b0defd2bd171740cd1" title="Bind a scalar field of position and time." alt="" coords="330,421,527,466"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="636,336,586,376,528,411,502,423,500,418,526,407,583,372,631,338"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a2d1898f999d8f7a04e1d5ae3f018fbdb.html#a2d1898f999d8f7a04e1d5ae3f018fbdb" title="Bind a two&#45;component field of position and time." alt="" coords="330,491,527,535"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="653,339,602,412,567,448,529,481,508,493,506,488,525,476,564,445,598,408,649,342"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_ae95f07dfddaf57e71ce03b3aca792d79.html#ae95f07dfddaf57e71ce03b3aca792d79" title="Bind a three&#45;component field of position and time." alt="" coords="330,560,527,605"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="661,341,642,390,613,445,576,501,529,550,510,562,508,557,525,546,571,498,609,443,637,388,657,344"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a294071beea2764ee6f4473e1b5506038.html#a294071beea2764ee6f4473e1b5506038" title=" " alt="" coords="5,144,282,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="312,168,283,169,281,164,316,165"/>
+</map>

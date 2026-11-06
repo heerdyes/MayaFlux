@@ -1,0 +1,13 @@
+<map id="MayaFlux::Buffers::SolenoidalProcessor" name="MayaFlux::Buffers::SolenoidalProcessor">
+<area shape="rect" id="Node000001" title="VolumeFieldProcessor subtracting a pressure gradient from a velocity field, leaving it divergence&#45;fre..." alt="" coords="20,2737,188,2938"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor.html" title="ComputeProcessor operating on named fields of a VolumeGridBuffer." alt="" coords="10,2153,198,2689"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,2701,106,2738,101,2737,103,2706"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor.html" title="Specialized ShaderProcessor for Compute Pipelines." alt="" coords="6,1597,201,2105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,2117,106,2154,101,2153,104,2123"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor.html" title="Abstract base class for shader&#45;based buffer processing." alt="" coords="5,565,202,1549"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,1561,106,1597,101,1597,104,1567"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor.html" title=" " alt="" coords="8,344,200,517"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="104,529,106,565,101,565,104,534"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor.html" title="Central computational transformation interface for continuous buffer processing." alt="" coords="15,5,193,296"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="104,308,106,344,101,344,104,313"/>
+</map>

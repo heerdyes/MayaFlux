@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::SoundStreamContainer::get_frame_span_impl" name="MayaFlux::Kakshya::SoundStreamContainer::get_frame_span_impl">
+<area shape="rect" id="Node000001" title="Implementation&#45;specific method to retrieve a frame span." alt="" coords="5,36,177,97"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a0065697969c7ef39b4106f22a42d24cb.html#a0065697969c7ef39b4106f22a42d24cb" title=" " alt="" coords="225,36,396,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,64,212,66,206,67,177,69"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a4d6dbfe4ade32fa9c748c6cf36988124.html#a4d6dbfe4ade32fa9c748c6cf36988124" title="Extract a single frame of data from a span." alt="" coords="451,5,608,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,49,438,44,433,45,397,54"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a2321cbc62aa5f61be7f780c2c8735fcc.html#a2321cbc62aa5f61be7f780c2c8735fcc" title="Get the cached spans for each channel, recomputing if dirty." alt="" coords="444,74,615,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="396,79,431,87,426,87,396,84"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kakshya_ab3b458f6c92031a38b8eb820d6d3324d.html#ab3b458f6c92031a38b8eb820d6d3324d" title="Get const span from DataVariant without conversion (zero&#45;copy for matching types)." alt="" coords="663,83,821,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="616,102,650,105,645,105,616,108"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="869,83,1026,127"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="821,102,856,105,850,105,821,108"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="1074,83,1247,127"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1026,102,1061,105,1056,105,1027,108"/>
+</map>

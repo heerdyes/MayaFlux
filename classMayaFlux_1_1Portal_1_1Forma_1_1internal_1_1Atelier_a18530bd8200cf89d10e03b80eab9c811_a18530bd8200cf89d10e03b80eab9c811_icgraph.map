@@ -1,0 +1,17 @@
+<map id="MayaFlux::Portal::Forma::internal::Atelier::create_surface" name="MayaFlux::Portal::Forma::internal::Atelier::create_surface">
+<area shape="rect" id="Node000001" title="Build a Surface from a SurfaceConfig, creating Layer and Context when config.layer/config...." alt="" coords="674,113,855,174"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Forma_acfceb7b07d32e4dc0389ee3b033d970c.html#acfceb7b07d32e4dc0389ee3b033d970c" title="Construct a Surface from a SurfaceConfig." alt="" coords="446,5,626,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="700,104,625,65,600,53,600,48,628,60,705,105"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a8a30e91a17ae12f678b1e68181b538dc.html#a8a30e91a17ae12f678b1e68181b538dc" title="Build a window through create_window, then a Surface on it." alt="" coords="446,74,626,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="656,126,627,123,627,118,662,126"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Forma_abe13f9ac6498e0bb42d1594f9648b33c.html#abe13f9ac6498e0bb42d1594f9648b33c" title="Open a window of clickable rows, one per label, and report the choice." alt="" coords="446,160,626,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="656,162,627,170,626,164,662,161"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a0134941e72f794b2ad2318f03eacb98b.html#a0134941e72f794b2ad2318f03eacb98b" title="Create a live plot in a new window." alt="" coords="446,229,626,274"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="698,181,627,219,600,231,598,226,625,215,693,183"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_ab175da21b088a5c2e496b8d1c0670b2f.html#ab175da21b088a5c2e496b8d1c0670b2f" title="Let the user pick a camera, and optionally a capture mode, then open it via IOManager::open_camera()." alt="" coords="203,139,398,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="427,169,399,168,399,163,433,169"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Portal_1_1Forma_aa6e1287fb7394d3c8a69bc7f662ad251.html#aa6e1287fb7394d3c8a69bc7f662ad251" title="Typed form of pick: list items by label and receive the chosen item." alt="" coords="210,191,390,235"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="428,196,391,204,390,199,433,196"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Creator_a4d6c81dee8675dd5bf9b992245f3a548.html#a4d6c81dee8675dd5bf9b992245f3a548" title="Let the user pick a camera and capture mode, then read it as above." alt="" coords="5,131,155,175"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="184,154,156,156,154,150,189,152"/>
+</map>

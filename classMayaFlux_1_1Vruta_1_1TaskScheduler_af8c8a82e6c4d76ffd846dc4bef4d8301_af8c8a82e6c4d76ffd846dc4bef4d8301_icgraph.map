@@ -1,0 +1,11 @@
+<map id="MayaFlux::Vruta::TaskScheduler::drain_conditional_pending" name="MayaFlux::Vruta::TaskScheduler::drain_conditional_pending">
+<area shape="rect" id="Node000001" title="Drain pending conditional task operations before processing." alt="" coords="837,40,1067,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a5a9f9fef1e94f2fe4bbd01b9773dbf87.html#a5a9f9fef1e94f2fe4bbd01b9773dbf87" title="Pump the conditional task list in a separate thread." alt="" coords="560,5,789,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="819,46,790,45,790,39,824,46"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_adf322ebacbad357c80f88e737737e9f6.html#adf322ebacbad357c80f88e737737e9f6" title="Terminate and clear all tasks." alt="" coords="560,75,789,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="824,78,790,85,789,80,819,79"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a4346f248dffefc61f410100f2812553a.html#a4346f248dffefc61f410100f2812553a" title="Start the conditional task processing thread if not already running." alt="" coords="283,5,512,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="542,28,512,30,512,25,547,27"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler_a01f29b8e9975b80306f4bc0b534a09d8.html#a01f29b8e9975b80306f4bc0b534a09d8" title="Add a routine to the scheduler based on its processing token." alt="" coords="5,5,235,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,28,235,30,235,25,270,27"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="MayaFlux::Kinesis::Stochastic::Estimate::update_into" name="MayaFlux::Kinesis::Stochastic::Estimate::update_into">
+<area shape="rect" id="Node000001" title="Feed one sample and push the filtered result into a HistoryBuffer." alt="" coords="5,120,160,182"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Memory_1_1HistoryBuffer_a6f256636f3f3fc99269c77a8dc096b09.html#a6f256636f3f3fc99269c77a8dc096b09" title="Push new value to front of history." alt="" coords="208,90,409,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,135,194,130,190,134,161,140"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a502f5a8057dafa0db29ae244dd666427.html#a502f5a8057dafa0db29ae244dd666427" title="Feed one new sample, updating the running estimate." alt="" coords="231,159,386,220"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,162,218,172,214,175,161,167"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a6c9dee88075789236d25d268707b011b.html#a6c9dee88075789236d25d268707b011b" title=" " alt="" coords="457,5,633,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="384,160,407,145,422,128,431,112,439,95,455,77,462,75,458,78,459,81,444,98,436,114,427,131,411,149,388,164"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a9a726d3f0bc471aa89b7ea3acbaed463.html#a9a726d3f0bc471aa89b7ea3acbaed463" title=" " alt="" coords="468,91,622,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="385,165,455,147,451,149,387,170"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a921c15e895285770ab1faf2ef1a9bef4.html#a921c15e895285770ab1faf2ef1a9bef4" title=" " alt="" coords="464,235,626,296"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="386,212,452,234,446,235,386,217"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a24bde794a3ce27e3fa09d870a6532e1b.html#a24bde794a3ce27e3fa09d870a6532e1b" title=" " alt="" coords="693,149,879,211"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="386,185,680,181,676,184,386,191"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a2ba90a2a80f06a7fd8d10494fdbdeff0.html#a2ba90a2a80f06a7fd8d10494fdbdeff0" title=" " alt="" coords="468,320,622,382"/>
+<area shape="poly" id="edge12_Node000003_Node000012" title=" " alt="" coords="344,218,397,262,458,306,466,312,461,312,456,310,394,266,343,223"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_ae1c48a1386727ee92630c6ac8015a107.html#ae1c48a1386727ee92630c6ac8015a107" title="Median absolute deviation of a span." alt="" coords="681,64,891,126"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="622,110,668,107,663,109,623,116"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_af7cde71aad7f9397ced13587376c837a.html#af7cde71aad7f9397ced13587376c837a" title="Standard deviation of a span." alt="" coords="709,235,863,296"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="626,263,696,265,691,266,627,268"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a8cbb7ea226440d3bbcb2f2d38d5e74c9.html#a8cbb7ea226440d3bbcb2f2d38d5e74c9" title="Fraction of a span&#39;s variance attributable to its linear trend." alt="" coords="700,320,872,382"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="627,291,688,315,683,315,626,297"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a60372cd858f0f63d5bc45028e354406d.html#a60372cd858f0f63d5bc45028e354406d" title="Sample variance of a span." alt="" coords="939,192,1093,254"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="863,249,926,239,921,241,864,254"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="879,195,926,205,920,206,879,200"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="622,348,688,351,682,351,623,353"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a1bab4ed87a4c20635ebf4350653cb26d.html#a1bab4ed87a4c20635ebf4350653cb26d" title="Linear trend slope across a span." alt="" coords="709,405,863,467"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="623,375,697,404,692,404,622,381"/>
+</map>

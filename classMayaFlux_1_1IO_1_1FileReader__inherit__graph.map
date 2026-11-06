@@ -1,0 +1,17 @@
+<map id="MayaFlux::IO::FileReader" name="MayaFlux::IO::FileReader">
+<area shape="rect" id="Node000001" title="Abstract interface for reading various file formats into containers." alt="" coords="586,5,762,363"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1CompositeReader.html" title="Typed FileReader boundary for schema&#45;bearing Composite data." alt="" coords="5,600,226,941"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="571,216,492,246,403,288,359,314,316,343,276,376,241,412,209,455,184,503,164,552,148,601,143,600,158,550,179,500,205,452,236,409,272,372,313,339,356,309,401,283,490,241,574,212"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1ImageReader.html" title="File reader for image formats (PNG, JPG, BMP, TGA, etc.)." alt="" coords="251,545,442,997"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="574,269,513,335,483,373,457,412,424,477,399,546,394,544,419,475,452,409,479,370,509,332,577,265"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1ModelReader.html" title="Assimp&#45;backed loader for 3D model files." alt="" coords="466,578,656,963"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="638,375,601,579,596,578,636,380"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1SoundFileReader.html" title="FFmpeg&#45;based audio file reader for MayaFlux." alt="" coords="681,413,895,1128"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="712,375,721,414,716,413,711,380"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1VideoFileReader.html" title="Streaming FFmpeg&#45;based video file reader with background decode." alt="" coords="918,411,1129,1131"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="773,260,846,329,879,368,909,409,921,431,916,431,904,412,875,371,842,332,774,265"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1VolumeReader.html" title="tinyvdb&#45;backed loader for volumetric grid files." alt="" coords="1153,567,1353,974"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="776,207,866,235,964,277,1013,304,1060,334,1104,369,1143,409,1170,444,1191,484,1224,568,1218,567,1187,486,1165,447,1139,412,1101,373,1057,339,1010,308,962,282,864,240,778,212"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader.html" title="Incremental CSV and TSV reader producing CompositeArray values." alt="" coords="18,1179,214,1754"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,953,118,1179,113,1179,115,959"/>
+</map>

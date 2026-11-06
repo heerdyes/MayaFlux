@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kakshya::RegionProcessorBase::on_attach" name="MayaFlux::Kakshya::RegionProcessorBase::on_attach">
+<area shape="rect" id="Node000001" title="Attach this processor to a signal source container." alt="" coords="5,91,167,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a20574208db40f323df3cf6ac9178ca79.html#a20574208db40f323df3cf6ac9178ca79" title="Organize container data into structured regions." alt="" coords="215,91,404,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,119,201,121,196,122,168,124"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a8b4b4bbc9aa5c99444e8a1a27ab6c374.html#a8b4b4bbc9aa5c99444e8a1a27ab6c374" title="Advance position according to memory layout and looping." alt="" coords="480,5,641,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,88,468,68,463,69,403,93"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a29b649c1806d006bfd1172e19eadf6f1.html#a29b649c1806d006bfd1172e19eadf6f1" title="Cache a region&#39;s data if beneficial and not already cached." alt="" coords="468,91,654,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="404,119,455,121,449,122,405,124"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a8d67fba8bb619b5bc20a8c271440973a.html#a8d67fba8bb619b5bc20a8c271440973a" title="Ensure output data is properly dimensioned for region extraction." alt="" coords="452,176,669,238"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="403,150,456,171,451,170,402,156"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1RegionSegment_a4b1f6f95db006ac5486f391f1f23a957.html#a4b1f6f95db006ac5486f391f1f23a957" title="Get the total number of elements in the segment." alt="" coords="717,91,908,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="654,119,704,121,699,122,655,124"/>
+</map>

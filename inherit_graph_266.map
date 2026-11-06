@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classMayaFlux_1_1IO_1_1FileReader.html" title="Abstract interface for reading various file formats into containers." alt="" coords="5,144,190,172"/>
+<area shape="rect" id="Node000001" href="$classMayaFlux_1_1IO_1_1CompositeReader.html" title="Typed FileReader boundary for schema&#45;bearing Composite data." alt="" coords="238,14,469,42"/>
+<area shape="poly" id="edge92_Node000000_Node000001" title=" " alt="" coords="123,132,173,90,237,52,273,41,269,44,239,57,176,95,127,135"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1ImageReader.html" title="File reader for image formats (PNG, JPG, BMP, TGA, etc.)." alt="" coords="252,66,454,94"/>
+<area shape="poly" id="edge94_Node000000_Node000003" title=" " alt="" coords="146,136,237,104,286,93,282,95,238,109,148,141"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1ModelReader.html" title="Assimp&#45;backed loader for 3D model files." alt="" coords="253,118,454,146"/>
+<area shape="poly" id="edge95_Node000000_Node000004" title=" " alt="" coords="204,145,255,141,250,143,206,150"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1SoundFileReader.html" title="FFmpeg&#45;based audio file reader for MayaFlux." alt="" coords="241,170,466,198"/>
+<area shape="poly" id="edge96_Node000000_Node000005" title=" " alt="" coords="205,166,243,172,238,173,206,172"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1VideoFileReader.html" title="Streaming FFmpeg&#45;based video file reader with background decode." alt="" coords="243,222,464,250"/>
+<area shape="poly" id="edge97_Node000000_Node000006" title=" " alt="" coords="149,175,238,206,287,221,281,222,237,212,148,181"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1VolumeReader.html" title="tinyvdb&#45;backed loader for volumetric grid files." alt="" coords="248,274,458,302"/>
+<area shape="poly" id="edge98_Node000000_Node000007" title=" " alt="" coords="126,180,177,221,239,259,274,273,269,273,237,263,173,225,124,185"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader.html" title="Incremental CSV and TSV reader producing CompositeArray values." alt="" coords="517,5,723,50"/>
+<area shape="poly" id="edge93_Node000001_Node000002" title=" " alt="" coords="484,25,519,27,514,28,485,30"/>
+</map>

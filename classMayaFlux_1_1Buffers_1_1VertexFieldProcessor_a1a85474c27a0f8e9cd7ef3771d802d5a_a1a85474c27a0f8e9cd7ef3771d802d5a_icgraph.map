@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::VertexFieldProcessor::ensure_cluster_binding" name="MayaFlux::Buffers::VertexFieldProcessor::ensure_cluster_binding">
+<area shape="rect" id="Node000001" title="Ensure the backing hash_cluster_id state field exists, when m_needs_cluster_id is true." alt="" coords="416,48,595,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VertexFieldProcessor_ad5b0cf59f3eda943fa77e87d62ba7830.html#ad5b0cf59f3eda943fa77e87d62ba7830" title="Called when this processor is attached to a buffer." alt="" coords="211,5,368,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,58,369,54,369,49,404,58"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VertexFieldProcessor_ab6f4a8e2f483583ddda5b78f6ebc8b48.html#ab6f4a8e2f483583ddda5b78f6ebc8b48" title="Recompile and rebuild the pipeline when the operator has changed." alt="" coords="211,91,368,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="403,99,369,109,368,103,398,100"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VertexFieldProcessor_a1b40eb331f5f050b3034fe50c36aa90f.html#a1b40eb331f5f050b3034fe50c36aa90f" title="Rebuild on a stale revision, resolve the range, write push constants." alt="" coords="5,91,163,152"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,122,163,124,163,119,198,121"/>
+</map>

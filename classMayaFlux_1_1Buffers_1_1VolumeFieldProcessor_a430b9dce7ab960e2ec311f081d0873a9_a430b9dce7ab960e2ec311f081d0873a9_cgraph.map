@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::VolumeFieldProcessor::size_dispatch" name="MayaFlux::Buffers::VolumeFieldProcessor::size_dispatch">
+<area shape="rect" id="Node000001" title="Size the manual dispatch to cover the lattice." alt="" coords="5,91,170,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_ad0a4f166e8f9ed24f91e590f737a717f.html#ad0a4f166e8f9ed24f91e590f737a717f" title="Set dispatch mode." alt="" coords="218,5,389,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,88,212,72,207,75,168,93"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_adaaeab4489b75f391e28461fe22613ba.html#adaaeab4489b75f391e28461fe22613ba" title="Set manual dispatch group counts." alt="" coords="218,91,389,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,119,205,121,200,122,171,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_a2776695f20a3c672920a889373444840.html#a2776695f20a3c672920a889373444840" title="Set workgroup size (should match shader local_size)." alt="" coords="218,176,389,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,150,212,169,207,170,167,155"/>
+</map>

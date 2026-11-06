@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::CompositeGeometryBuffer" name="MayaFlux::Buffers::CompositeGeometryBuffer">
+<area shape="rect" id="Node000001" title="Buffer for aggregating multiple geometry nodes with independent topologies." alt="" coords="5,1329,227,1787"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBuffer.html" title="Vulkan&#45;backed buffer wrapper used in processing chains." alt="" coords="8,503,224,1281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,1293,119,1329,114,1329,116,1298"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1Buffer.html" title="Backend&#45;agnostic interface for sequential data storage and transformation." alt="" coords="8,143,224,455"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,468,119,504,114,503,116,473"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="42,5,191,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,107,119,143,114,143,116,112"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::DataWriteProcessor::DataWriteProcessor" name="MayaFlux::Buffers::DataWriteProcessor::DataWriteProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="212,219,370,280"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1DataWriteProcessor_a4b8e9083915e9cadd03b223d4e707c59.html#a4b8e9083915e9cadd03b223d4e707c59" title="Write a raw back_buffers slot of the attached buffer." alt="" coords="5,5,164,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,206,219,144,192,111,162,81,150,70,148,65,165,77,196,107,224,140,267,205"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1DataWriteProcessor_a4c1c579523d74e1c47352ea869ecc1ba.html#a4c1c579523d74e1c47352ea869ecc1ba" title="Write bytes into another VKBuffer, such as a plain descriptor&#45;bound buffer." alt="" coords="5,91,164,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,211,162,166,145,155,144,150,165,162,236,209"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1DataWriteProcessor_aff63e4d93c1c7e71233a001f5d0c32cd.html#aff63e4d93c1c7e71233a001f5d0c32cd" title="Write a named field of the attached buffer." alt="" coords="5,176,164,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,231,165,226,163,221,199,229"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1DataWriteProcessor_ad31ff1ebee30e024f19ba2042fdf0cd0.html#ad31ff1ebee30e024f19ba2042fdf0cd0" title="Write mesh geometry to the attached buffer&#39;s authoritative copy." alt="" coords="5,261,164,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="194,270,165,278,163,273,199,267"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1DataWriteProcessor_ad1385705ade5cf409ba684d36104f760.html#ad1385705ade5cf409ba684d36104f760" title="Write the retained host pixels of the attached TextureBuffer." alt="" coords="5,347,164,408"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="231,291,165,337,146,348,143,344,162,333,235,288"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1DataWriteProcessor_a6c01707dc92a4a6bd7b6a8a05fc24774.html#a6c01707dc92a4a6bd7b6a8a05fc24774" title="Write pixels straight into the attached TextureBuffer&#39;s GPU image." alt="" coords="5,432,164,494"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="267,292,224,359,196,392,165,422,150,434,148,429,162,418,192,388,219,355,263,295"/>
+</map>

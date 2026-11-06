@@ -1,0 +1,21 @@
+<map id="MayaFlux::Yantra::TextureExecutionContext::collect_gpu_outputs" name="MayaFlux::Yantra::TextureExecutionContext::collect_gpu_outputs">
+<area shape="rect" id="Node000001" title="In CONTAINER mode: downloads the storage image at the declared output binding into a new TextureConta..." alt="" coords="5,168,195,230"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_a18cd4cb90edc64b2da0254917a13bfe3.html#a18cd4cb90edc64b2da0254917a13bfe3" title="Allocate a persistent host&#45;visible staging buffer sized for repeated streaming uploads to an image of..." alt="" coords="272,56,438,118"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,165,242,127,260,122,256,124,244,132,164,170"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a44b7365d35433ea6546b6e3a41dd481c.html#a44b7365d35433ea6546b6e3a41dd481c" title="Return the image registered at an IMAGE_STORAGE output binding." alt="" coords="243,142,467,186"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="194,183,229,180,225,183,196,188"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="257,211,453,256"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="195,209,244,217,238,219,196,214"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a16c63dcadab28e4c314ea57596bca709.html#a16c63dcadab28e4c314ea57596bca709" title="Find the declared output image slot." alt="" coords="247,280,463,325"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="161,228,244,266,263,275,258,275,242,271,160,233"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="534,5,701,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,68,521,54,516,56,439,73"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="518,91,718,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="438,93,505,101,500,102,438,98"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="768,83,969,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="718,111,755,113,750,114,719,116"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="820,81,821,72,830,63,846,58,869,56,895,59,912,69,907,68,893,64,868,61,847,63,832,68,825,75,824,84"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="515,211,720,256"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="453,231,502,233,497,234,454,236"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="570,209,569,201,577,192,593,186,618,185,645,187,662,196,657,196,643,192,618,190,594,192,580,197,574,203,575,212"/>
+</map>

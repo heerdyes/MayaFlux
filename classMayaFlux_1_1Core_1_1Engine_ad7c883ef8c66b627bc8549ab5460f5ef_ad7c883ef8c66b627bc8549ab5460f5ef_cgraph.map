@@ -1,0 +1,20 @@
+<map id="MayaFlux::Core::Engine::~Engine" name="MayaFlux::Core::Engine::~Engine">
+<area shape="rect" id="Node000001" title="Destroys the Engine instance and cleans up resources." alt="" coords="5,133,181,178"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1Engine_aeafd948b381d94be47920247d2f75115.html#aeafd948b381d94be47920247d2f75115" title="Stops all processing and performs clean shutdown." alt="" coords="229,142,436,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,153,216,155,210,156,182,158"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a2bcd2456c1f78a74fab895d79a68875c.html#a2bcd2456c1f78a74fab895d79a68875c" title="Release stored references." alt="" coords="488,64,668,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,139,479,114,484,113,385,144"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Portal_1_1System_a8029cda5b2da1fc5f068943e337fdbdb.html#a8029cda5b2da1fc5f068943e337fdbdb" title="Shutdown Portal::System and release all resources." alt="" coords="484,133,672,178"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="436,153,471,155,466,156,437,158"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Core_1_1Engine_a32079c6e0c167125b75c0b749e690597.html#a32079c6e0c167125b75c0b749e690597" title="Stops subsystems while servicing required main thread work on macOS." alt="" coords="490,203,666,247"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="384,167,484,198,479,198,384,173"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1internal_abdc2f8c3b42bcb7e0e99aae7e15a4615.html#abdc2f8c3b42bcb7e0e99aae7e15a4615" title="Accessor for the process&#45;wide Atelier." alt="" coords="731,29,911,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="668,71,718,66,713,67,669,76"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a033981bc857fb67239841a34907f1561.html#a033981bc857fb67239841a34907f1561" title=" " alt="" coords="720,99,922,143"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="669,97,708,104,703,105,669,102"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a08a096e054a0c2a721c1a399c95af469.html#a08a096e054a0c2a721c1a399c95af469" title=" " alt="" coords="970,29,1163,74"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="911,49,957,51,951,52,912,54"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_adc8bc2941915c24780f852e152d31af7.html#adc8bc2941915c24780f852e152d31af7" title=" " alt="" coords="1211,29,1392,74"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1163,49,1198,51,1193,52,1164,54"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="1257,27,1255,19,1263,10,1279,5,1302,3,1327,5,1344,14,1339,14,1326,10,1302,8,1280,10,1266,15,1261,21,1262,30"/>
+</map>

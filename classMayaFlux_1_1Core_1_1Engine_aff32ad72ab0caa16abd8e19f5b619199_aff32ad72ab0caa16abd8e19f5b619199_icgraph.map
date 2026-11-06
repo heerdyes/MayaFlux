@@ -1,0 +1,15 @@
+<map id="MayaFlux::Core::Engine::get_stochastic_engine" name="MayaFlux::Core::Engine::get_stochastic_engine">
+<area shape="rect" id="Node000001" title="Gets the stochastic signal generator engine." alt="" coords="471,144,646,189"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_a97a41796092aa7d4688d2ee9ed29a1dc.html#a97a41796092aa7d4688d2ee9ed29a1dc" title="Get reference to the default random engine." alt="" coords="252,144,423,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,167,424,169,423,164,458,166"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_a390f4bedf12afa8fbdc6637ddc96620a.html#a390f4bedf12afa8fbdc6637ddc96620a" title="Generates a Brownian motion value." alt="" coords="14,5,195,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,134,254,99,202,65,180,53,179,48,205,60,258,95,303,133"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_ab3f5eda72cdff8f36ecfbdd9afad0e75.html#ab3f5eda72cdff8f36ecfbdd9afad0e75" title="Generates an exponential random number." alt="" coords="5,75,204,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,140,182,123,182,117,248,138"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_a2aa8cde8e8a40fea6a82c65356fa50fb.html#a2aa8cde8e8a40fea6a82c65356fa50fb" title="Generates a gaussian (normal) random number." alt="" coords="15,144,194,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="234,167,195,169,194,164,239,165"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_a6d76c1657f091b72fe62aebe02ca575d.html#a6d76c1657f091b72fe62aebe02ca575d" title="Generates a poisson random number." alt="" coords="19,213,190,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="243,195,183,215,181,210,248,192"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_a8969856c48c84fe3db8145c202328672.html#a8969856c48c84fe3db8145c202328672" title="Generates a uniform random number." alt="" coords="18,283,191,327"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="303,198,258,238,205,273,180,284,178,280,202,268,254,234,298,201"/>
+</map>

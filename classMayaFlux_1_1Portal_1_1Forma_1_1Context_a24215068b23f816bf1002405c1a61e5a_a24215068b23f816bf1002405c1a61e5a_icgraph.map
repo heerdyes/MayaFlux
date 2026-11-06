@@ -1,0 +1,17 @@
+<map id="MayaFlux::Portal::Forma::Context::wire_drag" name="MayaFlux::Portal::Forma::Context::wire_drag">
+<area shape="rect" id="Node000001" title="Register a drag handler receiving only the cursor position." alt="" coords="717,144,898,189"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_afe922a07ca998f1e8a4a280bf879c46e.html#afe922a07ca998f1e8a4a280bf879c46e" title="Register a drag handler writing a projected cursor position to state." alt="" coords="489,144,669,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="699,167,670,169,669,164,705,166"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_aaffec53482614041489673a30c5fbf06.html#aaffec53482614041489673a30c5fbf06" title="Produce a Form::wire that registers a drag writing a projected cursor position." alt="" coords="261,144,441,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="471,167,442,169,441,164,476,166"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_acaa5ff3c6a6e38495d474104c17ecc84.html#acaa5ff3c6a6e38495d474104c17ecc84" title="Geometry function for a horizontal fader in NDC space." alt="" coords="5,5,213,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="311,134,266,99,211,65,187,53,186,48,214,60,269,95,316,134"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_ac8f8eb20d142ea566f2c0dd725831058.html#ac8f8eb20d142ea566f2c0dd725831058" title="Geometry function for a 2D position picker in NDC space." alt="" coords="9,75,209,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="254,140,190,123,189,117,259,138"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_a710eeb343ab712b1b4a469fc520c3294.html#a710eeb343ab712b1b4a469fc520c3294" title="Geometry function for a radial indicator in NDC space." alt="" coords="19,144,199,189"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="243,167,200,169,199,164,248,165"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_a94abc30494c411dcb42a81174bcf28c1.html#a94abc30494c411dcb42a81174bcf28c1" title="Geometry function for a value scrubber along an arbitrary polyline." alt="" coords="17,213,201,258"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="254,195,191,215,189,210,259,192"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1Geometry_a206d0f38a20e294215a75b9c3921ba77.html#a206d0f38a20e294215a75b9c3921ba77" title="Geometry function for a vertical fader in NDC space." alt="" coords="13,283,205,327"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="316,198,269,238,214,273,188,285,186,280,211,268,266,233,311,200"/>
+</map>

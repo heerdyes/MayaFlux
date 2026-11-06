@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::BufferAccessControl::remove_buffer" name="MayaFlux::Buffers::BufferAccessControl::remove_buffer">
+<area shape="rect" id="Node000001" title="Removes a buffer from a token (dispatches based on token type)." alt="" coords="5,48,158,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferAccessControl_a6c85a3347f55dc148d6e8d86deffd23d.html#a6c85a3347f55dc148d6e8d86deffd23d" title="Removes an audio buffer from a token and channel." alt="" coords="215,5,382,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,61,202,54,198,57,159,66"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferAccessControl_af653b66ca482f1608d848644b5472f27.html#af653b66ca482f1608d848644b5472f27" title="Removes a graphics buffer from a token." alt="" coords="206,91,392,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,91,193,100,188,101,158,96"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="457,52,623,114"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,104,444,98,439,99,393,109"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="440,138,640,182"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="393,134,427,142,422,142,392,139"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="688,129,889,191"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="641,158,676,160,670,160,641,163"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="740,127,741,119,750,110,766,105,789,103,815,105,832,115,827,115,813,111,788,108,767,110,753,115,746,121,744,131"/>
+</map>

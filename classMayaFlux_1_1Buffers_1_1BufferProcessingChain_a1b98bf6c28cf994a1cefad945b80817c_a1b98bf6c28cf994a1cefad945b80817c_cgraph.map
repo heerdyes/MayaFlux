@@ -1,0 +1,25 @@
+<map id="MayaFlux::Buffers::BufferProcessingChain::process_complete" name="MayaFlux::Buffers::BufferProcessingChain::process_complete">
+<area shape="rect" id="Node000001" title="Applies preprocessors, processing chain, post processors and final processors sequentially to a buffe..." alt="" coords="5,133,173,195"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_ac9aa6d5e80eb500bc9d6c7f8aab2efe2.html#ac9aa6d5e80eb500bc9d6c7f8aab2efe2" title="Applies the postprocessor to a buffer." alt="" coords="221,5,388,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,131,219,77,229,73,226,77,222,81,137,135"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a5c55c0ccf9ea289065ef17d5d70ae412.html#a5c55c0ccf9ea289065ef17d5d70ae412" title="Applies the preprocessor to a buffer." alt="" coords="221,91,388,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,145,207,139,203,143,175,150"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a23d4172a12da9ea88c8487ff720c824d.html#a23d4172a12da9ea88c8487ff720c824d" title="Applies the transformation pipeline to a buffer with intelligent execution." alt="" coords="221,176,388,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,178,207,186,203,188,174,183"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_aef03e6bad560939aaebd406607c7676b.html#aef03e6bad560939aaebd406607c7676b" title="Applies the final processor to a buffer with guaranteed execution." alt="" coords="221,261,388,323"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="136,193,222,247,230,253,225,254,219,252,135,198"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Buffers_a38e5853247532e5155b787a4d89b20cb.html#a38e5853247532e5155b787a4d89b20cb" title="Determines if two processing tokens are compatible for joint execution." alt="" coords="970,167,1142,212"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,173,436,162,505,153,576,148,717,149,847,158,957,173,952,174,847,163,717,154,576,154,505,158,436,167,390,178"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_aac98ea3bb4f2cdf37b341a7226caa779.html#aac98ea3bb4f2cdf37b341a7226caa779" title="Validates the processing token against the chain&#39;s preferred token." alt="" coords="436,176,653,238"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="387,204,423,206,418,208,389,209"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_ab06548041e8f068a9d83945bcac22a90.html#ab06548041e8f068a9d83945bcac22a90" title="Process pending processor operations." alt="" coords="440,288,649,366"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="368,235,453,280,448,281,367,241"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="653,201,956,192,951,194,654,206"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_aef4792499996ee8634cf1b7ed0ee7aaa.html#aef4792499996ee8634cf1b7ed0ee7aaa" title=" " alt="" coords="728,227,895,288"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="649,297,715,282,710,284,650,302"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_a46d8239850f11d0ec31e275232bb011c.html#a46d8239850f11d0ec31e275232bb011c" title=" " alt="" coords="701,313,922,392"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="649,334,689,340,683,340,649,339"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1BufferProcessingChain_ac7fd9f1f3cf9d993aac0a4d64b1601b0.html#ac7fd9f1f3cf9d993aac0a4d64b1601b0" title=" " alt="" coords="715,416,908,478"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="625,364,702,400,719,410,714,409,700,405,624,369"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="895,232,956,217,961,216,896,237"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="MayaFlux::IO::FFmpegDemuxContext::get_stream" name="MayaFlux::IO::FFmpegDemuxContext::get_stream">
+<area shape="rect" id="Node000001" title="Access a stream by index." alt="" coords="512,253,727,298"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1AudioStreamContext_a4b938afaa6d45fcec58c73bced15601f.html#a4b938afaa6d45fcec58c73bced15601f" title="Extract cue/marker regions from stream metadata tags." alt="" coords="253,5,464,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="599,239,576,200,545,152,507,105,462,64,444,53,444,48,466,60,511,101,550,149,581,197,604,240"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a103620ec4ab0c6e205ee3e94cb6cdbfd.html#a103620ec4ab0c6e205ee3e94cb6cdbfd" title="Extract keyframe positions as FileRegion entries." alt="" coords="259,74,458,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="582,242,528,197,463,150,443,139,443,134,465,145,532,193,587,242"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1AudioStreamContext_a89d6e45b6d92e06c2a75e1f87a16235f.html#a89d6e45b6d92e06c2a75e1f87a16235f" title="Populate stream&#45;specific fields into an existing FileMetadata." alt="" coords="259,160,458,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="532,249,455,224,455,219,537,247"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a55ac22d44ea9f219c780bfc1938a4d0c.html#a55ac22d44ea9f219c780bfc1938a4d0c" title="Populate stream&#45;specific fields into an existing FileMetadata." alt="" coords="259,245,458,306"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="494,276,459,278,458,273,499,275"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1AudioStreamContext_a463593071a0c4d4e507166a78a43ff45.html#a463593071a0c4d4e507166a78a43ff45" title="Open the audio stream from an already&#45;probed demux context." alt="" coords="259,331,458,375"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="525,304,437,333,435,328,530,302"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_afc3578ec70340ca93f0e5871e58f9356.html#afc3578ec70340ca93f0e5871e58f9356" title="Open the video stream from an already&#45;probed demux context." alt="" coords="259,400,458,445"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="583,307,529,351,465,390,439,402,437,397,463,385,526,347,578,309"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a05609c7f47345d8bc63c9f95c6906e99.html#a05609c7f47345d8bc63c9f95c6906e99" title="Open codec only, without initialising the SwsContext scaler." alt="" coords="259,469,458,514"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="599,310,544,387,507,426,465,459,443,471,442,466,463,455,503,422,540,383,594,313"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1AudioStreamContext_a3fadcf1560c64189da1c5a62d299a373.html#a3fadcf1560c64189da1c5a62d299a373" title=" " alt="" coords="5,331,205,375"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="241,354,206,356,204,350,246,352"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a5a5ad532a1f914770743a203e766c9d7.html#a5a5ad532a1f914770743a203e766c9d7" title=" " alt="" coords="5,435,205,479"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="241,439,206,446,204,441,246,437"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="241,476,205,473,205,468,246,476"/>
+</map>

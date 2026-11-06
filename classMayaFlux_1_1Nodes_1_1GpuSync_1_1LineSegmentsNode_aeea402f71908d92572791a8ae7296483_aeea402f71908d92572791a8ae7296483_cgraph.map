@@ -1,0 +1,15 @@
+<map id="MayaFlux::Nodes::GpuSync::LineSegmentsNode::LineSegmentsNode" name="MayaFlux::Nodes::GpuSync::LineSegmentsNode::LineSegmentsNode">
+<area shape="rect" id="Node000001" title="Construct an empty segment accumulator." alt="" coords="5,143,295,187"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a35c3aa5d9780535ccc1391e60789260c.html#a35c3aa5d9780535ccc1391e60789260c" title="Factory: layout for LineVertex (position, color, thickness, uv, normal, tangent)." alt="" coords="717,5,888,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,139,702,46,701,51,261,145"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1PathGeneratorNode_a3d7dbfa965115dd6284a5e96cb20e180.html#a3d7dbfa965115dd6284a5e96cb20e180" title="Create path generator with interpolation mode." alt="" coords="343,143,634,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,162,330,164,325,166,296,168"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a79b8530548d0f4b4c464071439faaac5.html#a79b8530548d0f4b4c464071439faaac5" title="Set cached vertex layout." alt="" coords="703,245,902,306"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="276,185,343,197,689,255,685,259,342,202,276,191"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="526,140,596,100,681,60,700,56,705,54,683,65,599,105,528,145"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a139436030274491d41f40afdaab1037b.html#a139436030274491d41f40afdaab1037b" title="Constructor." alt="" coords="682,74,923,136"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="608,139,670,130,664,131,609,145"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="555,185,702,239,697,240,554,191"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_ae5284939e0d0c2d570576488644f8068.html#ae5284939e0d0c2d570576488644f8068" title="Set vertex stride (bytes per vertex)." alt="" coords="703,160,902,221"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="634,174,690,181,685,181,635,179"/>
+</map>

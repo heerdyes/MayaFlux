@@ -1,0 +1,21 @@
+<map id="MayaFlux::Kakshya::SoundStreamContainer::get_region_group_data" name="MayaFlux::Kakshya::SoundStreamContainer::get_region_group_data">
+<area shape="rect" id="Node000001" title="Get data for multiple regions efficiently." alt="" coords="5,101,184,162"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_a9067f5302f1f4f03726d405bec6e971d.html#a9067f5302f1f4f03726d405bec6e971d" title="Extract data for multiple regions from multi&#45;channel source data." alt="" coords="239,71,396,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,114,226,108,221,110,185,119"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a2321cbc62aa5f61be7f780c2c8735fcc.html#a2321cbc62aa5f61be7f780c2c8735fcc" title="Get the cached spans for each channel, recomputing if dirty." alt="" coords="232,140,403,201"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="184,145,219,153,214,153,184,150"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_aae6a6e0c3cb0bad70acafc465c1ac867.html#aae6a6e0c3cb0bad70acafc465c1ac867" title="Extract a region of data from a flat data span using a Region and dimension info." alt="" coords="451,71,608,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,90,438,93,433,93,396,96"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kakshya_a11d6fefbc337609345969f80012578d0.html#a11d6fefbc337609345969f80012578d0" title="Convert N&#45;dimensional coordinates to a linear index for interleaved data." alt="" coords="656,5,818,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="602,68,647,56,652,54,603,73"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1Region_a872fb07c970339241d47d9afebae5e41.html#a872fb07c970339241d47d9afebae5e41" title="Get the total volume (number of elements) in the region." alt="" coords="658,75,816,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="609,92,645,95,640,95,609,97"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1Region_a7bd0f533faffde4edf348e70202065f8.html#a7bd0f533faffde4edf348e70202065f8" title="Get the span (length) of the region along a dimension." alt="" coords="874,75,1031,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="816,94,861,97,855,97,816,100"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kakshya_ab3b458f6c92031a38b8eb820d6d3324d.html#ab3b458f6c92031a38b8eb820d6d3324d" title="Get const span from DataVariant without conversion (zero&#45;copy for matching types)." alt="" coords="451,148,608,193"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="403,168,438,170,432,170,403,173"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="658,148,816,193"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="609,168,645,170,640,170,609,173"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="866,148,1039,193"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="816,168,853,170,847,170,816,173"/>
+</map>

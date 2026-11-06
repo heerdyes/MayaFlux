@@ -1,0 +1,12 @@
+<map id="MayaFlux::Kriya::subscribe" name="MayaFlux::Kriya::subscribe">
+<area shape="rect" id="Node000001" title="Call callback with every value source signals, registered on events." alt="" coords="469,108,666,135"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a7be3e502a880c68b8fbc402b4a853884.html#a7be3e502a880c68b8fbc402b4a853884" title="Subscribe consumer and start the producer named name, which stops the run at source&#39;s end,..." alt="" coords="240,99,421,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="451,122,422,124,421,119,456,121"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="367,84,354,80,330,78,309,80,295,84,290,91,291,100,286,97,285,89,292,80,308,75,330,73,355,75,372,84"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a4f3ca2f99963e36a9f19241e3ab27441.html#a4f3ca2f99963e36a9f19241e3ab27441" title="process_to_buffer() with a matrix the caller made and configured, such as its extractor&#39;s sizes,..." alt="" coords="5,5,192,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,94,184,70,184,65,256,92"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a65f5e261b0f415a8d3b8c59fe7394d7d.html#a65f5e261b0f415a8d3b8c59fe7394d7d" title="process_to_live_container() with a matrix the caller made and configured." alt="" coords="5,91,192,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="221,122,193,124,192,119,226,121"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_acbdbb0e51aaedb8f13609d7ec76fd5d9.html#acbdbb0e51aaedb8f13609d7ec76fd5d9" title="Run config&#39;s matrix on its source live and return a Chimera builder over a new layer array,..." alt="" coords="5,176,192,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="256,149,185,178,183,173,251,151"/>
+</map>

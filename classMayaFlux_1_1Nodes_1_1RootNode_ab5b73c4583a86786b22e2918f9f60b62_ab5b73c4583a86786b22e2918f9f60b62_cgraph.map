@@ -1,0 +1,16 @@
+<map id="MayaFlux::Nodes::RootNode::process_batch_frame" name="MayaFlux::Nodes::RootNode::process_batch_frame">
+<area shape="rect" id="Node000001" title="Processes multiple frames from all registered nodes." alt="" coords="5,75,212,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1RootNode_a4e2e056d21673261a19294c42b11cb65.html#a4e2e056d21673261a19294c42b11cb65" title="Processes a single frame from all registered nodes." alt="" coords="260,75,466,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,94,247,96,242,98,213,100"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nodes_a2b661b58f860423fa6cf1d12c5accbd8.html#a2b661b58f860423fa6cf1d12c5accbd8" title="Atomically adds a flag to a node state." alt="" coords="524,5,711,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,71,516,55,521,54,448,77"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1RootNode_acec33201d108cfd668b329d7dc75f6f4.html#acec33201d108cfd668b329d7dc75f6f4" title="Performs post&#45;processing after all nodes have been processed." alt="" coords="514,75,720,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="466,94,501,97,496,97,467,100"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1RootNode_a54874a3f0e12685053005d562588f7cc.html#a54874a3f0e12685053005d562588f7cc" title="Checks if the root node can process pending operations." alt="" coords="514,144,720,189"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="448,117,521,140,516,139,447,123"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1RootNode_a1a20847a779ea2b4d3f22f3b50e8dbc5.html#a1a20847a779ea2b4d3f22f3b50e8dbc5" title="Processes any pending node registration/unregistration operations." alt="" coords="768,109,983,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="721,108,756,115,750,115,721,114"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Nodes_a8abc7b8f33819075e738d5ed027bd9ec.html#a8abc7b8f33819075e738d5ed027bd9ec" title="Atomically sets a node state flag to a specific value." alt="" coords="1031,109,1218,154"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="983,129,1018,132,1013,132,983,134"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="720,150,750,148,755,148,721,155"/>
+</map>

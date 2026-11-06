@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::extract_processed_data" name="MayaFlux::Kakshya::extract_processed_data">
+<area shape="rect" id="Node000001" title="Extract one channel&#39;s samples from a processed dynamic data block." alt="" coords="542,184,718,229"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1SoundStreamReader_a561ff0506f9cf67a9a28221bc426e707.html#a561ff0506f9cf67a9a28221bc426e707" title="Extract channel data from the container into the output buffer." alt="" coords="286,112,494,174"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,180,494,173,494,168,532,180"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_aeb52c4588f37dd76af5a2e8cb3722717.html#aeb52c4588f37dd76af5a2e8cb3722717" title="The core processing function that must be implemented by derived classes." alt="" coords="309,219,471,280"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="524,226,472,238,471,232,529,225"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1SoundStreamReader_afb14ab367d042a432f87df7f1be453ff.html#afb14ab367d042a432f87df7f1be453ff" title="Analyze the container&#39;s dimensions and update mapping info." alt="" coords="15,5,228,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,106,237,81,209,70,208,65,239,76,305,105"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1SoundStreamReader_ab6a94c7681a0c71da55d99b23e6b344e.html#ab6a94c7681a0c71da55d99b23e6b344e" title="Attach the adapter to an AudioBuffer." alt="" coords="32,91,211,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="268,134,212,131,210,126,272,132"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1SoundStreamReader_ad4011fce560f9b7db87e6e98d351d670.html#ad4011fce560f9b7db87e6e98d351d670" title="Extracts and processes data from the container into the target AudioBuffer." alt="" coords="5,176,238,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="268,172,239,182,237,177,273,170"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_ab3e442f703e8ad48c38f065fb186ca1e.html#ab3e442f703e8ad48c38f065fb186ca1e" title=" " alt="" coords="31,261,212,323"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="290,265,213,280,212,275,296,264"/>
+</map>

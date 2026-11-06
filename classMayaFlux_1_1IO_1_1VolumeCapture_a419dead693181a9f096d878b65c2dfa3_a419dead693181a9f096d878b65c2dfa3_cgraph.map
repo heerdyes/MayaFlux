@@ -1,0 +1,14 @@
+<map id="MayaFlux::IO::VolumeCapture::capture_frame" name="MayaFlux::IO::VolumeCapture::capture_frame">
+<area shape="rect" id="Node000001" title="One frame&#39;s readback and write." alt="" coords="5,69,221,114"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1IO_ab10ae94f4c8e87f07a69e27630596c20.html#ab10ae94f4c8e87f07a69e27630596c20" title="Download named fields from a GPU&#45;resident volume into host VolumeData." alt="" coords="269,35,447,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,74,256,71,251,72,222,79"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1IO_a7a8c537450f6ce9496ebbd1d5886cddb.html#a7a8c537450f6ce9496ebbd1d5886cddb" title="Substitute a frame index into a numbered output pattern." alt="" coords="276,104,440,149"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="221,104,263,112,258,113,221,110"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_ad18c3092c8a26b207df1a6ff8ad8bbef.html#ad18c3092c8a26b207df1a6ff8ad8bbef" title="Cells in the lattice, which every field&#39;s element_count() must equal." alt="" coords="737,5,913,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,31,495,20,612,13,724,18,719,19,612,18,495,25,436,37"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1VolumeData_a6eb5ed3d17b6580cc64d6a94088f8b5a.html#a6eb5ed3d17b6580cc64d6a94088f8b5a" title="Check that every field is densely populated over the lattice." alt="" coords="495,35,689,79"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="447,54,482,57,477,57,448,60"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="689,42,725,40,719,41,690,47"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1IO_af70273974a6d4e868b4c016d2f944547.html#af70273974a6d4e868b4c016d2f944547" title="Resolve a writable path against the configured output directory." alt="" coords="510,104,674,149"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="439,124,498,126,492,126,440,129"/>
+</map>

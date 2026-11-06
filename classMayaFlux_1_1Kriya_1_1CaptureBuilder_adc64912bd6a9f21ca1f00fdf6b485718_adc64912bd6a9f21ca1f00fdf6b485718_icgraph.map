@@ -1,0 +1,29 @@
+<map id="MayaFlux::Kriya::CaptureBuilder::CaptureBuilder" name="MayaFlux::Kriya::CaptureBuilder::CaptureBuilder">
+<area shape="rect" id="Node000001" title="Construct builder with a buffer source." alt="" coords="564,387,750,431"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_aed380d2559a7319838372e27e1026dd8.html#aed380d2559a7319838372e27e1026dd8" title="Enable circular buffer mode with specified size." alt="" coords="311,5,497,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="649,370,636,306,612,223,594,180,572,138,546,99,514,64,498,52,497,46,518,60,550,95,577,135,599,178,617,221,641,304,654,372"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a1b9681afaced98536a33074de8865fbc.html#a1b9681afaced98536a33074de8865fbc" title="Set processing control to AUTOMATIC mode." alt="" coords="311,75,497,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="645,371,628,319,602,255,564,190,541,160,514,134,498,122,497,116,518,130,545,156,569,187,607,252,633,317,650,372"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a51c6c3566d127c1c3a40d791b90f6404.html#a51c6c3566d127c1c3a40d791b90f6404" title="Set number of cycles to capture (enables ACCUMULATE mode)." alt="" coords="311,144,497,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="638,372,619,334,591,288,556,242,514,203,497,192,496,187,518,199,560,239,595,285,623,331,643,373"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_ad268498f1d74761fb73c051f414eab78.html#ad268498f1d74761fb73c051f414eab78" title="Set processing control to MANUAL mode." alt="" coords="303,213,504,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="627,375,578,323,548,296,515,273,493,261,492,256,517,268,551,292,582,319,632,375"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a342847a0d0ce6ff90a1c000d04a83928.html#a342847a0d0ce6ff90a1c000d04a83928" title="Set processing control to ON_CAPTURE mode." alt="" coords="292,283,516,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="598,380,515,342,484,331,483,325,517,337,603,379"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_acbe6d4fb7e3ed1801a8bd83e898fc399.html#acbe6d4fb7e3ed1801a8bd83e898fc399" title="Set cycle completion callback." alt="" coords="304,352,504,397"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="546,395,505,391,504,385,551,393"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a322d9e6b66b160b67350ddb4c699ad71.html#a322d9e6b66b160b67350ddb4c699ad71" title="Set data expiration callback." alt="" coords="311,421,497,466"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="546,425,499,433,497,428,551,423"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a010bca41df27b5ee6cf40e87428fdc9b.html#a010bca41df27b5ee6cf40e87428fdc9b" title="Set data ready callback." alt="" coords="311,491,497,535"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="599,440,517,481,485,492,483,488,515,476,603,437"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a418e5ed06c3eb0854d59d2a3edb1bac3.html#a418e5ed06c3eb0854d59d2a3edb1bac3" title="Set stop condition (enables TRIGGERED mode)." alt="" coords="311,560,497,605"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="632,442,582,499,551,526,517,550,493,562,491,557,515,545,548,522,578,495,627,445"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a39c29330de125f0ba0138fb0c17f4ab9.html#a39c29330de125f0ba0138fb0c17f4ab9" title="Add metadata key&#45;value pair." alt="" coords="311,629,497,674"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="643,443,623,487,595,533,560,579,518,619,498,631,495,626,514,615,556,576,591,530,619,484,639,447"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_a7d9dcc40a50136bcfbf865202cfc7bda.html#a7d9dcc40a50136bcfbf865202cfc7bda" title="Assign identification tag." alt="" coords="311,699,497,743"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="649,444,633,501,607,566,569,631,545,662,518,688,498,701,496,696,514,684,541,658,564,628,602,563,628,499,645,448"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder_ad352f33ffd7d71d68845dc2cafbf1b07.html#ad352f33ffd7d71d68845dc2cafbf1b07" title="Configure windowed capture (enables WINDOWED mode)." alt="" coords="311,768,497,813"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="653,445,641,514,617,597,599,640,577,683,550,723,518,758,498,772,496,767,514,754,546,719,572,680,594,638,612,595,636,512,650,449"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_afa457d409778bfcf43f3ed3403ad6333.html#afa457d409778bfcf43f3ed3403ad6333" title="Create CaptureBuilder for file with fluent configuration." alt="" coords="5,283,244,327"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="274,306,245,307,243,303,278,304"/>
+</map>
