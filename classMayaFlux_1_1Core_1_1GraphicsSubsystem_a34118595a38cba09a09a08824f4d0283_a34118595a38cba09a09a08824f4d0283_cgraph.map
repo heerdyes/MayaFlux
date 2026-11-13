@@ -1,0 +1,13 @@
+<map id="MayaFlux::Core::GraphicsSubsystem::start" name="MayaFlux::Core::GraphicsSubsystem::start">
+<area shape="rect" id="Node000001" title="Start the subsystem&#39;s processing/event loops." alt="" coords="5,99,194,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a5570e0e163a26bb602d622048a29c73f.html#a5570e0e163a26bb602d622048a29c73f" title="Graphics thread main loop." alt="" coords="242,99,482,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,119,229,121,224,122,195,124"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_af7661b41b9eb2e292868aca2f7116b9a.html#af7661b41b9eb2e292868aca2f7116b9a" title="Unified processing callback (alternative to separate methods)." alt="" coords="530,99,718,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,119,517,121,512,122,483,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a28ff7831678b8f7db1ada479ad23acc5.html#a28ff7831678b8f7db1ada479ad23acc5" title="Cleanup resources for windows that have been closed." alt="" coords="773,5,975,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="691,96,765,73,770,72,692,101"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a4abeb27756b788566c82fd5f6b4c2603.html#a4abeb27756b788566c82fd5f6b4c2603" title="Register markend windows from window manager for swapchain processing." alt="" coords="766,91,982,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="719,119,753,121,748,122,719,124"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1GraphicsSubsystem_a6fdf5dfa50f9032ed8733328b2e97094.html#a6fdf5dfa50f9032ed8733328b2e97094" title="Render all registered windows." alt="" coords="780,176,968,238"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="692,142,770,171,764,170,691,147"/>
+</map>

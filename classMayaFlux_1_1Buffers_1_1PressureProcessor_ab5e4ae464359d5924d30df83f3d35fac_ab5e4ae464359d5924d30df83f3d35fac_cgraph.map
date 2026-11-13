@@ -1,0 +1,17 @@
+<map id="MayaFlux::Buffers::PressureProcessor::PressureProcessor" name="MayaFlux::Buffers::PressureProcessor::PressureProcessor">
+<area shape="rect" id="Node000001" title="Construct a pressure solve stage." alt="" coords="5,133,210,195"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_ae3eb55e4157368419502814690bdcbb4.html#ae3eb55e4157368419502814690bdcbb4" title="Register a field to swap after each dispatch." alt="" coords="268,5,432,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,131,256,76,269,73,265,76,259,81,163,135"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1PressureProcessor_af6353c04d46eb0a5d71c241e83dd0f23.html#af6353c04d46eb0a5d71c241e83dd0f23" title="Build the binding table for the two field names." alt="" coords="258,91,442,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,144,244,139,240,142,211,149"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_ab36494f34c94584e792a0016167afabc.html#ab36494f34c94584e792a0016167afabc" title="Set how many dispatches are recorded per execute cycle." alt="" coords="264,176,436,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,180,251,188,246,190,211,185"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a446fc3970b1b1b9b1c4a0a7c41000c7c.html#a446fc3970b1b1b9b1c4a0a7c41000c7c" title="Construct from a shader path." alt="" coords="264,261,436,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="162,193,259,247,269,254,264,254,256,252,161,198"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_a86eeb4e6a3c157b47da70d40a272b5d7.html#a86eeb4e6a3c157b47da70d40a272b5d7" title="Construct processor with shader path." alt="" coords="490,231,763,276"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="436,278,478,274,472,275,437,283"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a840bea096f22b9649600f67cfc106b8a.html#a840bea096f22b9649600f67cfc106b8a" title="Register the binding table into m_config.bindings." alt="" coords="544,300,709,362"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="437,302,532,317,526,317,436,307"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a157ac2a18d9be2c9e45cb345b1bedeb3.html#a157ac2a18d9be2c9e45cb345b1bedeb3" title="Construct processor with shader path." alt="" coords="811,231,1057,276"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="764,251,799,253,793,254,764,256"/>
+</map>

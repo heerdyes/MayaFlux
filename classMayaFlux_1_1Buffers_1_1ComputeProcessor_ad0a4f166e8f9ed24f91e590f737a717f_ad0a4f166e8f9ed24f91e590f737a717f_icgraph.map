@@ -1,0 +1,19 @@
+<map id="MayaFlux::Buffers::ComputeProcessor::set_dispatch_mode" name="MayaFlux::Buffers::ComputeProcessor::set_dispatch_mode">
+<area shape="rect" id="Node000001" title="Set dispatch mode." alt="" coords="543,253,714,315"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RelaxationEmitProcessor_a567c9e68c3737a738f3676b330581070.html#a567c9e68c3737a738f3676b330581070" title="Cover the grid with a 1D dispatch and write EmitParams." alt="" coords="264,5,448,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="607,239,588,202,563,159,531,117,493,81,472,67,449,57,448,52,474,63,497,77,535,113,567,156,593,199,612,240"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1RelaxationStepProcessor_a49ef6b05fb571cd521a95459fda6c2fa.html#a49ef6b05fb571cd521a95459fda6c2fa" title="Cover the grid with a 2D dispatch and write GridExtent." alt="" coords="265,91,448,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="587,242,545,203,494,166,449,146,448,141,496,162,548,199,593,242"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1SDFFieldProcessor_a2d12e9b581c7a74c7998f7e7c172060b.html#a2d12e9b581c7a74c7998f7e7c172060b" title=" " alt="" coords="253,176,460,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="525,256,460,239,460,234,531,255"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1SDFMeshProcessor_a7b902da4cd7c3ee9b065ee33dbf3c10d.html#a7b902da4cd7c3ee9b065ee33dbf3c10d" title=" " alt="" coords="218,262,495,306"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="525,285,496,287,495,282,530,283"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1SDFMeshProcessor_a4e4c266786a720161fd91e51667d4be2.html#a4e4c266786a720161fd91e51667d4be2" title="Construct in GPU&#45;field mode with externally owned buffers." alt="" coords="218,331,495,376"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="526,311,496,321,450,333,448,328,494,316,531,309"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a430b9dce7ab960e2ec311f081d0873a9.html#a430b9dce7ab960e2ec311f081d0873a9" title="Size the manual dispatch to cover the lattice." alt="" coords="274,400,438,462"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="586,324,544,361,496,391,440,413,438,408,494,386,541,356,581,327"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1VolumeSurfaceProcessor_a8f0a252a3199565aeb2382371663e1dd.html#a8f0a252a3199565aeb2382371663e1dd" title="Construct a surface extraction bridge." alt="" coords="261,485,452,547"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="609,328,564,405,533,443,497,476,453,498,451,493,493,471,529,439,560,402,605,331"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a85ff1d8555f41d205e6cf9d622cf2b74.html#a85ff1d8555f41d205e6cf9d622cf2b74" title="Cache and validate the volume, size the dispatch, write the shared parameter prefix,..." alt="" coords="5,400,170,462"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="256,432,171,433,170,428,261,430"/>
+</map>

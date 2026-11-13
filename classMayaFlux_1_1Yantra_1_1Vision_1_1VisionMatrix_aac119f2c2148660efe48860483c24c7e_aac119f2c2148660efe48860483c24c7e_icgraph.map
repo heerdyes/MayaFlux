@@ -1,0 +1,17 @@
+<map id="MayaFlux::Yantra::Vision::VisionMatrix::analyzer" name="MayaFlux::Yantra::Vision::VisionMatrix::analyzer">
+<area shape="rect" id="Node000001" title="The matrix&#39;s &quot;analyze&quot; operation." alt="" coords="464,175,645,219"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a6146dd134c8884ce21dffe7e7ef1928f.html#a6146dd134c8884ce21dffe7e7ef1928f" title="Analyze image with the matrix&#39;s query." alt="" coords="235,5,416,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="523,162,475,114,446,88,415,65,395,53,394,48,417,60,449,83,479,110,528,163"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a3101d7dc7e81dc803c325e905d8a20b8.html#a3101d7dc7e81dc803c325e905d8a20b8" title="Analyze frame index of source with the matrix&#39;s query." alt="" coords="235,75,416,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="491,168,415,134,388,123,387,117,417,129,496,167"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a2b4603c6dfe456f170ee3b23740f8e8c.html#a2b4603c6dfe456f170ee3b23740f8e8c" title="Analyze image and keep it with its analysis until the next call." alt="" coords="235,144,416,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="446,183,417,181,416,176,451,182"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a40cfb90e438c477e93b0941610a1bdc3.html#a40cfb90e438c477e93b0941610a1bdc3" title="execute() on frame index of source: a texture container&#39;s layer, or a video stream&#39;s or window&#39;s curr..." alt="" coords="5,185,187,230"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="446,201,416,204,188,209,187,203,416,198,451,200"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a820291c935e3aba7e3293b9533e6360b.html#a820291c935e3aba7e3293b9533e6360b" title="The VisionResult of the sequence that served intent in the last completed analysis,..." alt="" coords="5,275,187,319"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="449,223,188,280,186,275,449,217"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a1fa643396f51bce7e536a313e3ae0934.html#a1fa643396f51bce7e536a313e3ae0934" title="The VisionResult of every sequence the analyzer&#39;s last completed analysis ran, with each step&#39;s image..." alt="" coords="235,315,416,359"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="516,228,469,265,417,298,381,317,380,312,415,293,466,260,511,230"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,187,188,194,186,189,222,184"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="217,319,187,315,187,310,222,318"/>
+</map>

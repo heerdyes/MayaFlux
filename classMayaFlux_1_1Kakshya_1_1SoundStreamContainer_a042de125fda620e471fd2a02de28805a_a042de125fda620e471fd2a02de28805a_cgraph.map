@@ -1,0 +1,14 @@
+<map id="MayaFlux::Kakshya::SoundStreamContainer::get_data_as_double" name="MayaFlux::Kakshya::SoundStreamContainer::get_data_as_double">
+<area shape="rect" id="Node000001" title="Get the audio data as a specific type." alt="" coords="5,30,177,92"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_ab3b458f6c92031a38b8eb820d6d3324d.html#ab3b458f6c92031a38b8eb820d6d3324d" title="Get const span from DataVariant without conversion (zero&#45;copy for matching types)." alt="" coords="444,5,601,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,27,224,16,277,10,330,8,431,15,426,17,330,14,277,15,225,21,177,32"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a2321cbc62aa5f61be7f780c2c8735fcc.html#a2321cbc62aa5f61be7f780c2c8735fcc" title="Get the cached spans for each channel, recomputing if dirty." alt="" coords="225,30,396,92"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="176,58,212,60,206,62,177,64"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kakshya_aabeece17084e84e555c71c127aa66eb2.html#aabeece17084e84e555c71c127aa66eb2" title="Interleave multiple channels of data into a single vector." alt="" coords="232,116,389,161"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="177,88,233,110,228,111,176,94"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="649,5,807,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="602,25,636,27,631,28,602,30"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="855,5,1028,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="807,25,842,27,837,28,807,30"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="396,45,431,42,426,43,397,50"/>
+</map>

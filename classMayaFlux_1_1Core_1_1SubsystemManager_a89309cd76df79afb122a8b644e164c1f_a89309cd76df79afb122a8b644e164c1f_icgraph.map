@@ -1,0 +1,15 @@
+<map id="MayaFlux::Core::SubsystemManager::add_subsystem" name="MayaFlux::Core::SubsystemManager::add_subsystem">
+<area shape="rect" id="Node000001" title="Register a subsystem instance with the manager." alt="" coords="625,160,828,205"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1SubsystemManager_ad3274605a8bf26aa13fa0a2c0f8a328f.html#ad3274605a8bf26aa13fa0a2c0f8a328f" title="Internal template method for type&#45;safe subsystem creation." alt="" coords="337,113,542,174"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="607,167,542,160,542,155,613,166"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1SubsystemManager_ad5f0fce118ae278a6fe79ec9ef12a8ad.html#ad5f0fce118ae278a6fe79ec9ef12a8ad" title="Get all currently active subsystem types." alt="" coords="302,199,577,243"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="607,198,578,205,577,200,612,198"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1SubsystemManager_af1b9059fad626ad6caf179c5cedc588c.html#af1b9059fad626ad6caf179c5cedc588c" title="Create and register the audio subsystem." alt="" coords="5,5,254,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,107,253,65,218,53,217,48,255,60,361,105"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1SubsystemManager_a3c26766f19f4239bb258fbe2e59192b7.html#a3c26766f19f4239bb258fbe2e59192b7" title="Create and register the graphics subsystem." alt="" coords="28,74,231,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="319,130,232,120,231,115,324,128"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1SubsystemManager_af5b4df2235859062691518561790ceb3.html#af5b4df2235859062691518561790ceb3" title="Create and register the input subsystem." alt="" coords="7,160,252,205"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="319,159,253,170,252,164,324,157"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1SubsystemManager_a983a7bbaa7150764406a28eadccc70f4.html#a983a7bbaa7150764406a28eadccc70f4" title="Create and register the network subsystem." alt="" coords="28,229,231,290"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="325,176,303,189,279,204,255,219,229,231,227,226,252,215,276,199,300,184,320,178"/>
+</map>

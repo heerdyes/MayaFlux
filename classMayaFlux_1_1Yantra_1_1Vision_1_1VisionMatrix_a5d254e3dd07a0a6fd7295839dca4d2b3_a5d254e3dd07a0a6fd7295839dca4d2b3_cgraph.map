@@ -1,0 +1,19 @@
+<map id="MayaFlux::Yantra::Vision::VisionMatrix::VisionMatrix" name="MayaFlux::Yantra::Vision::VisionMatrix::VisionMatrix">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,207,154"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1ComputeMatrix_a6f9c36b162d119a9ea0ded37b6e1d57e.html#a6f9c36b162d119a9ea0ded37b6e1d57e" title="Create and add an operation to this matrix." alt="" coords="255,75,455,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,115,242,112,237,114,208,120"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a9396645f14a650024aa7724c52cda201.html#a9396645f14a650024aa7724c52cda201" title="Extract from image with analysis and keep all three until the next call." alt="" coords="264,144,446,189"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,143,251,151,246,153,208,148"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_adaed1e8368814d0c951757af47144c1c.html#adaed1e8368814d0c951757af47144c1c" title="The analysis of the last execute() or extract(), empty before the first." alt="" coords="512,5,694,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,141,453,130,469,113,477,96,485,78,501,60,506,60,511,57,505,64,489,81,481,98,473,116,457,134,437,146"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a93254d1d91091821b4aaf40c0f80008f.html#a93254d1d91091821b4aaf40c0f80008f" title=" " alt="" coords="510,75,696,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="437,141,508,123,503,125,438,146"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a03870ef28ce7eab0fc4ad6a4334f065a.html#a03870ef28ce7eab0fc4ad6a4334f065a" title="The matrix&#39;s &quot;extract&quot; operation, or null when the matrix was built without a mode." alt="" coords="512,144,694,189"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="446,164,499,166,494,167,446,169"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kakshya_af5ec386238cee0fa856ba134f6bdcd06.html#af5ec386238cee0fa856ba134f6bdcd06" title="Get a value from a metadata map by key." alt="" coords="524,213,682,258"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="438,187,512,209,507,210,437,192"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1ComputeMatrix_a5b064bba44b2960b504026943971f485.html#a5b064bba44b2960b504026943971f485" title="Create a fluent executor for chaining operations." alt="" coords="503,283,703,327"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="384,187,439,227,504,268,518,277,512,276,502,273,436,232,383,192"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ComputeMatrix_a2e1cc18085d6c69d3df38a21c8fd5f32.html#a2e1cc18085d6c69d3df38a21c8fd5f32" title="Get a named operation from this matrix." alt="" coords="751,144,952,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="694,164,738,166,733,167,695,169"/>
+</map>

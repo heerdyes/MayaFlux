@@ -1,0 +1,23 @@
+<map id="MayaFlux::Kakshya::FrameSeekProcessor::on_attach" name="MayaFlux::Kakshya::FrameSeekProcessor::on_attach">
+<area shape="rect" id="Node000001" title="Attach the processor to a video container." alt="" coords="5,275,171,336"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_a878681828d551330d4d22f140ed1312b.html#a878681828d551330d4d22f140ed1312b" title="Attach the processor to a video container." alt="" coords="233,236,403,298"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,289,220,282,215,285,172,294"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1FrameSeekProcessor_a056e79dbfe8d5b2976cf282cef05f1b7.html#a056e79dbfe8d5b2976cf282cef05f1b7" title="Restart the clock and the repeat." alt="" coords="219,322,417,366"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="170,317,206,324,201,326,171,322"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_afdeaf68e904f0985902f0d5ac6f0c1b3.html#afdeaf68e904f0985902f0d5ac6f0c1b3" title="Cache dimension metadata and frame geometry from the container." alt="" coords="465,193,635,255"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,249,452,242,447,243,404,254"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_ac27206a23fb28271f1ad9a16fdbe1c1f.html#ac27206a23fb28271f1ad9a16fdbe1c1f" title="Validate that the container is suitable for frame&#45;based processing." alt="" coords="465,279,635,340"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="403,280,453,291,447,291,403,285"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a2527c8aa70b6230e3bef36ecf2ab9dd8.html#a2527c8aa70b6230e3bef36ecf2ab9dd8" title=" " alt="" coords="683,29,858,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="579,191,625,146,682,101,687,100,691,98,685,105,629,150,582,195"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_acf719f2e5b2aec01f6216485a6292075.html#acf719f2e5b2aec01f6216485a6292075" title=" " alt="" coords="683,139,858,200"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="635,200,671,194,665,196,636,206"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a887bddebff1989916921c6225d9710a8.html#a887bddebff1989916921c6225d9710a8" title=" " alt="" coords="683,248,858,310"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="636,243,671,253,665,254,636,248"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_ac3ad8f023aaf8ed7abd55daf594a1be4.html#ac3ad8f023aaf8ed7abd55daf594a1be4" title=" " alt="" coords="683,357,858,419"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="619,253,637,265,662,292,685,320,716,348,711,347,681,323,658,295,634,269,618,258"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="727,28,728,19,736,10,750,5,771,3,794,5,809,15,804,15,792,11,770,8,752,10,739,15,733,21,732,31"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="727,137,728,128,736,120,750,114,771,112,794,115,809,124,804,124,792,120,770,117,752,119,739,124,733,130,732,140"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="728,246,728,238,736,229,750,223,771,221,794,224,809,234,804,233,792,229,770,227,752,229,739,233,733,240,732,250"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="728,355,728,347,736,338,750,333,771,331,794,333,809,343,804,343,792,339,770,336,752,338,739,343,733,349,731,359"/>
+</map>

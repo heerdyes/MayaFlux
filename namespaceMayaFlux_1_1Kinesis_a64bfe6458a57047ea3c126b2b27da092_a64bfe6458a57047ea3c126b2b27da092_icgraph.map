@@ -1,0 +1,41 @@
+<map id="MayaFlux::Kinesis::threshold" name="MayaFlux::Kinesis::threshold">
+<area shape="rect" id="Node000001" title="Zero output below threshold, pass through above." alt="" coords="1255,304,1403,349"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a3e6ac0a203b99a3e1d7d6becd8aec41f.html#a3e6ac0a203b99a3e1d7d6becd8aec41f" title=" " alt="" coords="1035,40,1194,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1315,288,1299,246,1276,195,1245,144,1205,99,1190,88,1190,82,1209,95,1249,141,1281,193,1304,244,1320,290"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kinesis_ad91831055d209202081fa7b4fc02f21b.html#ad91831055d209202081fa7b4fc02f21b" title="Zero values within [&#45;threshold, threshold] and rescale the remainder to fill [0, 1] (or [&#45;1,..." alt="" coords="1040,109,1188,154"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1304,290,1263,233,1235,202,1205,175,1177,157,1177,152,1209,171,1239,199,1267,230,1309,292"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_a1af26f20ed7aed9818ea677227a9f2e3.html#a1af26f20ed7aed9818ea677227a9f2e3" title="Estimate the dominant cycle frequency of a sampled signal." alt="" coords="754,295,968,339"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1299,291,1259,252,1234,234,1206,219,1156,204,1115,200,1074,206,1022,220,984,234,948,254,890,296,887,292,945,250,982,230,1021,214,1073,201,1115,195,1157,199,1208,215,1236,229,1262,248,1304,292"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_ab68557fff1f97b7705136ec0b678abac.html#ab68557fff1f97b7705136ec0b678abac" title="Sample indices of onsets detected via spectral flux." alt="" coords="1022,253,1207,298"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1237,305,1208,300,1208,295,1243,305"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_a9c90017817936dc5ac65ff5e13eddba3.html#a9c90017817936dc5ac65ff5e13eddba3" title="Sample indices of local peak maxima in the full span." alt="" coords="1024,595,1205,639"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1318,361,1277,458,1246,511,1209,560,1187,580,1162,597,1160,592,1183,576,1205,557,1242,508,1272,456,1313,365"/>
+<area shape="rect" id="Node000015" href="$namespaceMayaFlux_1_1Kinesis_a847452c5776f4f2dbac9bcca74027510.html#a847452c5776f4f2dbac9bcca74027510" title="Threshold crossings per second within a window." alt="" coords="1026,432,1202,477"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="1294,358,1254,392,1208,422,1184,434,1182,429,1206,417,1251,388,1289,360"/>
+<area shape="rect" id="Node000016" href="$namespaceMayaFlux_1_1Kinesis_a0135eb14d0ff1cc34687bb63aa4e5100.html#a0135eb14d0ff1cc34687bb63aa4e5100" title="Seconds within a window spent at or above a threshold." alt="" coords="1040,501,1188,546"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="1311,361,1269,428,1241,462,1209,491,1189,503,1187,498,1205,487,1237,458,1265,425,1307,364"/>
+<area shape="rect" id="Node000017" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_a3735f1ad5f405ceccbbe66cc73d4d3bd.html#a3735f1ad5f405ceccbbe66cc73d4d3bd" title="Sample indices of zero crossings in the full span." alt="" coords="1028,346,1200,408"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="1242,347,1201,359,1200,354,1237,348"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_aae90616312e63c025dfc44f6245c3b43.html#aae90616312e63c025dfc44f6245c3b43" title="Extract an isosurface from a scalar field using marching cubes." alt="" coords="786,40,936,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1016,63,937,65,936,60,1021,62"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a065fdfe764dace0ba9ea5c0c20311aed.html#a065fdfe764dace0ba9ea5c0c20311aed" title="Extract an isosurface mesh from a scalar field over a lattice." alt="" coords="526,5,675,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="768,51,676,40,675,35,773,49"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a3b05244a99b639a2b98cf60744654a2b.html#a3b05244a99b639a2b98cf60744654a2b" title=" " alt="" coords="501,75,700,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="769,75,702,86,700,81,774,73"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a8d93283e3887f0b2a717c407a008d703.html#a8d93283e3887f0b2a717c407a008d703" title="Re&#45;extract the isosurface if dirty, then upload via parent." alt="" coords="253,40,453,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="483,82,454,79,453,74,488,80"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a61950494104522a83fb51c0149ea3345.html#a61950494104522a83fb51c0149ea3345" title="Construct and evaluate the initial isosurface." alt="" coords="253,109,452,154"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="484,114,454,120,452,115,488,112"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a60ac44da0ad9399e9e4eb82eae05a275.html#a60ac44da0ad9399e9e4eb82eae05a275" title=" " alt="" coords="5,40,205,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="235,64,206,65,204,60,239,61"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="901,280,887,276,861,273,837,275,822,280,817,286,818,295,813,293,811,284,820,276,836,270,861,268,888,271,906,279"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="1148,238,1136,234,1114,232,1094,234,1082,239,1077,245,1078,254,1073,251,1072,243,1079,234,1093,229,1114,227,1138,229,1153,238"/>
+<area shape="poly" id="edge15_Node000012_Node000012" title=" " alt="" coords="1148,579,1136,576,1114,573,1094,575,1082,580,1077,586,1078,596,1074,592,1072,585,1079,576,1093,570,1114,568,1138,571,1153,580"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Yantra_1_1EnergyAnalyzer_a6481979f5e36c8d244d6c48966fc2ef0.html#a6481979f5e36c8d244d6c48966fc2ef0" title=" " alt="" coords="755,389,967,485"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1061,586,1020,561,923,488,924,483,1023,556,1066,587"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ModalNetwork_a0a7a7f26a40306a856e5be65c610f1a7.html#a0a7a7f26a40306a856e5be65c610f1a7" title="Process the network for the given number of samples." alt="" coords="748,595,974,639"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="1005,617,974,620,974,614,1011,617"/>
+<area shape="poly" id="edge21_Node000017_Node000010" title=" " alt="" coords="1011,353,958,343,958,337,1016,353"/>
+<area shape="poly" id="edge20_Node000017_Node000013" title=" " alt="" coords="1016,400,968,414,967,409,1010,402"/>
+<area shape="poly" id="edge22_Node000017_Node000017" title=" " alt="" coords="1147,332,1135,327,1114,325,1096,327,1084,331,1078,338,1076,348,1072,344,1073,336,1081,327,1095,321,1114,320,1137,322,1152,332"/>
+</map>

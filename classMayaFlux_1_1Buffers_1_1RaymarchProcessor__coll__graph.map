@@ -1,0 +1,17 @@
+<map id="MayaFlux::Buffers::RaymarchProcessor" name="MayaFlux::Buffers::RaymarchProcessor">
+<area shape="rect" id="Node000001" title="Stages a scalar field and its march parameters onto the buffer a RenderProcessor draws,..." alt="" coords="582,866,759,1424"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor.html" title=" " alt="" coords="325,561,517,712"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,723,585,964,579,965,463,728"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor.html" title="Central computational transformation interface for continuous buffer processing." alt="" coords="5,61,183,352"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,362,198,406,266,488,339,561,334,562,262,492,194,409,168,367"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Registry_1_1Service_1_1BufferService.html" title="Backend buffer management service interface." alt="" coords="207,5,408,407"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="361,404,400,545,394,545,360,410"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Registry_1_1Service_1_1ComputeService.html" title="Backend compute shader and pipeline service interface." alt="" coords="432,106,637,307"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="531,304,524,381,508,457,492,503,472,547,468,545,487,501,502,456,519,380,529,309"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kinesis_1_1Lattice3D.html" title="A regular subdivision of an AABB3D into a cell count per axis." alt="" coords="602,503,739,771"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="672,768,673,850,668,848,669,773"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kinesis_1_1AABB3D.html" title="Axis&#45;aligned bounding box in 3D world space." alt="" coords="662,61,799,352"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="711,349,694,487,689,485,709,354"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Buffers_1_1RaymarchProcessor_1_1MarchParams.html" title="Parameter block staged as a push constant fragment." alt="" coords="763,480,999,793"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="818,791,768,917,763,914,815,795"/>
+</map>

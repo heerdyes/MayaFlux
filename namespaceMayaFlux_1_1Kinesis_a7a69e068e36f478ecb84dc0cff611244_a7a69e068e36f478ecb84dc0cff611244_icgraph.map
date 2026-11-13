@@ -1,0 +1,26 @@
+<map id="MayaFlux::Kinesis::chain" name="MayaFlux::Kinesis::chain">
+<area shape="rect" id="Node000001" title="Sequential composition: evaluate first, feed result into second." alt="" coords="1373,75,1522,119"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_1_1Vision_ab826a6dbabf0cf391807b64305ce9929.html#ab826a6dbabf0cf391807b64305ce9929" title="Resolve a VisionQuery into the ResolvedSequences needed to satisfy every active intent." alt="" coords="1177,75,1325,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1355,97,1326,100,1326,94,1361,97"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_aa6d4952749ee6b714420f8bfb454f1e2.html#aa6d4952749ee6b714420f8bfb454f1e2" title="Advance an analysis of image by one sequence per call, without waiting on deferred GPU work." alt="" coords="938,5,1120,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1160,69,1103,53,1103,48,1166,70"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a272065cfcb21cac187bb25affa3dab08.html#a272065cfcb21cac187bb25affa3dab08" title="Shared body of both analyze_vision() overloads, once a GPU image is in hand: resolve the configured q..." alt="" coords="929,75,1129,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1159,97,1130,100,1129,94,1164,97"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a820291c935e3aba7e3293b9533e6360b.html#a820291c935e3aba7e3293b9533e6360b" title="The VisionResult of the sequence that served intent in the last completed analysis,..." alt="" coords="938,144,1120,189"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="1166,124,1103,146,1103,141,1160,125"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a16ff2fbb8692778091e6a1209ed0e567.html#a16ff2fbb8692778091e6a1209ed0e567" title="analyze_vision(), for a caller that already has a resolved GPU image (e.g." alt="" coords="697,5,881,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="932,70,869,53,869,48,938,70"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_ad19f1fcd73e97ca4c09a8916a691c38b.html#ad19f1fcd73e97ca4c09a8916a691c38b" title="Real entry point: resolve the configured query against source, run it, run the GPU analysis." alt="" coords="697,75,881,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="911,97,881,100,881,94,916,97"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a1ac41b97ba01057c6db0aef0c30eccec.html#a1ac41b97ba01057c6db0aef0c30eccec" title=" " alt="" coords="238,135,419,179"/>
+<area shape="poly" id="edge11_Node000004_Node000008" title=" " alt="" coords="930,123,881,134,756,148,631,156,419,161,419,155,630,151,756,143,880,129,925,124"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_af6bfe6ffc7fd77204ef4613cd6d8187b.html#af6bfe6ffc7fd77204ef4613cd6d8187b" title="ComputeOperation adapter: uses input.data as the source container, pulls index out of Datum metadata ..." alt="" coords="468,75,649,119"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="679,97,650,100,650,94,685,97"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="459,123,417,137,416,131,453,124"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a4c7033e24b310ee050fc73cc23ca908e.html#a4c7033e24b310ee050fc73cc23ca908e" title="Construct with the intents to satisfy and the caller&#45;supplied filtering context, matching EnergyAnaly..." alt="" coords="237,65,420,110"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="449,93,421,94,420,89,455,92"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_ab977bbd2adc5ca392a8573c4e84939a0.html#ab977bbd2adc5ca392a8573c4e84939a0" title=" " alt="" coords="6,31,188,75"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="219,72,188,69,188,64,224,71"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a6be4f4d6db7f18732c152ae22ca34933.html#a6be4f4d6db7f18732c152ae22ca34933" title=" " alt="" coords="5,100,189,145"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="219,104,190,111,189,106,224,103"/>
+</map>

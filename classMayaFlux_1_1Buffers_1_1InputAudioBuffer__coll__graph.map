@@ -1,0 +1,11 @@
+<map id="MayaFlux::Buffers::InputAudioBuffer" name="MayaFlux::Buffers::InputAudioBuffer">
+<area shape="rect" id="Node000001" title="Specialized buffer for audio input with listener dispatch." alt="" coords="183,1115,342,1428"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1AudioBuffer.html" title="Concrete audio implementation of the Buffer interface for double&#45;precision audio data." alt="" coords="155,530,371,1066"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,1078,265,1116,260,1114,262,1083"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1Buffer.html" title="Backend&#45;agnostic interface for sequential data storage and transformation." alt="" coords="5,144,221,457"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,468,185,530,180,530,165,474"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="39,5,188,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,107,116,144,111,144,113,112"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Buffers_1_1BufferRoutingState.html" title="Represents the state of routing transitions for a buffer." alt="" coords="245,189,382,412"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="303,409,294,513,289,512,302,414"/>
+</map>

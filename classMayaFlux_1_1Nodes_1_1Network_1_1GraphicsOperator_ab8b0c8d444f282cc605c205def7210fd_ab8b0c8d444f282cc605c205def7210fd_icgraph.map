@@ -1,0 +1,23 @@
+<map id="MayaFlux::Nodes::Network::GraphicsOperator::get_vertex_data" name="MayaFlux::Nodes::Network::GraphicsOperator::get_vertex_data">
+<area shape="rect" id="Node000001" title="Get vertex data for GPU upload." alt="" coords="1017,168,1214,230"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_ab1ec6afdd6a02006bb923d88c7c33708.html#ab1ec6afdd6a02006bb923d88c7c33708" title="Extract GPU geometry data from a NodeNetwork via its GraphicsOperator." alt="" coords="773,56,967,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1051,159,968,116,940,104,941,99,970,111,1056,160"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1FieldOperator_a37c560c008b5eb6cf3e143c664efca00.html#a37c560c008b5eb6cf3e143c664efca00" title="Seed vertex data from the upstream operator&#39;s current output." alt="" coords="771,125,969,187"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="999,179,969,176,969,171,1004,179"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PhysicsOperator_a99411015af9da1e5754e9c7b01e5bcf7.html#a99411015af9da1e5754e9c7b01e5bcf7" title="Seed physics state from upstream operator&#39;s vertex data." alt="" coords="771,211,969,272"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1004,218,970,227,969,222,999,219"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1IO_a4270f76b4396b335247bd792ced07cc9.html#a4270f76b4396b335247bd792ced07cc9" title="Pack one GraphicsOperator&#39;s current vertex state into a SpatialCache stream, as a Points or Curves sa..." alt="" coords="796,296,944,341"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1056,237,970,287,941,299,940,293,968,282,1051,239"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryProcessor_ac6c764a77a3082815a103b602eddaf77.html#ac6c764a77a3082815a103b602eddaf77" title="BufferProcessor interface &#45; aggregates and uploads network geometry." alt="" coords="518,5,722,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="755,60,722,56,722,51,760,59"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1DescriptorBindingsProcessor_ae11e2177a6d99ff2f85d4b1f52cfff55.html#ae11e2177a6d99ff2f85d4b1f52cfff55" title=" " alt="" coords="516,91,723,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="755,99,724,106,723,101,760,97"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1DescriptorBindingsProcessor_aeb95fbc5d56f8dd9841bf1663e2eb27d.html#aeb95fbc5d56f8dd9841bf1663e2eb27d" title="Update descriptor from binding source (node, audio buffer, etc.)." alt="" coords="261,91,468,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="498,122,469,124,468,119,503,121"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1DescriptorBindingsProcessor_a7f3868a3f75b5b5b82dcac442b63db4b.html#a7f3868a3f75b5b5b82dcac442b63db4b" title=" " alt="" coords="5,91,213,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="243,123,214,124,212,119,248,120"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1IO_a41beed1d97ed23922e7b0effd3bdf833.html#a41beed1d97ed23922e7b0effd3bdf833" title="Pack a NetworkGeometryBuffer&#39;s driving network into one or more SpatialCache streams,..." alt="" coords="522,288,718,350"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="778,319,719,321,718,316,783,319"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1IO_aff105666b9119fd8c7a0484e9a046b20.html#aff105666b9119fd8c7a0484e9a046b20" title="Build a SpatialCaptureSource that packs a NetworkGeometryBuffer&#39;s driving network through write_netwo..." alt="" coords="264,296,465,341"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="503,319,466,321,465,316,509,319"/>
+</map>

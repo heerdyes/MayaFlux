@@ -1,0 +1,43 @@
+<map id="VisionInsight.hpp" name="VisionInsight.hpp">
+<area shape="rect" id="Node000001" title="Caller&#45;supplied context and GPU&#45;derived output for turning a raw VisionResult into something a caller..." alt="" coords="336,5,470,33"/>
+<area shape="rect" id="Node000002" href="$VisionContext_8hpp.html" title=" " alt="" coords="333,81,473,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,31,405,66,400,65,402,36"/>
+<area shape="rect" id="Node000003" href="$ConnectedComponents_8hpp.html" title="Connected component labelling on normalised float masks." alt="" coords="5,165,206,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,111,169,163,166,158,357,107"/>
+<area shape="rect" id="Node000004" href="$Features_8hpp.html" title=" " alt="" coords="382,258,488,286"/>
+<area shape="poly" id="edge13_Node000002_Node000004" title=" " alt="" coords="336,111,300,130,284,142,270,158,263,179,270,200,290,221,314,238,340,250,369,259,364,261,339,255,311,242,286,225,266,203,257,179,266,155,280,138,297,125,339,107"/>
+<area shape="rect" id="Node000014" href="$Gradient_8hpp.html" title="Gradient and edge detection on normalised float image spans." alt="" coords="281,165,386,193"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="390,111,356,155,352,152,393,107"/>
+<area shape="rect" id="Node000015" href="$OpticalFlow_8hpp.html" title="Sparse optical flow via Lucas&#45;Kanade tracker." alt="" coords="411,165,536,193"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="414,107,455,153,450,154,414,112"/>
+<area shape="rect" id="Node000016" href="$VisionOp_8hpp.html" title="Declarative description of a Kinesis::Vision processing sequence." alt="" coords="560,165,667,193"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="436,107,568,158,563,160,437,112"/>
+<area shape="rect" id="Node000018" href="$NDData_8hpp.html" title=" " alt="" coords="691,157,891,201"/>
+<area shape="poly" id="edge20_Node000002_Node000018" title=" " alt="" coords="465,107,677,152,673,155,466,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,191,374,252,370,255,154,196"/>
+<area shape="rect" id="Node000005" href="$Bounds_8hpp.html" title=" " alt="" coords="342,342,528,387"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="436,283,437,327,432,325,434,288"/>
+<area shape="rect" id="Node000006" href="$HitTest_8hpp.html" title=" " alt="" coords="388,435,482,462"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="436,385,437,420,432,418,434,389"/>
+<area shape="rect" id="Node000007" href="$SpatialIndex_8hpp.html" title=" " alt="" coords="352,519,483,546"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="434,461,426,505,421,502,431,465"/>
+<area shape="rect" id="Node000012" href="$ViewTransform_8hpp.html" title=" " alt="" coords="506,510,705,555"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="462,460,549,503,544,504,462,466"/>
+<area shape="rect" id="Node000008" href="$TendencyFactories_8hpp.html" title=" " alt="" coords="157,603,358,648"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="392,549,310,597,307,593,396,546"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="382,612,474,639"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="420,545,427,597,422,595,418,549"/>
+<area shape="rect" id="Node000009" href="$Tendency_8hpp.html" title=" " alt="" coords="405,696,513,723"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="311,646,415,689,410,690,311,651"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="452,771,556,799"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="468,722,491,759,486,757,466,726"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="497,612,714,639"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="607,553,608,597,603,594,604,557"/>
+<area shape="poly" id="edge16_Node000015_Node000004" title=" " alt="" coords="469,191,449,245,444,242,467,196"/>
+<area shape="poly" id="edge18_Node000016_Node000004" title=" " alt="" coords="585,195,476,253,473,248,590,192"/>
+<area shape="rect" id="Node000017" href="$EnumReflect_8hpp.html" title=" " alt="" coords="521,249,706,294"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="615,191,616,234,611,232,612,196"/>
+<area shape="poly" id="edge21_Node000018_Node000010" title=" " alt="" coords="785,200,765,273,757,318,753,363,753,627,749,658,735,684,715,707,690,727,631,756,572,774,571,769,629,751,687,722,711,703,731,681,744,656,748,626,748,363,752,317,760,272,781,204"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="788,258,874,286"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="801,199,822,244,816,243,800,204"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="MayaFlux::Yantra::VisionGpuExecutor::op_extract_peaks" name="MayaFlux::Yantra::VisionGpuExecutor::op_extract_peaks">
+<area shape="rect" id="Node000001" title="Extract and rank keypoints from the current response image." alt="" coords="5,75,232,119"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1VisionPass_a86d3d2823f19e00ae51b81f20badfb5e.html#a86d3d2823f19e00ae51b81f20badfb5e" title="Op at offset steps ahead, or nullptr past the end." alt="" coords="285,5,471,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,71,279,53,275,56,206,77"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="280,75,476,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,94,266,96,261,98,232,100"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Yantra_1_1VisionInternal_ab1a84195fda82348c6c234129f08cf37.html#ab1a84195fda82348c6c234129f08cf37" title="Pixel rectangle of a normalised region over a w x h image, clamped to the image." alt="" coords="287,144,468,189"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="205,117,280,139,274,140,205,123"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="524,75,720,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,94,511,97,506,97,477,100"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="768,75,999,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="721,94,755,97,750,97,721,100"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="834,73,832,64,841,56,858,50,884,48,912,50,930,60,925,59,910,56,883,53,859,55,844,60,838,66,839,76"/>
+</map>

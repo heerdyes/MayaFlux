@@ -1,0 +1,23 @@
+<map id="MayaFlux::Nexus::StateDecoder::reconstruct" name="MayaFlux::Nexus::StateDecoder::reconstruct">
+<area shape="rect" id="Node000001" title="Patch existing entities and construct missing ones from schema." alt="" coords="5,109,236,154"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Fabric_a2557668b6dec4b19b327a57384589f95.html#a2557668b6dec4b19b327a57384589f95" title="List all registered entity ids in insertion order." alt="" coords="298,5,478,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,106,283,60,304,54,299,57,285,65,174,111"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nexus_1_1State_a1f55759f773e0700e485e66e1c2b464a.html#a1f55759f773e0700e485e66e1c2b464a" title="Return true if s maps to a known Fabric::Kind token." alt="" coords="300,75,476,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,114,287,109,282,112,237,119"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1JSONSerializer_a9722723cb9849422458d73654df019b3.html#a9722723cb9849422458d73654df019b3" title="Last error message, empty if no error." alt="" coords="284,144,492,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="236,144,271,150,266,152,236,149"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1JSONSerializer_a374e5e6d710241a9d67a77d73faa48f9.html#a374e5e6d710241a9d67a77d73faa48f9" title="Read path and deserialize into T." alt="" coords="284,213,492,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,152,285,199,304,208,299,208,283,203,172,157"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Reflect_a55410d139c7ce7efd95f82eb249562a7.html#a55410d139c7ce7efd95f82eb249562a7" title="Universal case&#45;insensitive string to enum converter using magic_enum." alt="" coords="564,66,724,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="476,94,551,96,546,98,477,100"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1JSONSerializer_a6c34dd9fd91a37dd3d49032c25ba10c8.html#a6c34dd9fd91a37dd3d49032c25ba10c8" title=" " alt="" coords="540,195,748,239"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="492,225,527,225,522,226,493,231"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1JSONSerializer_aafeb5b85d67b9718834be8d6041d587b.html#aafeb5b85d67b9718834be8d6041d587b" title=" " alt="" coords="540,264,748,309"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="493,254,527,263,522,263,492,259"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="596,193,594,184,602,176,619,170,644,168,672,171,690,180,685,179,671,176,644,173,620,175,605,180,599,186,600,196"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1JSONSerializer_ae0cf11995cbf62670da70ed27b6f045c.html#ae0cf11995cbf62670da70ed27b6f045c" title=" " alt="" coords="796,195,1005,239"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="749,223,783,226,778,226,749,229"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1IO_1_1Serializer_a339b05d8f4eae36335db2b8382a3b3de.html#a339b05d8f4eae36335db2b8382a3b3de" title=" " alt="" coords="812,264,989,309"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="730,237,804,260,798,259,729,243"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="793,208,764,211,764,205,798,208"/>
+</map>

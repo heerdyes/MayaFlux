@@ -1,0 +1,36 @@
+<map id="MayaFlux::Buffers::VKBuffer::clone_to" name="MayaFlux::Buffers::VKBuffer::clone_to">
+<area shape="rect" id="Node000001" title="Create a clone of this buffer with the same data and properties." alt="" coords="5,312,153,357"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_ad3e1272df9634f271f195e4b46b49da8.html#ad3e1272df9634f271f195e4b46b49da8" title="Download data from a device&#45;local buffer using a staging buffer." alt="" coords="228,115,400,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,311,132,244,163,206,199,174,217,165,213,169,202,178,167,210,136,247,94,313"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a382af8166b7e2e54d7336352c261d954.html#a382af8166b7e2e54d7336352c261d954" title="Read buffer contents as Kakshya DataVariant." alt="" coords="240,312,388,357"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="152,332,227,333,222,336,154,337"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_aeed198b7008219af3eea770413f392ba.html#aeed198b7008219af3eea770413f392ba" title="Whether this VKBuffer should be host&#45;visible." alt="" coords="752,303,934,348"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="146,310,200,298,337,284,445,286,691,308,739,314,733,315,690,313,445,291,338,290,201,303,148,314"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a3ee5665931466eee5c47e97f43ac9a7d.html#a3ee5665931466eee5c47e97f43ac9a7d" title="Get the currently attached default processor." alt="" coords="234,381,394,443"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="149,355,221,380,217,382,150,360"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6cf409969c192851ab2cf7f0315d2a49.html#a6cf409969c192851ab2cf7f0315d2a49" title="Access the buffer&#39;s processing chain." alt="" coords="201,467,427,512"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="98,355,143,405,171,430,202,453,213,460,208,460,199,457,168,435,139,408,97,360"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a9320755afbd8744b24ffcfd9ce6dc862.html#a9320755afbd8744b24ffcfd9ce6dc862" title="Get vertex layout if set." alt="" coords="236,536,392,598"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="89,355,108,392,132,437,163,482,202,522,225,539,220,538,199,526,159,486,127,439,103,395,89,360"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_1_1Buffers_aef0500ee2ec9a75e2fe565ff287d81d5.html#aef0500ee2ec9a75e2fe565ff287d81d5" title="Upload data to a device&#45;local buffer using a staging buffer." alt="" coords="237,188,390,233"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="110,310,152,282,199,254,238,238,234,241,202,259,155,286,113,314"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="500,107,666,168"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,135,487,136,482,139,401,140"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="482,38,683,82"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="393,112,490,86,486,89,396,117"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="743,29,943,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="682,58,730,59,725,61,684,63"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="792,28,793,19,803,10,819,5,843,3,870,5,888,15,883,15,869,11,843,8,820,10,806,15,798,21,797,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="387,331,738,326,734,329,388,336"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ab2774aad8e6ca3ee02ff9b31c2f8f6f7.html#ab2774aad8e6ca3ee02ff9b31c2f8f6f7" title="Check whether Vulkan handles are present (buffer registered)." alt="" coords="498,432,667,477"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="388,349,428,367,444,380,453,393,462,406,477,418,487,426,482,425,473,422,458,409,449,396,440,384,426,372,388,354"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_afdc83bf93f468f4c8ca643b4ce040045.html#afdc83bf93f468f4c8ca643b4ce040045" title="Mark a range as invalid (needs download)." alt="" coords="475,363,690,408"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="388,346,463,362,457,363,388,351"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="682,360,739,349,734,351,683,365"/>
+<area shape="poly" id="edge16_Node000013_Node000003" title=" " alt="" coords="390,188,487,163,483,166,392,192"/>
+<area shape="poly" id="edge19_Node000013_Node000004" title=" " alt="" coords="389,190,425,170,441,152,448,132,456,113,473,93,482,89,478,93,477,97,461,115,453,134,446,154,429,174,393,195"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a7893291a314cd16a4086b4af5547be3b.html#a7893291a314cd16a4086b4af5547be3b" title="Get raw buffer info for GPU upload." alt="" coords="496,192,670,237"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="390,209,482,212,477,214,392,215"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a22ed77a7c33e4413867656e1e7fa4fa7.html#a22ed77a7c33e4413867656e1e7fa4fa7" title=" " alt="" coords="738,192,948,237"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="670,212,725,214,720,216,671,217"/>
+</map>

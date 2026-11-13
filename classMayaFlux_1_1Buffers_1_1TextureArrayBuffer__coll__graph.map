@@ -1,0 +1,25 @@
+<map id="MayaFlux::Buffers::TextureArrayBuffer" name="MayaFlux::Buffers::TextureArrayBuffer">
+<area shape="rect" id="Node000001" title="A TextureBuffer whose image is a stack of layers, composed in one draw." alt="" coords="666,2179,833,2939"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer.html" title="A hybrid buffer managing both a textured quad geometry and its pixel data." alt="" coords="437,1402,630,2106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="632,2118,669,2248,663,2248,631,2123"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBuffer.html" title="Vulkan&#45;backed buffer wrapper used in processing chains." alt="" coords="417,574,633,1329"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="530,1341,532,1403,527,1402,529,1347"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1Buffer.html" title="Backend&#45;agnostic interface for sequential data storage and transformation." alt="" coords="5,166,221,479"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="223,489,420,786,415,787,224,494"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="39,5,188,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,106,116,166,111,166,113,112"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Portal_1_1Graphics_1_1RenderConfig.html" title="Unified rendering configuration for graphics buffers." alt="" coords="246,144,432,501"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="380,498,396,550,415,616,410,616,390,551,380,504"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Buffers_1_1VKBufferResources.html" title="Raw Vulkan handles owned by a VKBuffer instance." alt="" coords="456,211,595,434"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="526,432,528,558,523,557,525,437"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Buffers_1_1VKBuffer_1_1PipelineContext.html" title="Context shared with BufferProcessors during pipeline execution." alt="" coords="619,256,818,390"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="698,392,641,585,636,583,699,387"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Buffers_1_1VKBuffer_1_1EngineContext.html" title="Engine&#45;internal per&#45;frame binding state." alt="" coords="843,278,1013,367"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="918,364,904,413,880,463,847,512,827,534,804,553,784,563,764,567,726,565,689,563,669,567,649,577,645,573,667,562,688,558,727,560,764,562,782,558,801,548,823,530,843,509,875,461,899,411,916,370"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Portal_1_1Graphics_1_1ImageCacheEntry.html" title="Image retained by the producing owner." alt="" coords="656,1710,842,1799"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="751,1796,752,2163,747,2162,748,1801"/>
+<area shape="rect" id="Node000011" href="$structMayaFlux_1_1Portal_1_1Graphics_1_1ImageKey.html" title="Immutable properties that determine whether an image can be reused." alt="" coords="658,851,844,1052"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="752,1050,752,1693,747,1692,749,1054"/>
+<area shape="rect" id="Node000012" href="$structMayaFlux_1_1Buffers_1_1TextureArrayBuffer_1_1Push.html" title=" " alt="" coords="866,1687,1038,1821"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="943,1819,918,1975,879,2156,840,2293,836,2290,873,2155,913,1974,941,1824"/>
+</map>

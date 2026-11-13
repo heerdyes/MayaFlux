@@ -1,0 +1,30 @@
+<map id="MayaFlux::Core::NetworkSubsystem::register_backend_service" name="MayaFlux::Core::NetworkSubsystem::register_backend_service">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,248,264,293"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a493658765d8be3073880657d91b9b7ea.html#a493658765d8be3073880657d91b9b7ea" title="Close an endpoint." alt="" coords="312,5,570,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,246,172,206,209,156,255,104,310,60,322,55,319,59,313,65,259,108,213,159,176,209,151,249"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a1b0900c49172319d8ffcb41cfef0d455.html#a1b0900c49172319d8ffcb41cfef0d455" title="List all open endpoints across all backends." alt="" coords="312,75,570,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,246,222,188,265,156,310,129,327,124,323,127,313,134,268,161,225,192,160,250"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a6dc00609c2721273d0b71ea94518620d.html#a6dc00609c2721273d0b71ea94518620d" title="Query endpoint state." alt="" coords="312,144,570,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,245,311,198,338,192,333,195,313,204,191,250"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="341,352,541,397"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="190,291,313,337,338,347,333,347,311,342,189,296"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a1abb2ac22e25ce216c64454d16d710f4.html#a1abb2ac22e25ce216c64454d16d710f4" title="Open an endpoint on the backend matching info.transport." alt="" coords="618,412,876,457"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="156,291,222,352,265,383,313,407,385,428,460,440,534,445,605,447,600,447,534,450,459,445,383,433,311,411,263,387,219,356,155,296"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a507f75d697f74b1bf1db048befff3269.html#a507f75d697f74b1bf1db048befff3269" title="Send data through an endpoint." alt="" coords="312,213,570,258"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="263,253,298,251,294,253,265,258"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a93c3c64ffcbe44b9f7d16875adee2665.html#a93c3c64ffcbe44b9f7d16875adee2665" title="Send data to a specific address." alt="" coords="312,283,570,327"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="264,282,299,288,294,290,265,288"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a4086a71c63de50cf52be7f7f078bc467.html#a4086a71c63de50cf52be7f7f078bc467" title="Register a per&#45;endpoint receive callback." alt="" coords="312,472,570,517"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="152,290,218,369,263,413,313,451,338,466,333,465,310,455,259,417,214,373,151,295"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_af45c1484a9f6c4a777405c8d8d11db15.html#af45c1484a9f6c4a777405c8d8d11db15" title="Resolve endpoint_id to its owning backend." alt="" coords="618,213,876,258"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="545,48,571,60,617,91,658,128,722,201,717,201,655,132,614,96,569,65,546,53"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_aef15deb4eba722760ae25a30d430c649.html#aef15deb4eba722760ae25a30d430c649" title="Get a backend by transport type." alt="" coords="924,313,1183,358"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="818,256,971,308,966,308,818,261"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="543,187,633,209,628,210,543,192"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="647,326,847,388"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="541,366,634,363,629,364,542,371"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="688,324,689,315,700,307,720,301,747,300,779,302,801,312,795,312,778,307,747,305,721,307,703,312,694,318,692,328"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="837,409,876,397,977,364,982,363,877,402,838,414"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="570,233,605,235,600,236,571,238"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="542,279,633,261,628,263,544,285"/>
+</map>

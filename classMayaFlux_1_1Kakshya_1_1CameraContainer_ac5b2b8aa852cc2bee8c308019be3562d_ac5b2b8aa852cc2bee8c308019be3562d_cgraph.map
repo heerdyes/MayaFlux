@@ -1,0 +1,18 @@
+<map id="MayaFlux::Kakshya::CameraContainer::~CameraContainer" name="MayaFlux::Kakshya::CameraContainer::~CameraContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,130,274,174"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1CameraContainer_a3d034660e3afa9b25cf278cde4c62a5b.html#a3d034660e3afa9b25cf278cde4c62a5b" title="Mutable pointer into m_data[0] for the caller to write decoded pixels." alt="" coords="322,83,520,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,131,309,128,304,130,275,136"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1CameraContainer_aea103970a3b38aca7338b48b97fd0724.html#aea103970a3b38aca7338b48b97fd0724" title="Wire the CameraIOService callback for demand&#45;driven frame pulls." alt="" coords="322,168,520,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="274,168,309,175,304,176,274,173"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1VideoStreamContainer_acd69a7c5e27cc6fd492c480c481ee9ea.html#acd69a7c5e27cc6fd492c480c481ee9ea" title="Total byte size of one frame: width * height * bytes_per_pixel." alt="" coords="584,5,752,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,80,571,66,566,68,521,85"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kakshya_ad83915232ba3283db5c6ff26fa34dafe.html#ad83915232ba3283db5c6ff26fa34dafe" title="Get a mutable pointer to the raw bytes of a DataVariant and its size." alt="" coords="582,91,754,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="520,111,569,113,564,114,520,116"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="585,160,751,222"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="520,188,572,191,567,191,521,193"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="568,246,768,290"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="495,211,583,241,577,241,495,216"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="816,237,1017,299"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="769,266,804,268,798,268,769,271"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="868,235,869,227,878,218,894,213,917,211,943,213,960,223,955,223,941,219,916,216,895,218,881,223,874,229,872,239"/>
+</map>

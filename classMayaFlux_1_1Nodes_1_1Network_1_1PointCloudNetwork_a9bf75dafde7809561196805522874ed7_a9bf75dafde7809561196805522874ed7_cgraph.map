@@ -1,0 +1,18 @@
+<map id="MayaFlux::Nodes::Network::PointCloudNetwork::get_metadata" name="MayaFlux::Nodes::Network::PointCloudNetwork::get_metadata">
+<area shape="rect" id="Node000001" title="Get network metadata for debugging/visualization." alt="" coords="5,113,203,174"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_ad6c14660b161b3f6174a1528fd3c2fe9.html#ad6c14660b161b3f6174a1528fd3c2fe9" title="Get network metadata for debugging/visualization." alt="" coords="251,83,468,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,126,238,123,232,125,204,131"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork_a0c3c7a8d1b085dde69d89ed483e2bf6b.html#a0c3c7a8d1b085dde69d89ed483e2bf6b" title="Get the number of nodes in the network." alt="" coords="261,152,458,213"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="203,156,248,165,242,165,203,161"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_af24c0ffef2666eb05f2f14b7e297c14b.html#af24c0ffef2666eb05f2f14b7e297c14b" title="Get the number of nodes in the network." alt="" coords="516,5,745,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,79,538,54,533,56,441,85"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_ad5a21f007cb5e6328667ee852b6ad5fa.html#ad5a21f007cb5e6328667ee852b6ad5fa" title=" " alt="" coords="524,74,737,136"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="468,102,512,105,506,105,469,108"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a578ed1a9dcdf428b49a853724219e8c9.html#a578ed1a9dcdf428b49a853724219e8c9" title=" " alt="" coords="532,160,729,221"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="433,125,520,155,515,155,433,131"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a4daa860a2046a2c34638a9cdd16f56be.html#a4daa860a2046a2c34638a9cdd16f56be" title="Get cached audio buffer from last process_batch()." alt="" coords="793,5,1029,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="745,25,780,27,775,28,746,30"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="838,125,984,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="737,119,825,134,820,134,737,124"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="730,173,820,161,825,161,730,178"/>
+</map>

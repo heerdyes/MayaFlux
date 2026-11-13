@@ -1,0 +1,82 @@
+<map id="MayaFlux::Portal::Forma::TextField::wire" name="MayaFlux::Portal::Forma::TextField::wire">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,359,186,403"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Text_a5280de957dbffbf0be0647ee561a3be6.html#a5280de957dbffbf0be0647ee561a3be6" title="Erase n codepoints from the cursor." alt="" coords="245,216,412,261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,357,171,316,232,275,253,265,250,270,235,279,174,320,125,360"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Portal_1_1Text_a5859703926d829ad74bc4d0259e7242c.html#a5859703926d829ad74bc4d0259e7242c" title="Insert one codepoint at the cursor, advancing it past the insert." alt="" coords="245,289,412,334"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,356,238,337,235,341,175,360"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Portal_1_1Text_ad26478cb8558569687e061375ae4f92f.html#ad26478cb8558569687e061375ae4f92f" title="Insert one raw ASCII byte at the cursor, advancing it past the insert." alt="" coords="245,359,412,403"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="184,379,232,379,228,383,187,383"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Portal_1_1Text_a00b4dd26f130b2e6e349fe5a4ae93361.html#a00b4dd26f130b2e6e349fe5a4ae93361" title="Move the cursor by n codepoints." alt="" coords="245,147,412,191"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="106,357,155,281,191,239,232,202,242,197,239,201,235,206,194,242,159,285,111,359"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_ad0761e5a7699167e0151d2a97fe89a2c.html#ad0761e5a7699167e0151d2a97fe89a2c" title="Called when a mouse button is pressed over an element." alt="" coords="481,421,661,466"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="177,402,234,413,354,428,468,438,463,441,353,434,233,418,179,406"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_aac97c7386f93f6c8373e884f1bd53eab.html#aac97c7386f93f6c8373e884f1bd53eab" title="Called with each resolved Unicode codepoint while the element has keyboard focus." alt="" coords="238,548,418,593"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="111,401,163,467,197,502,235,534,244,540,239,541,232,538,193,506,159,470,112,406"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a8181540781224f42713d086009ce64a7.html#a8181540781224f42713d086009ce64a7" title="Register a key handler that fires on the initial press and on every repeat, with a deterministic firs..." alt="" coords="234,479,423,523"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="133,401,235,457,262,471,257,473,232,462,135,406"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Text_a489ff5132e5bdda5caf6b5284a192546.html#a489ff5132e5bdda5caf6b5284a192546" title="Byte offset of the codepoint boundary after byte_offset." alt="" coords="484,213,658,258"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,235,471,235,467,238,413,240"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Text_a148a48fb2e9f0c9487deba3d01f3021c.html#a148a48fb2e9f0c9487deba3d01f3021c" title="Byte offset of the codepoint boundary before byte_offset." alt="" coords="471,144,671,189"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="405,213,481,192,477,195,408,217"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Portal_1_1Text_a14c08e1690ba7d8d0206dcc1ba674187.html#a14c08e1690ba7d8d0206dcc1ba674187" title="Encode a Unicode codepoint as a UTF&#45;8 byte sequence." alt="" coords="488,352,654,397"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="411,331,475,348,471,350,413,336"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Portal_1_1Text_a2bf43e50ce4368ec164564e34a396d67.html#a2bf43e50ce4368ec164564e34a396d67" title="True if a codepoint must never be rasterized or treated as printable content." alt="" coords="488,283,654,327"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="411,307,475,306,470,309,413,312"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="411,189,475,207,470,210,413,194"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="411,166,458,166,453,169,413,170"/>
+<area shape="poly" id="edge43_Node000012_Node000010" title=" " alt="" coords="422,476,468,467,464,470,425,481"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a7287e64dcc62fe5f54a34e133c3b0332.html#a7287e64dcc62fe5f54a34e133c3b0332" title="Construct and immediately register event coroutines." alt="" coords="481,560,661,605"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="397,521,490,554,485,556,398,526"/>
+<area shape="rect" id="Node000035" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_ae213a276596a93e469537511b17630ee.html#ae213a276596a93e469537511b17630ee" title="Called repeatedly while a key is held and the element has focus." alt="" coords="481,491,661,535"/>
+<area shape="poly" id="edge40_Node000012_Node000035" title=" " alt="" coords="422,503,468,507,463,509,425,508"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_aa42296d51149bf551f43678912150ef0.html#aa42296d51149bf551f43678912150ef0" title=" " alt="" coords="719,560,921,605"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="661,580,706,581,701,583,663,585"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_ac50216d0c29acc72c9c6cef683cf3f64.html#ac50216d0c29acc72c9c6cef683cf3f64" title=" " alt="" coords="972,40,1152,85"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="902,557,919,542,938,513,950,485,957,457,959,429,954,375,942,321,929,266,924,211,927,183,934,154,947,125,967,95,968,98,971,94,971,99,952,128,939,156,932,184,929,211,934,265,947,319,960,374,965,429,962,458,955,486,942,516,923,545,905,561"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a9c51f612c11cca83101ec54bf0e15d73.html#a9c51f612c11cca83101ec54bf0e15d73" title=" " alt="" coords="972,317,1152,362"/>
+<area shape="poly" id="edge20_Node000014_Node000019" title=" " alt="" coords="900,557,919,542,933,521,940,500,942,459,944,416,951,395,967,373,969,374,973,370,971,376,956,397,949,417,947,459,946,501,938,523,923,545,903,562"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a3f274bdbf59765de10aec161fce804c8.html#a3f274bdbf59765de10aec161fce804c8" title=" " alt="" coords="972,387,1152,431"/>
+<area shape="poly" id="edge22_Node000014_Node000021" title=" " alt="" coords="897,557,919,542,936,517,942,493,948,468,967,442,970,442,975,439,971,445,953,470,947,494,941,520,923,546,900,562"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_adb7623e29d1be03ce5a1d5d1ed564f7f.html#adb7623e29d1be03ce5a1d5d1ed564f7f" title=" " alt="" coords="972,109,1152,154"/>
+<area shape="poly" id="edge24_Node000014_Node000022" title=" " alt="" coords="901,557,919,542,935,518,946,494,952,470,955,447,951,401,942,355,932,309,929,262,932,238,938,214,950,190,967,165,968,167,971,163,971,168,954,192,943,216,937,239,934,263,937,309,947,354,957,400,960,447,957,471,951,496,940,520,923,545,905,562"/>
+<area shape="rect" id="Node000023" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a7fbcf04fbb64e37f9a70f7358eb645d9.html#a7fbcf04fbb64e37f9a70f7358eb645d9" title=" " alt="" coords="969,179,1156,223"/>
+<area shape="poly" id="edge26_Node000014_Node000023" title=" " alt="" coords="901,557,919,542,942,503,950,465,948,427,942,390,935,352,934,314,943,274,966,234,968,236,972,232,971,237,948,276,939,314,941,352,947,389,954,427,955,465,947,505,923,545,904,562"/>
+<area shape="rect" id="Node000024" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_ab148760f6a835c51c09b36014330e231.html#ab148760f6a835c51c09b36014330e231" title=" " alt="" coords="972,456,1152,501"/>
+<area shape="poly" id="edge28_Node000014_Node000024" title=" " alt="" coords="884,557,919,541,967,511,983,506,978,509,970,515,922,546,887,562"/>
+<area shape="rect" id="Node000025" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_adca335b78b305d3041e53f59eb12a7c6.html#adca335b78b305d3041e53f59eb12a7c6" title=" " alt="" coords="972,248,1152,293"/>
+<area shape="poly" id="edge29_Node000014_Node000025" title=" " alt="" coords="901,557,919,542,937,512,945,483,945,454,942,424,938,395,939,365,947,334,967,303,968,305,972,301,971,307,952,337,944,366,944,395,947,424,951,453,950,483,942,514,923,545,904,562"/>
+<area shape="rect" id="Node000026" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_ae6ed06ae5127e6ddfe2aa747e33441cc.html#ae6ed06ae5127e6ddfe2aa747e33441cc" title=" " alt="" coords="972,525,1152,570"/>
+<area shape="poly" id="edge31_Node000014_Node000026" title=" " alt="" coords="920,565,959,562,954,564,922,570"/>
+<area shape="rect" id="Node000027" href="$namespaceMayaFlux_1_1Kriya_a97655abaacba4b18fa5d36cb2afececd.html#a97655abaacba4b18fa5d36cb2afececd" title="Creates an Event coroutine that triggers on mouse drag with specific button." alt="" coords="973,595,1152,639"/>
+<area shape="poly" id="edge32_Node000014_Node000027" title=" " alt="" coords="921,594,960,601,955,603,922,599"/>
+<area shape="rect" id="Node000028" href="$namespaceMayaFlux_1_1Kriya_a3865277b1ccf9ef433f9797fc4bb70cb.html#a3865277b1ccf9ef433f9797fc4bb70cb" title="Creates an Event coroutine that triggers on mouse movement." alt="" coords="973,664,1152,709"/>
+<area shape="poly" id="edge33_Node000014_Node000028" title=" " alt="" coords="867,602,970,649,987,658,982,658,968,654,867,608"/>
+<area shape="rect" id="Node000029" href="$namespaceMayaFlux_1_1Kriya_a61d0d58f158de776ac8a832d194e31bd.html#a61d0d58f158de776ac8a832d194e31bd" title="Creates an Event coroutine that triggers on specific mouse button press." alt="" coords="973,733,1152,778"/>
+<area shape="poly" id="edge34_Node000014_Node000029" title=" " alt="" coords="841,602,896,660,932,691,970,719,980,726,975,726,967,723,928,695,893,664,840,608"/>
+<area shape="rect" id="Node000030" href="$namespaceMayaFlux_1_1Kriya_a55759930e6bca7daaa6ab7c21107a325.html#a55759930e6bca7daaa6ab7c21107a325" title="Creates an Event coroutine that triggers on specific mouse button release." alt="" coords="973,803,1152,847"/>
+<area shape="poly" id="edge35_Node000014_Node000030" title=" " alt="" coords="833,603,855,643,885,693,924,744,970,788,977,795,972,794,967,792,920,747,880,696,850,646,831,608"/>
+<area shape="rect" id="Node000031" href="$namespaceMayaFlux_1_1Kriya_a454b114a833332a3d166874f702a0908.html#a454b114a833332a3d166874f702a0908" title="Creates an Event coroutine that triggers on mouse scroll." alt="" coords="973,872,1152,917"/>
+<area shape="poly" id="edge36_Node000014_Node000031" title=" " alt="" coords="828,603,847,656,875,724,916,795,942,828,970,858,975,863,970,862,967,862,938,832,912,798,870,726,842,658,826,608"/>
+<area shape="rect" id="Node000032" href="$namespaceMayaFlux_1_1Kriya_adca430571f9bdbee5414093b615bdd32.html#adca430571f9bdbee5414093b615bdd32" title="Creates an Event coroutine that triggers on resolved text input." alt="" coords="982,941,1143,986"/>
+<area shape="poly" id="edge37_Node000014_Node000032" title=" " alt="" coords="826,603,840,668,866,754,885,800,909,846,937,889,971,927,975,933,970,932,967,931,933,892,904,849,880,803,861,756,835,669,824,608"/>
+<area shape="rect" id="Node000033" href="$namespaceMayaFlux_1_1Kriya_a4e4e5b51b4028dfb19e59cf11ebdf969.html#a4e4e5b51b4028dfb19e59cf11ebdf969" title="Creates an Event coroutine that triggers on window close." alt="" coords="970,1011,1155,1055"/>
+<area shape="poly" id="edge38_Node000014_Node000033" title=" " alt="" coords="824,603,835,679,858,784,877,840,901,897,932,950,971,997,974,1002,969,1000,967,1000,928,953,896,899,872,842,853,785,829,680,822,608"/>
+<area shape="rect" id="Node000034" href="$namespaceMayaFlux_1_1Kriya_a741ee0126d62b57bf8c37c4157808dcd.html#a741ee0126d62b57bf8c37c4157808dcd" title="Creates an Event coroutine that triggers on window resize." alt="" coords="970,1080,1155,1125"/>
+<area shape="poly" id="edge39_Node000014_Node000034" title=" " alt="" coords="823,603,830,690,837,748,850,812,868,880,894,947,927,1010,971,1066,974,1071,969,1069,967,1069,923,1013,889,949,863,881,845,814,832,749,824,690,820,607"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_aeaa680440ab8606a4f40760f0960dd41.html#aeaa680440ab8606a4f40760f0960dd41" title=" " alt="" coords="1204,75,1393,119"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1152,73,1191,80,1186,82,1153,78"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a992390bf2d036977f743369b10f07b65.html#a992390bf2d036977f743369b10f07b65" title=" " alt="" coords="1208,5,1389,50"/>
+<area shape="poly" id="edge19_Node000015_Node000018" title=" " alt="" coords="1152,47,1195,42,1191,44,1154,52"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_aa13e7ea257f9fd23e7c17542bd72bdd9.html#aa13e7ea257f9fd23e7c17542bd72bdd9" title=" " alt="" coords="1441,75,1635,119"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1393,94,1428,96,1423,98,1395,100"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_abf2f431507680fecfe7de1fe4522958e.html#abf2f431507680fecfe7de1fe4522958e" title=" " alt="" coords="1208,248,1389,293"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="1140,314,1208,296,1203,299,1142,319"/>
+<area shape="poly" id="edge23_Node000021_Node000020" title=" " alt="" coords="1130,384,1155,372,1210,337,1257,304,1262,301,1213,341,1157,377,1133,388"/>
+<area shape="poly" id="edge25_Node000022_Node000020" title=" " alt="" coords="1131,152,1157,164,1213,199,1262,238,1257,238,1210,204,1155,169,1132,157"/>
+<area shape="poly" id="edge27_Node000023_Node000020" title=" " alt="" coords="1140,221,1208,242,1203,244,1141,227"/>
+<area shape="poly" id="edge30_Node000025_Node000020" title=" " alt="" coords="1152,268,1196,269,1191,271,1153,273"/>
+<area shape="rect" id="Node000036" href="$classMayaFlux_1_1Portal_1_1Forma_1_1Context_a741021dcc0b156901e034adb9178f3af.html#a741021dcc0b156901e034adb9178f3af" title=" " alt="" coords="721,436,919,481"/>
+<area shape="poly" id="edge41_Node000035_Node000036" title=" " alt="" coords="661,491,709,482,704,485,663,496"/>
+<area shape="rect" id="Node000037" href="$namespaceMayaFlux_1_1Kriya_a53f50e57b6d4c568f9f9a4edbfbdf077.html#a53f50e57b6d4c568f9f9a4edbfbdf077" title="Creates an Event coroutine that triggers on key press and repeats while held." alt="" coords="723,504,917,532"/>
+<area shape="poly" id="edge42_Node000035_Node000037" title=" " alt="" coords="661,512,710,515,705,517,663,517"/>
+</map>

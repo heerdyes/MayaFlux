@@ -1,0 +1,32 @@
+<map id="MayaFlux::Buffers::StreamSliceProcessor::~StreamSliceProcessor" name="MayaFlux::Buffers::StreamSliceProcessor::~StreamSliceProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,241,187,302"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_a58f23e1ce8e24fc0f6f133fe11166f1e.html#a58f23e1ce8e24fc0f6f133fe11166f1e" title="Activate a slot, resetting its processor cursor to region start." alt="" coords="235,5,433,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,239,129,201,157,155,192,108,233,67,252,56,249,60,236,71,196,112,161,158,134,203,114,241"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_afa1566707ecd714c295c681ad1b989b4.html#afa1566707ecd714c295c681ad1b989b4" title=" " alt="" coords="488,57,650,118"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="112,240,132,207,160,172,194,138,233,111,292,88,355,77,416,72,475,75,470,77,417,78,356,82,294,94,236,115,197,142,164,175,136,210,116,242"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_a7596c6aa145433b44ad9ae1532eb209a.html#a7596c6aa145433b44ad9ae1532eb209a" title="Checks if this processor can handle the specified buffer type." alt="" coords="253,125,415,186"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,238,233,196,247,192,243,195,236,201,155,242"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_ae239eaa6391fc18b82d4e96e6873dde2.html#ae239eaa6391fc18b82d4e96e6873dde2" title="Assign a StreamSlice to a slot." alt="" coords="235,211,433,255"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,255,221,250,217,253,189,259"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_a4d90149629d432046d55a734cac89784.html#a4d90149629d432046d55a734cac89784" title="Called when this processor is attached to a buffer." alt="" coords="253,280,415,341"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="186,284,240,293,235,296,188,289"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_a868e2e4d23f51adf755bb6abd0e51628.html#a868e2e4d23f51adf755bb6abd0e51628" title="Called when this processor is detached from a buffer." alt="" coords="253,365,415,426"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="147,300,236,351,247,357,242,358,233,355,147,306"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_aeb52c4588f37dd76af5a2e8cb3722717.html#aeb52c4588f37dd76af5a2e8cb3722717" title="The core processing function that must be implemented by derived classes." alt="" coords="253,450,415,512"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="117,300,168,368,200,404,236,436,242,442,237,442,233,440,196,408,164,372,116,306"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_a20a0e203bc9ea64cf96291e3c16e81d7.html#a20a0e203bc9ea64cf96291e3c16e81d7" title="Deactivate a slot, stopping its processor without resetting the cursor." alt="" coords="253,536,415,597"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="107,300,127,350,154,408,190,468,212,497,236,522,242,529,237,528,233,526,208,500,186,472,149,411,122,352,107,306"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,48,475,62,470,64,425,53"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="407,208,432,196,481,163,527,127,523,131,484,167,434,201,410,212"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1StreamSliceProcessor_a0c2422bb0402fb0a6bbaaabfd807561f.html#a0c2422bb0402fb0a6bbaaabfd807561f" title=" " alt="" coords="488,284,650,345"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="400,253,476,281,471,282,401,259"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="414,365,476,346,471,348,416,370"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kakshya_ab234d163b33153f8df7e2a95f95f500e.html#ab234d163b33153f8df7e2a95f95f500e" title="Extract one channel&#39;s samples from a processed dynamic data block." alt="" coords="481,459,657,503"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="415,478,468,481,463,481,416,484"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kakshya_a446e512dc040ea0ab603d860100224a8.html#a446e512dc040ea0ab603d860100224a8" title="Get typed span from DataVariant using concepts." alt="" coords="705,459,864,503"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="657,478,692,481,687,481,658,484"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="912,459,1069,503"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="864,478,899,481,893,481,864,484"/>
+<area shape="rect" id="Node000013" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="1117,459,1290,503"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1069,478,1104,481,1099,481,1070,484"/>
+</map>

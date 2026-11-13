@@ -1,0 +1,12 @@
+<map id="MayaFlux::Kakshya::TextureContainer::upload_image" name="MayaFlux::Kakshya::TextureContainer::upload_image">
+<area shape="rect" id="Node000001" title="Upload one layer into an existing VKImage instead of creating one." alt="" coords="794,56,1027,101"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_afcfb20ff8c50fd15d2ceade3572e0fc3.html#afcfb20ff8c50fd15d2ceade3572e0fc3" title="The container&#39;s pixels as a GPU image, without allocating one per call." alt="" coords="262,56,514,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,71,746,72,562,72,514,74,514,69,562,67,746,67,782,71"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_ae6da83952a5d8cd008ed1230b5d0c86e.html#ae6da83952a5d8cd008ed1230b5d0c86e" title="Upload all layers into an existing VKImage instead of creating one." alt="" coords="562,81,746,143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="781,96,747,103,747,97,776,96"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a2db6a6533f028f5a3cd5c51301bd1e25.html#a2db6a6533f028f5a3cd5c51301bd1e25" title="Stages the pending TextureContainer at the declared input image binding and, in CONTAINER or IMAGE mo..." alt="" coords="5,5,214,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,58,214,55,214,49,249,57"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a900b552562b4745ff6a9cbf645b3f152.html#a900b552562b4745ff6a9cbf645b3f152" title="Stage a TextureContainer layer at the declared input image binding." alt="" coords="15,91,204,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,101,205,110,204,104,249,100"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="544,99,514,97,514,92,549,99"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MayaFlux::Kinesis::backward_difference" name="MayaFlux::Kinesis::backward_difference">
+<area shape="rect" id="Node000001" title="Convenience overload of backward_difference&lt;N&gt; over a raw span." alt="" coords="5,40,162,85"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_adae7c1fd68fa3eefdd9b0abf2731bbed.html#adae7c1fd68fa3eefdd9b0abf2731bbed" title="N&#45;th order backward finite difference of a HistoryBuffer, scaled by dt^N." alt="" coords="210,5,366,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,46,197,43,192,44,163,52"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_aae6dffc5cfe80ea00f71912d98c8c45e.html#aae6dffc5cfe80ea00f71912d98c8c45e" title="Build a HistoryBuffer&lt;T&gt; from a newest&#45;first span." alt="" coords="214,75,362,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,73,201,82,196,82,162,78"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Memory_1_1HistoryBuffer_a6f256636f3f3fc99269c77a8dc096b09.html#a6f256636f3f3fc99269c77a8dc096b09" title="Push new value to front of history." alt="" coords="414,75,615,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="362,94,401,97,396,97,363,100"/>
+</map>

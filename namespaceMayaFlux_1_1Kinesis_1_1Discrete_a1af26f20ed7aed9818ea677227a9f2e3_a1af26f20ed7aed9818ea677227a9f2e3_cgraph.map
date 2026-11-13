@@ -1,0 +1,10 @@
+<map id="MayaFlux::Kinesis::Discrete::estimate_frequency" name="MayaFlux::Kinesis::Discrete::estimate_frequency">
+<area shape="rect" id="Node000001" title="Estimate the dominant cycle frequency of a sampled signal." alt="" coords="5,29,219,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="66,28,65,19,73,10,88,5,112,3,138,5,155,14,150,15,137,10,112,8,89,10,75,15,70,21,71,29"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a64bfe6458a57047ea3c126b2b27da092.html#a64bfe6458a57047ea3c126b2b27da092" title="Zero output below threshold, pass through above." alt="" coords="487,29,635,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="219,32,266,28,353,23,439,28,474,34,469,34,439,33,353,29,267,33,220,38"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_1_1Discrete_a3735f1ad5f405ceccbbe66cc73d4d3bd.html#a3735f1ad5f405ceccbbe66cc73d4d3bd" title="Sample indices of zero crossings in the full span." alt="" coords="267,66,439,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="219,69,254,78,249,78,219,74"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="439,76,469,71,474,71,440,81"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="312,64,313,56,320,47,334,41,353,40,375,42,390,52,384,52,373,47,353,45,335,47,323,51,317,58,316,68"/>
+</map>

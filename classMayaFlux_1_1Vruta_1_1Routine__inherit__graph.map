@@ -1,0 +1,11 @@
+<map id="MayaFlux::Vruta::Routine" name="MayaFlux::Vruta::Routine">
+<area shape="rect" id="Node000001" title="Base class for all coroutine types in the MayaFlux engine." alt="" coords="362,5,541,413"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1CrossRoutine.html" title="Coroutine resumed by more than one clock." alt="" coords="5,469,217,810"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,318,292,388,232,462,219,479,215,476,228,459,288,385,354,314"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1FreeRoutine.html" title="Coroutine resumed when a caller&#45;supplied condition becomes true." alt="" coords="241,469,445,810"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="398,424,388,471,383,469,395,429"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1GraphicsRoutine.html" title="A C++20 coroutine&#45;based graphics processing task with frame&#45;accurate timing." alt="" coords="469,461,652,818"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="508,425,518,462,513,460,506,430"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Vruta_1_1SoundRoutine.html" title="A C++20 coroutine&#45;based audio processing task with sample&#45;accurate timing." alt="" coords="675,469,891,810"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="551,319,667,459,678,476,673,475,662,462,550,324"/>
+</map>

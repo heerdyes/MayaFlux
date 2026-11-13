@@ -1,0 +1,13 @@
+<map id="MayaFlux::Registry::BackendRegistry::register_service" name="MayaFlux::Registry::BackendRegistry::register_service">
+<area shape="rect" id="Node000001" title="Register a backend service capability." alt="" coords="582,66,777,128"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a2ada5fcceecc70a2a49005d51d1977ee.html#a2ada5fcceecc70a2a49005d51d1977ee" title=" " alt="" coords="294,5,534,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,68,502,53,502,48,569,67"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a01dbf8ce65895095c4d33540625c6f63.html#a01dbf8ce65895095c4d33540625c6f63" title="Setup an IOService for this reader with the given reader_id." alt="" coords="304,75,524,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="564,97,524,100,524,94,569,97"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1VideoFileReader_ad5d3f1e3445da9ccf1dbe583e8609e28.html#ad5d3f1e3445da9ccf1dbe583e8609e28" title="Internal setup for IOService integration." alt="" coords="303,144,524,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="569,126,503,146,502,141,564,127"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a03b7942476858271242fc8372d84f0f2.html#a03b7942476858271242fc8372d84f0f2" title="Initialize audio processing with provided handle." alt="" coords="5,5,246,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,29,247,30,246,25,280,27"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1FFmpegCameraReader_a55e042adf4dc9a98e9d7afa2005f9d69.html#a55e042adf4dc9a98e9d7afa2005f9d69" title=" " alt="" coords="16,75,235,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="286,98,236,100,235,94,291,96"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="MayaFlux::Nexus::Expanse::contains" name="MayaFlux::Nexus::Expanse::contains">
+<area shape="rect" id="Node000001" title="Test whether a world position lies within the Expanse." alt="" coords="721,144,919,189"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Expanse_adda82628b25cbdb59e957050e2252c12.html#adda82628b25cbdb59e957050e2252c12" title="Evaluate a spatial snapshot from one Fabric against this Expanse." alt="" coords="476,5,673,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="777,134,729,100,672,65,648,53,648,48,675,60,732,95,783,134"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nexus_1_1Expanse_a9e569d2199d4f01d4b26c88d6e04da20.html#a9e569d2199d4f01d4b26c88d6e04da20" title="Construct with a containment predicate only, for an Expanse whose behaviour comes from typed actions." alt="" coords="476,75,673,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="721,139,656,123,656,117,726,139"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Expanse_aea078199152d08aedacce595a22ad1e2.html#aea078199152d08aedacce595a22ad1e2" title="Construct with a containment predicate and crossing actions." alt="" coords="476,144,673,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="703,167,674,169,674,164,709,166"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nexus_1_1Expanse_af82e2a4a33a12437c5a1d79cfe829ebc.html#af82e2a4a33a12437c5a1d79cfe829ebc" title="Construct with a named containment predicate and crossing actions." alt="" coords="476,213,673,258"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="726,193,657,215,656,210,721,194"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Nexus_1_1Expanse_a92ecc2514a67e227c70192cfeeb5bed4.html#a92ecc2514a67e227c70192cfeeb5bed4" title="Construct with named containment predicate and named crossing actions." alt="" coords="476,283,673,327"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="783,198,732,237,675,273,648,285,647,279,672,268,729,233,778,199"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nexus_1_1Hull_a14871897f3b4587e6f93d625faffaddc.html#a14871897f3b4587e6f93d625faffaddc" title="Build from a buffer." alt="" coords="250,109,418,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="458,150,419,146,419,141,463,149"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Mantle_aec56a122cb88646533bdf80a02613451.html#aec56a122cb88646533bdf80a02613451" title="Build from a box and a buffer." alt="" coords="241,179,428,223"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="458,183,429,190,428,185,463,182"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nexus_1_1Mantle_a9b03373b72cbb832cdec97dd23e6571a.html#a9b03373b72cbb832cdec97dd23e6571a" title=" " alt="" coords="5,75,193,119"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="249,172,239,169,215,151,191,134,168,123,167,117,194,129,218,147,242,164,254,172"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nexus_1_1Mantle_abdff428d6aa15c8f1c0576132c332394.html#abdff428d6aa15c8f1c0576132c332394" title=" " alt="" coords="5,144,193,189"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="223,186,194,183,193,178,228,184"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Mantle_adf0d47392e6e46ea37b4fa247682a91a.html#adf0d47392e6e46ea37b4fa247682a91a" title=" " alt="" coords="5,213,193,258"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="223,218,194,224,192,219,228,216"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nexus_1_1Mantle_acb6c9cad8eff8c689c204da285f12234.html#acb6c9cad8eff8c689c204da285f12234" title=" " alt="" coords="5,283,193,327"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="279,230,194,273,165,285,163,280,192,268,274,231"/>
+</map>

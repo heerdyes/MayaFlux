@@ -1,0 +1,16 @@
+<map id="MayaFlux::Buffers::BufferInputControl::~BufferInputControl" name="MayaFlux::Buffers::BufferInputControl::~BufferInputControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,211,157,272"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferInputControl_ab7a1d6f7abb2719f1316dff169ace30b.html#ab7a1d6f7abb2719f1316dff169ace30b" title="Gets the number of audio input channels." alt="" coords="205,5,431,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,209,139,143,169,108,203,77,211,73,208,77,206,81,173,111,144,146,101,212"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferInputControl_a41af23172333f8f90fc7158f7bd7124a.html#a41af23172333f8f90fc7158f7bd7124a" title="Gets the buffer size for audio input buffers." alt="" coords="244,91,392,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,208,203,162,231,151,227,155,206,167,129,212"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BufferInputControl_a1c92b06bc31c289cc4032f943ae301c2.html#a1c92b06bc31c289cc4032f943ae301c2" title="Processes incoming audio input data into input buffers." alt="" coords="241,176,395,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,228,227,219,223,222,158,233"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1BufferInputControl_a0c48bcb1dd6f96ec9663913fb613cd17.html#a0c48bcb1dd6f96ec9663913fb613cd17" title="Sets up audio input buffers." alt="" coords="479,211,671,272"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="156,245,205,247,318,249,431,247,466,248,461,249,431,252,318,254,205,252,158,250"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1BufferInputControl_a093ab354433e8ccb0f168d2eeba29663.html#a093ab354433e8ccb0f168d2eeba29663" title="Registers a buffer as a listener to an input channel." alt="" coords="241,313,395,392"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,270,229,309,224,311,149,276"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1BufferInputControl_ad8e166dff9df05cb7703ee6f737c830d.html#ad8e166dff9df05cb7703ee6f737c830d" title="Unregisters a buffer from an input channel." alt="" coords="233,416,403,494"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="100,270,145,335,174,370,206,401,222,414,217,413,203,405,170,374,141,339,99,275"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="395,215,466,226,461,227,396,220"/>
+</map>

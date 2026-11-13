@@ -1,0 +1,20 @@
+<map id="MayaFlux::Nodes::ChainNode::process_batch" name="MayaFlux::Nodes::ChainNode::process_batch">
+<area shape="rect" id="Node000001" title="Processes multiple samples at once." alt="" coords="5,179,219,223"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1ChainNode_a6c75109f5288690e52abf73747ac590b.html#a6c75109f5288690e52abf73747ac590b" title="Processes a single data sample." alt="" coords="267,179,480,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,198,254,200,249,202,220,204"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nodes_a2b661b58f860423fa6cf1d12c5accbd8.html#a2b661b58f860423fa6cf1d12c5accbd8" title="Atomically adds a flag to a node state." alt="" coords="541,5,728,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,176,449,119,486,87,527,60,540,56,536,58,529,65,489,92,453,123,396,180"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Nodes_aa4e4a2ece2a22b6774a5978e557ea25e.html#aa4e4a2ece2a22b6774a5978e557ea25e" title="Atomically decrements the modulator count by a specified amount." alt="" coords="541,75,728,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="421,176,527,129,549,124,544,126,529,134,423,181"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Nodes_a7d0374eb13e0238f520338b13823a627.html#a7d0374eb13e0238f520338b13823a627" title="Atomically increments the modulator count by a specified amount." alt="" coords="541,144,728,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="480,184,528,180,523,182,481,189"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1ChainNode_a218d8c8509ee92e129b3f0655765522e.html#a218d8c8509ee92e129b3f0655765522e" title="Initializes the chain node." alt="" coords="528,213,741,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="480,213,515,219,510,220,481,218"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1ChainNode_aff6d923b86874b1e0b0350d5f7074f28.html#aff6d923b86874b1e0b0350d5f7074f28" title=" " alt="" coords="528,283,741,327"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="422,221,529,268,549,277,543,277,527,273,421,227"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Nodes_a7c82f258078606084a01f72dfba3bb92.html#a7c82f258078606084a01f72dfba3bb92" title="Attempts to reset the processed state of a node." alt="" coords="548,352,722,397"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="395,221,453,279,489,310,529,337,541,346,536,345,527,342,486,315,449,283,393,226"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Nodes_a59d09b556b30502af09a3682481b8560.html#a59d09b556b30502af09a3682481b8560" title="Extracts active channel list from a node&#39;s channel mask." alt="" coords="789,213,953,258"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="742,233,776,235,771,236,742,238"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="826,211,825,203,832,194,848,189,871,187,897,189,913,198,908,198,895,194,871,192,849,194,835,199,830,205,831,214"/>
+</map>

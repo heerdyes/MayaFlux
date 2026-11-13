@@ -1,0 +1,32 @@
+<map id="MayaFlux::Yantra::GpuDispatchCore::dispatch_core_dependency_async" name="MayaFlux::Yantra::GpuDispatchCore::dispatch_core_dependency_async">
+<area shape="rect" id="Node000001" title="Non&#45;blocking variant of dispatch_core_dependency." alt="" coords="5,204,286,248"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a06f96b51d3f8f9f223f04781c8a2c6a9.html#a06f96b51d3f8f9f223f04781c8a2c6a9" title=" " alt="" coords="334,204,558,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,224,320,225,315,227,287,229"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ac0aed196a6b6f079763718a68a97925a.html#ac0aed196a6b6f079763718a68a97925a" title=" " alt="" coords="614,44,839,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,201,527,150,565,122,605,98,622,93,617,96,607,103,568,127,530,154,472,206"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a73fff9156201c282780b637feeb7f7e1.html#a73fff9156201c282780b637feeb7f7e1" title="The key used for this context&#39;s GpuResourceManager unit." alt="" coords="895,49,1120,94"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="455,202,476,162,509,113,552,66,577,45,605,29,647,14,691,5,736,3,780,5,865,20,939,43,934,44,864,25,780,10,736,8,691,11,648,19,607,34,580,50,555,69,513,116,481,165,459,205"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a2577ffae6a66aa71bb8bd072d7845499.html#a2577ffae6a66aa71bb8bd072d7845499" title="Calculate workgroup dispatch counts from structure dimensions." alt="" coords="614,302,839,347"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="501,246,607,288,631,297,625,297,605,293,500,252"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_af387940eb126638c393e0ad18760bbdf.html#af387940eb126638c393e0ad18760bbdf" title="Declare the storage buffers the shader expects." alt="" coords="895,129,1120,174"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="558,209,882,167,877,170,559,214"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a8f1830a9946ac5ab0568192027de1d1b.html#a8f1830a9946ac5ab0568192027de1d1b" title="Ensure GPU resources are initialised." alt="" coords="614,113,839,158"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="517,201,643,162,638,164,519,206"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a1970a685a73c497d71408e5adf706613.html#a1970a685a73c497d71408e5adf706613" title=" " alt="" coords="614,371,839,433"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="470,246,530,301,567,331,607,357,617,364,612,364,605,362,564,335,526,305,468,251"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ac2c2749002d9ed840fbb847f719d1d58.html#ac2c2749002d9ed840fbb847f719d1d58" title="Marshal channel data into GPU input buffers." alt="" coords="614,233,839,278"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="558,235,601,242,596,243,559,240"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ae56cfc2946399194ee00d93d88ff3c53.html#ae56cfc2946399194ee00d93d88ff3c53" title=" " alt="" coords="606,457,847,502"/>
+<area shape="poly" id="edge17_Node000002_Node000013" title=" " alt="" coords="458,246,481,290,514,342,556,397,581,421,608,443,616,450,611,449,604,447,577,425,552,400,509,345,477,292,456,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="839,66,882,68,877,70,840,71"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="827,110,894,97,889,99,828,115"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="839,139,882,144,877,145,840,144"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="763,230,803,202,845,168,868,141,878,128,894,115,921,102,925,99,897,119,882,132,873,144,849,172,807,206,765,235"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_aec7dde4d2ab8c83d5e3633e516fe8f27.html#aec7dde4d2ab8c83d5e3633e516fe8f27" title="Flatten planar double channels into m_staging_floats." alt="" coords="895,219,1120,281"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="839,251,882,252,877,253,840,256"/>
+<area shape="rect" id="Node000012" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a3dfde9825905a794a0c903e55236ec1f.html#a3dfde9825905a794a0c903e55236ec1f" title=" " alt="" coords="920,329,1095,390"/>
+<area shape="poly" id="edge15_Node000009_Node000012" title=" " alt="" coords="812,276,848,288,928,322,923,322,846,293,812,281"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kakshya_aad7719e4acdefe05f4f105ee1b688039.html#aad7719e4acdefe05f4f105ee1b688039" title="Check if a modality represents structured data (vectors, matrices)." alt="" coords="1168,228,1338,272"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="1120,247,1155,250,1149,250,1121,253"/>
+<area shape="poly" id="edge16_Node000012_Node000012" title=" " alt="" coords="960,327,961,318,970,309,985,304,1008,302,1033,305,1050,315,1045,314,1032,310,1007,307,986,309,972,314,965,320,964,330"/>
+</map>

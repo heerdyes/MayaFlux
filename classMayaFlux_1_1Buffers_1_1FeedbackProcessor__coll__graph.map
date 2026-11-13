@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::FeedbackProcessor" name="MayaFlux::Buffers::FeedbackProcessor">
+<area shape="rect" id="Node000001" title="Processor implementing delay&#45;line feedback via HistoryBuffer." alt="" coords="74,978,240,1246"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor.html" title="Central computational transformation interface for continuous buffer processing." alt="" coords="5,536,183,826"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,839,140,978,135,978,117,844"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Memory_1_1HistoryBuffer.html" title=" " alt="" coords="207,480,398,882"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,880,210,963,205,960,233,884"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Memory_1_1HistoryBuffer.html" title="History buffer for difference equations and recursive relations." alt="" coords="207,5,398,407"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,420,305,481,300,480,302,425"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MayaFlux::Kinesis::TimeMaps::triangle" name="MayaFlux::Kinesis::TimeMaps::triangle">
+<area shape="rect" id="Node000001" title="Triangle wave between two positions." alt="" coords="5,40,154,85"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a08df2d12a39402b7ae69fcc47963bb88.html#a08df2d12a39402b7ae69fcc47963bb88" title="Ping&#45;pong (triangle wave): fold x back and forth in [lo, hi]." alt="" coords="202,5,350,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,47,189,43,184,44,155,52"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a26c65f0ec04f0fddefa1e3846124bcd4.html#a26c65f0ec04f0fddefa1e3846124bcd4" title="First difference: rate of change of position." alt="" coords="202,75,350,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,73,189,81,183,81,154,78"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_adae7c1fd68fa3eefdd9b0abf2731bbed.html#adae7c1fd68fa3eefdd9b0abf2731bbed" title="N&#45;th order backward finite difference of a HistoryBuffer, scaled by dt^N." alt="" coords="398,75,554,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="350,94,385,97,380,97,350,100"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="MayaFlux::Kriya::TapSetBuilder::current" name="MayaFlux::Kriya::TapSetBuilder::current">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,264,530,309"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a1a500e43407bd9a2c8d3f283409f785b.html#a1a500e43407bd9a2c8d3f283409f785b" title="Read the current tap backwards from the end of the region." alt="" coords="19,5,244,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,249,375,208,344,157,304,107,256,64,238,53,236,48,259,60,308,103,348,154,380,205,403,250"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a3fa34fbbe7be2fb4f790a7ee74386f33.html#a3fa34fbbe7be2fb4f790a7ee74386f33" title="Seconds after start() before the current tap enters." alt="" coords="19,75,244,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="388,252,332,192,296,161,256,134,234,122,232,117,259,129,299,157,335,189,393,252"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a237211640360d275bc1c0c138fe0658a.html#a237211640360d275bc1c0c138fe0658a" title="Source channel the current tap plays on every output." alt="" coords="19,144,244,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,257,314,230,257,203,225,192,224,187,259,199,316,225,369,255"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_ab1034b91767c5590fa1a0260b2b1a4d6.html#ab1034b91767c5590fa1a0260b2b1a4d6" title="Make the current tap trail a live ring by a lag that follows a time map." alt="" coords="5,212,258,240"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="295,261,257,254,206,243,204,238,258,249,300,259"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_aeaa6d28edbb2e2debb214987446ad464.html#aeaa6d28edbb2e2debb214987446ad464" title="Linear gain of the current tap on each of its outputs." alt="" coords="19,264,244,309"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="288,288,245,289,243,284,292,285"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a82496ac6ad888fd4732a1bb62981bd33.html#a82496ac6ad888fd4732a1bb62981bd33" title="Output channel of the current tap." alt="" coords="19,333,244,378"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="306,314,228,335,225,330,310,311"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a7bd53f680dfa8a2e1eb996e66c18c5f7.html#a7bd53f680dfa8a2e1eb996e66c18c5f7" title="Several output channels for the current tap, which stay in step." alt="" coords="19,403,244,447"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="374,320,322,358,259,393,229,404,226,400,257,388,320,353,378,317"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_ab7519a3ab5e4d0445099b810b25c395c.html#ab7519a3ab5e4d0445099b810b25c395c" title="Restart the current tap with a repeat length that follows a time map." alt="" coords="19,472,244,517"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="395,320,339,394,301,431,259,462,236,474,233,469,256,457,298,427,335,390,391,323"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a7af2feb063488094e7178148586d3021.html#a7af2feb063488094e7178148586d3021" title="Speed of the current tap relative to the source." alt="" coords="19,541,244,586"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="404,321,383,372,351,427,310,483,286,509,259,531,239,543,237,538,256,527,282,505,306,480,347,425,378,369,401,325"/>
+</map>

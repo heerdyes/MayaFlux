@@ -1,0 +1,14 @@
+<map id="MayaFlux::IO::FFmpegDemuxContext::is_open" name="MayaFlux::IO::FFmpegDemuxContext::is_open">
+<area shape="rect" id="Node000001" title="True if the format context is open and stream info was found." alt="" coords="500,75,715,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1AudioStreamContext_a463593071a0c4d4e507166a78a43ff45.html#a463593071a0c4d4e507166a78a43ff45" title="Open the audio stream from an already&#45;probed demux context." alt="" coords="253,5,452,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,70,437,53,437,48,511,70"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_afc3578ec70340ca93f0e5871e58f9356.html#afc3578ec70340ca93f0e5871e58f9356" title="Open the video stream from an already&#45;probed demux context." alt="" coords="253,75,452,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="482,97,453,100,452,94,487,97"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a05609c7f47345d8bc63c9f95c6906e99.html#a05609c7f47345d8bc63c9f95c6906e99" title="Open codec only, without initialising the SwsContext scaler." alt="" coords="253,144,452,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="511,123,438,146,437,141,506,124"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1AudioStreamContext_a3fadcf1560c64189da1c5a62d299a373.html#a3fadcf1560c64189da1c5a62d299a373" title=" " alt="" coords="5,5,205,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,29,206,30,204,25,240,27"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1VideoStreamContext_a5a5ad532a1f914770743a203e766c9d7.html#a5a5ad532a1f914770743a203e766c9d7" title=" " alt="" coords="5,109,205,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,114,206,120,205,115,240,112"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="234,150,205,148,205,143,240,150"/>
+</map>

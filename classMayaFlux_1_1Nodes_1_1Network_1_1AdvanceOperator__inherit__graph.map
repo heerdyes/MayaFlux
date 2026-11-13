@@ -1,0 +1,7 @@
+<map id="MayaFlux::Nodes::Network::AdvanceOperator" name="MayaFlux::Nodes::Network::AdvanceOperator">
+<area shape="rect" id="Node000001" title="Produces every slot&#39;s signal for the block." alt="" coords="5,610,192,833"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1RelationOperator.html" title="Operator that acts on a network&#39;s slots over one block at a time." alt="" coords="5,294,192,562"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,574,101,610,96,609,98,579"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NetworkOperator.html" title="Domain&#45;agnostic interpretive lens for network processing." alt="" coords="5,5,192,246"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,258,101,294,96,294,98,264"/>
+</map>

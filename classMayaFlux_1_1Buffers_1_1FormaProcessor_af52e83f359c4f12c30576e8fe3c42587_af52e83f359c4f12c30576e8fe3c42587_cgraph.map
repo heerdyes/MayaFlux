@@ -1,0 +1,18 @@
+<map id="MayaFlux::Buffers::FormaProcessor::on_attach" name="MayaFlux::Buffers::FormaProcessor::on_attach">
+<area shape="rect" id="Node000001" title="Called when this processor is attached to a buffer." alt="" coords="5,156,203,201"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_a64c6abe8842e398d178e4275a4d4b404.html#a64c6abe8842e398d178e4275a4d4b404" title="Create staging buffer for transfers." alt="" coords="265,52,428,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,154,250,107,268,102,264,105,252,112,152,158"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a35c3aa5d9780535ccc1391e60789260c.html#a35c3aa5d9780535ccc1391e60789260c" title="Factory: layout for LineVertex (position, color, thickness, uv, normal, tangent)." alt="" coords="261,122,432,166"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="202,162,248,157,243,160,204,167"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a7b7a30b2a13cb2676713a352f298f607.html#a7b7a30b2a13cb2676713a352f298f607" title="Factory: layout for MeshVertex (position, color, weight, uv, normal, tangent)." alt="" coords="251,191,442,236"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="203,190,238,197,233,198,203,196"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_ad0ac6ab6a88dd81d2ac8acda3c5c15bd.html#ad0ac6ab6a88dd81d2ac8acda3c5c15bd" title="Factory: layout for PointVertex (position, color, size, uv, normal, tangent)." alt="" coords="256,260,436,305"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="151,199,252,246,269,255,264,254,250,251,150,204"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="507,5,673,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,59,494,51,489,53,429,65"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="490,91,690,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="428,85,477,95,472,96,428,90"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="738,83,939,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="690,111,726,113,720,114,691,116"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="790,81,791,72,800,63,816,58,839,56,865,59,882,69,877,68,863,64,838,61,817,63,803,68,796,75,794,84"/>
+</map>

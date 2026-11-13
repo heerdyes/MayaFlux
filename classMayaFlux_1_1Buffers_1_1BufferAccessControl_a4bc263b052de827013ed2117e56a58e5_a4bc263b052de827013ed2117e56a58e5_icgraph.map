@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::BufferAccessControl::ensure_audio_channels" name="MayaFlux::Buffers::BufferAccessControl::ensure_audio_channels">
+<area shape="rect" id="Node000001" title="Ensures minimum number of audio channels exist for a token." alt="" coords="685,124,867,186"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferAccessControl_a6be98ac3f4f6e9111f4f13241e5fdefe.html#a6be98ac3f4f6e9111f4f13241e5fdefe" title="Adds an audio buffer to a token and channel." alt="" coords="485,56,637,118"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="668,121,638,114,638,108,673,121"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BufferAccessControl_ada43e0f0caef32aeecc0abbdb33ed4a4.html#ada43e0f0caef32aeecc0abbdb33ed4a4" title=" " alt="" coords="5,99,177,160"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="669,154,177,135,177,130,670,148"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1BufferAccessControl_a7405d31c2a0ced5a344617e84e94f6aa.html#a7405d31c2a0ced5a344617e84e94f6aa" title="Gets the processing chain for an audio token and channel." alt="" coords="225,192,437,254"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="673,171,438,209,437,204,667,171"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferAccessControl_ae10b17df86560e065378c3dc8ac90c0d.html#ae10b17df86560e065378c3dc8ac90c0d" title="Adds a buffer to a token (dispatches based on token type)." alt="" coords="255,5,407,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,67,408,56,408,50,473,66"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="469,98,178,124,177,119,470,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,73,173,100,171,96,243,70"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="234,187,172,164,172,158,239,185"/>
+</map>

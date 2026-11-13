@@ -1,0 +1,28 @@
+<map id="MayaFlux::Core::InputManager::setup_osc_bridge" name="MayaFlux::Core::InputManager::setup_osc_bridge">
+<area shape="rect" id="Node000001" title="Setup OSC bridge if enabled in config." alt="" coords="5,121,227,166"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1InputManager_a6c3067fc253545e993f7442df2a7176e.html#a6c3067fc253545e993f7442df2a7176e" title="Enqueue an input value for processing." alt="" coords="275,5,496,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,119,211,89,274,60,294,54,290,57,276,65,213,94,158,123"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="302,74,468,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,125,289,117,285,121,228,130"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="285,160,486,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,157,272,165,267,167,228,162"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1OscParser_a3bef65f17b2288f02e9bc97c55164279.html#a3bef65f17b2288f02e9bc97c55164279" title="Parse a single OSC message from raw bytes." alt="" coords="288,279,483,323"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="157,164,334,269,330,272,156,169"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="544,102,744,164"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="485,161,531,154,526,156,487,166"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="598,101,599,92,608,83,623,77,644,76,669,78,685,88,680,88,667,83,644,81,624,83,611,87,604,94,603,103"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Core_1_1InputValue_a6c454134d6651c8c39d017bdc2de051f.html#a6c454134d6651c8c39d017bdc2de051f" title=" " alt="" coords="544,188,744,233"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="450,276,567,237,562,239,452,281"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a3d6e0467c810b4f63f491b1f9e55d82e.html#a3d6e0467c810b4f63f491b1f9e55d82e" title="Read a length&#45;prefixed blob from a byte buffer." alt="" coords="566,308,722,353"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="483,309,553,319,548,320,484,315"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a4c4e146a421ce9e7274d28774a88b66f.html#a4c4e146a421ce9e7274d28774a88b66f" title="Read a big&#45;endian int32 from a byte buffer." alt="" coords="798,279,958,323"/>
+<area shape="poly" id="edge12_Node000006_Node000010" title=" " alt="" coords="483,295,544,293,744,293,786,296,780,297,744,298,544,298,484,300"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ad1a57a2f62fbfa816e60a1fc09d3b8e8.html#ad1a57a2f62fbfa816e60a1fc09d3b8e8" title="Read a big&#45;endian IEEE 754 float from a byte buffer." alt="" coords="566,377,722,422"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="441,321,545,363,565,372,559,372,543,367,441,327"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ac22aa8dc4b1246710f9dd7cdf4307209.html#ac22aa8dc4b1246710f9dd7cdf4307209" title="Read a null&#45;terminated string from a byte buffer." alt="" coords="562,447,726,491"/>
+<area shape="poly" id="edge13_Node000006_Node000012" title=" " alt="" coords="409,321,468,376,506,406,545,432,557,440,552,439,543,437,502,410,465,380,407,326"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ac36e4dc715dfd9e1c9d304a36e922a49.html#ac36e4dc715dfd9e1c9d304a36e922a49" title="Round len up to the next 4&#45;byte boundary." alt="" coords="792,383,964,427"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="716,350,794,378,789,377,716,356"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="722,318,786,312,780,313,723,323"/>
+<area shape="poly" id="edge14_Node000012_Node000009" title=" " alt="" coords="726,444,777,432,782,432,727,449"/>
+</map>

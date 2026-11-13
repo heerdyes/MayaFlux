@@ -1,0 +1,18 @@
+<map id="MayaFlux::Buffers::DataReadProcessor" name="MayaFlux::Buffers::DataReadProcessor">
+<area shape="rect" id="Node000001" title="Reads selected buffer storage into owned host data, one snapshot per request." alt="" coords="526,922,700,1458"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor.html" title=" " alt="" coords="242,612,434,763"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="387,773,528,1030,523,1030,385,778"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor.html" title="Central computational transformation interface for continuous buffer processing." alt="" coords="5,61,183,352"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,362,198,406,303,611,298,613,193,409,174,367"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Registry_1_1Service_1_1BufferService.html" title="Backend buffer management service interface." alt="" coords="207,5,408,407"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="321,404,335,595,330,595,320,410"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Registry_1_1Service_1_1ComputeService.html" title="Backend compute shader and pipeline service interface." alt="" coords="432,106,637,307"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="520,304,499,403,484,454,465,502,439,552,409,599,404,597,434,550,460,500,479,452,494,402,518,309"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="474,534,752,841"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="614,838,615,906,611,904,612,843"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title="Lock&#45;free, unbounded, multi&#45;producer collection of in&#45;flight items." alt="" coords="709,36,957,376"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="722,387,702,432,661,535,656,532,697,430,719,392"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="776,525,986,849"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="852,389,867,526,862,525,850,394"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="797,847,711,1012,706,1009,793,851"/>
+</map>

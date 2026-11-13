@@ -1,0 +1,17 @@
+<map id="MayaFlux::Kakshya::ContainerDataStructure::get_samples_count_per_channel" name="MayaFlux::Kakshya::ContainerDataStructure::get_samples_count_per_channel">
+<area shape="rect" id="Node000001" title="Get samples per channel (time dimension only)." alt="" coords="953,23,1136,102"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_a9e04e41aff04a962aa0025fc87719652.html#a9e04e41aff04a962aa0025fc87719652" title="Advance current positions by specified frames per channel, with optional looping." alt="" coords="747,5,905,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="934,45,905,43,905,37,940,45"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a6b9b1e820df114a20a5384233008e015.html#a6b9b1e820df114a20a5384233008e015" title="Advance current positions by a number of frames, with optional looping." alt="" coords="747,75,905,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="940,79,905,87,905,82,934,80"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a57c8173321d14283714748456d5460c7.html#a57c8173321d14283714748456d5460c7" title="Advance the read position by a specified amount." alt="" coords="508,24,688,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="730,79,688,74,688,69,735,80"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_ad02564095af42029d0276cc1df6370ee.html#ad02564095af42029d0276cc1df6370ee" title="Process the current region or block of data." alt="" coords="497,109,699,170"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="735,114,700,123,699,118,730,115"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_aa439bfd4e77f899c063e07263effaaa3.html#aa439bfd4e77f899c063e07263effaaa3" title="Read data sequentially from the current position." alt="" coords="253,24,424,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="491,55,425,57,424,52,496,54"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1DynamicSoundStream_ac6e06b13caf268f8a130a8127a4bd4c5.html#ac6e06b13caf268f8a130a8127a4bd4c5" title="Read audio frames using sequential reading with automatic position management." alt="" coords="5,24,180,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,55,181,57,180,52,240,53"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_afcd23cd9ade0b64e513a819d007ec9ff.html#afcd23cd9ade0b64e513a819d007ec9ff" title=" " alt="" coords="228,109,449,170"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="479,140,449,142,449,137,484,140"/>
+</map>

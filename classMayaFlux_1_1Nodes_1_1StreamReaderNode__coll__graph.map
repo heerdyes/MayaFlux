@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::StreamReaderNode" name="MayaFlux::Nodes::StreamReaderNode">
+<area shape="rect" id="Node000001" title="Node that reads sample&#45;by&#45;sample from externally provided data." alt="" coords="90,1185,348,1659"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Node.html" title="Base interface for all computational processing nodes." alt="" coords="5,279,200,1112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,1124,184,1185,178,1185,171,1129"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Nodes_1_1RoutingState.html" title="Represents the state of routing transitions for a node." alt="" coords="12,5,194,206"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,203,105,263,100,263,103,209"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Nodes_1_1StreamReaderNode_1_1StreamReaderContext.html" title=" " alt="" coords="224,651,448,740"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,738,262,1169,257,1168,327,742"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1NodeContext.html" title="Base context class for node callbacks." alt="" coords="228,36,444,176"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="337,188,339,651,334,651,335,193"/>
+</map>

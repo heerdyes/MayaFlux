@@ -1,0 +1,24 @@
+<map id="MayaFlux::Yantra::GpuDispatchCore::ensure_gpu_ready" name="MayaFlux::Yantra::GpuDispatchCore::ensure_gpu_ready">
+<area shape="rect" id="Node000001" title="Ensure GPU resources are initialised." alt="" coords="1182,161,1406,206"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_aa508e728d529df34441c28d62413bb0c.html#aa508e728d529df34441c28d62413bb0c" title="Dispatch asynchronously and return a fence for polling." alt="" coords="890,5,1134,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1255,150,1200,107,1132,65,1106,53,1106,48,1135,60,1203,103,1260,151"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a6efdbdab590b023b1629f655c98f6775.html#a6efdbdab590b023b1629f655c98f6775" title="Non&#45;blocking dispatch." alt="" coords="890,75,1134,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1201,156,1087,123,1087,117,1206,156"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ae61ec8192d0351c52666afe165975175.html#ae61ec8192d0351c52666afe165975175" title="Multi&#45;pass dispatch where a GPU&#45;resident indirect buffer gates each pass&#39;s workgroup count instead of..." alt="" coords="590,194,814,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1163,193,815,220,814,215,1169,192"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1GpuExecutionContext_a1dbe3b76ec8aefe2f57803a889443155.html#a1dbe3b76ec8aefe2f57803a889443155" title=" " alt="" coords="248,263,514,342"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="1269,217,1212,281,1175,313,1135,339,1058,375,994,392,927,401,843,409,764,420,701,427,639,425,561,409,526,397,492,381,433,345,435,340,495,376,528,392,563,404,639,419,701,421,763,414,842,404,927,395,993,387,1057,370,1132,335,1172,309,1208,278,1264,219"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a1bc14e2d9ca15b3a0aec0fa8f92a7f4c.html#a1bc14e2d9ca15b3a0aec0fa8f92a7f4c" title="Override for CHAINED mode: skips collect_gpu_outputs()." alt="" coords="5,203,200,247"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="1163,184,842,185,702,183,562,185,405,194,248,209,201,214,199,209,247,204,404,188,562,180,702,178,842,180,1168,183"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a06f96b51d3f8f9f223f04781c8a2c6a9.html#a06f96b51d3f8f9f223f04781c8a2c6a9" title=" " alt="" coords="900,280,1124,325"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="1227,212,1068,282,1066,277,1222,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="572,256,515,273,514,268,578,255"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="573,227,200,228,200,222,576,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="230,262,186,251,185,245,235,260"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ab0c5cc3dbdbd8199eb213d74ea6a8204.html#ab0c5cc3dbdbd8199eb213d74ea6a8204" title="Multi&#45;pipeline dependency dispatch." alt="" coords="584,349,820,394"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="897,328,806,351,805,346,892,329"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a6ff87bab33a0feafc5498a13b3a51d67.html#a6ff87bab33a0feafc5498a13b3a51d67" title="Non&#45;blocking variant of dispatch_core_dependency." alt="" coords="562,280,842,325"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="881,303,843,305,843,300,887,302"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="578,345,514,334,514,328,583,345"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="544,303,515,305,514,300,549,302"/>
+</map>

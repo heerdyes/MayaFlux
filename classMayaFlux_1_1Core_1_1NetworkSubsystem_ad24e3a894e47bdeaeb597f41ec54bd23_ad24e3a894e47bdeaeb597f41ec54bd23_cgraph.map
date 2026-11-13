@@ -1,0 +1,9 @@
+<map id="MayaFlux::Core::NetworkSubsystem::initialize_udp_backend" name="MayaFlux::Core::NetworkSubsystem::initialize_udp_backend">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,40,264,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_ab84091fe1285b52447af52af3bd8dbd6.html#ab84091fe1285b52447af52af3bd8dbd6" title="Add a network backend." alt="" coords="312,40,570,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,60,299,62,293,63,264,65"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a9e121a4e14c0bb7a9103cef4cda7447b.html#a9e121a4e14c0bb7a9103cef4cda7447b" title="Wired as the receive callback on each backend." alt="" coords="618,5,876,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="570,45,605,44,600,44,571,50"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1NetworkSubsystem_a69735773429f5f40b599876a2ca1a975.html#a69735773429f5f40b599876a2ca1a975" title="Wired as the state callback on each backend." alt="" coords="618,75,876,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="571,74,605,81,600,81,570,80"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kakshya::WindowContainer::get_image_format" name="MayaFlux::Kakshya::WindowContainer::get_image_format">
+<area shape="rect" id="Node000001" title="Portal ImageFormat corresponding to the live swapchain surface format." alt="" coords="259,144,424,205"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a36dc887f4398346c40f92bd77b67025a.html#a36dc887f4398346c40f92bd77b67025a" title="Refresh the cached VKImage for m_data[frame_index]." alt="" coords="5,5,211,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,133,257,98,209,65,187,53,186,48,212,60,260,94,303,132"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_ac0a13fcbc68d4d5414efe31c5647f73b.html#ac0a13fcbc68d4d5414efe31c5647f73b" title="Upload m_data[frame_index] reusing a caller&#45;supplied staging buffer." alt="" coords="5,75,211,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,143,178,123,177,117,246,141"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a54e6f5327b1e6000a2c148781a8f6717.html#a54e6f5327b1e6000a2c148781a8f6717" title="Crop a region from the last readback and refresh its cached VKImage." alt="" coords="15,144,201,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,175,202,177,201,172,245,173"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a31ff69a65227eb7c14504ae2c8ae5fe9.html#a31ff69a65227eb7c14504ae2c8ae5fe9" title="Upload the full surface readback to a container&#45;owned VKImage." alt="" coords="5,229,211,274"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="241,208,179,231,177,226,246,205"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_aa1f5046146a152b8287080c8c462bd43.html#aa1f5046146a152b8287080c8c462bd43" title="Refresh the full surface VKImage, reusing a caller&#45;supplied persistent staging buffer." alt="" coords="5,299,211,343"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="303,215,260,255,212,289,187,301,186,296,209,284,257,251,298,217"/>
+</map>

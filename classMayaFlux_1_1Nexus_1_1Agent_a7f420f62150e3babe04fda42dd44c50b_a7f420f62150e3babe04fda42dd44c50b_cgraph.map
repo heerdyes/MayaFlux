@@ -1,0 +1,26 @@
+<map id="MayaFlux::Nexus::Agent::attach" name="MayaFlux::Nexus::Agent::attach">
+<area shape="rect" id="Node000001" title="Make an existing, already rendered buffer the look of this object." alt="" coords="5,75,186,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Agent_a5e4b4ce4e97f82c7ef4cf218f7c311b0.html#a5e4b4ce4e97f82c7ef4cf218f7c311b0" title="Release the attached buffer and reset its placement." alt="" coords="234,5,414,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,72,235,54,231,57,173,76"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Agent_a5d60587da9973d4620c20d41bc559b20.html#a5d60587da9973d4620c20d41bc559b20" title=" " alt="" coords="234,75,414,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,94,221,96,216,98,187,100"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Nexus_ad44add43b988749541d1a7d91239c707.html#ad44add43b988749541d1a7d91239c707" title="Build an attachment to buf." alt="" coords="235,156,413,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="160,117,247,149,242,151,160,123"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nexus_abda682e9b2ea82c8618ecdb656510408.html#abda682e9b2ea82c8618ecdb656510408" title="Give every placed render processor back the geometry transform it had." alt="" coords="462,5,652,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,25,449,27,444,28,415,30"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Nexus_ab974630fd759536d53142fbabe801508.html#ab974630fd759536d53142fbabe801508" title="Set position from the buffer, or fold an outside move into the attachment." alt="" coords="466,75,648,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="414,94,453,96,448,98,415,100"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Nexus_a38a4ffb36a511a9879f5dee9e2f64099.html#a38a4ffb36a511a9879f5dee9e2f64099" title="Anchor of a buffer&#39;s geometry in its own stored coordinates." alt="" coords="472,168,643,213"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="413,180,458,185,453,185,413,186"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="516,166,514,158,521,149,536,143,557,141,581,144,596,153,591,152,579,149,557,147,537,149,524,153,519,159,520,169"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kinesis_a1f900447d934e9d0d88d4377cd6e6019.html#a1f900447d934e9d0d88d4377cd6e6019" title="Mean position across a window." alt="" coords="897,121,1045,166"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="640,165,700,153,793,144,884,143,878,144,793,149,701,158,641,170"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kinesis_a0d8c29115b08c11f5a7cb4c84ab79d45.html#a0d8c29115b08c11f5a7cb4c84ab79d45" title="Position of one record in interleaved vertex bytes." alt="" coords="897,203,1045,247"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="638,211,701,222,793,228,884,230,878,230,793,234,700,228,638,216"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kinesis_ab577a8cd26f627e22b3fdde7c4d3dd9c.html#ab577a8cd26f627e22b3fdde7c4d3dd9c" title="Area&#45;weighted centroid of the triangles of an indexed mesh." alt="" coords="700,168,849,213"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="643,188,687,190,682,190,643,193"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kinesis_a0e0d3fef51c28469d86c6f9501d37439.html#a0e0d3fef51c28469d86c6f9501d37439" title="Simple moving average over the newest window samples." alt="" coords="1093,121,1241,166"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1045,141,1080,144,1075,144,1046,146"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="849,170,879,165,884,164,849,175"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="849,201,884,209,878,209,849,206"/>
+</map>

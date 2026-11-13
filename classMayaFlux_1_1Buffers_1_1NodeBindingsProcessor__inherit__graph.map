@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::NodeBindingsProcessor" name="MayaFlux::Buffers::NodeBindingsProcessor">
+<area shape="rect" id="Node000001" title="ShaderProcessor with automatic node&#45;to&#45;push&#45;constant binding." alt="" coords="14,1597,194,1971"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor.html" title="Abstract base class for shader&#45;based buffer processing." alt="" coords="5,565,202,1549"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,1561,106,1597,101,1596,103,1566"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor.html" title=" " alt="" coords="8,344,200,517"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,529,106,565,101,565,104,534"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor.html" title="Central computational transformation interface for continuous buffer processing." alt="" coords="15,5,193,296"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,308,106,344,101,344,104,313"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="MayaFlux::Nodes::Network::GraphicsOperator::get_vertex_count" name="MayaFlux::Nodes::Network::GraphicsOperator::get_vertex_count">
+<area shape="rect" id="Node000001" title="Get number of vertices (may differ from point count for topology/path)." alt="" coords="1051,108,1248,170"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_a6e74103054f2cd24fb5a8540adaf2886.html#a6e74103054f2cd24fb5a8540adaf2886" title="Per&#45;vertex collection index, global index order." alt="" coords="782,5,980,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1050,102,963,70,964,65,1055,102"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1IO_a4270f76b4396b335247bd792ced07cc9.html#a4270f76b4396b335247bd792ced07cc9" title="Pack one GraphicsOperator&#39;s current vertex state into a SpatialCache stream, as a Points or Curves sa..." alt="" coords="535,39,683,84"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="1033,123,684,75,684,69,1038,122"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_ade3efead144eea6bf4ddc62e1002693c.html#ade3efead144eea6bf4ddc62e1002693c" title="Vertex sub&#45;ranges that changed since the last mark_vertex_data_clean()." alt="" coords="782,141,980,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1038,153,980,163,980,157,1033,153"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_ad08723f4772886508c1ae92e0ed28e27.html#ad08723f4772886508c1ae92e0ed28e27" title="Contiguous vertex spans grouped by primitive topology." alt="" coords="759,227,1003,272"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1084,177,1004,217,970,229,969,224,1002,212,1078,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="764,47,684,57,683,52,769,46"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1IO_a41beed1d97ed23922e7b0effd3bdf833.html#a41beed1d97ed23922e7b0effd3bdf833" title="Pack a NetworkGeometryBuffer&#39;s driving network into one or more SpatialCache streams,..." alt="" coords="259,31,455,92"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="517,62,456,64,455,59,522,61"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1IO_aff105666b9119fd8c7a0484e9a046b20.html#aff105666b9119fd8c7a0484e9a046b20" title="Build a SpatialCaptureSource that packs a NetworkGeometryBuffer&#39;s driving network through write_netwo..." alt="" coords="5,39,207,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,63,208,64,206,59,246,60"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryProcessor_a3ec7035b3ba7ca5531756a058e49fa28.html#a3ec7035b3ba7ca5531756a058e49fa28" title="Upload only the vertex sub&#45;ranges a multi&#45;group primary operator reports as dirty,..." alt="" coords="507,141,711,203"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="764,172,712,175,712,170,769,172"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryProcessor_ac6c764a77a3082815a103b602eddaf77.html#ac6c764a77a3082815a103b602eddaf77" title="BufferProcessor interface &#45; aggregates and uploads network geometry." alt="" coords="255,141,459,203"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="489,172,460,175,459,170,494,172"/>
+</map>

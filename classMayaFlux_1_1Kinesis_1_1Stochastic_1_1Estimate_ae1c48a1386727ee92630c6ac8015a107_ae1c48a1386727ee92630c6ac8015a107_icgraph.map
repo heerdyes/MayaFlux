@@ -1,0 +1,11 @@
+<map id="MayaFlux::Kinesis::Stochastic::Estimate::median_absolute_deviation" name="MayaFlux::Kinesis::Stochastic::Estimate::median_absolute_deviation">
+<area shape="rect" id="Node000001" title="Median absolute deviation of a span." alt="" coords="612,48,822,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a554a1ed6fedf8aa880fda2dc6ca83943.html#a554a1ed6fedf8aa880fda2dc6ca83943" title="Flags samples whose deviation from the median exceeds a threshold." alt="" coords="410,5,564,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="594,57,565,53,565,48,600,57"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a9a726d3f0bc471aa89b7ea3acbaed463.html#a9a726d3f0bc471aa89b7ea3acbaed463" title=" " alt="" coords="410,91,564,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="600,101,565,110,564,105,594,101"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_a502f5a8057dafa0db29ae244dd666427.html#a502f5a8057dafa0db29ae244dd666427" title="Feed one new sample, updating the running estimate." alt="" coords="208,91,362,152"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,122,362,124,362,119,397,121"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate_ae7afdaace4daa51eda87a1275d920065.html#ae7afdaace4daa51eda87a1275d920065" title="Feed one sample and push the filtered result into a HistoryBuffer." alt="" coords="5,91,160,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,122,160,124,159,119,195,121"/>
+</map>

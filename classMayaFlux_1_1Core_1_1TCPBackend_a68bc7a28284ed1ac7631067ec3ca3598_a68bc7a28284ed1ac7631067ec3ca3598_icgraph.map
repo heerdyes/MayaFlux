@@ -1,0 +1,29 @@
+<map id="MayaFlux::Core::TCPBackend::on_header_received" name="MayaFlux::Core::TCPBackend::on_header_received">
+<area shape="rect" id="Node000001" title="Header read completion handler." alt="" coords="1297,209,1507,254"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="1443,193,1429,190,1402,188,1378,190,1363,194,1357,200,1358,210,1354,207,1352,199,1360,190,1377,184,1402,182,1430,185,1448,194"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1TCPBackend_a1eaeeb330ff17e4201e782674beab3e0.html#a1eaeeb330ff17e4201e782674beab3e0" title="Start the framed message receive chain on a connection." alt="" coords="1039,102,1249,147"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="1329,202,1199,150,1200,145,1334,203"/>
+<area shape="poly" id="edge19_Node000002_Node000002" title=" " alt="" coords="1185,87,1170,83,1144,81,1120,83,1104,88,1098,94,1100,103,1095,100,1093,92,1102,83,1119,78,1144,76,1172,78,1190,87"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1TCPBackend_a5f7b3e94e5301dbf68d0ebb708634ea2.html#a5f7b3e94e5301dbf68d0ebb708634ea2" title="Payload read completion handler." alt="" coords="5,174,216,219"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="1106,92,1054,54,1023,36,990,22,933,10,887,10,840,16,781,22,650,27,594,32,523,46,448,66,392,87,265,141,172,176,169,171,263,136,390,82,447,61,521,41,593,27,650,21,780,17,840,11,887,5,934,4,991,17,1025,31,1057,49,1111,93"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1TCPBackend_aa5663e0d5fc673d30ed8585b6f756ad0.html#aa5663e0d5fc673d30ed8585b6f756ad0" title="Initiate async_accept loop for a listener." alt="" coords="780,56,991,100"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="1020,103,991,100,991,94,1026,103"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1TCPBackend_a2b5afc5ff4c5288e59708008bb3f1032.html#a2b5afc5ff4c5288e59708008bb3f1032" title="Initiate async_connect for an outbound endpoint." alt="" coords="780,149,991,194"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="1026,146,992,155,991,150,1021,147"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="212,221,300,240,403,259,514,274,626,279,887,279,996,276,1106,268,1294,248,1299,248,1107,273,997,281,887,285,626,285,514,279,402,265,299,246,212,226"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="151,160,137,155,110,153,86,155,71,160,65,166,67,174,61,173,60,164,68,155,85,150,111,148,138,150,156,159"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="926,40,912,37,885,34,861,36,846,41,840,47,841,57,837,54,835,46,843,37,860,31,886,29,913,32,932,41"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1TCPBackend_ac3b75ed08c247dfcbb2d35abcab6d803.html#ac3b75ed08c247dfcbb2d35abcab6d803" title="Open a new endpoint." alt="" coords="522,56,732,100"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="762,78,733,81,733,75,767,78"/>
+<area shape="poly" id="edge10_Node000006_Node000005" title=" " alt="" coords="810,143,731,115,698,104,699,98,733,110,815,143"/>
+<area shape="poly" id="edge18_Node000006_Node000006" title=" " alt="" coords="926,134,912,130,885,128,861,130,846,134,840,140,841,150,837,147,835,139,843,130,860,124,886,122,913,125,932,134"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1TCPBackend_a7bc75526f7d59f64b7b37d4099903591.html#a7bc75526f7d59f64b7b37d4099903591" title="Schedule a reconnect attempt after the configured interval." alt="" coords="522,149,732,194"/>
+<area shape="poly" id="edge11_Node000006_Node000007" title=" " alt="" coords="762,181,733,183,733,178,767,180"/>
+<area shape="poly" id="edge17_Node000007_Node000006" title=" " alt="" coords="748,160,782,162,777,163,748,165"/>
+<area shape="poly" id="edge16_Node000007_Node000007" title=" " alt="" coords="668,134,654,130,627,128,603,130,588,134,582,140,583,150,578,147,577,139,585,130,602,124,627,122,655,125,673,134"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1TCPBackend_a9ef4e4a44ef32267f7c9434b21e069f5.html#a9ef4e4a44ef32267f7c9434b21e069f5" title="Handle a connection error (read/write failure)." alt="" coords="264,174,474,219"/>
+<area shape="poly" id="edge12_Node000007_Node000008" title=" " alt="" coords="504,184,475,189,474,184,509,183"/>
+<area shape="poly" id="edge14_Node000008_Node000001" title=" " alt="" coords="489,202,522,203,953,219,1299,229,1294,230,952,224,522,209,489,207"/>
+<area shape="poly" id="edge15_Node000008_Node000003" title=" " alt="" coords="245,197,217,199,216,194,250,196"/>
+<area shape="poly" id="edge13_Node000008_Node000008" title=" " alt="" coords="410,159,395,155,369,153,345,155,329,160,323,166,325,175,320,173,318,164,327,155,344,150,369,148,397,150,415,159"/>
+</map>

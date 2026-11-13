@@ -1,0 +1,14 @@
+<map id="MayaFlux::Vruta::NetworkSource::NetworkSource" name="MayaFlux::Vruta::NetworkSource::NetworkSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,197,136"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1NetworkSource_afcc62576ff46811084f74ed2162f74ef.html#afcc62576ff46811084f74ed2162f74ef" title="Open a network endpoint and begin receiving." alt="" coords="245,91,436,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,111,231,113,226,114,198,116"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="501,5,667,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,88,483,68,488,66,414,93"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="484,91,684,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="436,111,471,113,466,114,437,116"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Vruta_1_1NetworkSource_af3c7c0d65ba4d7afd1a39165a23b7ca0.html#af3c7c0d65ba4d7afd1a39165a23b7ca0" title="Signal that a message arrived (called from Asio IO thread)." alt="" coords="488,160,680,205"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="422,134,491,156,486,156,421,139"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="732,83,933,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="685,111,720,113,714,114,685,116"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="784,81,785,72,794,63,810,58,833,56,859,59,876,69,871,68,857,64,832,61,811,63,797,68,790,75,788,84"/>
+</map>

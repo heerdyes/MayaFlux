@@ -1,0 +1,13 @@
+<map id="MayaFlux::Buffers::ClaimAccumulateProcessor" name="MayaFlux::Buffers::ClaimAccumulateProcessor">
+<area shape="rect" id="Node000001" title="Counts how many particles each survivor swallowed this cycle." alt="" coords="8,2575,223,2843"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1NetworkStateFieldProcessor.html" title="ComputeProcessor operating on named state fields of a NetworkGeometryBuffer, plus optionally the buff..." alt="" coords="5,2153,225,2527"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,2539,118,2576,113,2575,115,2545"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor.html" title="Specialized ShaderProcessor for Compute Pipelines." alt="" coords="18,1597,213,2105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,2117,118,2153,113,2153,115,2123"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor.html" title="Abstract base class for shader&#45;based buffer processing." alt="" coords="17,565,214,1549"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,1561,118,1597,113,1597,115,1567"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor.html" title=" " alt="" coords="19,344,211,517"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="115,529,118,565,113,565,115,534"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor.html" title="Central computational transformation interface for continuous buffer processing." alt="" coords="26,5,204,296"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="115,308,118,344,113,344,115,313"/>
+</map>

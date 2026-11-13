@@ -1,0 +1,11 @@
+<map id="MayaFlux::Kinesis::Vision::VisionExecutor::slot_vec" name="MayaFlux::Kinesis::Vision::VisionExecutor::slot_vec">
+<area shape="rect" id="Node000001" title="Mutable reference to the vector&lt;float&gt; inside slot i." alt="" coords="461,26,626,87"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kinesis_1_1Vision_1_1VisionExecutor_a6ea94c5c8d90c5890b7715a0e4ff2df5.html#a6ea94c5c8d90c5890b7715a0e4ff2df5" title="Execute a VisionSequence on one frame." alt="" coords="5,34,200,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,21,413,16,330,8,248,16,168,36,166,31,247,11,330,3,413,11,449,21"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kinesis_1_1Vision_1_1VisionExecutor_af24034409ac07f5b2c9ea7d7760c8496.html#af24034409ac07f5b2c9ea7d7760c8496" title="Zero&#45;copy read&#45;only Eigen::Map&lt;const ArrayXf&gt; over slot i." alt="" coords="248,26,413,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="443,57,414,59,413,54,448,56"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kinesis_1_1Vision_1_1VisionExecutor_a0aa6eb08a52d8a711ef902855472eb97.html#a0aa6eb08a52d8a711ef902855472eb97" title="Zero&#45;copy mutable Eigen::Map&lt;ArrayXf&gt; over slot i." alt="" coords="248,111,413,173"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="454,93,410,113,408,108,449,94"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="229,57,201,59,200,54,234,56"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="230,106,164,82,165,77,235,105"/>
+</map>

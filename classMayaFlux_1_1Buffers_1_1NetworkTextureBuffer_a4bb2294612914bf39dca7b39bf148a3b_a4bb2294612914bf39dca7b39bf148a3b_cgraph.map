@@ -1,0 +1,46 @@
+<map id="MayaFlux::Buffers::NetworkTextureBuffer::setup_processors" name="MayaFlux::Buffers::NetworkTextureBuffer::setup_processors">
+<area shape="rect" id="Node000001" title="Wire processors into the chain." alt="" coords="5,89,169,150"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6cf409969c192851ab2cf7f0315d2a49.html#a6cf409969c192851ab2cf7f0315d2a49" title="Access the buffer&#39;s processing chain." alt="" coords="718,5,945,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,107,704,41,702,46,170,112"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_ad2976671728be8e38c0768ea2571c4df.html#ad2976671728be8e38c0768ea2571c4df" title="Initialize the buffer and its processors." alt="" coords="217,148,397,209"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,139,204,149,199,151,170,144"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="396,148,444,133,733,53,729,56,446,138,399,152"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6e843b1ce9e90e2df2501d28e60eab52.html#a6e843b1ce9e90e2df2501d28e60eab52" title="Set the buffer&#39;s default processor." alt="" coords="478,233,637,294"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="397,206,466,231,461,232,398,212"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a93f1d139e1fc4ab7689f2a205bf76563.html#a93f1d139e1fc4ab7689f2a205bf76563" title="Replace the buffer&#39;s processing chain." alt="" coords="445,319,670,363"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="334,207,384,257,414,282,446,304,458,312,453,312,444,309,411,287,381,261,333,212"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_aaacb4c11779dc9cc883cf7425bc2e2c7.html#aaacb4c11779dc9cc883cf7425bc2e2c7" title="Find the first GpuFieldOperator in the network&#39;s operator chain and wire its compute stages: a Vertex..." alt="" coords="468,148,648,209"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="397,176,454,177,450,179,398,181"/>
+<area shape="poly" id="edge13_Node000006_Node000002" title=" " alt="" coords="616,145,669,110,692,84,701,72,717,60,730,56,726,58,720,65,705,76,696,88,672,114,619,149"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Buffers_1_1MutationConfig_a0a3497fdf3631024b56aa9d662c8d63a.html#a0a3497fdf3631024b56aa9d662c8d63a" title="Declare the state fields the claim pipeline reads and writes." alt="" coords="743,229,920,290"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="648,202,731,229,726,229,648,208"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Buffers_1_1PopulationConfig_a3d91a8002c68b22958284e14642fbf29.html#a3d91a8002c68b22958284e14642fbf29" title="Declare the two state fields population dynamics needs." alt="" coords="738,314,925,376"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="649,204,672,219,689,240,697,261,704,281,720,300,728,308,723,307,716,304,699,283,692,263,685,243,669,223,648,209"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Buffers_1_1SpatialHashConfig_a773f373af70d50e089f73f22ebca5fcc.html#a773f373af70d50e089f73f22ebca5fcc" title="Build hash grid parameters from a NetworkGeometryBuffer&#39;s network and its primary operator." alt="" coords="742,400,921,461"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="649,201,672,219,688,241,695,263,697,304,699,345,706,365,720,386,731,398,726,397,716,389,701,368,694,346,692,304,690,264,683,243,668,223,648,206"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_a584ff77e8b1ceaf6f444c5c1ff36b9ec.html#a584ff77e8b1ceaf6f444c5c1ff36b9ec" title="Get the network driving this buffer." alt="" coords="741,74,922,136"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="647,152,729,132,724,134,649,157"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_1_1Buffers_af191dd0b7ad35e5d915e1a414db2ecca.html#af191dd0b7ad35e5d915e1a414db2ecca" title="Upload host memory into a raw back_buffers slot." alt="" coords="757,160,906,205"/>
+<area shape="poly" id="edge14_Node000006_Node000013" title=" " alt="" coords="648,177,744,180,739,182,649,182"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a90b8417686173f70ed7f836c20f80366.html#a90b8417686173f70ed7f836c20f80366" title="Word offset of the attribute matching the given modality, if any." alt="" coords="1002,357,1180,418"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="921,413,984,405,989,404,922,418"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GraphicsOperator_a7b8d6d5117c8244564ce6148eafd3549.html#a7b8d6d5117c8244564ce6148eafd3549" title="Get vertex layout describing vertex structure." alt="" coords="993,442,1190,504"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="922,442,980,454,975,454,922,448"/>
+<area shape="rect" id="Node000014" href="$namespaceMayaFlux_1_1Buffers_a0eacfe64bd7df89c89fb883c2fdc0df0.html#a0eacfe64bd7df89c89fb883c2fdc0df0" title="Wait for a transfer and release its resources." alt="" coords="1246,221,1393,266"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="906,189,1233,232,1227,233,906,194"/>
+<area shape="rect" id="Node000018" href="$namespaceMayaFlux_1_1Buffers_a3bfdc2cd3755b1e59a32f648a8e590f2.html#a3bfdc2cd3755b1e59a32f648a8e590f2" title="Upload to a back_buffers slot without waiting for completion." alt="" coords="995,116,1188,161"/>
+<area shape="poly" id="edge20_Node000013_Node000018" title=" " alt="" coords="906,167,982,157,977,158,907,172"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="1465,162,1632,224"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1393,225,1448,215,1453,214,1394,230"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="1448,93,1649,138"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="1346,218,1391,183,1447,148,1457,146,1463,144,1450,153,1394,187,1348,223"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="1697,85,1897,146"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1649,113,1684,115,1679,116,1649,118"/>
+<area shape="poly" id="edge19_Node000017_Node000017" title=" " alt="" coords="1749,83,1749,74,1758,66,1774,60,1797,58,1823,61,1840,71,1835,70,1821,66,1797,63,1775,65,1761,70,1754,77,1753,86"/>
+<area shape="poly" id="edge24_Node000018_Node000015" title=" " alt="" coords="1188,149,1238,156,1453,182,1447,183,1238,161,1189,155"/>
+<area shape="poly" id="edge25_Node000018_Node000016" title=" " alt="" coords="1146,113,1190,98,1238,86,1287,81,1338,81,1436,92,1430,93,1337,86,1287,87,1238,92,1191,103,1147,118"/>
+<area shape="rect" id="Node000019" href="$namespaceMayaFlux_1_1Buffers_a64c6abe8842e398d178e4275a4d4b404.html#a64c6abe8842e398d178e4275a4d4b404" title="Create staging buffer for transfers." alt="" coords="1238,101,1400,146"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="1188,129,1225,129,1220,130,1189,135"/>
+<area shape="poly" id="edge22_Node000019_Node000015" title=" " alt="" coords="1395,144,1453,163,1448,163,1395,149"/>
+<area shape="poly" id="edge23_Node000019_Node000016" title=" " alt="" coords="1400,118,1435,119,1430,120,1401,123"/>
+</map>

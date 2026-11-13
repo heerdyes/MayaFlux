@@ -1,0 +1,16 @@
+<map id="MayaFlux::Nodes::Network::MeshTransformOperator::~MeshTransformOperator" name="MayaFlux::Nodes::Network::MeshTransformOperator::~MeshTransformOperator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,142,203,204"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshTransformOperator_aafc825f6664bfb9fa883b94679e831be.html#aafc825f6664bfb9fa883b94679e831be" title="Bind a TransformField to a slot." alt="" coords="251,5,473,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,140,189,99,249,60,265,55,261,58,252,65,192,103,141,143"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshTransformOperator_a483bd1f1ad0b5ec21e797cff4cf7d3f8.html#a483bd1f1ad0b5ec21e797cff4cf7d3f8" title="Iterate slots in topological order and call process_slot() on each." alt="" coords="263,74,460,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,145,250,133,246,136,204,149"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshTransformOperator_a8349c960c8fe4315548e5d40c54b6850.html#a8349c960c8fe4315548e5d40c54b6850" title="Evaluate the bound field (if any), update local_transform, then propagate the world_transform from th..." alt="" coords="521,109,718,170"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="203,164,507,145,505,149,203,169"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshTransformOperator_ae5520de3ea47a90795bbe88b4fa1ac32.html#ae5520de3ea47a90795bbe88b4fa1ac32" title="Remove the TransformField bound to a slot." alt="" coords="263,210,460,272"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="203,196,251,210,245,212,203,202"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshTransformOperator_afc9f6e7ddb2b4e62cf48d986dcb337c5.html#afc9f6e7ddb2b4e62cf48d986dcb337c5" title="Remove all bound fields." alt="" coords="263,296,460,357"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="141,202,193,242,252,281,262,289,257,288,249,286,189,247,140,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,116,508,124,503,125,461,121"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1MeshTransformOperator_a728690794fbd5cad7cea67f4e32bd5fa.html#a728690794fbd5cad7cea67f4e32bd5fa" title="Resolve the world transform of a slot&#39;s parent, or identity if root." alt="" coords="766,109,964,170"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="718,137,753,139,748,140,719,142"/>
+</map>

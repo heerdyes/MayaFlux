@@ -1,0 +1,13 @@
+<map id="MayaFlux::Nodes::NodeGraphManager::normalize_sample" name="MayaFlux::Nodes::NodeGraphManager::normalize_sample">
+<area shape="rect" id="Node000001" title="Normalizes a sample to the range [&#45;1, 1] based on the number of nodes." alt="" coords="795,74,1011,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_a8d0b0c63ee8bbfeb21afd9354c6c0cac.html#a8d0b0c63ee8bbfeb21afd9354c6c0cac" title="Process a specific channel within a token domain." alt="" coords="532,35,747,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="777,78,748,76,748,71,782,78"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_aa030ff4364fffb42fcb0bffaae717ce3.html#aa030ff4364fffb42fcb0bffaae717ce3" title="Process a single sample for a specific channel." alt="" coords="269,113,484,157"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="782,105,485,130,484,124,777,105"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ad54ac062c3ed2334c059b37005385128.html#ad54ac062c3ed2334c059b37005385128" title=" " alt="" coords="5,35,221,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="554,31,484,18,423,10,376,8,329,10,269,18,183,37,181,32,268,12,329,5,376,3,424,5,484,12,559,30"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ac7de635a4704e1ad846063babf541bd9.html#ac7de635a4704e1ad846063babf541bd9" title="Process all channels for a token and return channel&#45;separated data." alt="" coords="269,27,484,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="514,58,485,60,484,55,519,57"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="251,58,221,60,220,55,256,57"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="281,108,191,83,192,78,286,107"/>
+</map>

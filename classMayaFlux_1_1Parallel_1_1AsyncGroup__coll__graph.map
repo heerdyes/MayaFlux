@@ -1,0 +1,10 @@
+<map id="MayaFlux::Parallel::AsyncGroup&lt; T &gt;" name="MayaFlux::Parallel::AsyncGroup&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Owns a set of in&#45;flight std::async futures on behalf of a subsystem." alt="" coords="156,782,297,1139"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="5,419,215,709"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,706,172,766,167,766,152,711"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title="Lock&#45;free, unbounded, multi&#45;producer collection of in&#45;flight items." alt="" coords="102,5,350,346"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,362,143,370,131,419,126,418,138,369,144,357"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="239,419,448,709"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="301,357,306,369,319,419,314,419,301,370,300,363"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,706,286,767,281,765,300,711"/>
+</map>

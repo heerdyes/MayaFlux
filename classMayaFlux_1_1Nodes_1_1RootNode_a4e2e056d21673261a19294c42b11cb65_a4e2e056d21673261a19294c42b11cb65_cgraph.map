@@ -1,0 +1,14 @@
+<map id="MayaFlux::Nodes::RootNode::process_frame" name="MayaFlux::Nodes::RootNode::process_frame">
+<area shape="rect" id="Node000001" title="Processes a single frame from all registered nodes." alt="" coords="5,75,212,119"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nodes_a2b661b58f860423fa6cf1d12c5accbd8.html#a2b661b58f860423fa6cf1d12c5accbd8" title="Atomically adds a flag to a node state." alt="" coords="269,5,456,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,72,266,53,262,56,194,77"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1RootNode_acec33201d108cfd668b329d7dc75f6f4.html#acec33201d108cfd668b329d7dc75f6f4" title="Performs post&#45;processing after all nodes have been processed." alt="" coords="260,75,466,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,94,247,96,242,98,213,100"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1RootNode_a54874a3f0e12685053005d562588f7cc.html#a54874a3f0e12685053005d562588f7cc" title="Checks if the root node can process pending operations." alt="" coords="260,144,466,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="194,117,267,139,261,140,193,123"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1RootNode_a1a20847a779ea2b4d3f22f3b50e8dbc5.html#a1a20847a779ea2b4d3f22f3b50e8dbc5" title="Processes any pending node registration/unregistration operations." alt="" coords="514,109,728,154"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="466,108,501,115,496,115,466,114"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Nodes_a8abc7b8f33819075e738d5ed027bd9ec.html#a8abc7b8f33819075e738d5ed027bd9ec" title="Atomically sets a node state flag to a specific value." alt="" coords="776,109,964,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="729,129,764,132,758,132,729,134"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="466,150,496,148,501,148,467,155"/>
+</map>

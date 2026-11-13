@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::GpuSync::MeshWriterNode" name="MayaFlux::Nodes::GpuSync::MeshWriterNode">
+<area shape="rect" id="Node000001" title="Indexed triangle mesh for static or infrequently&#45;updated geometry." alt="" coords="6,1758,199,2138"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode.html" title="MeshWriterNode that extracts a TRIANGLE_LIST isosurface from a Kinesis::SpatialField each frame via m..." alt="" coords="8,2186,197,2588"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="103,2150,105,2186,100,2186,102,2155"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode.html" title="Base class for nodes that generate 3D geometry data." alt="" coords="8,1180,197,1710"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,1723,105,1758,100,1758,103,1728"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GpuSync.html" title=" " alt="" coords="8,908,197,1132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,1144,105,1180,100,1180,103,1149"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Node.html" title="Base interface for all computational processing nodes." alt="" coords="5,5,200,860"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,872,105,909,100,909,103,878"/>
+</map>

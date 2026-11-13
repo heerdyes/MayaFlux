@@ -1,0 +1,26 @@
+<map id="MayaFlux::IO::IOManager::save_spatial_snapshot" name="MayaFlux::IO::IOManager::save_spatial_snapshot">
+<area shape="rect" id="Node000001" title="Save every source once, as a single time sample, with a millisecond epoch timestamp spliced into the ..." alt="" coords="5,168,192,213"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1IO_1_1Detail_a5165c36cdc9f5301d25f46e72cbf37e8.html#a5165c36cdc9f5301d25f46e72cbf37e8" title=" " alt="" coords="240,133,437,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,174,227,171,222,173,193,179"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1IOManager_a0604e2f246faf9ae9d598cd28140d814.html#a0604e2f246faf9ae9d598cd28140d814" title="Retain a save task in m_save_tasks and opportunistically reclaim finished ones." alt="" coords="245,203,432,247"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="192,201,232,208,227,210,193,206"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1IO_a430ed054a912a2f2110723d9a5f9a0df.html#a430ed054a912a2f2110723d9a5f9a0df" title="Open a fresh SpatialCache, write every source once, then close it." alt="" coords="485,133,631,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,153,472,155,467,156,438,158"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1SpatialCache_af4391ee94079d44e2c410c70ad7449bd.html#af4391ee94079d44e2c410c70ad7449bd" title="Finalize and close the archive." alt="" coords="679,5,880,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="583,130,625,95,678,60,688,58,693,56,681,65,628,99,585,135"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1SpatialCache_a76b7760ae664ada78f27312377790cf7.html#a76b7760ae664ada78f27312377790cf7" title=" " alt="" coords="679,99,880,143"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="631,142,666,138,661,140,632,147"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1SpatialCache_a7d53c246c7b2e8d6492b2d61286c860c.html#a7d53c246c7b2e8d6492b2d61286c860c" title="Open an Alembic archive for writing, Ogawa backend." alt="" coords="679,261,880,306"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="599,176,728,253,723,253,598,181"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1IO_a7a8c537450f6ce9496ebbd1d5886cddb.html#a7a8c537450f6ce9496ebbd1d5886cddb" title="Substitute a frame index into a numbered output pattern." alt="" coords="698,168,861,213"/>
+<area shape="poly" id="edge11_Node000003_Node000010" title=" " alt="" coords="632,164,685,175,680,175,632,170"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="737,97,736,89,743,80,758,74,780,72,804,75,819,84,814,83,802,80,779,77,759,79,746,84,741,90,742,99"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="738,259,736,251,743,242,758,237,780,235,804,237,819,246,814,246,802,242,779,240,759,242,746,247,741,253,742,262"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1IO_af70273974a6d4e868b4c016d2f944547.html#af70273974a6d4e868b4c016d2f944547" title="Resolve a writable path against the configured output directory." alt="" coords="946,173,1110,218"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="844,258,945,224,951,223,845,263"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1SpatialCache_abaddd5694375dc2701c4e1fae7b45cec.html#abaddd5694375dc2701c4e1fae7b45cec" title=" " alt="" coords="928,255,1128,299"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="880,278,915,280,910,280,880,284"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1SpatialCache_a8b97315575606988edce07247f029c66.html#a8b97315575606988edce07247f029c66" title=" " alt="" coords="928,324,1128,369"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="871,304,924,320,919,319,871,309"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="861,189,934,193,928,194,862,195"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="MayaFlux::Kinesis::curvature_from_history" name="MayaFlux::Kinesis::curvature_from_history">
+<area shape="rect" id="Node000001" title="Convenience overload of curvature_from_history over a raw span of positions, samples[0] newest." alt="" coords="5,144,179,189"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a3ae7bcc83a9bda52088000796547ea70.html#a3ae7bcc83a9bda52088000796547ea70" title="Signed curvature computed directly from a position HistoryBuffer." alt="" coords="227,109,400,154"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,150,214,147,209,149,180,155"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kinesis_aae6dffc5cfe80ea00f71912d98c8c45e.html#aae6dffc5cfe80ea00f71912d98c8c45e" title="Build a HistoryBuffer&lt;T&gt; from a newest&#45;first span." alt="" coords="239,179,388,223"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="179,177,226,186,221,188,179,183"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a02b98761eeacfbfd375ebe19f79fe74e.html#a02b98761eeacfbfd375ebe19f79fe74e" title="Second difference: rate of change of velocity." alt="" coords="474,5,623,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,106,447,60,466,55,461,57,449,65,356,111"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a69877f3808892dd6eb3786ccc5382a4c.html#a69877f3808892dd6eb3786ccc5382a4c" title="Signed curvature from velocity and acceleration." alt="" coords="474,144,623,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="401,142,462,153,456,153,401,147"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kinesis_a26c65f0ec04f0fddefa1e3846124bcd4.html#a26c65f0ec04f0fddefa1e3846124bcd4" title="First difference: rate of change of position." alt="" coords="474,75,623,119"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="400,116,461,109,456,111,401,121"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_adae7c1fd68fa3eefdd9b0abf2731bbed.html#adae7c1fd68fa3eefdd9b0abf2731bbed" title="N&#45;th order backward finite difference of a HistoryBuffer, scaled by dt^N." alt="" coords="697,40,854,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="623,36,685,48,679,48,624,42"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_a5a68bb1b00949f806902a3fd6db1dbd5.html#a5a68bb1b00949f806902a3fd6db1dbd5" title="2D scalar cross product, sign of turn direction" alt="" coords="701,144,850,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="623,164,689,166,683,167,624,169"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="623,83,685,76,679,77,624,88"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Memory_1_1HistoryBuffer_a6f256636f3f3fc99269c77a8dc096b09.html#a6f256636f3f3fc99269c77a8dc096b09" title="Push new value to front of history." alt="" coords="448,213,649,258"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="388,209,436,219,430,219,388,215"/>
+</map>

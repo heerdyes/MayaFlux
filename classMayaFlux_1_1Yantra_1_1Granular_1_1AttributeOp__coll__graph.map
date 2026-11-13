@@ -1,0 +1,38 @@
+<map id="MayaFlux::Yantra::Granular::AttributeOp" name="MayaFlux::Yantra::Granular::AttributeOp">
+<area shape="rect" id="Node000001" title="Computes a scalar attribute per grain and writes it onto each Region." alt="" coords="292,3947,491,4148"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1UniversalAnalyzer.html" title=" " alt="" coords="19,2096,246,2744"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,2756,109,2879,110,3010,116,3149,128,3294,147,3441,175,3589,212,3734,259,3873,278,3910,301,3947,296,3947,273,3913,254,3875,207,3735,170,3590,142,3442,123,3294,111,3149,105,3010,103,2879,108,2761"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title=" " alt="" coords="5,1260,255,1869"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,1881,134,2096,129,2096,131,1887"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Yantra_1_1UniversalAnalyzer.html" title=" " alt="" coords="270,2096,513,2744"/>
+<area shape="poly" id="edge12_Node000011_Node000003" title=" " alt="" coords="136,1881,156,1916,177,1947,186,1955,196,1958,216,1959,238,1959,249,1963,260,1971,285,1998,306,2029,341,2096,335,2097,302,2032,281,2002,256,1975,247,1967,237,1964,216,1964,194,1964,184,1959,174,1950,151,1919,137,1886"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="5,592,255,1179"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="130,1191,133,1260,128,1260,130,1197"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Yantra_1_1ExecutionContext.html" title="Context information controlling how a compute operation executes." alt="" coords="164,5,358,497"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="164,499,161,521,151,576,145,575,156,520,165,494"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ComputeOperation.html" title="Base interface for all computational operations in the processing pipeline." alt="" coords="279,592,528,1179"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="341,494,350,520,362,575,357,575,345,521,342,499"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1UniversalAnalyzer.html" title="Template&#45;flexible analyzer base with instance&#45;defined I/O types." alt="" coords="281,1252,524,1877"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="270,1876,269,1879,255,1888,242,1891,230,1894,218,1903,190,1947,168,1995,151,2045,139,2097,134,2096,146,2044,163,1993,186,1944,215,1900,227,1889,241,1886,253,1883,266,1875,272,1871"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="398,1889,398,2096,393,2096,398,1895"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="403,1191,405,1252,400,1252,403,1196"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Yantra_1_1UniversalAnalyzer.html" title="Template&#45;flexible analyzer base with instance&#45;defined I/O types." alt="" coords="548,1252,790,1877"/>
+<area shape="poly" id="edge16_Node000013_Node000007" title=" " alt="" coords="490,1190,512,1226,524,1238,538,1250,550,1270,545,1271,533,1254,521,1242,508,1230,491,1195"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Yantra_1_1Datum.html" title=" " alt="" coords="563,665,754,1106"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="576,1108,543,1180,526,1204,511,1237,506,1236,522,1202,539,1178,577,1103"/>
+<area shape="poly" id="edge17_Node000013_Node000008" title=" " alt="" coords="662,1103,666,1235,661,1235,661,1109"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Yantra_1_1Datum.html" title="Input/Output container for computation pipeline data flow with structure preservation." alt="" coords="552,47,764,455"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="658,467,661,665,656,665,658,472"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Yantra_1_1EnergyAnalyzer.html" title=" " alt="" coords="269,2996,514,3840"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="393,3837,394,3931,389,3929,390,3842"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="392,2756,394,2997,389,2996,391,2761"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Yantra_1_1StatisticalAnalyzer.html" title=" " alt="" coords="538,2962,767,3874"/>
+<area shape="poly" id="edge19_Node000014_Node000011" title=" " alt="" coords="480,2755,541,2981,536,2981,480,2761"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Yantra_1_1EnergyAnalyzer.html" title="High&#45;performance energy analyzer with zero&#45;copy processing." alt="" coords="537,2007,780,2833"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="545,2845,507,2997,502,2996,543,2850"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="665,1889,666,2007,661,2007,664,1894"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Yantra_1_1StatisticalAnalyzer.html" title="High&#45;performance statistical analyzer with zero&#45;copy processing." alt="" coords="804,1973,1046,2867"/>
+<area shape="poly" id="edge21_Node000015_Node000013" title=" " alt="" coords="767,1889,794,1972,806,2013,801,2013,789,1973,767,1894"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="567,3871,540,3924,505,3968,502,3964,536,3921,563,3875"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="801,2877,770,2999,765,2997,798,2882"/>
+</map>

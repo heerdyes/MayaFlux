@@ -1,0 +1,57 @@
+<map id="MayaFlux::Kakshya::DataDimension::spatial" name="MayaFlux::Kakshya::DataDimension::spatial">
+<area shape="rect" id="Node000001" title="Convenience constructor for a spatial dimension." alt="" coords="5,557,180,602"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a8c06374cb90af848fc327d391f8e20b6.html#a8c06374cb90af848fc327d391f8e20b6" title=" " alt="" coords="228,557,459,602"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,586,214,587,210,590,182,591"/>
+<area shape="poly" id="edge13_Node000002_Node000001" title=" " alt="" coords="225,572,197,573,194,569,229,569"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="296,556,294,547,302,538,319,533,343,531,370,533,388,541,383,543,369,538,343,536,320,538,305,543,299,549,301,557"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_afae79b6c7314e95d426e396efe81787a.html#afae79b6c7314e95d426e396efe81787a" title="Convenience constructor for a channel dimension." alt="" coords="518,773,699,818"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,600,461,714,482,742,507,771,502,770,478,745,457,717,358,605"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_ab8dcc89c5d4c2095dcdc5ade1cd84848.html#ab8dcc89c5d4c2095dcdc5ade1cd84848" title="Convenience constructor for a depth dimension." alt="" coords="765,147,933,191"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="353,556,429,366,472,269,491,235,505,216,533,199,563,186,626,169,690,162,752,164,747,166,690,168,627,174,565,191,536,204,509,220,495,238,477,271,434,368,357,558"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a6a1656bc7eafe4add39ec634481345a7.html#a6a1656bc7eafe4add39ec634481345a7" title="Convenience constructor for a frequency dimension." alt="" coords="510,75,706,119"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="354,556,456,292,467,251,472,216,481,183,505,149,522,134,544,124,540,128,525,139,509,152,486,186,477,217,472,252,462,294,359,558"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a57e1909558a284754db05334249f9d0f.html#a57e1909558a284754db05334249f9d0f" title="Create dimension with component grouping." alt="" coords="757,347,941,391"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="355,556,376,514,409,464,452,414,478,393,506,376,564,356,625,347,686,347,744,354,739,356,686,352,625,352,565,361,508,381,481,397,456,418,413,467,381,517,359,558"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_ada58eade1268a71f5d875d463e859feb.html#ada58eade1268a71f5d875d463e859feb" title="Create dimension for mipmap levels." alt="" coords="516,549,700,610"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="459,586,503,587,498,590,461,591"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a93e3aa20c9d0521814d172ad3c0a0cdf.html#a93e3aa20c9d0521814d172ad3c0a0cdf" title="Convenience constructor for an array dimension." alt="" coords="510,928,707,973"/>
+<area shape="poly" id="edge14_Node000002_Node000008" title=" " alt="" coords="363,600,414,649,440,680,461,714,473,744,479,772,479,822,480,869,487,892,502,919,497,917,482,894,475,869,474,822,473,772,468,746,457,717,435,684,410,653,363,605"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a02b09ca3b47eeab74f2238075c496142.html#a02b09ca3b47eeab74f2238075c496142" title="Convenience constructor for a 2D spatial dimension." alt="" coords="510,997,707,1042"/>
+<area shape="poly" id="edge17_Node000002_Node000009" title=" " alt="" coords="351,600,375,683,412,794,455,905,478,951,502,989,497,987,474,954,451,908,407,796,370,684,349,605"/>
+<area shape="rect" id="Node000010" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_af4cdcc89a99507ebf812a51ea8838167.html#af4cdcc89a99507ebf812a51ea8838167" title="Convenience constructor for a 3D spatial dimension." alt="" coords="510,5,707,50"/>
+<area shape="poly" id="edge20_Node000002_Node000010" title=" " alt="" coords="356,556,403,443,456,292,464,259,467,229,466,176,468,151,473,126,485,100,505,72,531,55,528,59,509,76,489,103,478,127,473,151,472,176,472,229,469,260,462,294,408,445,360,558"/>
+<area shape="rect" id="Node000011" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_adb2bac98f840e5eadcbd69054b3ae05e.html#adb2bac98f840e5eadcbd69054b3ae05e" title="Create dimension for texture coordinates (vec2)." alt="" coords="520,464,697,525"/>
+<area shape="poly" id="edge24_Node000002_Node000011" title=" " alt="" coords="441,554,523,529,519,532,443,559"/>
+<area shape="rect" id="Node000012" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_aab0cac54b47602cb00e2fd99b50839c3.html#aab0cac54b47602cb00e2fd99b50839c3" title="Convenience constructor for a temporal (time) dimension." alt="" coords="528,635,688,679"/>
+<area shape="poly" id="edge27_Node000002_Node000012" title=" " alt="" coords="397,600,515,637,510,639,397,605"/>
+<area shape="rect" id="Node000013" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a45d62499ecfb2b909acc0ffa3f5603cb.html#a45d62499ecfb2b909acc0ffa3f5603cb" title="Create dimension for colors (vec3 or vec4)." alt="" coords="522,378,694,440"/>
+<area shape="poly" id="edge29_Node000002_Node000013" title=" " alt="" coords="378,555,436,509,506,461,541,445,537,448,508,466,439,513,382,559"/>
+<area shape="rect" id="Node000014" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a5a8d6438b133ceeec2753933ff295d43.html#a5a8d6438b133ceeec2753933ff295d43" title="Create dimension for vertex normals (vec3)." alt="" coords="522,842,694,904"/>
+<area shape="poly" id="edge32_Node000002_Node000014" title=" " alt="" coords="362,600,411,650,438,681,461,714,477,750,482,781,489,810,509,841,512,845,507,844,505,844,484,812,477,782,471,752,457,717,434,684,407,654,362,605"/>
+<area shape="rect" id="Node000015" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a2f80e8eb7e0a8cfcb6d46d00a968929d.html#a2f80e8eb7e0a8cfcb6d46d00a968929d" title="Create dimension for vertex positions (vec3)." alt="" coords="522,218,694,280"/>
+<area shape="poly" id="edge35_Node000002_Node000015" title=" " alt="" coords="353,556,374,506,407,441,451,372,477,338,505,308,541,286,537,289,509,312,481,342,455,375,411,444,379,509,357,558"/>
+<area shape="rect" id="Node000016" href="$structMayaFlux_1_1Kakshya_1_1DataDimension_a377a33f2893c763700f807ebc4d5c0d5.html#a377a33f2893c763700f807ebc4d5c0d5" title="Attach a value range." alt="" coords="507,704,709,749"/>
+<area shape="poly" id="edge38_Node000002_Node000016" title=" " alt="" coords="363,600,420,646,496,696,491,697,417,651,363,605"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="554,773,530,765,505,751,489,737,479,724,457,693,386,615,386,610,461,690,483,721,493,734,509,747,532,760,559,773"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="762,148,703,145,636,149,569,165,538,179,509,196,496,213,478,246,435,343,359,544,354,542,430,341,473,244,491,210,505,192,535,174,567,160,635,144,703,140,767,146"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="512,122,509,128,486,162,477,193,472,228,462,270,359,544,354,542,456,268,467,227,472,192,481,159,505,125,516,118"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="791,347,732,335,658,328,620,329,581,334,544,343,508,357,481,373,456,394,413,444,381,497,359,544,354,541,376,495,409,441,452,391,477,369,506,352,542,338,580,328,620,324,659,323,733,330,796,345"/>
+<area shape="poly" id="edge12_Node000007_Node000002" title=" " alt="" coords="513,572,476,573,474,568,518,570"/>
+<area shape="poly" id="edge16_Node000008_Node000001" title=" " alt="" coords="529,927,506,918,447,882,389,843,281,758,190,678,127,616,126,610,194,674,284,754,392,839,450,878,508,913,534,928"/>
+<area shape="poly" id="edge15_Node000008_Node000002" title=" " alt="" coords="541,927,522,920,505,905,486,879,476,853,473,828,473,803,474,751,469,723,457,693,428,650,395,615,395,609,432,647,461,690,474,722,479,751,478,803,478,827,481,852,491,876,509,902,525,915,546,928"/>
+<area shape="poly" id="edge19_Node000009_Node000001" title=" " alt="" coords="507,1009,440,998,365,975,291,941,257,919,226,894,197,863,173,828,135,752,111,678,100,620,100,615,116,677,140,750,177,825,201,859,229,890,260,915,294,936,367,970,441,992,512,1009"/>
+<area shape="poly" id="edge18_Node000009_Node000002" title=" " alt="" coords="545,996,525,989,505,975,484,948,462,909,419,809,382,703,356,619,358,614,387,701,424,807,467,907,488,945,509,971,527,985,550,997"/>
+<area shape="poly" id="edge23_Node000010_Node000001" title=" " alt="" coords="526,52,509,65,438,120,373,184,313,252,259,321,171,450,115,545,110,543,167,447,255,318,309,248,369,180,435,116,505,60,529,49"/>
+<area shape="poly" id="edge21_Node000010_Node000002" title=" " alt="" coords="507,51,509,52,489,79,478,103,473,127,472,152,472,205,469,236,462,270,408,423,360,544,355,541,403,421,456,268,464,235,467,205,466,152,468,127,473,102,485,76,505,49,510,46"/>
+<area shape="poly" id="edge22_Node000010_Node000004" title=" " alt="" coords="684,48,711,60,766,96,815,136,809,137,763,100,708,65,685,53"/>
+<area shape="poly" id="edge25_Node000011_Node000002" title=" " alt="" coords="517,516,408,554,406,549,521,513"/>
+<area shape="poly" id="edge26_Node000011_Node000006" title=" " alt="" coords="684,461,708,449,802,398,797,401,711,454,687,465"/>
+<area shape="poly" id="edge28_Node000012_Node000002" title=" " alt="" coords="551,635,467,609,467,604,557,633"/>
+<area shape="poly" id="edge30_Node000013_Node000002" title=" " alt="" coords="520,433,508,442,433,495,373,548,370,544,430,491,506,437,524,430"/>
+<area shape="poly" id="edge31_Node000013_Node000006" title=" " alt="" coords="694,392,744,386,740,388,696,397"/>
+<area shape="poly" id="edge33_Node000014_Node000002" title=" " alt="" coords="538,842,505,820,484,788,477,758,471,728,457,693,425,650,392,615,393,609,429,647,461,690,477,726,482,757,489,786,509,816,543,842"/>
+<area shape="poly" id="edge34_Node000014_Node000006" title=" " alt="" coords="694,841,707,829,745,778,775,722,798,663,816,603,837,491,845,409,848,405,842,492,821,605,803,665,780,725,749,781,711,832,696,845"/>
+<area shape="poly" id="edge36_Node000015_Node000002" title=" " alt="" coords="520,276,509,288,481,318,455,350,412,421,379,488,358,544,353,541,374,486,407,418,451,347,477,314,505,284,523,273"/>
+<area shape="poly" id="edge37_Node000015_Node000006" title=" " alt="" coords="673,278,711,296,792,339,787,340,708,301,674,283"/>
+<area shape="poly" id="edge39_Node000016_Node000002" title=" " alt="" coords="562,704,506,682,448,648,398,614,398,609,451,644,508,677,567,703"/>
+</map>

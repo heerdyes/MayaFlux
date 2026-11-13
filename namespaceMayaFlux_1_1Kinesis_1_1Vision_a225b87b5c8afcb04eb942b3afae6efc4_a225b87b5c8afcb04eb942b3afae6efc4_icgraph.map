@@ -1,0 +1,28 @@
+<map id="MayaFlux::Kinesis::Vision::threshold" name="MayaFlux::Kinesis::Vision::threshold">
+<area shape="rect" id="Node000001" title="Global threshold writing into caller&#45;supplied buffer." alt="" coords="607,248,755,293"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Yantra_a6e53603fd2db55504ec3088ead67576b.html#a6e53603fd2db55504ec3088ead67576b" title=" " alt="" coords="358,5,545,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,233,649,195,626,149,595,103,557,64,541,53,541,48,561,60,599,100,630,146,654,193,670,234"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_1_1Vision_a2682c3a4f14c271b6718dcd9ba442afa.html#a2682c3a4f14c271b6718dcd9ba442afa" title="Extract peaks from a response map via non&#45;maximum suppression." alt="" coords="371,213,532,258"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="589,258,533,250,532,245,595,256"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Yantra_adbadeeb118ee393d0c9f047a6693a89f.html#adbadeeb118ee393d0c9f047a6693a89f" title=" " alt="" coords="358,144,545,189"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="629,240,558,203,530,192,529,187,560,199,634,239"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Yantra_a3b8b116aa815618fe61cee7d26814440.html#a3b8b116aa815618fe61cee7d26814440" title=" " alt="" coords="358,75,545,119"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="655,235,614,184,587,157,558,134,538,123,537,117,560,129,591,153,618,180,660,236"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1VisionExtractor_ad01b52798c99ee7a53c949b38619d84a.html#ad01b52798c99ee7a53c949b38619d84a" title="Edge value edges() keeps a pixel at." alt="" coords="344,283,559,327"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="589,285,560,291,559,286,594,283"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kinesis_1_1Vision_ab3a494620a06e3a255af32f2c31b9f8f.html#ab3a494620a06e3a255af32f2c31b9f8f" title="Global threshold: output is 1.0f where input &gt;= value, else 0.0f." alt="" coords="377,352,526,397"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="634,300,560,342,527,355,525,350,558,337,629,302"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kinesis_1_1Vision_ab59ddf976c954d2878179d22df017af5.html#ab59ddf976c954d2878179d22df017af5" title="Otsu threshold writing into caller&#45;supplied buffer." alt="" coords="369,421,534,466"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="660,304,618,360,591,388,560,411,535,425,533,420,558,407,587,384,614,357,655,307"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Yantra_1_1SpectralTransformer_a7823c1c101caf6098831e5ec802ebf19.html#a7823c1c101caf6098831e5ec802ebf19" title="Applies the configured spectral operation." alt="" coords="354,490,548,552"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="669,306,653,348,629,394,598,440,561,480,544,492,542,487,557,476,594,437,624,391,648,346,665,309"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1FeatureExtractor_a6625311b756518d90e3d5ef2e4125e10.html#a6625311b756518d90e3d5ef2e4125e10" title=" " alt="" coords="5,49,296,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,54,297,66,294,61,345,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="357,208,343,203,233,148,233,143,345,199,362,207"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kinesis_1_1Vision_1_1VisionExecutor_a6ea94c5c8d90c5890b7715a0e4ff2df5.html#a6ea94c5c8d90c5890b7715a0e4ff2df5" title="Execute a VisionSequence on one frame." alt="" coords="53,283,248,327"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="353,259,249,285,247,280,357,256"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="340,98,297,99,295,95,344,96"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="357,415,343,411,258,370,189,330,189,325,261,366,345,407,362,415"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kinesis_1_1Vision_a9e9b980cacd24fbc6855c1d50925859b.html#a9e9b980cacd24fbc6855c1d50925859b" title="Otsu threshold: finds the optimal global threshold by maximising inter&#45;class variance,..." alt="" coords="68,421,233,466"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="351,445,234,446,233,441,356,443"/>
+</map>

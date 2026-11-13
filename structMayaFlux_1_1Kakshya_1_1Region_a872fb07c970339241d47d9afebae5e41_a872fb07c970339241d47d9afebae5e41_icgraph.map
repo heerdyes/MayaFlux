@@ -1,0 +1,37 @@
+<map id="MayaFlux::Kakshya::Region::get_volume" name="MayaFlux::Kakshya::Region::get_volume">
+<area shape="rect" id="Node000001" title="Get the total volume (number of elements) in the region." alt="" coords="912,384,1069,429"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_aae6a6e0c3cb0bad70acafc465c1ac867.html#aae6a6e0c3cb0bad70acafc465c1ac867" title="Extract a region of data from a flat data span using a Region and dimension info." alt="" coords="706,384,864,429"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="894,407,865,409,864,404,899,406"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a9067f5302f1f4f03726d405bec6e971d.html#a9067f5302f1f4f03726d405bec6e971d" title="Extract data for multiple regions from multi&#45;channel source data." alt="" coords="487,43,644,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="771,369,755,319,730,257,698,192,656,131,633,109,610,91,609,86,637,105,660,128,702,189,735,255,760,318,776,370"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kakshya_ad322e2da4b0bd3c2aacd5935dfa0cd39.html#ad322e2da4b0bd3c2aacd5935dfa0cd39" title="Extract the data described by region from src using the container&#39;s dimension descriptors." alt="" coords="487,142,644,186"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="768,369,750,331,726,286,695,240,657,201,641,190,641,184,660,197,699,237,731,283,755,329,773,370"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kakshya_a9e9709829d80c948f8b9e169869bfbe7.html#a9e9709829d80c948f8b9e169869bfbe7" title="Extract a region of data from vector of vectors (planar data)." alt="" coords="487,211,644,256"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="757,371,714,321,687,294,657,270,638,259,637,254,660,266,690,290,718,317,762,372"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kakshya_a1a50dada1a9e89b61762433a756442a8.html#a1a50dada1a9e89b61762433a756442a8" title="Extract a region of data from a vector using a Region and dimension info." alt="" coords="487,280,644,325"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="731,377,657,340,631,328,631,323,659,335,736,377"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kakshya_a0b120cdfd64c4367c5c738c5bceec0bd.html#a0b120cdfd64c4367c5c738c5bceec0bd" title="Extract region data from planar storage (separate per channel/variant)." alt="" coords="487,350,644,394"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="689,393,645,387,644,382,694,391"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_1_1Kakshya_a380dad5e7b8d9664e58bfade4f16aaff.html#a380dad5e7b8d9664e58bfade4f16aaff" title="Extract a region of data with organization strategy." alt="" coords="487,419,644,464"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="689,423,646,432,644,427,694,421"/>
+<area shape="rect" id="Node000014" href="$namespaceMayaFlux_1_1Kakshya_a27d4ba2deff9dab0523d7a6aaceb8328.html#a27d4ba2deff9dab0523d7a6aaceb8328" title="Extract data for multiple segments from multi&#45;channel source data." alt="" coords="478,488,653,533"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="736,436,659,479,632,490,630,485,657,474,731,438"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a366fd2622123be4b7668420d9b6a32dd.html#a366fd2622123be4b7668420d9b6a32dd" title="Get data for a specific region." alt="" coords="480,557,651,619"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="761,440,717,496,660,548,642,559,640,555,657,543,713,492,756,443"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a403018fb0c941b740dab574a2ee3c370.html#a403018fb0c941b740dab574a2ee3c370" title="Get data for a specific region." alt="" coords="485,643,646,704"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="773,442,756,487,732,537,700,588,660,633,645,644,643,640,656,629,695,584,727,534,751,485,769,446"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a54e6f5327b1e6000a2c148781a8f6717.html#a54e6f5327b1e6000a2c148781a8f6717" title="Crop a region from the last readback and refresh its cached VKImage." alt="" coords="473,728,658,790"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="779,443,767,504,744,576,709,651,687,686,660,718,646,730,644,725,656,714,682,683,704,648,739,574,762,502,776,447"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_acd17dbf04a855d83c843a1d3027d8b2c.html#acd17dbf04a855d83c843a1d3027d8b2c" title="Get data for multiple regions efficiently." alt="" coords="247,5,425,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="469,55,426,50,424,45,474,52"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1VideoStreamContainer_a7981d89610650c9af324a71a7615451f.html#a7981d89610650c9af324a71a7615451f" title="Get data for a specific region." alt="" coords="252,91,420,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="470,148,421,140,420,135,474,146"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_ab6b3af48e74f707ab0e64720cedb03c0.html#ab6b3af48e74f707ab0e64720cedb03c0" title="Extract data for all regions across all region groups that spatially intersect region." alt="" coords="253,176,418,238"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="470,183,420,194,418,189,474,180"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1SpatialRegionProcessor_a8ac90d40e747a09a083df19dc1070c16.html#a8ac90d40e747a09a083df19dc1070c16" title="Extract all active regions from processed_data[0] in parallel." alt="" coords="249,261,423,323"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="479,196,475,201,460,213,451,225,441,238,427,252,409,263,406,259,423,247,437,234,447,222,456,210,471,197,483,192"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1SpatialRegionProcessor_a24efd7e5eb4a7d4f5ebc7cdfe974f265.html#a24efd7e5eb4a7d4f5ebc7cdfe974f265" title=" " alt="" coords="5,261,199,323"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="231,294,201,294,198,290,235,291"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_abb366b00cab7974aa43a29c38aea9bbf.html#abb366b00cab7974aa43a29c38aea9bbf" title="Get data for multiple region segments efficiently." alt="" coords="250,480,422,542"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="461,512,423,513,421,508,466,510"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MayaFlux::Buffers::NetworkStateFieldProcessor::dispatch_one_thread_per" name="MayaFlux::Buffers::NetworkStateFieldProcessor::dispatch_one_thread_per">
+<area shape="rect" id="Node000001" title="Configure manual dispatch for one thread per element, and stage the given push constant data." alt="" coords="5,91,210,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_a396a08372efa9e54744f1bc9a5244db3.html#a396a08372efa9e54744f1bc9a5244db3" title="Get current dispatch configuration." alt="" coords="258,5,430,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,88,245,71,241,74,196,93"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_adaaeab4489b75f391e28461fe22613ba.html#adaaeab4489b75f391e28461fe22613ba" title="Set manual dispatch group counts." alt="" coords="258,91,430,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,119,245,121,240,122,211,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a957293274f9de20606b567a18ebc353c.html#a957293274f9de20606b567a18ebc353c" title="Update push constant data (type&#45;safe)." alt="" coords="265,176,423,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,150,252,173,247,173,194,155"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a85037a36fe7bced17fc296d213abcdff.html#a85037a36fe7bced17fc296d213abcdff" title="Set push constant size from type." alt="" coords="478,176,635,238"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,204,465,207,460,207,424,209"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a9dd3a44345608a4b8d46e78bda4ab09e.html#a9dd3a44345608a4b8d46e78bda4ab09e" title="Set push constant size." alt="" coords="683,176,841,238"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="636,204,670,207,665,207,636,209"/>
+</map>
