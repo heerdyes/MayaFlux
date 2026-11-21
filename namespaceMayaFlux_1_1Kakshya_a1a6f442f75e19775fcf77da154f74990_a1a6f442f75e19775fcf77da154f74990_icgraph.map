@@ -1,0 +1,29 @@
+<map id="MayaFlux::Kakshya::gpu_data_format_bytes" name="MayaFlux::Kakshya::gpu_data_format_bytes">
+<area shape="rect" id="Node000001" title="Byte size of one element of a GpuDataFormat." alt="" coords="1280,171,1455,215"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderSpec_1_1Assemble_a44f5c516ff6ccfe853b704dffbdd1749.html#a44f5c516ff6ccfe853b704dffbdd1749" title="Finalise and return the ShaderSpec." alt="" coords="1015,100,1232,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1271,166,1203,148,1203,143,1276,166"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a4035b660b0531f6a27af86c892df6b49.html#a4035b660b0531f6a27af86c892df6b49" title="Byte width of one GpuBufferBinding::ElementType element." alt="" coords="1025,171,1222,215"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="1262,193,1222,196,1222,190,1267,193"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_af79e6f13296386b90973e973ff21bcc4.html#af79e6f13296386b90973e973ff21bcc4" title="Supply a shader input from a callable, resolved by name." alt="" coords="1040,240,1206,285"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="1274,220,1205,242,1204,237,1269,221"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1GpuFieldOperator_a3ad4b99e462122dbf5f6b1c00d3632ff.html#a3ad4b99e462122dbf5f6b1c00d3632ff" title="Assemble the compute spec for the current bindings." alt="" coords="743,7,963,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1047,94,966,66,931,55,931,49,968,61,1053,94"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a37b115d59dbe1593c58ef631942b363e.html#a37b115d59dbe1593c58ef631942b363e" title="GpuComputeConfig for a given VisionOp and its parameters." alt="" coords="762,100,944,145"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="997,123,944,125,944,120,1002,122"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="895,84,881,81,853,79,828,81,812,85,805,91,807,101,802,98,800,90,809,81,827,75,853,73,882,76,901,85"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a08ab089f0a700b0a70d6902294c38fb1.html#a08ab089f0a700b0a70d6902294c38fb1" title="Detect edges in the current image with the Canny pipeline." alt="" coords="487,5,668,50"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="769,95,645,53,645,48,774,94"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_afdad8a5a64522f246a58a7f585bd34c6.html#afdad8a5a64522f246a58a7f585bd34c6" title="Execute a VisionSequence on the GPU through an explicit context set." alt="" coords="235,65,416,110"/>
+<area shape="poly" id="edge11_Node000004_Node000006" title=" " alt="" coords="745,117,416,96,416,91,749,114"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_a48bca474121218135f8e80630f3eac82.html#a48bca474121218135f8e80630f3eac82" title="Compute the Harris response of the current image." alt="" coords="487,125,668,186"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="744,136,669,147,668,142,750,135"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="469,54,417,69,416,64,474,52"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="361,50,349,46,325,44,304,46,291,51,285,57,287,66,282,64,280,55,288,46,303,41,325,39,350,41,366,50"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1VisionGpuExecutor_aa3891b5855d98bac1e8935cc91931aae.html#aa3891b5855d98bac1e8935cc91931aae" title="Execute a VisionSequence on the GPU using this instance&#39;s own lazily&#45;constructed context set." alt="" coords="5,65,187,110"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="217,89,188,90,186,85,222,86"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="469,128,411,113,411,108,475,127"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Yantra_1_1GpuResourceManager_ad3b5f42928f36785bf91ab452c421a38.html#ad3b5f42928f36785bf91ab452c421a38" title=" " alt="" coords="739,173,967,218"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="1007,194,967,197,967,192,1012,194"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Yantra_1_1GpuResourceManager_a0d0ad13e6cfc9e2c8ab8a13422e2b937.html#a0d0ad13e6cfc9e2c8ab8a13422e2b937" title=" " alt="" coords="464,211,691,255"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="726,213,692,220,691,215,721,213"/>
+</map>

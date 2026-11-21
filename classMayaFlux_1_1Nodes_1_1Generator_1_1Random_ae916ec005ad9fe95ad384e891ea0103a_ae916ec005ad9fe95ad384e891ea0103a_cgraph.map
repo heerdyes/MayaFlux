@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Generator::Random::process_sample" name="MayaFlux::Nodes::Generator::Random::process_sample">
+<area shape="rect" id="Node000001" title="Generates a single stochastic value." alt="" coords="5,40,213,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Generator_a1d69602cd2a7350caf5028a436784242.html#a1d69602cd2a7350caf5028a436784242" title="Notifies all registered callbacks with the current context." alt="" coords="261,40,468,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,60,248,62,243,63,213,65"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Generator_ac55fe175b2a841ced9d39db3d12203a6.html#ac55fe175b2a841ced9d39db3d12203a6" title="Gets the last created context object." alt="" coords="516,5,726,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,46,503,44,498,44,469,51"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Generator_ad643e8c89712568663b2eb4ec28b9125.html#ad643e8c89712568663b2eb4ec28b9125" title="Updates the context object for callbacks." alt="" coords="518,75,725,119"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="468,74,505,81,500,81,468,79"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Node_a9e543f00ad2066f1dd3641b32e7416db.html#a9e543f00ad2066f1dd3641b32e7416db" title="Checks if the node supports GPU processing." alt="" coords="774,5,951,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="727,25,761,27,756,28,727,30"/>
+</map>

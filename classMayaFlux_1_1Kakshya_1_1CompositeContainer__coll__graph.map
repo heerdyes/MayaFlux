@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kakshya::CompositeContainer" name="MayaFlux::Kakshya::CompositeContainer">
+<area shape="rect" id="Node000001" title="Owns composite data and a bounded, independently owned window." alt="" coords="246,1487,426,1951"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1NDDataContainer.html" title=" " alt="" coords="5,726,215,1162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,1174,230,1391,260,1487,254,1487,225,1392,167,1179"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1NDDataContainer.html" title="Abstract interface for N&#45;dimensional data containers." alt="" coords="20,5,200,424"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,436,113,727,108,727,110,442"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1CompositeArray.html" title="Owns a sequence of values that share a CompositeLayout." alt="" coords="239,699,432,1190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="337,1188,338,1471,333,1470,334,1192"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1CompositeLayout.html" title="Shared field description and byte layout for a CompositeArray." alt="" coords="256,58,415,371"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="336,368,338,682,333,682,335,373"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure.html" title="Container structure for consistent dimension ordering." alt="" coords="456,497,646,1392"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="514,1389,494,1464,468,1525,436,1583,432,1579,464,1522,489,1462,511,1394"/>
+</map>

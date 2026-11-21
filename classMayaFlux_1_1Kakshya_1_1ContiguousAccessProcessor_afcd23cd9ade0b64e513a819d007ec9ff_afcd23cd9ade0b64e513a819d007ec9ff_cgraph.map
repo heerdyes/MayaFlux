@@ -1,0 +1,29 @@
+<map id="MayaFlux::Kakshya::ContiguousAccessProcessor::~ContiguousAccessProcessor" name="MayaFlux::Kakshya::ContiguousAccessProcessor::~ContiguousAccessProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,164,227,226"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_a659411b73a8e35064a42df40e5743663.html#a659411b73a8e35064a42df40e5743663" title="Attach the processor to a signal source container." alt="" coords="275,79,477,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,161,268,144,263,147,213,166"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_a2ba7034b5a046ab98847a03bb63a31f6.html#a2ba7034b5a046ab98847a03bb63a31f6" title="Detach the processor from its container." alt="" coords="275,164,477,226"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="226,192,261,194,256,196,228,197"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_ad02564095af42029d0276cc1df6370ee.html#ad02564095af42029d0276cc1df6370ee" title="Process the current region or block of data." alt="" coords="275,249,477,311"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="212,224,268,243,263,245,212,229"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_aca05ee63009dd88d08bdb79c0fa821c0.html#aca05ee63009dd88d08bdb79c0fa821c0" title="Store dimension and layout metadata from the container." alt="" coords="525,5,727,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,77,512,69,508,71,479,82"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_a39d753c064f0ccb0764dcb59c65f920e.html#a39d753c064f0ccb0764dcb59c65f920e" title="Validate the container&#39;s structure and output configuration." alt="" coords="525,91,727,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="477,112,512,115,507,117,478,117"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_a6b9b1e820df114a20a5384233008e015.html#a6b9b1e820df114a20a5384233008e015" title="Advance current positions by a number of frames, with optional looping." alt="" coords="548,188,705,233"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="477,249,530,237,535,236,478,255"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Kakshya_adb3ed485f36324d5f12a986d54a1a7be.html#adb3ed485f36324d5f12a986d54a1a7be" title="Calculate output region bounds from current position and shape." alt="" coords="538,258,715,302"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="477,278,525,280,519,280,478,283"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kakshya_aa54974c0e7035a5e1d91aa1c3c29d49c.html#aa54974c0e7035a5e1d91aa1c3c29d49c" title="Safely copy data from a DataVariant to another DataVariant, handling type conversion." alt="" coords="538,327,714,372"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="478,306,531,323,526,322,477,311"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a27b9d48a60ea2512b02a8196c6581eec.html#a27b9d48a60ea2512b02a8196c6581eec" title="Extract channel count from dimensions." alt="" coords="780,112,954,174"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="705,186,762,172,768,171,706,191"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a707364e4c5a8e950a981eaf7ff5edff6.html#a707364e4c5a8e950a981eaf7ff5edff6" title="Get samples per channel (time dimension only)." alt="" coords="775,198,959,277"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="705,217,762,225,757,226,706,222"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Kakshya_a446e512dc040ea0ab603d860100224a8.html#a446e512dc040ea0ab603d860100224a8" title="Get typed span from DataVariant using concepts." alt="" coords="788,327,946,372"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="715,347,775,349,770,350,715,352"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="1007,327,1164,372"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="947,347,994,349,988,350,947,352"/>
+<area shape="rect" id="Node000014" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="1212,327,1385,372"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1164,347,1199,349,1194,350,1165,352"/>
+</map>

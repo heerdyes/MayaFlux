@@ -1,0 +1,33 @@
+<map id="MayaFlux::IO::DelimitedTextReader::~DelimitedTextReader" name="MayaFlux::IO::DelimitedTextReader::~DelimitedTextReader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,248,229,293"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_a91bd677ffe31e18fb953927d4b83b2c0.html#a91bd677ffe31e18fb953927d4b83b2c0" title="Check for the .csv or .tsv extension." alt="" coords="531,5,737,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,246,200,197,275,148,344,116,400,97,458,82,530,60,554,54,549,57,532,65,459,87,402,102,346,121,278,153,203,202,145,250"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_ae0edea53df741cd830433f5a76d3fce3.html#ae0edea53df741cd830433f5a76d3fce3" title="Close the input and release its active layout." alt="" coords="531,75,737,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,245,276,199,406,156,530,122,526,125,408,161,278,203,168,250"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_a26caa332df01c8062918d8756490d885.html#a26caa332df01c8062918d8756490d885" title="Open a CSV or TSV file and establish its Composite layout." alt="" coords="277,213,483,258"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,253,264,250,259,253,230,258"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_a40577c650d3eac88482ca480cb44d143.html#a40577c650d3eac88482ca480cb44d143" title="Override the delimiter chosen from .csv or .tsv." alt="" coords="277,283,483,327"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="229,282,264,289,259,290,230,288"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_aada8d2fef55efcfb55a28759fd145d5d.html#aada8d2fef55efcfb55a28759fd145d5d" title="Select whether the first record supplies field names." alt="" coords="277,352,483,397"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="168,291,278,337,297,346,292,347,276,342,168,296"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_a4eaf534a6b623437f52b4c3903da2622.html#a4eaf534a6b623437f52b4c3903da2622" title="Set an exact field layout before opening a file." alt="" coords="277,421,483,466"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="139,291,199,348,237,379,278,407,290,415,284,414,275,411,234,384,196,352,138,296"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="393,211,447,138,485,96,529,60,541,56,536,59,533,65,489,100,451,141,397,215"/>
+<area shape="poly" id="edge8_Node000004_Node000003" title=" " alt="" coords="407,211,462,170,530,129,546,124,541,127,532,134,465,174,410,215"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1CompositeLayout_a4a3aa4440ea93c7514e7944fe9ed71dd.html#a4a3aa4440ea93c7514e7944fe9ed71dd" title="Declare a named arithmetic, text, or binary field." alt="" coords="533,213,735,258"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="483,233,520,235,515,236,484,238"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1CompositeArray_a35d329f829da02eb1e4a2993e19e721c.html#a35d329f829da02eb1e4a2993e19e721c" title="Finalized layout shared by all elements." alt="" coords="547,283,721,327"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="465,256,538,278,533,278,465,261"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_a6d0148f02bd669240cfc394061a288f3.html#a6d0148f02bd669240cfc394061a288f3" title=" " alt="" coords="531,352,737,397"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="464,256,485,268,501,286,509,304,517,321,533,338,540,345,535,344,529,342,513,324,505,306,497,289,481,272,463,261"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1IO_1_1FileReader_a24d94d5bc8b4294d61f43ac86f933050.html#a24d94d5bc8b4294d61f43ac86f933050" title="Resolve a filepath against the project source root if not found as&#45;is." alt="" coords="542,144,726,189"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="464,210,538,192,533,194,466,215"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1CompositeLayout_a56e595176a1ff196924ca047ca2e85f1.html#a56e595176a1ff196924ca047ca2e85f1" title=" " alt="" coords="785,205,953,266"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="736,233,772,235,767,236,736,238"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1CompositeLayout_af4cd325e144ed9d1c95d00bf6bde2b34.html#af4cd325e144ed9d1c95d00bf6bde2b34" title="Find a field index by name, or std::nullopt if absent." alt="" coords="1001,213,1203,258"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="952,233,988,235,982,236,953,238"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1IO_1_1DelimitedTextReader_a7f9aa0e4a241730a86859705078023f9.html#a7f9aa0e4a241730a86859705078023f9" title="Whether a file is currently open." alt="" coords="531,421,737,466"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="464,325,485,338,501,355,509,373,517,390,533,407,540,414,535,413,529,411,513,393,505,375,497,358,481,342,463,330"/>
+<area shape="poly" id="edge15_Node000013_Node000012" title=" " alt="" coords="465,395,538,417,533,417,464,400"/>
+<area shape="poly" id="edge17_Node000014_Node000012" title=" " alt="" coords="483,441,518,444,513,444,484,446"/>
+</map>

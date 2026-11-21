@@ -1,0 +1,16 @@
+<map id="MayaFlux::Nexus::recenter_attachment" name="MayaFlux::Nexus::recenter_attachment">
+<area shape="rect" id="Node000001" title="Read the buffer&#39;s geometry again and move the anchor to match." alt="" coords="5,52,202,97"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nexus_a38a4ffb36a511a9879f5dee9e2f64099.html#a38a4ffb36a511a9879f5dee9e2f64099" title="Anchor of a buffer&#39;s geometry in its own stored coordinates." alt="" coords="250,52,421,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,72,237,74,232,75,202,77"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="296,50,294,42,301,33,315,27,335,25,358,28,373,37,368,37,356,33,335,31,316,33,304,37,299,43,300,53"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a1f900447d934e9d0d88d4377cd6e6019.html#a1f900447d934e9d0d88d4377cd6e6019" title="Mean position across a window." alt="" coords="665,5,814,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,49,469,37,562,27,653,27,647,27,562,33,469,42,414,54"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a0d8c29115b08c11f5a7cb4c84ab79d45.html#a0d8c29115b08c11f5a7cb4c84ab79d45" title="Position of one record in interleaved vertex bytes." alt="" coords="665,87,814,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="411,95,469,106,562,113,652,115,647,115,562,118,469,112,410,100"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_ab577a8cd26f627e22b3fdde7c4d3dd9c.html#ab577a8cd26f627e22b3fdde7c4d3dd9c" title="Area&#45;weighted centroid of the triangles of an indexed mesh." alt="" coords="469,52,617,97"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="421,72,456,74,451,75,421,77"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a0e0d3fef51c28469d86c6f9501d37439.html#a0e0d3fef51c28469d86c6f9501d37439" title="Simple moving average over the newest window samples." alt="" coords="862,5,1010,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="814,25,849,27,843,28,814,30"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="617,54,648,49,653,48,618,59"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="618,85,652,93,647,93,618,90"/>
+</map>

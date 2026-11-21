@@ -1,0 +1,14 @@
+<map id="MayaFlux::Kinesis::generate_sdf_mesh" name="MayaFlux::Kinesis::generate_sdf_mesh">
+<area shape="rect" id="Node000001" title="Extract an isosurface from a scalar field using marching cubes." alt="" coords="5,105,155,150"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_a3e6ac0a203b99a3e1d7d6becd8aec41f.html#a3e6ac0a203b99a3e1d7d6becd8aec41f" title=" " alt="" coords="216,5,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,103,202,60,219,55,214,58,204,65,122,107"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1MeshData_a3cecabe70345deaa8c2da479a1a8193a.html#a3cecabe70345deaa8c2da479a1a8193a" title="Construct an empty MeshData with the canonical 60&#45;byte mesh layout." alt="" coords="217,75,374,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,115,204,109,200,112,156,120"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a7b7a30b2a13cb2676713a352f298f607.html#a7b7a30b2a13cb2676713a352f298f607" title="Factory: layout for MeshVertex (position, color, weight, uv, normal, tangent)." alt="" coords="437,104,628,149"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="155,128,203,129,389,129,424,130,418,131,389,134,203,134,156,133"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1MeshInsertion_a618b35166b14858aca7b8f8c8ce693c8.html#a618b35166b14858aca7b8f8c8ce693c8" title="Insert a single flat mesh (no submesh tracking)." alt="" coords="203,195,389,239"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="136,148,228,187,224,189,135,153"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a64bfe6458a57047ea3c126b2b27da092.html#a64bfe6458a57047ea3c126b2b27da092" title="Zero output below threshold, pass through above." alt="" coords="458,5,607,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,25,446,27,440,28,376,30"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="375,104,424,112,419,113,375,109"/>
+</map>

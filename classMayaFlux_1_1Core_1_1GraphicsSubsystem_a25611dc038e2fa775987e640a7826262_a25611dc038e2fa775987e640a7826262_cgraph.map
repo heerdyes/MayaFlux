@@ -1,0 +1,32 @@
+<map id="MayaFlux::Core::GraphicsSubsystem::initialize_graphics_portal" name="MayaFlux::Core::GraphicsSubsystem::initialize_graphics_portal">
+<area shape="rect" id="Node000001" title="Initialize Portal::Graphics subsystem." alt="" coords="5,173,194,234"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_ac663547dd9fc85f307003370fdf087a3.html#ac663547dd9fc85f307003370fdf087a3" title="Initialize Portal::Graphics Glue Layer." alt="" coords="242,181,438,226"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,201,228,202,224,205,195,206"/>
+<area shape="rect" id="Node000003" href="$main_8cpp_a25a40b6614565f755233080a384c35f1.html#a25a40b6614565f755233080a384c35f1" title=" " alt="" coords="546,26,623,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,179,410,121,445,89,485,63,533,47,528,50,487,67,449,94,413,124,361,183"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a89b259adf28ef041294928959e03fa9c.html#a89b259adf28ef041294928959e03fa9c" title=" " alt="" coords="486,77,682,122"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="384,179,485,132,504,127,499,129,487,137,387,183"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1RenderFlow_a427f34bcec94e920d4dbbb76ae7f175f.html#a427f34bcec94e920d4dbbb76ae7f175f" title=" " alt="" coords="486,147,682,191"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="438,187,473,184,468,186,439,192"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1SamplerForge_a880d0694e043c227ecf475a1beb906cb.html#a880d0694e043c227ecf475a1beb906cb" title=" " alt="" coords="486,216,682,261"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="438,215,473,222,468,223,439,220"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="486,297,682,342"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="389,224,524,290,519,291,389,229"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="486,379,682,423"/>
+<area shape="poly" id="edge15_Node000002_Node000012" title=" " alt="" coords="360,224,414,286,449,321,488,352,516,372,511,371,484,357,446,325,410,290,358,229"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_acd2b96492e701fa8518ef8d19e317441.html#acd2b96492e701fa8518ef8d19e317441" title=" " alt="" coords="733,29,958,74"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="682,79,720,74,715,76,684,84"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="796,28,794,19,803,10,820,5,846,3,874,5,892,14,887,14,872,10,845,8,821,10,806,15,800,21,801,30"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1RenderFlow_ac4755ca2646bfa89ba72eed83150db73.html#ac4755ca2646bfa89ba72eed83150db73" title=" " alt="" coords="747,123,944,167"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="682,157,735,155,729,156,684,163"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="796,121,794,112,803,104,820,98,846,96,874,98,892,107,887,108,872,104,845,101,821,103,806,108,800,114,801,123"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1SamplerForge_a65d8a4f5d8e73676ac909a077cb6a582.html#a65d8a4f5d8e73676ac909a077cb6a582" title=" " alt="" coords="737,216,954,261"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="683,236,724,238,719,239,683,241"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="796,214,794,206,803,197,820,191,846,189,874,192,892,201,887,201,872,197,845,195,821,197,806,201,800,207,801,217"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="730,309,961,354"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="683,322,717,325,712,326,683,327"/>
+<area shape="poly" id="edge14_Node000011_Node000011" title=" " alt="" coords="796,307,794,299,803,290,820,285,846,283,874,285,892,294,887,294,872,290,845,288,821,290,806,295,800,301,801,310"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="743,403,948,447"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="683,407,730,414,725,414,683,413"/>
+<area shape="poly" id="edge17_Node000013_Node000013" title=" " alt="" coords="796,400,794,392,803,384,820,378,846,376,874,378,892,388,887,387,872,384,845,381,821,383,806,388,800,394,801,404"/>
+</map>

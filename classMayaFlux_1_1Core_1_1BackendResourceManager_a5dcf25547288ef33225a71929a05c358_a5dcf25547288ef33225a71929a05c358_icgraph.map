@@ -1,0 +1,22 @@
+<map id="MayaFlux::Core::BackendResourceManager::execute_immediate_commands" name="MayaFlux::Core::BackendResourceManager::execute_immediate_commands">
+<area shape="rect" id="Node000001" title="Execute immediate command recording for buffer operations." alt="" coords="617,186,863,248"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_a15b34e45eb7bc14413d32d20be162322.html#a15b34e45eb7bc14413d32d20be162322" title="Blit a region of one image into a region of another." alt="" coords="323,5,569,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="697,175,639,123,604,95,568,71,529,53,529,48,570,67,608,91,643,119,703,175"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_a1fe5c96d56ec273270cbd6d95450fd6c.html#a1fe5c96d56ec273270cbd6d95450fd6c" title=" " alt="" coords="5,160,275,205"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="686,176,632,143,601,127,568,116,501,100,447,97,392,103,323,116,251,136,189,162,186,157,250,131,322,110,391,98,447,92,502,95,570,110,603,122,635,138,692,176"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ae3f1ac9a86e74efe0b8afa6a4f57168f.html#ae3f1ac9a86e74efe0b8afa6a4f57168f" title=" " alt="" coords="323,125,569,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="599,185,544,173,543,168,604,184"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ab9333b3ff9c0372c1bf8af57a449c3b0.html#ab9333b3ff9c0372c1bf8af57a449c3b0" title="Transition image layout using a pipeline barrier." alt="" coords="323,195,569,239"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="599,218,570,220,569,214,604,216"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ae6ec7e3044b266267de2e7fcb3c0f2e4.html#ae6ec7e3044b266267de2e7fcb3c0f2e4" title="Upload data to an image (creates staging buffer internally)." alt="" coords="323,264,569,309"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="599,250,544,266,543,261,604,249"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_a6be487a58202182335fcd5817998449c.html#a6be487a58202182335fcd5817998449c" title="Upload image data using a caller&#45;supplied persistent staging buffer." alt="" coords="323,333,569,378"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="685,256,630,293,570,323,539,335,537,330,568,319,627,288,680,258"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_abb28c2cce8def22115068a5be7711a23.html#abb28c2cce8def22115068a5be7711a23" title="Upload pixel data into one layer of an array image." alt="" coords="323,403,569,447"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="709,259,649,330,612,364,570,393,546,405,544,400,568,388,608,359,646,326,705,262"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,57,324,71,242,117,175,161,171,158,239,113,321,67,356,54"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="305,165,276,169,274,165,309,162"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="305,202,276,200,274,195,310,200"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="343,260,322,254,198,208,198,203,324,249,349,259"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="329,395,321,393,265,348,217,297,179,247,154,208,155,202,183,243,221,293,269,345,324,388,334,396"/>
+</map>

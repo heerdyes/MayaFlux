@@ -1,0 +1,19 @@
+<map id="MayaFlux::Portal::Network::as_osc" name="MayaFlux::Portal::Network::as_osc">
+<area shape="rect" id="Node000001" title="Parse a NetworkMessage payload as an OSC message." alt="" coords="5,125,200,170"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1OscParser_a3bef65f17b2288f02e9bc97c55164279.html#a3bef65f17b2288f02e9bc97c55164279" title="Parse a single OSC message from raw bytes." alt="" coords="248,125,443,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,145,235,147,230,149,201,150"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Core_1_1InputValue_a6c454134d6651c8c39d017bdc2de051f.html#a6c454134d6651c8c39d017bdc2de051f" title=" " alt="" coords="491,5,691,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,122,490,67,521,55,516,57,492,71,387,127"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a3d6e0467c810b4f63f491b1f9e55d82e.html#a3d6e0467c810b4f63f491b1f9e55d82e" title="Read a length&#45;prefixed blob from a byte buffer." alt="" coords="513,125,669,170"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="443,145,500,147,495,148,444,150"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a4c4e146a421ce9e7274d28774a88b66f.html#a4c4e146a421ce9e7274d28774a88b66f" title="Read a big&#45;endian int32 from a byte buffer." alt="" coords="745,96,905,141"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="427,122,491,110,615,104,732,110,727,111,615,109,491,116,428,127"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ad1a57a2f62fbfa816e60a1fc09d3b8e8.html#ad1a57a2f62fbfa816e60a1fc09d3b8e8" title="Read a big&#45;endian IEEE 754 float from a byte buffer." alt="" coords="513,195,669,239"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="427,168,501,191,496,191,427,173"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ac22aa8dc4b1246710f9dd7cdf4307209.html#ac22aa8dc4b1246710f9dd7cdf4307209" title="Read a null&#45;terminated string from a byte buffer." alt="" coords="510,264,673,309"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="374,168,428,209,492,249,506,258,500,257,490,254,425,213,373,173"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ac36e4dc715dfd9e1c9d304a36e922a49.html#ac36e4dc715dfd9e1c9d304a36e922a49" title="Round len up to the next 4&#45;byte boundary." alt="" coords="739,200,911,245"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="663,168,741,195,736,195,663,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="669,135,733,130,727,131,670,141"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="673,261,724,250,729,249,674,267"/>
+</map>

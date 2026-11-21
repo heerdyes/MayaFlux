@@ -1,0 +1,7 @@
+<map id="MayaFlux::IO::IOManager::shutdown" name="MayaFlux::IO::IOManager::shutdown">
+<area shape="rect" id="Node000001" title="Unregisters IOService, releases all owned readers, clears stored buffers." alt="" coords="240,40,426,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1IOManager_a87fdb3896103ef73e3a949781808704e.html#a87fdb3896103ef73e3a949781808704e" title=" " alt="" coords="5,5,192,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,47,192,44,192,39,227,46"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1IOManager_ad92be69cbeb3eaa2a270f7dd3ecd3b16.html#ad92be69cbeb3eaa2a270f7dd3ecd3b16" title="Calls shutdown() if it has not already run." alt="" coords="5,75,192,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,79,193,86,192,81,227,78"/>
+</map>

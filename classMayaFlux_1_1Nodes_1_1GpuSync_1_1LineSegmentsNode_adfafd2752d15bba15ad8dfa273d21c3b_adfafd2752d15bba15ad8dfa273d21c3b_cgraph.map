@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::GpuSync::LineSegmentsNode::add_curvature" name="MayaFlux::Nodes::GpuSync::LineSegmentsNode::add_curvature">
+<area shape="rect" id="Node000001" title="Append curvature segments derived from a vertex path." alt="" coords="5,32,205,93"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1LineSegmentsNode_a6c90c75d10a37f7b04f3a73e95550e2e.html#a6c90c75d10a37f7b04f3a73e95550e2e" title=" " alt="" coords="253,5,503,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,47,240,45,235,46,206,52"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kinesis_a960243de41470f0abbb319840ffbc76b.html#a960243de41470f0abbb319840ffbc76b" title="Compute curvature vectors along a path (2nd derivative approximation)." alt="" coords="286,75,470,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,72,274,83,268,84,205,78"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a69877f3808892dd6eb3786ccc5382a4c.html#a69877f3808892dd6eb3786ccc5382a4c" title="Signed curvature from velocity and acceleration." alt="" coords="551,75,699,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,94,538,97,533,97,470,100"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a5a68bb1b00949f806902a3fd6db1dbd5.html#a5a68bb1b00949f806902a3fd6db1dbd5" title="2D scalar cross product, sign of turn direction" alt="" coords="747,75,896,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="700,94,734,97,729,97,700,100"/>
+</map>

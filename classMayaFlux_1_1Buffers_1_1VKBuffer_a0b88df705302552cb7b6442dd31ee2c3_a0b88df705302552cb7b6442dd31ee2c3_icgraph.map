@@ -1,0 +1,69 @@
+<map id="MayaFlux::Buffers::VKBuffer::infer_dimensions_from_data" name="MayaFlux::Buffers::VKBuffer::infer_dimensions_from_data">
+<area shape="rect" id="Node000001" title="Infer Kakshya::DataDimension entries from a given byte count." alt="" coords="1008,133,1206,195"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a1c3e0f6c292516efd5f5364ba7a14fa8.html#a1c3e0f6c292516efd5f5364ba7a14fa8" title="Resize buffer and recreate GPU resources if needed." alt="" coords="800,38,948,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1025,127,959,97,933,86,932,80,961,92,1030,126"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ae22f33ecea5953e1b819bbd36db3114c.html#ae22f33ecea5953e1b819bbd36db3114c" title="Write data into the buffer." alt="" coords="800,107,948,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="990,148,949,143,947,138,995,146"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ad7bbc21763ca5139702f4395a6f5566d.html#ad7bbc21763ca5139702f4395a6f5566d" title="Update the semantic modality and re&#45;infer dimensions." alt="" coords="788,176,960,221"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="990,182,961,188,959,184,994,180"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a71bfbd383ca91bbd5541b653939d89a2.html#a71bfbd383ca91bbd5541b653939d89a2" title="Construct an unregistered VKBuffer." alt="" coords="800,552,948,597"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1083,207,890,554,886,551,1079,210"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_afb563bced2a85b0019e571ce0bfa4081.html#afb563bced2a85b0019e571ce0bfa4081" title="Virtual destructor." alt="" coords="539,38,693,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="782,62,695,63,693,58,787,59"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="783,107,695,83,693,78,788,105"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1CompositeGeometryBuffer_a471dab929e26742d15e8303d0c08feed.html#a471dab929e26742d15e8303d0c08feed" title="Create empty composite buffer." alt="" coords="514,107,718,168"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="868,536,859,463,838,368,821,318,800,269,772,223,738,182,718,166,718,161,742,178,777,220,804,266,826,316,843,367,864,462,873,538"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1ComputeMeshBuffer_a0ebaea552b7762e95c72041077b299a7.html#a0ebaea552b7762e95c72041077b299a7" title=" " alt="" coords="506,192,727,254"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="864,537,851,479,827,406,790,332,766,298,739,267,726,257,726,252,742,264,770,294,795,329,832,404,856,478,869,538"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_ab8066f3d63396050331f2ca2e9707f9d.html#ab8066f3d63396050331f2ca2e9707f9d" title="Construct a FormaBuffer." alt="" coords="522,278,711,322"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="860,537,843,492,818,437,783,383,762,358,739,337,712,321,711,315,742,333,766,355,787,380,822,435,848,490,865,538"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Buffers_1_1GeometryBuffer_ab3fafe8be8ff00aa36fc134600d06346.html#ab3fafe8be8ff00aa36fc134600d06346" title="Create geometry buffer from generative node." alt="" coords="498,347,735,392"/>
+<area shape="poly" id="edge17_Node000006_Node000017" title=" " alt="" coords="851,539,806,472,775,436,739,406,719,395,719,390,742,402,779,433,810,468,857,539"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Buffers_1_1InstanceNetworkBuffer_a76054285d20166d96ef7062734835307.html#a76054285d20166d96ef7062734835307" title=" " alt="" coords="527,416,705,478"/>
+<area shape="poly" id="edge18_Node000006_Node000018" title=" " alt="" coords="822,544,739,499,701,481,700,476,742,494,828,544"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Buffers_1_1MeshBuffer_a8bf359a761684ab7b390dc4e550ae564.html#a8bf359a761684ab7b390dc4e550ae564" title="Construct from an owning MeshData." alt="" coords="528,552,705,597"/>
+<area shape="poly" id="edge19_Node000006_Node000019" title=" " alt="" coords="782,576,706,577,705,572,787,574"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Buffers_1_1MeshBuffer_a952adb7d8c6fc079a3031c7db7bd2ff7.html#a952adb7d8c6fc079a3031c7db7bd2ff7" title="Construct from a MeshWriterNode." alt="" coords="236,523,413,568"/>
+<area shape="poly" id="edge22_Node000006_Node000020" title=" " alt="" coords="783,549,740,543,654,535,566,534,414,540,412,535,566,528,654,530,741,538,788,548"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Buffers_1_1MeshNetworkBuffer_a6db6ab3ff001105ca916393d90854ca6.html#a6db6ab3ff001105ca916393d90854ca6" title="Construct from an existing MeshNetwork." alt="" coords="492,621,740,683"/>
+<area shape="poly" id="edge23_Node000006_Node000022" title=" " alt="" coords="783,603,722,623,720,618,788,600"/>
+<area shape="rect" id="Node000023" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_a09a747b9b0a8d796ca0bb2ae91181221.html#a09a747b9b0a8d796ca0bb2ae91181221" title="Create geometry buffer from network." alt="" coords="522,707,710,768"/>
+<area shape="poly" id="edge24_Node000006_Node000023" title=" " alt="" coords="845,607,798,655,742,697,712,712,709,707,739,693,795,651,840,610"/>
+<area shape="rect" id="Node000025" href="$classMayaFlux_1_1Buffers_1_1NodeTextureBuffer_a00e6d4055c95164561929c303ba49f8c.html#a00e6d4055c95164561929c303ba49f8c" title="Create texture staging buffer from generative node." alt="" coords="500,792,732,854"/>
+<area shape="poly" id="edge26_Node000006_Node000025" title=" " alt="" coords="860,609,842,652,816,697,782,743,742,782,725,794,722,789,739,778,778,739,811,695,837,649,856,613"/>
+<area shape="rect" id="Node000026" href="$classMayaFlux_1_1Buffers_1_1RelaxationGridBuffer_a35d1bb7ee44f51dded3ae5d2bb11c8ee.html#a35d1bb7ee44f51dded3ae5d2bb11c8ee" title="Construct an unregistered double&#45;buffered grid buffer." alt="" coords="534,877,699,939"/>
+<area shape="poly" id="edge27_Node000006_Node000026" title=" " alt="" coords="867,611,853,669,829,737,792,807,769,839,742,868,722,882,700,893,698,888,720,877,739,863,765,836,788,804,824,735,848,668,864,615"/>
+<area shape="rect" id="Node000028" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_ac591a11585eecc22824a7411e4f02dab.html#ac591a11585eecc22824a7411e4f02dab" title="Create texture buffer with dimensions." alt="" coords="514,963,718,1008"/>
+<area shape="poly" id="edge29_Node000006_Node000028" title=" " alt="" coords="872,611,864,685,842,776,826,824,804,871,776,914,742,953,720,968,717,964,739,949,772,911,799,868,821,822,837,775,859,684,869,615"/>
+<area shape="rect" id="Node000032" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_a9d0a103597a9e496337f6e8f689895ce.html#a9d0a103597a9e496337f6e8f689895ce" title="Construct a volume with no fields, to be declared after." alt="" coords="506,1032,726,1094"/>
+<area shape="poly" id="edge33_Node000006_Node000032" title=" " alt="" coords="874,611,869,696,850,805,833,863,810,921,780,974,742,1022,728,1034,726,1029,738,1018,776,971,805,918,828,862,845,804,864,696,871,615"/>
+<area shape="rect" id="Node000033" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_a7b7e1f7b68aaab5ffeedac2bd328f611.html#a7b7e1f7b68aaab5ffeedac2bd328f611" title="Construct from a runtime&#45;built field list." alt="" coords="506,1117,726,1179"/>
+<area shape="poly" id="edge34_Node000006_Node000033" title=" " alt="" coords="870,611,854,726,827,873,809,947,789,1014,767,1069,742,1107,728,1120,726,1115,738,1104,762,1066,784,1012,804,945,821,872,849,725,866,615"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1ComputeMeshBuffer_ad7c8c7da6f5ea59970c9bc31f57cfca7.html#ad7c8c7da6f5ea59970c9bc31f57cfca7" title="Construct in GPU&#45;field mode." alt="" coords="214,5,435,67"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="493,183,490,182,479,169,472,156,465,130,459,105,453,93,442,81,430,70,429,65,446,77,457,90,464,103,471,129,477,154,483,166,494,178,498,182"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1ComputeMeshBuffer_a20deea6441096625feacd72adae46001.html#a20deea6441096625feacd72adae46001" title=" " alt="" coords="214,91,435,152"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="508,187,491,183,415,155,414,150,493,178,512,185"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_acbe987b0741cb72f2d7e4e96024cd806.html#acbe987b0741cb72f2d7e4e96024cd806" title=" " alt="" coords="230,176,419,221"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="505,273,491,268,467,252,443,236,416,224,414,219,445,231,469,247,493,263,510,271"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a7d53c87d775f3d9f0c36aadfcfcd9991.html#a7d53c87d775f3d9f0c36aadfcfcd9991" title=" " alt="" coords="230,246,419,290"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="504,290,421,281,418,276,508,287"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_ad5744180b413325b88373dc9a14c4927.html#ad5744180b413325b88373dc9a14c4927" title="Construct a FormaBuffer." alt="" coords="230,315,419,360"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="504,316,421,328,418,323,508,313"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a8d851cfd61a681e5fbcbd8b0a5da55a4.html#a8d851cfd61a681e5fbcbd8b0a5da55a4" title=" " alt="" coords="237,384,412,429"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="505,330,493,337,470,356,445,374,414,388,411,384,443,370,466,351,491,333,509,326"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a42c082d62de8eb96dda8d0ef837f0d2d.html#a42c082d62de8eb96dda8d0ef837f0d2d" title=" " alt="" coords="237,454,412,498"/>
+<area shape="poly" id="edge16_Node000011_Node000016" title=" " alt="" coords="506,326,494,337,482,349,476,362,471,389,465,416,458,430,446,444,414,462,410,459,442,439,454,427,460,414,465,388,471,360,478,346,490,333,509,322"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="509,566,414,557,412,552,514,563"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Buffers_1_1RaymarchBuffer_a22c300daf8426e10957df665a8b4f429.html#a22c300daf8426e10957df665a8b4f429" title="Construct proxy geometry over a lattice." alt="" coords="205,592,444,637"/>
+<area shape="poly" id="edge21_Node000019_Node000021" title=" " alt="" coords="510,590,446,601,443,596,514,588"/>
+<area shape="rect" id="Node000024" href="$classMayaFlux_1_1Buffers_1_1NetworkTextureBuffer_a4ba15aec8dfd6f0edcbf073fcf307fb5.html#a4ba15aec8dfd6f0edcbf073fcf307fb5" title="Create buffer from network with optional texture source." alt="" coords="239,707,410,768"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="504,739,411,740,410,735,508,736"/>
+<area shape="rect" id="Node000027" href="$classMayaFlux_1_1Buffers_1_1RelaxationGridBuffer_a0aad6df932ffb31ab654ad0e0dc7c80e.html#a0aad6df932ffb31ab654ad0e0dc7c80e" title="Construct from a GridConfig." alt="" coords="242,869,407,931"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="516,906,408,905,407,900,521,905"/>
+<area shape="rect" id="Node000029" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a63e2df9e71eebcaeee39244bc6563046.html#a63e2df9e71eebcaeee39244bc6563046" title=" " alt="" coords="249,955,400,1016"/>
+<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="496,986,401,988,400,983,502,985"/>
+<area shape="rect" id="Node000031" href="$classMayaFlux_1_1Buffers_1_1VideoContainerBuffer_ac509130c3c751ac4958f22d496a79631.html#ac509130c3c751ac4958f22d496a79631" title="Construct a VideoContainerBuffer from a video container." alt="" coords="240,1040,408,1102"/>
+<area shape="poly" id="edge32_Node000028_Node000031" title=" " alt="" coords="516,1013,493,1023,410,1048,408,1043,491,1018,521,1012"/>
+<area shape="rect" id="Node000030" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a1b673c72202a495a1c2c31a0e30443ca.html#a1b673c72202a495a1c2c31a0e30443ca" title="Build from a stream spec: width, height and format of every layer, with ring_frames as the layer coun..." alt="" coords="5,955,157,1016"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="231,987,158,988,156,983,235,984"/>
+</map>

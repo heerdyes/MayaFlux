@@ -1,0 +1,9 @@
+<map id="MayaFlux::IO::FFmpegMuxContext::open" name="MayaFlux::IO::FFmpegMuxContext::open">
+<area shape="rect" id="Node000001" title="Allocate an output context and open the avio layer for writing." alt="" coords="5,75,253,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1FFmpegMuxContext_a81f6c081e70f3ae170a1ce0ba77c546b.html#a81f6c081e70f3ae170a1ce0ba77c546b" title="Write the container trailer, flush avio, and release all resources." alt="" coords="301,5,548,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,71,314,53,309,55,228,77"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1FFmpegDemuxContext_a8ea9c7c404909356ac05d7aa28270c3e.html#a8ea9c7c404909356ac05d7aa28270c3e" title="Initialise FFmpeg logging level once per process." alt="" coords="317,75,532,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,94,304,96,299,98,254,100"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1IO_af70273974a6d4e868b4c016d2f944547.html#af70273974a6d4e868b4c016d2f944547" title="Resolve a writable path against the configured output directory." alt="" coords="343,144,506,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,117,330,143,325,144,227,123"/>
+</map>

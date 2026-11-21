@@ -1,0 +1,54 @@
+<map id="MayaFlux::Buffers::VKBuffer::apply_render_config" name="MayaFlux::Buffers::VKBuffer::apply_render_config">
+<area shape="rect" id="Node000001" title="Configure the internal m_render_processor from a RenderConfig." alt="" coords="826,493,998,555"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="950,479,936,475,912,472,891,474,877,479,870,485,868,494,864,492,865,483,874,474,890,469,912,467,938,469,955,479"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_a214a8265071356425990e1fc93def32c.html#a214a8265071356425990e1fc93def32c" title="Add a RenderProcessor for a specific operator chain index." alt="" coords="552,5,778,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="907,477,900,395,880,289,863,233,841,178,812,127,776,81,766,70,765,65,780,77,816,124,845,176,868,231,885,287,905,394,912,479"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1CompositeGeometryBuffer_a648e67dd64cd724f38cd6e4a969c1b70.html#a648e67dd64cd724f38cd6e4a969c1b70" title="Add a geometry collection with explicit render config." alt="" coords="568,91,763,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="903,477,891,410,869,327,852,283,831,241,806,201,776,166,764,154,763,149,780,162,811,198,836,239,857,281,874,325,897,409,908,479"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1ComputeMeshBuffer_a42bdc9e804f12b230eba54c909793b36.html#a42bdc9e804f12b230eba54c909793b36" title="Create the RenderProcessor and attach it to the processing chain." alt="" coords="566,176,764,238"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="897,477,881,427,856,366,822,305,800,277,777,251,764,241,763,235,780,248,805,273,826,302,861,364,886,425,902,479"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a6e4b1818e6ff4682a0bc2095de0f5301.html#a6e4b1818e6ff4682a0bc2095de0f5301" title="Attach a RenderProcessor targeting the given window." alt="" coords="558,262,772,306"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="890,479,872,442,846,399,815,357,777,321,760,310,759,305,780,317,819,353,851,396,876,439,895,480"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1GeometryBuffer_a4bed9c933e8e726e4d8633eda36d0a8e.html#a4bed9c933e8e726e4d8633eda36d0a8e" title="Setup rendering with RenderProcessor." alt="" coords="580,331,750,392"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="870,482,827,444,777,406,750,392,750,387,780,402,831,440,875,482"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1InstanceNetworkBuffer_aaafa25aa2258774f813c59b351902414.html#aaafa25aa2258774f813c59b351902414" title=" " alt="" coords="580,416,750,478"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="809,493,751,476,750,471,814,492"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1MeshBuffer_acfad7563c2db7f11d502cfeb17cf6a9b.html#acfad7563c2db7f11d502cfeb17cf6a9b" title="Attach a RenderProcessor targeting the given window." alt="" coords="561,502,769,546"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="808,525,770,527,769,522,813,523"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Buffers_1_1MeshNetworkBuffer_a1931eba99a8ee3545417326ac00940bc.html#a1931eba99a8ee3545417326ac00940bc" title="Attach a RenderProcessor with optional texture support." alt="" coords="568,571,762,632"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="809,557,764,573,762,569,814,554"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_a737c7476f1d59431ce65648a3b8b5206.html#a737c7476f1d59431ce65648a3b8b5206" title="Setup rendering with RenderProcessor." alt="" coords="575,656,755,718"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="875,564,831,609,780,646,757,659,755,654,777,642,827,604,870,568"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Buffers_1_1NodeTextureBuffer_ae4283d11fe6637b7070b88c8df94484a.html#ae4283d11fe6637b7070b88c8df94484a" title="Setup rendering with RenderProcessor." alt="" coords="572,741,758,803"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="894,567,875,609,850,652,818,694,780,732,760,745,758,740,777,727,814,691,845,649,871,606,890,571"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Buffers_1_1RelaxationGridBuffer_a04a8a763a9a580b6902589adcfa50b1d.html#a04a8a763a9a580b6902589adcfa50b1d" title="Attach a RenderProcessor drawing the emitted vertex output as ordinary untextured point geometry." alt="" coords="586,827,744,888"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="903,568,888,626,863,692,828,758,806,789,780,817,746,839,743,835,777,813,802,786,823,756,859,690,883,625,900,572"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_a8246ebf4f6657f85f2d0c7c0854249d1.html#a8246ebf4f6657f85f2d0c7c0854249d1" title="Setup rendering with RenderProcessor." alt="" coords="589,912,741,974"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="908,568,898,642,876,731,859,777,838,822,812,864,780,902,763,916,743,927,741,922,760,912,776,898,807,861,833,819,854,775,871,729,893,641,905,573"/>
+<area shape="rect" id="Node000026" href="$classMayaFlux_1_1Buffers_1_1VolumeGridBuffer_ad5fc2124d1ed71ee45c69e8635cd4594.html#ad5fc2124d1ed71ee45c69e8635cd4594" title="Attach a RenderProcessor drawing the extracted surface." alt="" coords="575,997,755,1059"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="912,569,907,658,887,768,870,827,847,884,818,939,780,987,757,1006,755,1001,776,984,813,936,842,882,865,825,882,767,901,657,909,573"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1ComputeMeshBuffer_a0a845b0722c9b17986ab84512e09a469.html#a0a845b0722c9b17986ab84512e09a469" title=" " alt="" coords="321,176,486,238"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="549,208,488,209,486,204,553,205"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1FormaBuffer_a42c082d62de8eb96dda8d0ef837f0d2d.html#a42c082d62de8eb96dda8d0ef837f0d2d" title=" " alt="" coords="316,262,492,306"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="540,286,493,287,491,282,545,283"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1InstanceNetworkBuffer_a8415bae1a8bf8cf420e3ae869933f2b7.html#a8415bae1a8bf8cf420e3ae869933f2b7" title=" " alt="" coords="309,369,498,431"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="562,430,500,420,498,415,567,428"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1RaymarchBuffer_a9729f336fed58e0730827ac7ecb8a564.html#a9729f336fed58e0730827ac7ecb8a564" title="Attach a RenderProcessor drawing the proxy box." alt="" coords="319,455,489,516"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="543,508,490,501,488,496,548,505"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Buffers_1_1MeshBuffer_a35871e494b928d2e161178101e85cc69.html#a35871e494b928d2e161178101e85cc69" title=" " alt="" coords="310,540,498,585"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="543,543,500,551,497,547,548,541"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1RaymarchBuffer_a1a63ef55a4179425f4ba10466d0458a4.html#a1a63ef55a4179425f4ba10466d0458a4" title=" " alt="" coords="5,463,256,508"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="301,487,258,488,255,483,305,484"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Buffers_1_1MeshNetworkBuffer_aca47ffffa7faeefc45576a1575ff4195.html#aca47ffffa7faeefc45576a1575ff4195" title=" " alt="" coords="323,609,484,671"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="550,619,486,631,484,626,555,617"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Buffers_1_1NodeTextureBuffer_af6f9d3c7e1eaf8e3ba9244b51b0fc799.html#af6f9d3c7e1eaf8e3ba9244b51b0fc799" title=" " alt="" coords="327,741,480,803"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="554,773,481,775,480,770,559,771"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Buffers_1_1RelaxationGridBuffer_a12723dee50d19686f78b942da08122ae.html#a12723dee50d19686f78b942da08122ae" title="Destructor." alt="" coords="316,827,492,888"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="568,858,493,860,492,855,573,857"/>
+<area shape="rect" id="Node000023" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a4f3ca2f99963e36a9f19241e3ab27441.html#a4f3ca2f99963e36a9f19241e3ab27441" title="process_to_buffer() with a matrix the caller made and configured, such as its extractor&#39;s sizes,..." alt="" coords="311,912,497,974"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="571,943,498,945,497,940,576,942"/>
+<area shape="rect" id="Node000024" href="$classMayaFlux_1_1Buffers_1_1TextBuffer_a20bb5344ba60f4af317a00cde144f63a.html#a20bb5344ba60f4af317a00cde144f63a" title="Delegates to TextureBuffer::setup_rendering, then enables streaming mode on the TextureProcessor and ..." alt="" coords="304,998,504,1042"/>
+<area shape="poly" id="edge24_Node000022_Node000024" title=" " alt="" coords="577,969,483,1000,481,995,572,970"/>
+<area shape="rect" id="Node000025" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a9501e9ea05d88ab230cb6491a9e03470.html#a9501e9ea05d88ab230cb6491a9e03470" title="Setup rendering with RenderProcessor." alt="" coords="328,1067,480,1128"/>
+<area shape="poly" id="edge25_Node000022_Node000025" title=" " alt="" coords="578,970,554,988,538,1004,530,1021,522,1039,506,1057,481,1073,479,1068,502,1053,517,1036,525,1019,534,1001,550,983,573,972"/>
+</map>

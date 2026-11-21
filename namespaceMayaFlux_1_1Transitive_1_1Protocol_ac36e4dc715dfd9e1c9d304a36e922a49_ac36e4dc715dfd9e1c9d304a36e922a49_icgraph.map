@@ -1,0 +1,23 @@
+<map id="MayaFlux::Transitive::Protocol::padded_size" name="MayaFlux::Transitive::Protocol::padded_size">
+<area shape="rect" id="Node000001" title="Round len up to the next 4&#45;byte boundary." alt="" coords="733,109,905,154"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a3d6e0467c810b4f63f491b1f9e55d82e.html#a3d6e0467c810b4f63f491b1f9e55d82e" title="Read a length&#45;prefixed blob from a byte buffer." alt="" coords="524,5,680,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="760,102,684,65,659,53,659,48,686,60,766,102"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ac22aa8dc4b1246710f9dd7cdf4307209.html#ac22aa8dc4b1246710f9dd7cdf4307209" title="Read a null&#45;terminated string from a byte buffer." alt="" coords="520,75,683,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="715,116,684,113,684,107,721,115"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a1598959b97b8dd4a66a8449ec76ec0da.html#a1598959b97b8dd4a66a8449ec76ec0da" title="Append a length&#45;prefixed blob padded to 4&#45;byte boundary." alt="" coords="522,144,681,189"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="721,147,682,156,681,151,715,148"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a70ceb7087dc1fe384a74222c1dd322e5.html#a70ceb7087dc1fe384a74222c1dd322e5" title="Append a null&#45;terminated string padded to 4&#45;byte boundary." alt="" coords="518,213,685,258"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="766,161,686,203,660,215,658,210,684,199,760,162"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1OscParser_a3bef65f17b2288f02e9bc97c55164279.html#a3bef65f17b2288f02e9bc97c55164279" title="Parse a single OSC message from raw bytes." alt="" coords="275,57,470,102"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,50,471,60,470,55,511,48"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Network_a4c5d68f71a3b9a20ada6268e0956e73c.html#a4c5d68f71a3b9a20ada6268e0956e73c" title="Parse a NetworkMessage payload as an OSC message." alt="" coords="19,13,213,58"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,61,214,55,213,50,261,59"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1InputManager_a1d40572bf2b17bd20898f5eeade44cf3.html#a1d40572bf2b17bd20898f5eeade44cf3" title="Setup OSC bridge if enabled in config." alt="" coords="5,83,227,127"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="257,92,228,97,226,92,262,90"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="502,90,471,90,470,84,507,89"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1OscParser_a7d6a1542c7d28669598cb7e3e11f7fdf.html#a7d6a1542c7d28669598cb7e3e11f7fdf" title="Serialize an OSC message to wire format." alt="" coords="275,187,470,231"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="510,183,471,193,470,188,505,184"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Portal_1_1Network_aabc9bb62bb500595d574694238b7954b.html#aabc9bb62bb500595d574694238b7954b" title="Serialize an OSC message to wire bytes for sending via NetworkService." alt="" coords="19,187,213,231"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="256,209,214,212,213,206,262,209"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="500,224,470,223,470,218,505,224"/>
+</map>

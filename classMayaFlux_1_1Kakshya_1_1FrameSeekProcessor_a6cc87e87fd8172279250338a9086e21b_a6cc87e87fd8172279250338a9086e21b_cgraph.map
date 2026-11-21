@@ -1,0 +1,9 @@
+<map id="MayaFlux::Kakshya::FrameSeekProcessor::trail" name="MayaFlux::Kakshya::FrameSeekProcessor::trail">
+<area shape="rect" id="Node000001" title="Trail a stream that is being written, by a lag that can change." alt="" coords="5,44,197,89"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_1_1TimeMaps_a8a9ed604f2f9debc647911ac53bcd7a8.html#a8a9ed604f2f9debc647911ac53bcd7a8" title="Position of a moving reference minus a lag that can itself change." alt="" coords="253,5,402,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,47,240,42,235,44,198,53"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1FrameSeekProcessor_a8ea19688bbcc74ccf597b22d62ce8bf9.html#a8ea19688bbcc74ccf597b22d62ce8bf9" title="Drive the read position from a function of time." alt="" coords="245,74,410,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,80,232,88,227,89,197,85"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1FrameSeekProcessor_a056e79dbfe8d5b2976cf282cef05f1b7.html#a056e79dbfe8d5b2976cf282cef05f1b7" title="Restart the clock and the repeat." alt="" coords="458,83,656,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="410,102,445,105,440,105,410,108"/>
+</map>

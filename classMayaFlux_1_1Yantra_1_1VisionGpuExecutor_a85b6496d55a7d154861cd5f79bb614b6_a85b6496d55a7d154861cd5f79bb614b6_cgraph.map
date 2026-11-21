@@ -1,0 +1,18 @@
+<map id="MayaFlux::Yantra::VisionGpuExecutor::op_connected_components" name="MayaFlux::Yantra::VisionGpuExecutor::op_connected_components">
+<area shape="rect" id="Node000001" title="Label components in the current image on the GPU." alt="" coords="5,136,207,197"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kinesis_1_1Vision_1_1VisionPass_a86d3d2823f19e00ae51b81f20badfb5e.html#a86d3d2823f19e00ae51b81f20badfb5e" title="Op at offset steps ahead, or nullptr past the end." alt="" coords="274,5,460,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,133,194,95,253,60,270,55,266,58,256,65,197,100,146,137"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="269,75,465,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,137,268,122,263,125,208,142"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_afe6182e230ece71620775c0aa54c6330.html#afe6182e230ece71620775c0aa54c6330" title="Set push constant data from a raw byte pointer." alt="" coords="255,144,479,189"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="206,164,242,165,237,167,208,169"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a673e632185101bfd147e36a68f0717d1.html#a673e632185101bfd147e36a68f0717d1" title=" " alt="" coords="255,213,479,258"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="207,190,268,208,263,210,207,196"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a130e1e50144364c5da4b47cb8cd4e20d.html#a130e1e50144364c5da4b47cb8cd4e20d" title="Register a VKImage at an explicit binding index." alt="" coords="255,283,479,327"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="145,195,197,233,256,268,271,277,265,276,253,273,194,237,144,200"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="527,75,723,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="465,94,514,96,509,98,466,100"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="771,75,1002,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="724,94,758,97,753,97,724,100"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="837,73,835,64,844,56,861,50,887,48,915,50,933,60,928,59,913,56,886,53,862,55,847,60,841,66,842,75"/>
+</map>

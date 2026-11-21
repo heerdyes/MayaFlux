@@ -1,0 +1,11 @@
+<map id="MayaFlux::Core::BackendResourceManager::initialize_buffer" name="MayaFlux::Core::BackendResourceManager::initialize_buffer">
+<area shape="rect" id="Node000001" title="Initialize a buffer for use with the graphics backend." alt="" coords="5,40,252,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ad5f783753dbe799e95ce480237b1c86b.html#ad5f783753dbe799e95ce480237b1c86b" title="Allocate a raw VkBuffer/VkDeviceMemory pair without an owning VKBuffer object." alt="" coords="300,5,546,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,45,287,43,282,45,253,50"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="344,75,502,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,74,331,86,326,86,252,80"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ab4e39f5b542838628a267c0cfe94dba4.html#ab4e39f5b542838628a267c0cfe94dba4" title="Find a suitable memory type for Vulkan buffer allocation." alt="" coords="594,5,840,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="546,25,581,27,576,28,547,30"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="644,75,790,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="502,94,631,97,626,97,502,100"/>
+</map>

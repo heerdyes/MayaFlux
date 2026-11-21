@@ -1,0 +1,27 @@
+<map id="MayaFlux::Kakshya::FrameAccessProcessor::~FrameAccessProcessor" name="MayaFlux::Kakshya::FrameAccessProcessor::~FrameAccessProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,195,383"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_a878681828d551330d4d22f140ed1312b.html#a878681828d551330d4d22f140ed1312b" title="Attach the processor to a video container." alt="" coords="243,236,413,298"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,319,231,302,227,305,185,323"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_a24d632c8f255bae896d7808e67ff784a.html#a24d632c8f255bae896d7808e67ff784a" title="Detach the processor from its container." alt="" coords="243,321,413,383"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="194,350,230,351,225,353,195,355"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_a0656785d7195904d0b1b24d6b2fa33bb.html#a0656785d7195904d0b1b24d6b2fa33bb" title="Extract the current frame(s) into the container&#39;s processed_data." alt="" coords="243,407,413,468"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="184,381,232,400,227,401,184,386"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_afdeaf68e904f0985902f0d5ac6f0c1b3.html#afdeaf68e904f0985902f0d5ac6f0c1b3" title="Cache dimension metadata and frame geometry from the container." alt="" coords="461,193,631,255"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,248,448,243,443,245,414,253"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_ac27206a23fb28271f1ad9a16fdbe1c1f.html#ac27206a23fb28271f1ad9a16fdbe1c1f" title="Validate that the container is suitable for frame&#45;based processing." alt="" coords="461,279,631,340"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="413,281,448,290,443,290,413,286"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a2527c8aa70b6230e3bef36ecf2ab9dd8.html#a2527c8aa70b6230e3bef36ecf2ab9dd8" title=" " alt="" coords="679,29,854,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,191,621,146,678,101,683,101,687,98,681,105,625,150,578,195"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_acf719f2e5b2aec01f6216485a6292075.html#acf719f2e5b2aec01f6216485a6292075" title=" " alt="" coords="679,139,854,200"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="631,200,667,194,662,196,632,206"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_a887bddebff1989916921c6225d9710a8.html#a887bddebff1989916921c6225d9710a8" title=" " alt="" coords="679,248,854,310"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="632,243,667,253,661,254,632,248"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1ContainerDataStructure_ac3ad8f023aaf8ed7abd55daf594a1be4.html#ac3ad8f023aaf8ed7abd55daf594a1be4" title=" " alt="" coords="679,357,854,419"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="615,253,633,265,658,292,681,320,712,348,707,347,677,323,654,295,630,269,614,258"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="723,28,724,19,732,10,746,5,767,3,790,5,805,15,800,15,788,11,766,8,748,10,735,15,729,21,728,31"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="723,137,724,128,732,120,746,114,767,112,790,115,805,124,800,124,788,120,766,117,748,119,735,124,729,130,728,140"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="723,246,724,238,732,229,746,223,767,221,790,224,805,234,800,233,788,229,766,227,748,229,735,233,729,240,728,250"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="724,355,724,347,732,338,746,333,767,331,790,333,805,343,800,343,788,339,766,336,748,338,735,343,729,349,728,359"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor_a3d43789c49df31bab67b9523c12555cc.html#a3d43789c49df31bab67b9523c12555cc" title="Advance the frame cursor, respecting loop boundaries." alt="" coords="461,407,631,468"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="413,435,448,437,443,438,413,440"/>
+</map>

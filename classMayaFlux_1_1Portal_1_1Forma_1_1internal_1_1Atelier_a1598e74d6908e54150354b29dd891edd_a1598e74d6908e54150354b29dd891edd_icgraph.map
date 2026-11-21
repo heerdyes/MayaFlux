@@ -1,0 +1,24 @@
+<map id="MayaFlux::Portal::Forma::internal::Atelier::create_buffer" name="MayaFlux::Portal::Forma::internal::Atelier::create_buffer">
+<area shape="rect" id="Node000001" title="Capacity&#45;explicit FormaBuffer construction." alt="" coords="674,205,855,266"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Forma_aef5f942277f0299e61d080bd886aa1c5.html#aef5f942277f0299e61d080bd886aa1c5" title=" " alt="" coords="446,5,626,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,191,689,127,658,94,625,64,607,53,607,48,628,60,662,90,693,124,740,192"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a890de0c6a43b943d7028238f7c5354b2.html#a890de0c6a43b943d7028238f7c5354b2" title="Construct, register, and immediately submit a FormaBuffer from vertices." alt="" coords="446,75,626,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="714,195,672,164,625,134,603,123,603,117,628,129,675,160,719,195"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a57e0ff0ed9869d6dc9df7630cb83c983.html#a57e0ff0ed9869d6dc9df7630cb83c983" title="Construct and register a FormaBuffer without creating a Mapped&lt;T&gt;." alt="" coords="446,144,626,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="657,204,612,192,612,187,662,204"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Portal_1_1Forma_ab7c80734b3a1d72b2c6bd738f2c4e708.html#ab7c80734b3a1d72b2c6bd738f2c4e708" title="Construct and register a FormaBuffer with additional texture bindings." alt="" coords="446,213,626,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="656,236,627,238,626,233,662,235"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Portal_1_1Forma_abe13f9ac6498e0bb42d1594f9648b33c.html#abe13f9ac6498e0bb42d1594f9648b33c" title="Open a window of clickable rows, one per label, and report the choice." alt="" coords="446,283,626,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="662,267,613,285,611,279,657,268"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a88e3c1e6a8d3d5b535378537eb934326.html#a88e3c1e6a8d3d5b535378537eb934326" title="Create and place every adornment declared on spec." alt="" coords="446,352,626,413"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="717,276,628,342,608,353,606,348,625,337,712,277"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a0134941e72f794b2ad2318f03eacb98b.html#a0134941e72f794b2ad2318f03eacb98b" title="Create a live plot in a new window." alt="" coords="210,391,390,435"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="747,280,728,320,702,361,668,398,628,427,597,440,565,448,499,454,435,449,378,439,378,433,435,444,499,449,564,443,595,435,625,423,665,394,698,357,724,317,743,283"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_ab175da21b088a5c2e496b8d1c0670b2f.html#ab175da21b088a5c2e496b8d1c0670b2f" title="Let the user pick a camera, and optionally a capture mode, then open it via IOManager::open_camera()." alt="" coords="203,262,398,290"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="428,292,399,291,398,285,433,291"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Portal_1_1Forma_aa6e1287fb7394d3c8a69bc7f662ad251.html#aa6e1287fb7394d3c8a69bc7f662ad251" title="Typed form of pick: list items by label and receive the chosen item." alt="" coords="210,313,390,358"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="428,319,391,327,390,321,433,318"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Creator_a4d6c81dee8675dd5bf9b992245f3a548.html#a4d6c81dee8675dd5bf9b992245f3a548" title="Let the user pick a camera and capture mode, then read it as above." alt="" coords="5,253,155,298"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="185,277,156,278,154,273,189,274"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="433,396,391,404,391,399,428,396"/>
+</map>

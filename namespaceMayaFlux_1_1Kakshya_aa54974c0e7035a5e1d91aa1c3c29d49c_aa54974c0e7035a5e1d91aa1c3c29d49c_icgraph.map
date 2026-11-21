@@ -1,0 +1,21 @@
+<map id="MayaFlux::Kakshya::safe_copy_data_variant" name="MayaFlux::Kakshya::safe_copy_data_variant">
+<area shape="rect" id="Node000001" title="Safely copy data from a DataVariant to another DataVariant, handling type conversion." alt="" coords="1031,142,1207,186"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_ad02564095af42029d0276cc1df6370ee.html#ad02564095af42029d0276cc1df6370ee" title="Process the current region or block of data." alt="" coords="775,5,978,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1070,133,981,81,959,70,959,65,984,76,1075,133"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1CursorAccessProcessor_a13d09e4d738e714908dd081cad01d1b5.html#a13d09e4d738e714908dd081cad01d1b5" title="Extract one block of frames into container processed_data[0]." alt="" coords="791,91,962,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1013,146,963,139,963,134,1018,146"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1RegionOrganizationProcessor_af6a1c2965bd840ff51bafe759e8e4cb5.html#af6a1c2965bd840ff51bafe759e8e4cb5" title="Process a single region segment." alt="" coords="770,176,983,238"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1018,182,984,191,983,185,1013,183"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1DynamicSoundStream_aaf9ca90c2eb538f3cd091adcc87bfad2.html#aaf9ca90c2eb538f3cd091adcc87bfad2" title=" " alt="" coords="789,261,964,323"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1075,195,984,252,960,263,958,258,981,247,1070,196"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor_afcd23cd9ade0b64e513a819d007ec9ff.html#afcd23cd9ade0b64e513a819d007ec9ff" title=" " alt="" coords="501,5,722,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="757,37,723,39,722,34,763,36"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1CursorAccessProcessor_ad9537c171a7c8dcd51260b756a412929.html#ad9537c171a7c8dcd51260b756a412929" title=" " alt="" coords="516,91,707,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="773,122,708,124,707,119,778,121"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1RegionOrganizationProcessor_a5e871d9c925502ead2227e2c5669dab0.html#a5e871d9c925502ead2227e2c5669dab0" title="Process regions according to their selection pattern." alt="" coords="506,176,718,238"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="752,207,718,209,718,204,757,207"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1RegionOrganizationProcessor_a32049be6abe1a57f8bcadc6a5e58393a.html#a32049be6abe1a57f8bcadc6a5e58393a" title="Processes audio data according to the current region organization." alt="" coords="241,176,453,238"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="487,207,454,209,453,204,492,206"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1DynamicRegionProcessor_a11876d04bdc74ab49edcc80f38eab4e9.html#a11876d04bdc74ab49edcc80f38eab4e9" title="Processes audio, performing reorganization if needed." alt="" coords="5,176,193,238"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="223,208,194,209,193,204,228,206"/>
+</map>

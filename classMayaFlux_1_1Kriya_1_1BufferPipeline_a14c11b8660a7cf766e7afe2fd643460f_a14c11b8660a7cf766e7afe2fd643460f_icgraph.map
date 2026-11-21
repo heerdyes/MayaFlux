@@ -1,0 +1,20 @@
+<map id="MayaFlux::Kriya::BufferPipeline::BufferPipeline" name="MayaFlux::Kriya::BufferPipeline::BufferPipeline">
+<area shape="rect" id="Node000001" title=" " alt="" coords="280,248,506,293"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="436,233,421,229,393,227,367,229,351,233,344,239,346,248,341,247,339,238,348,229,366,223,393,221,422,224,441,232"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a37ad38876f64d362a79e943717485e31.html#a37ad38876f64d362a79e943717485e31" title="Add conditional branch to the pipeline." alt="" coords="5,5,232,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,234,347,196,315,150,276,104,230,65,211,53,210,48,233,60,280,100,319,147,352,193,376,235"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a22133f27d780a3d6b227e9d486ee63dc.html#a22133f27d780a3d6b227e9d486ee63dc" title="Set timing mode for capture phase." alt="" coords="5,75,232,119"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="358,237,302,185,267,158,230,134,207,122,205,117,233,129,270,153,306,181,363,236"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a31a393b60612453f7ee99d6e123cf584.html#a31a393b60612453f7ee99d6e123cf584" title="Register a callback fired once when pipeline execution ends." alt="" coords="5,144,232,189"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="326,242,231,203,199,192,197,187,233,199,331,240"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a236bcbe3e72ade870d6204bf1099d221.html#a236bcbe3e72ade870d6204bf1099d221" title="Chain an operation to the pipeline." alt="" coords="5,213,232,258"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="262,255,233,253,231,247,267,253"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_ad9b33f3f2ae11bb3df95c4b8c534d888.html#ad9b33f3f2ae11bb3df95c4b8c534d888" title="Execute operations in parallel within the current cycle." alt="" coords="5,283,232,327"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="262,288,233,293,231,288,266,285"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a0b794a4c9da3c8b6132b7e3c29f7989f.html#a0b794a4c9da3c8b6132b7e3c29f7989f" title="Set timing mode for process phase." alt="" coords="5,352,232,397"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="326,301,233,342,199,354,197,349,231,337,331,298"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_aff6b7addcf839bd4ab0d33f35ad69664.html#aff6b7addcf839bd4ab0d33f35ad69664" title="Set lifecycle callbacks for cycle management." alt="" coords="5,421,232,466"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="363,303,306,360,270,387,233,411,207,423,205,419,230,407,267,383,302,356,359,306"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a28a8163b4bba1143e774e6827c6afed5.html#a28a8163b4bba1143e774e6827c6afed5" title="Set the execution strategy for this pipeline." alt="" coords="5,491,232,535"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="375,304,352,348,319,394,280,441,233,481,212,493,210,488,230,476,276,437,315,391,347,345,371,308"/>
+</map>

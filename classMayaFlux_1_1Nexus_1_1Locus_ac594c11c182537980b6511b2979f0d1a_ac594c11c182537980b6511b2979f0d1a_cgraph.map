@@ -1,0 +1,20 @@
+<map id="MayaFlux::Nexus::Locus::Locus" name="MayaFlux::Nexus::Locus::Locus">
+<area shape="rect" id="Node000001" title="Construct from a NavigationConfig with named perception and influence functions." alt="" coords="5,160,185,205"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Agent_a4d9c1e73810b17594c5aa7d3287e19e9.html#a4d9c1e73810b17594c5aa7d3287e19e9" title="Construct with only a query radius, for an Agent whose behaviour comes from typed influences and perc..." alt="" coords="236,5,416,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,158,168,113,231,67,256,55,252,59,234,71,171,117,121,162"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nexus_1_1Agent_ada97a3ca69ccf664e505bb7ef1217fd6.html#ada97a3ca69ccf664e505bb7ef1217fd6" title="Return the query radius." alt="" coords="468,19,648,63"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="133,158,180,133,232,110,345,77,455,56,450,59,346,82,234,116,182,138,136,162"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_a9c48c41e32b3a27a4602996f86b222ba.html#a9c48c41e32b3a27a4602996f86b222ba" title="Compute a ViewTransform from the current NavigationState." alt="" coords="233,125,420,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,167,220,163,215,165,186,171"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nexus_1_1Agent_a98b6647d5dc4d1fe3477efd82bf544b8.html#a98b6647d5dc4d1fe3477efd82bf544b8" title="Identifier assigned to the influence function, empty if anonymous." alt="" coords="236,195,416,239"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="184,193,223,200,218,202,185,198"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nexus_1_1Agent_ac3c32f9eb3ddffe391865c7b57625ab5.html#ac3c32f9eb3ddffe391865c7b57625ab5" title="Identifier assigned to the perception function, empty if anonymous." alt="" coords="236,264,416,309"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="138,202,234,249,250,258,244,258,232,254,138,208"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Agent_ade5132972e45dd0031048aeddb3df858.html#ade5132972e45dd0031048aeddb3df858" title="Set the position, enabling spatial indexing and queries for this object." alt="" coords="236,333,416,378"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="114,202,165,260,198,291,234,319,243,326,238,326,231,323,195,295,161,264,113,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,30,455,34,450,36,418,35"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a2ca46156e4c80497361cf46a29703186.html#a2ca46156e4c80497361cf46a29703186" title="Advance eye position by held movement flags against elapsed time." alt="" coords="482,113,634,158"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="420,140,469,140,464,141,421,145"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_a3b8600d44e7c89e8943cea3d6507f7ae.html#a3b8600d44e7c89e8943cea3d6507f7ae" title="Build a ViewTransform from the current NavigationState without mutating it." alt="" coords="477,183,639,227"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="419,168,464,181,459,182,420,173"/>
+</map>

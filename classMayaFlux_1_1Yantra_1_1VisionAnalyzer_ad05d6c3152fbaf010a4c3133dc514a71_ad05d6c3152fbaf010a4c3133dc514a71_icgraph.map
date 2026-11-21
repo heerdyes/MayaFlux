@@ -1,0 +1,16 @@
+<map id="MayaFlux::Yantra::VisionAnalyzer::resolve_image" name="MayaFlux::Yantra::VisionAnalyzer::resolve_image">
+<area shape="rect" id="Node000001" title="Resolve source/index to a GPU image, the same way VisionProcessor does: TextureContainer&#39;s own to_ima..." alt="" coords="929,80,1111,125"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_ad19f1fcd73e97ca4c09a8916a691c38b.html#ad19f1fcd73e97ca4c09a8916a691c38b" title="Real entry point: resolve the configured query against source, run it, run the GPU analysis." alt="" coords="697,49,881,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="911,88,881,87,881,81,916,88"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a1ac41b97ba01057c6db0aef0c30eccec.html#a1ac41b97ba01057c6db0aef0c30eccec" title=" " alt="" coords="238,109,419,154"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="913,109,420,130,420,125,913,104"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_af6bfe6ffc7fd77204ef4613cd6d8187b.html#af6bfe6ffc7fd77204ef4613cd6d8187b" title="ComputeOperation adapter: uses input.data as the source container, pulls index out of Datum metadata ..." alt="" coords="468,49,649,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="679,72,650,74,650,69,685,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,98,417,111,416,106,453,99"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a4c7033e24b310ee050fc73cc23ca908e.html#a4c7033e24b310ee050fc73cc23ca908e" title="Construct with the intents to satisfy and the caller&#45;supplied filtering context, matching EnergyAnaly..." alt="" coords="237,40,420,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="449,68,421,69,420,63,455,67"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_ab977bbd2adc5ca392a8573c4e84939a0.html#ab977bbd2adc5ca392a8573c4e84939a0" title=" " alt="" coords="6,5,188,50"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="219,47,188,44,188,39,224,46"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1VisionAnalyzer_a6be4f4d6db7f18732c152ae22ca34933.html#a6be4f4d6db7f18732c152ae22ca34933" title=" " alt="" coords="5,75,189,119"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="219,79,190,86,189,81,224,78"/>
+</map>

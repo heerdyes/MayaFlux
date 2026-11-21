@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::ClaimFlattenProcessor::on_iteration_barrier" name="MayaFlux::Buffers::ClaimFlattenProcessor::on_iteration_barrier">
+<area shape="rect" id="Node000001" title="Called after each iteration except the last." alt="" coords="5,91,174,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_acbe00008128244bcb2902611e53eff80.html#acbe00008128244bcb2902611e53eff80" title="Insert buffer memory barrier." alt="" coords="226,5,422,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,89,225,71,221,74,175,93"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1NetworkStateFieldProcessor_ae5067724f1f4f16735d18dbe8468e498.html#ae5067724f1f4f16735d18dbe8468e498" title="The attached buffer, or null if attachment failed validation." alt="" coords="222,91,426,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,119,208,121,203,122,174,124"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="226,176,422,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,147,242,171,237,172,174,152"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="474,176,670,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,196,461,199,456,199,423,201"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="718,176,949,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="671,196,705,199,700,199,671,201"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="784,174,782,166,791,157,808,152,834,150,862,152,880,162,875,161,860,158,833,155,809,157,794,162,788,168,789,178"/>
+</map>

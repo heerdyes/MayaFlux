@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kinesis::total_turning" name="MayaFlux::Kinesis::total_turning">
+<area shape="rect" id="Node000001" title="Convenience overload of total_turning over a raw span of positions, samples[0] newest." alt="" coords="5,40,154,85"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kinesis_aae6dffc5cfe80ea00f71912d98c8c45e.html#aae6dffc5cfe80ea00f71912d98c8c45e" title="Build a HistoryBuffer&lt;T&gt; from a newest&#45;first span." alt="" coords="202,5,350,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,47,188,42,184,45,155,52"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_ab475385fb6b9471bb9d046b6121ec4ea.html#ab475385fb6b9471bb9d046b6121ec4ea" title="Total absolute turning accumulated across a window." alt="" coords="202,75,350,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,73,189,80,184,82,154,78"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Memory_1_1HistoryBuffer_a6f256636f3f3fc99269c77a8dc096b09.html#a6f256636f3f3fc99269c77a8dc096b09" title="Push new value to front of history." alt="" coords="398,5,599,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,25,385,27,380,28,351,30"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a24e6b15161d46e1f90ac3bce7c503498.html#a24e6b15161d46e1f90ac3bce7c503498" title="Shortest signed angular difference between two headings." alt="" coords="424,75,573,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="350,94,411,97,406,97,351,100"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Kinesis_ac5b1da8ec8674fb802ea4fc11e0e02e0.html#ac5b1da8ec8674fb802ea4fc11e0e02e0" title="Heading angle of a 2D vector." alt="" coords="424,144,573,189"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="350,117,413,139,407,139,350,123"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::GpuSync::PathGeneratorNode::PathGeneratorNode" name="MayaFlux::Nodes::GpuSync::PathGeneratorNode::PathGeneratorNode">
+<area shape="rect" id="Node000001" title="Create path generator with custom interpolation function." alt="" coords="5,125,297,170"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a35c3aa5d9780535ccc1391e60789260c.html#a35c3aa5d9780535ccc1391e60789260c" title="Factory: layout for LineVertex (position, color, thickness, uv, normal, tangent)." alt="" coords="380,5,551,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,123,266,91,344,60,368,54,363,56,346,65,268,96,200,127"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a139436030274491d41f40afdaab1037b.html#a139436030274491d41f40afdaab1037b" title="Constructor." alt="" coords="345,74,586,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,125,332,122,327,124,298,130"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a79b8530548d0f4b4c464071439faaac5.html#a79b8530548d0f4b4c464071439faaac5" title="Set cached vertex layout." alt="" coords="366,160,565,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="297,165,353,174,348,175,297,170"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_ae5284939e0d0c2d570576488644f8068.html#ae5284939e0d0c2d570576488644f8068" title="Set vertex stride (bytes per vertex)." alt="" coords="366,245,565,306"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,168,346,231,362,239,357,239,344,235,201,173"/>
+</map>

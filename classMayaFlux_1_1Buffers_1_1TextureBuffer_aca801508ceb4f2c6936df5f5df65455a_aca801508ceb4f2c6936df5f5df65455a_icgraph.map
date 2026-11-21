@@ -1,0 +1,25 @@
+<map id="MayaFlux::Buffers::TextureBuffer::get_texture" name="MayaFlux::Buffers::TextureBuffer::get_texture">
+<area shape="rect" id="Node000001" title="Get GPU texture image Suitable for binding to shaders via RenderProcessor::bind_texture()." alt="" coords="454,150,645,194"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_af3c90dc33d519bd85659b0cf35bd4216.html#af3c90dc33d519bd85659b0cf35bd4216" title=" " alt="" coords="254,5,406,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,142,381,70,381,65,502,141"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a1d6d7ae0f2b8d9f619188372d0cdd853.html#a1d6d7ae0f2b8d9f619188372d0cdd853" title="Replace the frame of one layer with a GPU image, with no host read." alt="" coords="30,64,181,126"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="463,146,405,132,288,113,183,102,181,97,289,108,407,127,468,144"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_ad89d8d9eb94a9764b8d48ec135e23777.html#ad89d8d9eb94a9764b8d48ec135e23777" title=" " alt="" coords="254,141,406,203"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="436,173,407,175,405,170,441,171"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_a8246ebf4f6657f85f2d0c7c0854249d1.html#a8246ebf4f6657f85f2d0c7c0854249d1" title="Setup rendering with RenderProcessor." alt="" coords="254,227,406,288"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="474,202,408,230,405,226,479,199"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_abb308b7a1106c79c340bbffe547dfbe6.html#abb308b7a1106c79c340bbffe547dfbe6" title="Replace the frame of one layer with raw pixels." alt="" coords="254,389,406,451"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="521,206,360,391,357,387,516,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,62,183,77,180,73,242,58"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="237,142,183,124,181,118,242,140"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a4f3ca2f99963e36a9f19241e3ab27441.html#a4f3ca2f99963e36a9f19241e3ab27441" title="process_to_buffer() with a matrix the caller made and configured, such as its extractor&#39;s sizes,..." alt="" coords="12,149,199,211"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="237,227,197,214,196,209,242,225"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1TextBuffer_a20bb5344ba60f4af317a00cde144f63a.html#a20bb5344ba60f4af317a00cde144f63a" title="Delegates to TextureBuffer::setup_rendering, then enables streaming mode on the TextureProcessor and ..." alt="" coords="5,235,206,280"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="236,259,207,260,205,255,241,256"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a9501e9ea05d88ab230cb6491a9e03470.html#a9501e9ea05d88ab230cb6491a9e03470" title="Setup rendering with RenderProcessor." alt="" coords="30,304,181,366"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="237,290,183,311,180,306,241,287"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_ad9f93a80063beda40e3fb95d6de1a815.html#ad9f93a80063beda40e3fb95d6de1a815" title="Write a frame at the write head and advance it, wrapping at the last layer." alt="" coords="30,389,181,451"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="237,421,182,423,181,418,242,419"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_abf5479ab183067327913cf60adbcd4cc.html#abf5479ab183067327913cf60adbcd4cc" title="Replace the frame of one layer with an image." alt="" coords="30,475,181,536"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="243,453,183,479,181,474,238,455"/>
+</map>

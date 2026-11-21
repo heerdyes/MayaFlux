@@ -1,0 +1,11 @@
+<map id="MayaFlux::Buffers::TextureProcessor::create_gpu_texture" name="MayaFlux::Buffers::TextureProcessor::create_gpu_texture">
+<area shape="rect" id="Node000001" title="Create VKImage for texture storage." alt="" coords="508,48,689,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TextureProcessor_a7c8aaf1c16e1ed32a4900fb0e1d10d8f.html#a7c8aaf1c16e1ed32a4900fb0e1d10d8f" title="Initialize all GPU resources:" alt="" coords="264,5,460,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,60,461,57,461,51,495,60"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TextureProcessor_a7d53a8a818b65190bbb4b66f14c3aada.html#a7d53a8a818b65190bbb4b66f14c3aada" title="Re&#45;upload pixels to GPU if they changed." alt="" coords="269,91,454,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="495,98,456,107,455,102,490,98"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TextureProcessor_ab9346c297fb651892a403b3ff5837aed.html#ab9346c297fb651892a403b3ff5837aed" title="Called when this processor is attached to a buffer." alt="" coords="32,5,189,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,37,189,39,188,34,251,35"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1TextureProcessor_a22c664d1f23e08fdf018d3a58f600e26.html#a22c664d1f23e08fdf018d3a58f600e26" title="The core processing function that must be implemented by derived classes." alt="" coords="5,91,216,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="251,122,216,124,216,119,256,121"/>
+</map>

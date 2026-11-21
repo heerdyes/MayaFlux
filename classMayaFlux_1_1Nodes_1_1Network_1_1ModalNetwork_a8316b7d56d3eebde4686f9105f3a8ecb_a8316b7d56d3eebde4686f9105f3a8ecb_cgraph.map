@@ -1,0 +1,16 @@
+<map id="MayaFlux::Nodes::Network::ModalNetwork::get_metadata" name="MayaFlux::Nodes::Network::ModalNetwork::get_metadata">
+<area shape="rect" id="Node000001" title="Get network metadata for debugging/visualization." alt="" coords="5,83,229,127"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_ad6c14660b161b3f6174a1528fd3c2fe9.html#ad6c14660b161b3f6174a1528fd3c2fe9" title="Get network metadata for debugging/visualization." alt="" coords="277,83,494,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,102,264,104,259,106,230,108"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_af24c0ffef2666eb05f2f14b7e297c14b.html#af24c0ffef2666eb05f2f14b7e297c14b" title="Get the number of nodes in the network." alt="" coords="542,5,771,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,79,564,54,559,55,467,85"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_ad5a21f007cb5e6328667ee852b6ad5fa.html#ad5a21f007cb5e6328667ee852b6ad5fa" title=" " alt="" coords="550,74,763,136"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="494,102,538,105,532,105,495,108"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a578ed1a9dcdf428b49a853724219e8c9.html#a578ed1a9dcdf428b49a853724219e8c9" title=" " alt="" coords="558,160,755,221"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="459,125,546,155,541,155,459,131"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a4daa860a2046a2c34638a9cdd16f56be.html#a4daa860a2046a2c34638a9cdd16f56be" title="Get cached audio buffer from last process_batch()." alt="" coords="819,5,1055,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="771,25,806,27,801,28,772,30"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="864,125,1010,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="763,119,851,134,846,134,763,124"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="756,173,846,161,851,161,756,178"/>
+</map>

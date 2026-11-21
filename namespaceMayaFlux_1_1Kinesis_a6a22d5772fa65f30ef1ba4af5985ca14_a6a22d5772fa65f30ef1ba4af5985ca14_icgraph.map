@@ -1,0 +1,24 @@
+<map id="MayaFlux::Kinesis::generate_quad" name="MayaFlux::Kinesis::generate_quad">
+<area shape="rect" id="Node000001" title="Generate a textured quad centred on the origin." alt="" coords="957,216,1105,261"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="1066,201,1054,198,1031,195,1010,197,997,202,991,208,992,218,988,214,986,206,994,197,1009,192,1031,190,1055,192,1071,202"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_ad4dfd30af6ecb53741917052bf839ccb.html#ad4dfd30af6ecb53741917052bf839ccb" title=" " alt="" coords="717,123,892,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="953,211,888,188,889,182,958,211"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1NodeTextureBuffer_ac0b2d907cfdd660dec29065570f5f479.html#ac0b2d907cfdd660dec29065570f5f479" title=" " alt="" coords="700,208,909,270"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="939,239,909,241,909,236,944,239"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_a5dc9347b20d4c4bd635ffe6a3467b6f2.html#a5dc9347b20d4c4bd635ffe6a3467b6f2" title=" " alt="" coords="717,293,892,355"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="958,266,889,295,888,290,953,268"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_ac591a11585eecc22824a7411e4f02dab.html#ac591a11585eecc22824a7411e4f02dab" title="Create texture buffer with dimensions." alt="" coords="435,66,638,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="700,129,631,114,631,108,705,128"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_a3653b902b83109d353d43bc4c8389e2a.html#a3653b902b83109d353d43bc4c8389e2a" title="Reset to default fullscreen quad Uses position and scale to generate quad geometry." alt="" coords="421,135,652,180"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="699,155,653,158,652,153,704,155"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a63e2df9e71eebcaeee39244bc6563046.html#a63e2df9e71eebcaeee39244bc6563046" title=" " alt="" coords="213,5,364,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,64,366,55,365,49,422,63"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VideoContainerBuffer_ac509130c3c751ac4958f22d496a79631.html#ac509130c3c751ac4958f22d496a79631" title="Construct a VideoContainerBuffer from a video container." alt="" coords="205,91,373,152"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="417,105,374,113,373,108,422,103"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_a1b673c72202a495a1c2c31a0e30443ca.html#a1b673c72202a495a1c2c31a0e30443ca" title="Build from a stream spec: width, height and format of every layer, with ring_frames as the layer coun..." alt="" coords="5,5,157,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,38,158,39,156,34,200,35"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1NodeTextureBuffer_ac67634c77e2bdb1c6e7c6f5bceb492c1.html#ac67634c77e2bdb1c6e7c6f5bceb492c1" title="Initialize the buffer, create GPU texture, and setup processors." alt="" coords="444,208,630,270"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="682,239,630,241,630,236,687,239"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1NodeTextureBuffer_af6f9d3c7e1eaf8e3ba9244b51b0fc799.html#af6f9d3c7e1eaf8e3ba9244b51b0fc799" title=" " alt="" coords="212,208,366,270"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="425,239,366,241,366,236,431,238"/>
+</map>

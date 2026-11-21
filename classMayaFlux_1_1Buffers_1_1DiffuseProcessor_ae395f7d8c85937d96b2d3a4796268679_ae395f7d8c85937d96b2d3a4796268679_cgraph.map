@@ -1,0 +1,11 @@
+<map id="MayaFlux::Buffers::DiffuseProcessor::set_rate" name="MayaFlux::Buffers::DiffuseProcessor::set_rate">
+<area shape="rect" id="Node000001" title="Set the diffusion rate." alt="" coords="5,56,197,101"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_acb1465f409e99804ba603f309a635818.html#acb1465f409e99804ba603f309a635818" title="The attached volume, or null if attachment failed validation." alt="" coords="248,5,412,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,58,235,53,230,55,198,64"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1DiffuseProcessor_a34f5e46443a52a298d035f857727d567.html#a34f5e46443a52a298d035f857727d567" title="Write the product of rate and time step into word seven." alt="" coords="245,91,416,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,94,232,102,227,103,197,99"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a4095b76d856fe604d407ff85813245d0.html#a4095b76d856fe604d407ff85813245d0" title="Write word seven of the parameter prefix, at byte offset 28." alt="" coords="464,91,628,152"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,119,451,121,445,122,417,124"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a08f86ff68a93950b07208ee936badf8e.html#a08f86ff68a93950b07208ee936badf8e" title="Get current push constant data." alt="" coords="676,91,835,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="629,119,663,121,658,122,629,124"/>
+</map>

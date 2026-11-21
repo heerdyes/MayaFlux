@@ -1,0 +1,28 @@
+<map id="MayaFlux::Portal::Graphics::TextureLoom::refresh_cached_image" name="MayaFlux::Portal::Graphics::TextureLoom::refresh_cached_image">
+<area shape="rect" id="Node000001" title="Refresh a sampled image in an owner&#45;held cache entry." alt="" coords="713,316,982,361"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a3eb8d23abb91c8ad23e11296beb75130.html#a3eb8d23abb91c8ad23e11296beb75130" title=" " alt="" coords="218,48,404,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="827,302,801,258,765,205,719,154,693,132,664,113,601,88,533,74,466,69,406,70,404,66,466,64,533,69,602,83,667,108,696,127,723,150,769,201,806,255,832,303"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_ab3a66171b1b8dde1702102a3393be3f4.html#ab3a66171b1b8dde1702102a3393be3f4" title=" " alt="" coords="470,123,656,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="808,306,744,254,664,198,644,187,644,182,667,194,747,249,814,306"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a36dc887f4398346c40f92bd77b67025a.html#a36dc887f4398346c40f92bd77b67025a" title="Refresh the cached VKImage for m_data[frame_index]." alt="" coords="460,208,665,253"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="775,310,664,268,633,256,633,251,666,263,781,310"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_ac0a13fcbc68d4d5414efe31c5647f73b.html#ac0a13fcbc68d4d5414efe31c5647f73b" title="Upload m_data[frame_index] reusing a caller&#45;supplied staging buffer." alt="" coords="460,278,665,322"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="695,319,666,317,665,311,701,318"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a54e6f5327b1e6000a2c148781a8f6717.html#a54e6f5327b1e6000a2c148781a8f6717" title="Crop a region from the last readback and refresh its cached VKImage." alt="" coords="470,347,655,408"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="695,360,657,367,655,362,701,358"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Buffers_1_1TextureArrayBuffer_abf5479ab183067327913cf60adbcd4cc.html#abf5479ab183067327913cf60adbcd4cc" title="Replace the frame of one layer with an image." alt="" coords="487,432,638,494"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="785,367,666,423,640,434,638,429,664,418,780,369"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_a31ff69a65227eb7c14504ae2c8ae5fe9.html#a31ff69a65227eb7c14504ae2c8ae5fe9" title="Upload the full surface readback to a container&#45;owned VKImage." alt="" coords="460,518,665,562"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="820,371,754,441,712,477,667,508,643,520,641,515,664,503,709,473,750,437,815,374"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kakshya_1_1WindowContainer_aa1f5046146a152b8287080c8c462bd43.html#aa1f5046146a152b8287080c8c462bd43" title="Refresh the full surface VKImage, reusing a caller&#45;supplied persistent staging buffer." alt="" coords="460,587,665,632"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="830,373,803,422,766,475,720,530,667,577,646,589,644,584,664,573,717,526,762,472,799,419,825,376"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a6b1b2257bbb6d75e9d8494f0d0c51489.html#a6b1b2257bbb6d75e9d8494f0d0c51489" title="Upload all layers as a Vulkan 2D array texture." alt="" coords="5,5,163,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,60,164,53,162,49,205,57"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a94b1ce9c37446c09e245dac1f3e67db9.html#a94b1ce9c37446c09e245dac1f3e67db9" title="Upload all layers as a Vulkan 2D array texture, reusing a staging buffer." alt="" coords="5,91,163,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="201,101,165,109,162,105,205,97"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="452,122,405,109,404,104,457,121"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a7fded276beb5da05c6a81e87ecb401a7.html#a7fded276beb5da05c6a81e87ecb401a7" title="Refresh one layer&#39;s cached VKImage with caller&#45;supplied staging." alt="" coords="211,134,412,178"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="452,156,413,158,411,153,457,153"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1TextureContainer_a1d48543b4ebdd95a507f375537567ee6.html#a1d48543b4ebdd95a507f375537567ee6" title="Refresh the container&#45;owned VKImage for one layer." alt="" coords="211,203,412,248"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="452,186,393,205,391,200,457,183"/>
+</map>

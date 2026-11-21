@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['ubo_20ssbo_20descriptor_20bindings_0',['UBO SSBO descriptor bindings',['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md310',1,'UBO / SSBO descriptor bindings'],['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md347',1,'UBO / SSBO descriptor bindings']]],
+  ['ui_20patterns_1',['Portal::Forma: UI Patterns',['../md_docs_2Portal-Forma-UI-Patterns.html',1,'']]],
+  ['underneath_3a_20portal_2',['4. The raw layer underneath: Portal',['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md314',1,'']]],
+  ['unit_20ssbo_3',['unit SSBO',['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md303',1,'Regular per-unit SSBO'],['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md340',1,'Regular per-unit SSBO']]],
+  ['universal_20types_20cpu_20optional_20gpu_4',['Universal* types (CPU + optional GPU)',['../md_docs_2GPGPU-Guide.html#autotoc_md282',1,'']]],
+  ['universe_5',['Yantra: The Offline Computation Universe',['../md_docs_2Digital__Architecture.html#autotoc_md213',1,'']]],
+  ['up_6',['eye, target, up',['../md_docs_2Viewport.html#autotoc_md561',1,'']]],
+  ['update_20pattern_20for_20expensive_20modes_3a_7',['Batch Update Pattern for Expensive Modes:',['../classMayaFlux_1_1Nodes_1_1GpuSync_1_1TopologyGeneratorNode.html#autotoc_md31',1,'']]],
+  ['updating_20text_20content_8',['Updating text content',['../md_docs_2Portal-Text.html#autotoc_md525',1,'']]],
+  ['upload_20path_9',['Choosing an upload path',['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md317',1,'']]],
+  ['usage_10',['Usage',['../classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Weights.html#autotoc_md20',1,'']]],
+  ['usage_20example_11',['Usage Example',['../classLila_1_1Commentator.html#autotoc_md3',1,'Usage Example'],['../classLila_1_1EventBus.html#autotoc_md4',1,'Usage Example'],['../classMayaFlux_1_1Nodes_1_1Network_1_1PointCloudNetwork.html#autotoc_md50',1,'Usage Example']]],
+  ['usage_20examples_12',['Usage Examples',['../UniversalExtractor_8hpp.html#autotoc_md77',1,'Usage Examples'],['../UniversalSorter_8hpp.html#autotoc_md80',1,'Usage Examples'],['../UniversalTransformer_8hpp.html#autotoc_md83',1,'Usage Examples']]],
+  ['usage_20flow_13',['Usage Flow',['../classLila_1_1ClangInterpreter.html#autotoc_md1',1,'Usage Flow'],['../classLila.html#autotoc_md6',1,'Usage Flow']]],
+  ['usage_20pattern_3a_14',['USAGE PATTERN:',['../classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork.html#autotoc_md40',1,'']]],
+  ['usage_20patterns_15',['Usage Patterns',['../classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Estimate.html#autotoc_md16',1,'Usage Patterns'],['../classMayaFlux_1_1Kinesis_1_1Stochastic_1_1Stochastic.html#autotoc_md19',1,'Usage Patterns'],['../classMayaFlux_1_1Yantra_1_1ComputationGrammar.html#autotoc_md63',1,'Usage Patterns'],['../classMayaFlux_1_1Yantra_1_1ComputationPipeline.html#autotoc_md68',1,'Usage Patterns'],['../classMayaFlux_1_1Yantra_1_1GrammarAwareComputeMatrix.html#autotoc_md72',1,'Usage Patterns'],['../classMayaFlux_1_1Yantra_1_1UniversalTransformer.html#autotoc_md85',1,'Usage Patterns']]],
+  ['usage_3a_16',['USAGE:',['../classMayaFlux_1_1Nodes_1_1Network_1_1ModalNetwork.html#autotoc_md36',1,'USAGE:'],['../classMayaFlux_1_1Nodes_1_1Network_1_1ParticleNetwork.html#autotoc_md42',1,'USAGE:'],['../classMayaFlux_1_1Nodes_1_1Network_1_1ResonatorNetwork.html#autotoc_md55',1,'USAGE:'],['../classMayaFlux_1_1Nodes_1_1Network_1_1WaveguideNetwork.html#autotoc_md59',1,'USAGE:']]],
+  ['use_17',['Which Level to Use',['../md_docs_2OpenCL-Migration.html#autotoc_md395',1,'']]],
+  ['use_20mayaflux_20without_20the_20jit_20lila_18',['Can I use MayaFlux without the JIT (Lila)?',['../index.html#autotoc_md257',1,'']]],
+  ['use_20this_20document_19',['use this document',['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md297',1,'How to use this document'],['../md_docs_2GPU-CPU-IO-Map.html#autotoc_md334',1,'How to use this document']]],
+  ['user_5fproject_20hpp_20',['src/user_project.hpp',['../md_docs_2Dev__Getting__Started.html#autotoc_md191',1,'']]],
+  ['users_21',['Weave: Recommended for Most Users',['../index.html#autotoc_md237',1,'']]],
+  ['using_20mayaflux_22',['Using MayaFlux',['../md_README.html#autotoc_md126',1,'']]],
+  ['utilities_23',['Transitive: Framework-Independent Utilities',['../md_docs_2Digital__Architecture.html#autotoc_md228',1,'']]]
+];

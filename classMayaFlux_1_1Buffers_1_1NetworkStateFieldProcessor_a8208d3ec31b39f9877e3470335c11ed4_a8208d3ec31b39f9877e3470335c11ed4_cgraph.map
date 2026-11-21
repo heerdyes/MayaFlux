@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::NetworkStateFieldProcessor::on_attach" name="MayaFlux::Buffers::NetworkStateFieldProcessor::on_attach">
+<area shape="rect" id="Node000001" title="Cache and validate the buffer, then call on_buffer_ready." alt="" coords="5,91,210,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferProcessor_aabc0443cf162db0fdca77c2f555a1920.html#aabc0443cf162db0fdca77c2f555a1920" title="Called when this processor is attached to a buffer." alt="" coords="286,5,434,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,88,274,64,269,67,202,93"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1NetworkStateFieldProcessor_a50564cf6439de19190389b56330bab98.html#a50564cf6439de19190389b56330bab98" title="Hook for subclass setup, called at the end of on_attach." alt="" coords="258,91,462,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,119,245,121,240,122,211,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1NetworkStateFieldProcessor_a66441c7ccbf9b6df179363b9788ef0cc.html#a66441c7ccbf9b6df179363b9788ef0cc" title="Check every named state field exists on the attached buffer." alt="" coords="258,176,462,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,150,255,170,250,171,201,156"/>
+</map>

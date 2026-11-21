@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Generator::Logic::process_multi_input" name="MayaFlux::Nodes::Generator::Logic::process_multi_input">
+<area shape="rect" id="Node000001" title="Processes multiple parallel inputs." alt="" coords="5,40,213,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_af10ea4c6662404570141818fe29693ea.html#af10ea4c6662404570141818fe29693ea" title="Notifies all registered callbacks about a new sample." alt="" coords="261,40,468,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,60,248,62,243,63,213,65"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a5d9eb9e8a257bccb93937782b284884e.html#a5d9eb9e8a257bccb93937782b284884e" title="Retrieves the last created context object." alt="" coords="516,5,723,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,46,503,43,498,44,469,51"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a24fe3adaafc789f42b92eb0294f9575e.html#a24fe3adaafc789f42b92eb0294f9575e" title="Updates the context with the latest sample value." alt="" coords="516,75,723,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="469,74,503,81,498,81,468,79"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_ad95a9cc80e842eb783fc2e9063c9990d.html#ad95a9cc80e842eb783fc2e9063c9990d" title=" " alt="" coords="771,75,997,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="724,94,758,97,753,97,724,100"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="MayaFlux::Yantra::Granular::AttributeOp::compute_grain_attribute" name="MayaFlux::Yantra::Granular::AttributeOp::compute_grain_attribute">
+<area shape="rect" id="Node000001" title="Resolve and execute attribution for a single grain." alt="" coords="5,101,215,162"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_ad0906ef79991d8c85b45b7545c9b6954.html#ad0906ef79991d8c85b45b7545c9b6954" title="Extract samples for a single channel within a Region from a container." alt="" coords="299,5,472,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,98,262,60,287,53,282,56,264,65,175,103"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Yantra_a0e8b275ccdb5a2b0376057afb9b01897.html#a0e8b275ccdb5a2b0376057afb9b01897" title="Extract a named scalar from an EnergyAnalysis result." alt="" coords="292,75,479,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="214,116,278,110,274,112,216,121"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Yantra_af23cc507b4dbbcb306f92e96ce666aab.html#af23cc507b4dbbcb306f92e96ce666aab" title="Extract a named scalar from a StatisticalAnalysis result." alt="" coords="292,144,479,189"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="215,142,279,152,273,153,215,148"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1UniversalAnalyzer_a12452f009e8a87275c71cfe10271769b.html#a12452f009e8a87275c71cfe10271769b" title=" " alt="" coords="263,213,508,274"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="177,160,264,199,281,207,276,207,262,203,176,166"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_a446e512dc040ea0ab603d860100224a8.html#a446e512dc040ea0ab603d860100224a8" title="Get typed span from DataVariant using concepts." alt="" coords="556,5,714,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,25,543,27,538,28,473,30"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kakshya_ab16b9c38ab1e261f3f3e1d058c841d85.html#ab16b9c38ab1e261f3f3e1d058c841d85" title="Convert a span of one data type to another (with type conversion)." alt="" coords="762,5,920,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="714,25,749,27,744,28,715,30"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1DataConverter_a5ada60bc3ff099a631f9a979e89feb19.html#a5ada60bc3ff099a631f9a979e89feb19" title=" " alt="" coords="968,5,1141,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="920,25,955,27,950,28,921,30"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="MayaFlux::Nexus::Agent::query_radius" name="MayaFlux::Nexus::Agent::query_radius">
+<area shape="rect" id="Node000001" title="Return the query radius." alt="" coords="504,216,684,261"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Agent_a11476be24d77f89b926c91c76e84939e.html#a11476be24d77f89b926c91c76e84939e" title="Construct with query radius, perception function, and influence function." alt="" coords="265,5,446,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="571,202,524,133,491,96,454,64,436,53,436,48,458,60,495,93,528,130,576,203"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nexus_1_1Agent_aca8611ebd260307d39efb413a0092a4f.html#aca8611ebd260307d39efb413a0092a4f" title="Construct with named perception and influence functions." alt="" coords="265,75,446,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="551,206,507,174,455,141,418,123,418,117,457,136,510,170,557,206"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Agent_a4d9c1e73810b17594c5aa7d3287e19e9.html#a4d9c1e73810b17594c5aa7d3287e19e9" title="Construct with only a query radius, for an Agent whose behaviour comes from typed influences and perc..." alt="" coords="265,245,446,290"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="486,252,447,259,445,254,491,251"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nexus_1_1Locus_a7c0b5ade3a05f7a0dd4087f27aa4cb46.html#a7c0b5ade3a05f7a0dd4087f27aa4cb46" title="Construct from a NavigationConfig with perception and influence functions." alt="" coords="16,136,196,181"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="486,219,456,216,196,174,196,169,456,210,491,218"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Locus_ac594c11c182537980b6511b2979f0d1a.html#ac594c11c182537980b6511b2979f0d1a" title="Construct from a NavigationConfig with named perception and influence functions." alt="" coords="16,205,196,250"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="486,235,456,236,197,231,196,226,456,230,491,233"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nexus_1_1Presence_a31b0d581e7009a1e803ea3f66eb54ab7.html#a31b0d581e7009a1e803ea3f66eb54ab7" title="Construct with perception, influence, and radiation functions." alt="" coords="5,275,207,319"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="545,267,502,290,457,305,392,315,327,319,207,313,207,308,327,313,392,310,455,300,500,285,540,269"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nexus_1_1Presence_a72472b32007b880796ae758fb0fd4318.html#a72472b32007b880796ae758fb0fd4318" title="Construct with all named callables." alt="" coords="5,345,207,390"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="553,269,508,300,457,323,394,342,328,355,208,368,207,362,328,349,392,337,455,319,505,295,548,271"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Presence_a8c2da782696841d55c4b035501d62059.html#a8c2da782696841d55c4b035501d62059" title="Current falloff radius, or the query radius if none was set." alt="" coords="255,416,456,461"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="572,272,523,338,492,370,458,399,425,418,423,413,454,395,488,366,519,334,567,275"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="297,239,206,195,177,184,176,179,208,191,302,237"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="247,252,197,245,195,239,252,250"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="247,281,208,288,206,283,252,279"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="287,298,208,334,173,347,171,342,206,329,292,295"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nexus_1_1Presence_a4af0b1d09ea58eca1b36960aa80a9936.html#a4af0b1d09ea58eca1b36960aa80a9936" title="Invoke the perception function with the supplied context." alt="" coords="5,416,207,461"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="236,439,207,441,207,436,242,438"/>
+</map>

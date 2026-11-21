@@ -1,0 +1,11 @@
+<map id="MayaFlux::Buffers::MeshBuffer" name="MayaFlux::Buffers::MeshBuffer">
+<area shape="rect" id="Node000001" title="VKBuffer subclass that owns a MeshData and manages its GPU upload." alt="" coords="28,1329,199,1775"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1RaymarchBuffer.html" title="Proxy box bounding a scalar field, drawn by a fragment stage that integrates the field along the view..." alt="" coords="34,1823,192,2091"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="114,1788,116,1824,111,1823,113,1793"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VKBuffer.html" title="Vulkan&#45;backed buffer wrapper used in processing chains." alt="" coords="5,503,221,1281"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,1293,116,1329,111,1329,113,1298"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1Buffer.html" title="Backend&#45;agnostic interface for sequential data storage and transformation." alt="" coords="5,143,221,455"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,468,116,504,111,503,113,473"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="39,5,188,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,107,116,143,111,143,113,112"/>
+</map>

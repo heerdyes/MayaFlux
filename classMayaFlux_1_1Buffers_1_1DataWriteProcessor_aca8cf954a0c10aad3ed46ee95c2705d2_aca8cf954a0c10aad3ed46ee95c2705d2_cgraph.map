@@ -1,0 +1,26 @@
+<map id="MayaFlux::Buffers::DataWriteProcessor::on_attach" name="MayaFlux::Buffers::DataWriteProcessor::on_attach">
+<area shape="rect" id="Node000001" title="Called when this processor is attached to a buffer." alt="" coords="5,252,164,314"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_a64c6abe8842e398d178e4275a4d4b404.html#a64c6abe8842e398d178e4275a4d4b404" title="Create staging buffer for transfers." alt="" coords="226,52,388,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,250,143,179,174,141,210,107,220,103,216,107,213,112,178,144,147,182,103,253"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a35c3aa5d9780535ccc1391e60789260c.html#a35c3aa5d9780535ccc1391e60789260c" title="Factory: layout for LineVertex (position, color, thickness, uv, normal, tangent)." alt="" coords="222,122,393,166"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="115,250,159,212,210,177,223,172,219,175,213,181,162,216,119,253"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a7b7a30b2a13cb2676713a352f298f607.html#a7b7a30b2a13cb2676713a352f298f607" title="Factory: layout for MeshVertex (position, color, weight, uv, normal, tangent)." alt="" coords="212,191,403,236"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="163,256,221,239,217,243,166,260"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_ad0ac6ab6a88dd81d2ac8acda3c5c15bd.html#ad0ac6ab6a88dd81d2ac8acda3c5c15bd" title="Factory: layout for PointVertex (position, color, size, uv, normal, tangent)." alt="" coords="217,260,398,305"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="163,280,204,281,199,284,165,285"/>
+<area shape="rect" id="Node000009" href="$structMayaFlux_1_1Kakshya_1_1VertexLayout_a084312d2a027f5a19b25d1a601f55947.html#a084312d2a027f5a19b25d1a601f55947" title="Factory: layout for raw vertex data with common attributes." alt="" coords="225,330,390,374"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="164,305,221,324,216,326,164,310"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Buffers_1_1DataWriteProcessor_a31e1ad6eff85b6c7cf850d36f284a175.html#a31e1ad6eff85b6c7cf850d36f284a175" title=" " alt="" coords="228,399,386,460"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="119,311,163,349,213,385,221,391,216,391,210,389,160,353,119,317"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="229,484,386,529"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="99,311,119,349,144,391,176,433,213,470,220,477,214,476,210,474,172,437,140,394,115,352,99,317"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="468,5,634,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,60,455,50,450,53,390,64"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="451,91,651,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="388,85,438,94,433,96,390,90"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="699,83,900,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="651,111,686,113,681,114,652,116"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="751,81,752,72,761,63,777,58,800,56,826,59,843,68,838,68,824,64,799,61,778,63,764,68,757,75,756,84"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="478,484,624,529"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="386,504,465,507,460,507,386,509"/>
+</map>

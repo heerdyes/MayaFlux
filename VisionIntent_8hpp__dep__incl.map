@@ -1,0 +1,24 @@
+<map id="VisionIntent.hpp" name="VisionIntent.hpp">
+<area shape="rect" id="Node000001" title="Declarative &quot;what to do&quot; vocabulary, one layer above VisionOp." alt="" coords="255,5,382,33"/>
+<area shape="rect" id="Node000002" href="$VisionQuery_8hpp.html" title="Per&#45;intent parameters and resolution into a set of VisionSequences." alt="" coords="256,81,382,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,46,321,81,316,80,318,51"/>
+<area shape="rect" id="Node000003" href="$VisionAnalyzer_8hpp.html" title="FunctionalOperation&lt;shared_ptr&lt;SignalSourceContainer&gt;, vector&lt;DataVariant&gt;&gt; whose real API matches En..." alt="" coords="166,157,312,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,121,255,158,251,154,295,118"/>
+<area shape="rect" id="Node000011" href="$VisionQuery_8cpp.html" title=" " alt="" coords="336,157,462,184"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="345,117,387,156,382,156,344,122"/>
+<area shape="rect" id="Node000004" href="$VisionAnalyzer_8cpp.html" title=" " alt="" coords="5,232,150,260"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,193,108,234,105,230,198,189"/>
+<area shape="rect" id="Node000005" href="$VisionMatrix_8hpp.html" title=" " alt="" coords="173,232,304,260"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="240,198,241,233,236,231,238,202"/>
+<area shape="rect" id="Node000010" href="$WorkflowIncludes_8hpp.html" title="Top level headers for the Yantra compute layer and its workflows." alt="" coords="320,384,483,411"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="273,191,297,209,318,231,347,271,370,314,399,384,394,382,365,316,342,274,314,234,293,213,272,196"/>
+<area shape="rect" id="Node000006" href="$VisionMatrix_8cpp.html" title=" " alt="" coords="10,308,140,336"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="194,269,105,310,103,305,197,265"/>
+<area shape="rect" id="Node000007" href="$VisionWorkflow_8hpp.html" title=" " alt="" coords="165,308,313,336"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="240,274,241,309,236,306,237,278"/>
+<area shape="rect" id="Node000008" href="$Rigs_8cpp.html" title=" " alt="" coords="47,384,124,411"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="200,343,114,386,112,381,195,343"/>
+<area shape="rect" id="Node000009" href="$VisionWorkflow_8cpp.html" title=" " alt="" coords="148,384,295,411"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="234,349,227,385,223,381,230,353"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="282,340,375,383,370,383,281,345"/>
+</map>

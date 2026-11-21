@@ -1,0 +1,9 @@
+<map id="MayaFlux::Kinesis::TimeMaps::lagged" name="MayaFlux::Kinesis::TimeMaps::lagged">
+<area shape="rect" id="Node000001" title="Position of a moving reference minus a lag that can itself change." alt="" coords="517,40,665,85"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a09461e6db914cac08990ad1017164474.html#a09461e6db914cac08990ad1017164474" title="Build the taps and start them." alt="" coords="245,5,469,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="499,49,469,47,470,42,504,49"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1FrameSeekProcessor_a6cc87e87fd8172279250338a9086e21b.html#a6cc87e87fd8172279250338a9086e21b" title="Trail a stream that is being written, by a lag that can change." alt="" coords="261,75,452,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="504,75,453,85,453,80,499,76"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1FrameSeekProcessor_a46cf25d8586632f0dbe3457d9298fdb5.html#a46cf25d8586632f0dbe3457d9298fdb5" title="Trail a stream that is being written by a fixed number of frames." alt="" coords="5,75,197,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,97,197,100,197,94,248,97"/>
+</map>

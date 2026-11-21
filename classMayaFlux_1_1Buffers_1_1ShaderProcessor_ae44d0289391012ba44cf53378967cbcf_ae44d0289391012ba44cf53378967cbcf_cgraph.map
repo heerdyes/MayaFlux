@@ -1,0 +1,16 @@
+<map id="MayaFlux::Buffers::ShaderProcessor::on_attach" name="MayaFlux::Buffers::ShaderProcessor::on_attach">
+<area shape="rect" id="Node000001" title="Called when this processor is attached to a buffer." alt="" coords="5,44,159,106"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a6aed67dc05a7476b9cf42a60126c1e3e.html#a6aed67dc05a7476b9cf42a60126c1e3e" title="Auto&#45;bind buffer based on attachment order." alt="" coords="207,44,373,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,72,194,74,188,76,160,77"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_ae72d99984f65f41164441d313ae0af88.html#ae72d99984f65f41164441d313ae0af88" title="Bind a VKBuffer to a named shader descriptor." alt="" coords="421,44,586,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,72,408,75,403,75,374,77"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBufferProcessor_ad871cad95dbb2a178d1752aa8573eabc.html#ad871cad95dbb2a178d1752aa8573eabc" title=" " alt="" coords="634,44,828,106"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="587,72,621,75,616,75,587,77"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="893,5,1059,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="828,57,875,52,880,51,828,62"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="876,91,1076,136"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="828,87,863,95,857,95,828,93"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="1124,83,1324,144"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1076,111,1111,113,1106,114,1076,116"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="1176,81,1177,72,1186,63,1202,58,1224,56,1250,59,1268,69,1262,68,1249,64,1224,61,1203,63,1189,68,1181,75,1180,84"/>
+</map>

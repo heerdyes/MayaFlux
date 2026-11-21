@@ -1,0 +1,16 @@
+<map id="MayaFlux::Kinesis::make_navigation_state" name="MayaFlux::Kinesis::make_navigation_state">
+<area shape="rect" id="Node000001" title="Construct a NavigationState from a NavigationConfig." alt="" coords="753,75,927,119"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_afbca6a63a999ca7602156fffa2c7dcd3.html#afbca6a63a999ca7602156fffa2c7dcd3" title="Bind the fly navigation controller to a window and render processor." alt="" coords="528,40,673,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,82,673,75,674,70,741,82"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_a0c14a83b32a093a88b5e133b0a562502.html#a0c14a83b32a093a88b5e133b0a562502" title="Bind the screenspace navigation controller to a window and render processor." alt="" coords="496,109,705,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="741,111,706,119,705,114,735,112"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_a32225e71700958f2fd21448719ab1ba1.html#a32225e71700958f2fd21448719ab1ba1" title="Bind the fly navigation controller to all RenderProcessors currently registered against a window." alt="" coords="271,5,416,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,51,416,40,416,35,516,50"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_a9be701daac0c0484aed1f9ad9f8d130e.html#a9be701daac0c0484aed1f9ad9f8d130e" title="Bind a navigation preset to a window and render processor using default settings." alt="" coords="251,75,436,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="510,75,437,87,436,82,516,74"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_af2205e6997a812a91f5c4b88a8beb585.html#af2205e6997a812a91f5c4b88a8beb585" title="Bind a navigation preset to all RenderProcessors currently registered against a window using default ..." alt="" coords="5,75,191,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,98,192,100,191,94,238,96"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="478,116,436,112,436,107,483,115"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_ab8f207a0abf830f659f2c24b8aedf172.html#ab8f207a0abf830f659f2c24b8aedf172" title="Bind the screenspace navigation controller to all RenderProcessors currently registered against a win..." alt="" coords="239,144,448,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="483,148,449,155,448,150,478,148"/>
+</map>

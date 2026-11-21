@@ -1,0 +1,37 @@
+<map id="MayaFlux::Nexus::place_attachment" name="MayaFlux::Nexus::place_attachment">
+<area shape="rect" id="Node000001" title="Place every render processor of the buffer that is not placed yet." alt="" coords="728,141,906,186"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nexus_a3ac45e04cc5cbafcb140a207046575cd.html#a3ac45e04cc5cbafcb140a207046575cd" title="Rebuild the transform from ctx and place every render processor of the buffer." alt="" coords="498,72,676,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="724,137,664,120,663,115,729,136"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nexus_1_1Mantle_ae3d634c82f101473e5f01eaab9e09e0f.html#ae3d634c82f101473e5f01eaab9e09e0f" title="Called at the start of every evaluate(), before any position is tested." alt="" coords="493,141,680,186"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="711,164,681,166,680,161,716,163"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Mantle_ad57cad5c90326b7f9f99a51980332783.html#ad57cad5c90326b7f9f99a51980332783" title=" " alt="" coords="493,267,680,311"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="763,193,631,269,628,264,758,195"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nexus_1_1Emitter_ace3ccd027c99be69c82f09d89fbf1717.html#ace3ccd027c99be69c82f09d89fbf1717" title="Invoke the influence function with the supplied context." alt="" coords="255,5,445,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,68,432,53,431,48,493,66"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Agent_a1d9dc25a849e8f3e6e70b8953a208189.html#a1d9dc25a849e8f3e6e70b8953a208189" title="Invoke the influence function with the supplied context." alt="" coords="260,75,440,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="480,97,441,99,440,93,485,94"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nexus_1_1Locus_a0bb203c2b2d2ac58739e0705e0fb6ae0.html#a0bb203c2b2d2ac58739e0705e0fb6ae0" title="Influence: push the current view to every view target, then run the inherited influence path." alt="" coords="16,31,196,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,79,197,72,195,67,246,77"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Presence_aa6a8b8593f1257dd923026e5ae115d53.html#aa6a8b8593f1257dd923026e5ae115d53" title="Invoke the influence function with the supplied context." alt="" coords="5,100,207,145"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="242,110,209,114,206,110,246,106"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nexus_1_1Mantle_acb6c9cad8eff8c689c204da285f12234.html#acb6c9cad8eff8c689c204da285f12234" title=" " alt="" coords="12,197,200,242"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="475,167,370,175,255,188,195,199,193,194,254,182,369,170,480,165"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nexus_1_1Mantle_aec56a122cb88646533bdf80a02613451.html#aec56a122cb88646533bdf80a02613451" title="Build from a box and a buffer." alt="" coords="256,336,444,381"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="491,317,430,338,428,333,496,315"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Nexus_1_1Mantle_a06083bc88a1e28ba95ecfdf8fadf605d.html#a06083bc88a1e28ba95ecfdf8fadf605d" title="Read the buffer&#39;s geometry again and place it to match." alt="" coords="256,197,444,242"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="491,262,429,245,429,240,496,261"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Nexus_1_1Mantle_aebbc7216b3cd7a8d3cd65f1590e46801.html#aebbc7216b3cd7a8d3cd65f1590e46801" title="Set or replace the box and place the buffer to match." alt="" coords="256,267,444,311"/>
+<area shape="poly" id="edge16_Node000009_Node000015" title=" " alt="" coords="475,290,444,292,443,286,480,288"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Nexus_1_1Mantle_a8bf41bbf6e893f26c961f9eedebdf316.html#a8bf41bbf6e893f26c961f9eedebdf316" title=" " alt="" coords="256,429,444,474"/>
+<area shape="poly" id="edge18_Node000009_Node000016" title=" " alt="" coords="547,320,447,395,390,431,388,426,443,391,542,322"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="258,328,253,326,237,308,228,290,220,273,205,256,188,245,187,240,208,252,225,270,233,288,241,305,256,322,263,328"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nexus_1_1Mantle_a9b03373b72cbb832cdec97dd23e6571a.html#a9b03373b72cbb832cdec97dd23e6571a" title=" " alt="" coords="12,267,200,311"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="252,332,187,315,187,309,257,330"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Nexus_1_1Mantle_abdff428d6aa15c8f1c0576132c332394.html#abdff428d6aa15c8f1c0576132c332394" title=" " alt="" coords="12,336,200,381"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="238,359,201,361,200,356,243,357"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Nexus_1_1Mantle_adf0d47392e6e46ea37b4fa247682a91a.html#adf0d47392e6e46ea37b4fa247682a91a" title=" " alt="" coords="12,405,200,450"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="252,386,188,407,186,402,257,385"/>
+<area shape="poly" id="edge15_Node000014_Node000008" title=" " alt="" coords="238,221,201,222,199,217,243,218"/>
+<area shape="poly" id="edge17_Node000015_Node000008" title=" " alt="" coords="252,263,187,245,187,240,257,261"/>
+<area shape="poly" id="edge19_Node000016_Node000016" title=" " alt="" coords="387,414,374,410,350,408,328,410,314,415,308,421,309,430,305,427,303,419,311,410,327,405,350,403,375,405,392,414"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MayaFlux::Transitive::Protocol::read_blob" name="MayaFlux::Transitive::Protocol::read_blob">
+<area shape="rect" id="Node000001" title="Read a length&#45;prefixed blob from a byte buffer." alt="" coords="5,40,162,85"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_ac36e4dc715dfd9e1c9d304a36e922a49.html#ac36e4dc715dfd9e1c9d304a36e922a49" title="Round len up to the next 4&#45;byte boundary." alt="" coords="210,5,381,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,47,197,43,192,45,163,52"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Transitive_1_1Protocol_a4c4e146a421ce9e7274d28774a88b66f.html#a4c4e146a421ce9e7274d28774a88b66f" title="Read a big&#45;endian int32 from a byte buffer." alt="" coords="216,75,375,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,72,203,81,198,82,162,78"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MayaFlux::Nodes::callback_pair_exists" name="MayaFlux::Nodes::callback_pair_exists">
+<area shape="rect" id="Node000001" title="Returns true if the exact callback+condition pair is already present." alt="" coords="694,5,891,50"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nodes_aa995eb0e67c4e7da29783ff14293700d.html#aa995eb0e67c4e7da29783ff14293700d" title="Adds a conditional callback if the exact pair is not already present." alt="" coords="454,5,646,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="676,28,647,30,647,25,681,28"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Node_a290c190252ac9250b8a86ff79dfe8970.html#a290c190252ac9250b8a86ff79dfe8970" title="Registers a conditional callback." alt="" coords="230,5,406,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,28,407,30,406,25,441,28"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Node_a0a33ad86ca97ab6f5112d9eb49a72705.html#a0a33ad86ca97ab6f5112d9eb49a72705" title="Processes multiple samples at once." alt="" coords="5,5,182,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,28,182,30,182,25,217,27"/>
+</map>

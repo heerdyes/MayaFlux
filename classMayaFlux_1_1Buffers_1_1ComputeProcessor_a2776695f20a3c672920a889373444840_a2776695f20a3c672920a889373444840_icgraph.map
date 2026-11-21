@@ -1,0 +1,11 @@
+<map id="MayaFlux::Buffers::ComputeProcessor::set_workgroup_size" name="MayaFlux::Buffers::ComputeProcessor::set_workgroup_size">
+<area shape="rect" id="Node000001" title="Set workgroup size (should match shader local_size)." alt="" coords="450,91,621,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RelaxationEmitProcessor_a567c9e68c3737a738f3676b330581070.html#a567c9e68c3737a738f3676b330581070" title="Cover the grid with a 1D dispatch and write EmitParams." alt="" coords="218,5,402,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,85,393,70,393,65,441,85"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1RelaxationStepProcessor_a49ef6b05fb571cd521a95459fda6c2fa.html#a49ef6b05fb571cd521a95459fda6c2fa" title="Cover the grid with a 2D dispatch and write GridExtent." alt="" coords="218,91,402,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,122,402,124,402,119,437,121"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a430b9dce7ab960e2ec311f081d0873a9.html#a430b9dce7ab960e2ec311f081d0873a9" title="Size the manual dispatch to cover the lattice." alt="" coords="228,176,392,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="441,157,393,178,392,173,436,159"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a85ff1d8555f41d205e6cf9d622cf2b74.html#a85ff1d8555f41d205e6cf9d622cf2b74" title="Cache and validate the volume, size the dispatch, write the shared parameter prefix,..." alt="" coords="5,176,170,238"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="210,207,170,209,170,204,215,207"/>
+</map>

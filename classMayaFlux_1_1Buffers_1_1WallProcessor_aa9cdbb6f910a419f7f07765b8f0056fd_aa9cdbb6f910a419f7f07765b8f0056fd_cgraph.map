@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::WallProcessor::WallProcessor" name="MayaFlux::Buffers::WallProcessor::WallProcessor">
+<area shape="rect" id="Node000001" title="Construct a free&#45;slip wall stage from a generated ShaderSpec." alt="" coords="5,99,217,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_ae3eb55e4157368419502814690bdcbb4.html#ae3eb55e4157368419502814690bdcbb4" title="Register a field to swap after each dispatch." alt="" coords="269,5,433,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,96,256,69,252,72,177,101"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1WallProcessor_a7ace28fc551ba3258cf969369d9c0d2d.html#a7ace28fc551ba3258cf969369d9c0d2d" title="Build the binding table for the field name." alt="" coords="273,91,429,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,119,259,121,254,122,218,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a446fc3970b1b1b9b1c4a0a7c41000c7c.html#a446fc3970b1b1b9b1c4a0a7c41000c7c" title="Construct from a shader path." alt="" coords="265,176,437,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,142,253,170,248,172,176,147"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1ComputeProcessor_a86eeb4e6a3c157b47da70d40a272b5d7.html#a86eeb4e6a3c157b47da70d40a272b5d7" title="Construct processor with shader path." alt="" coords="485,146,758,190"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="437,192,472,189,467,190,438,197"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1VolumeFieldProcessor_a840bea096f22b9649600f67cfc106b8a.html#a840bea096f22b9649600f67cfc106b8a" title="Register the binding table into m_config.bindings." alt="" coords="540,215,704,276"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="438,216,527,232,521,232,437,222"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a157ac2a18d9be2c9e45cb345b1bedeb3.html#a157ac2a18d9be2c9e45cb345b1bedeb3" title="Construct processor with shader path." alt="" coords="806,146,1052,190"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="759,166,794,168,788,168,759,171"/>
+</map>

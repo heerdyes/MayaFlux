@@ -1,0 +1,22 @@
+<map id="MayaFlux::Buffers::RaymarchBuffer::~RaymarchBuffer" name="MayaFlux::Buffers::RaymarchBuffer::~RaymarchBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,256,232"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RaymarchBuffer_aafcbc039461f3f16db04ba1f07b7e670.html#aafcbc039461f3f16db04ba1f07b7e670" title="Attach MeshProcessor for upload and RaymarchProcessor for staging." alt="" coords="304,136,474,198"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,186,291,183,286,184,257,191"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1RaymarchBuffer_a9729f336fed58e0730827ac7ecb8a564.html#a9729f336fed58e0730827ac7ecb8a564" title="Attach a RenderProcessor drawing the proxy box." alt="" coords="304,221,474,283"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="256,228,291,235,285,236,256,233"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6cf409969c192851ab2cf7f0315d2a49.html#a6cf409969c192851ab2cf7f0315d2a49" title="Access the buffer&#39;s processing chain." alt="" coords="786,160,1013,205"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,167,773,178,768,180,475,172"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1MeshBuffer_a608249a2aedf62ad168381be3b93b79e.html#a608249a2aedf62ad168381be3b93b79e" title="Create and attach MeshProcessor as the default processor." alt="" coords="522,94,738,138"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="474,146,509,141,504,143,475,151"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="723,136,794,156,789,156,723,142"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6e843b1ce9e90e2df2501d28e60eab52.html#a6e843b1ce9e90e2df2501d28e60eab52" title="Set the buffer&#39;s default processor." alt="" coords="820,5,979,67"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="707,91,808,63,803,65,709,96"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a93f1d139e1fc4ab7689f2a205bf76563.html#a93f1d139e1fc4ab7689f2a205bf76563" title="Replace the buffer&#39;s processing chain." alt="" coords="787,91,1012,136"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="738,112,774,114,768,115,739,118"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1MeshBuffer_acfad7563c2db7f11d502cfeb17cf6a9b.html#acfad7563c2db7f11d502cfeb17cf6a9b" title="Attach a RenderProcessor targeting the given window." alt="" coords="526,230,734,274"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="474,250,513,252,508,252,475,255"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="719,227,793,210,798,209,720,232"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_aa9370fdd8ef512d6503c1c7ccdb0afda.html#aa9370fdd8ef512d6503c1c7ccdb0afda" title="Configure the internal m_render_processor from a RenderConfig." alt="" coords="814,253,985,315"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="735,262,801,272,796,272,735,267"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="848,251,848,243,858,234,875,229,900,227,928,229,946,239,941,239,926,235,899,232,876,234,861,239,853,245,851,255"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="MayaFlux::Kakshya::RegionProcessorBase::~RegionProcessorBase" name="MayaFlux::Kakshya::RegionProcessorBase::~RegionProcessorBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,186,195"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_adfd4b78cb83865cd035277c9d82a1533.html#adfd4b78cb83865cd035277c9d82a1533" title="Attach this processor to a signal source container." alt="" coords="234,91,395,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,144,221,139,216,141,187,149"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_ab9e403016451a1002a8123264babdc62.html#ab9e403016451a1002a8123264babdc62" title="Detach this processor from its container." alt="" coords="234,176,395,238"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="186,179,221,188,215,188,186,184"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a20574208db40f323df3cf6ac9178ca79.html#a20574208db40f323df3cf6ac9178ca79" title="Organize container data into structured regions." alt="" coords="443,91,632,152"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,119,430,121,425,122,396,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a8b4b4bbc9aa5c99444e8a1a27ab6c374.html#a8b4b4bbc9aa5c99444e8a1a27ab6c374" title="Advance position according to memory layout and looping." alt="" coords="708,5,870,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="630,88,691,69,696,68,631,93"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a29b649c1806d006bfd1172e19eadf6f1.html#a29b649c1806d006bfd1172e19eadf6f1" title="Cache a region&#39;s data if beneficial and not already cached." alt="" coords="696,91,882,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="632,119,683,121,678,122,633,124"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a8d67fba8bb619b5bc20a8c271440973a.html#a8d67fba8bb619b5bc20a8c271440973a" title="Ensure output data is properly dimensioned for region extraction." alt="" coords="680,176,898,238"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="631,150,684,171,679,170,630,156"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1RegionSegment_a4b1f6f95db006ac5486f391f1f23a957.html#a4b1f6f95db006ac5486f391f1f23a957" title="Get the total number of elements in the segment." alt="" coords="946,91,1136,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="883,119,933,121,927,122,883,124"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="MayaFlux::Portal::Forma::Bridge::spawn_sync" name="MayaFlux::Portal::Forma::Bridge::spawn_sync">
+<area shape="rect" id="Node000001" title="Spawn a per&#45;frame GraphicsRoutine that calls sync_fn each tick." alt="" coords="234,248,414,293"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Forma_ab3e026869fd591493f2f89ca4f152dc1.html#ab3e026869fd591493f2f89ca4f152dc1" title="Open a dedicated window inspecting a single Buffer and its processing chain." alt="" coords="5,5,186,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,234,285,196,258,150,224,104,184,64,168,53,167,48,187,60,228,101,263,147,290,193,310,234"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a375aa9c35d0d0831a7d4e0ea7107b227.html#a375aa9c35d0d0831a7d4e0ea7107b227" title="Open a dedicated window inspecting a NodeNetwork." alt="" coords="5,75,186,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,236,246,185,216,158,184,134,165,122,164,117,187,129,219,154,249,181,298,235"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Forma_adfbdd6c42f9561d725521af7689c221b.html#adfbdd6c42f9561d725521af7689c221b" title="Open a dedicated window inspecting a single Node and its modulator tree." alt="" coords="5,144,186,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,241,185,203,159,192,157,187,187,199,269,239"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a9f9e5f02ae1d8a9a827ca06994151d60.html#a9f9e5f02ae1d8a9a827ca06994151d60" title="Open a dedicated window inspecting a single Event." alt="" coords="5,213,186,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="216,256,187,252,185,247,221,253"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a037879cc8c63869664d3b6c8e1e32973.html#a037879cc8c63869664d3b6c8e1e32973" title="Open or show the BufferManager inspection window." alt="" coords="5,283,186,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="216,288,187,294,185,289,220,285"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Portal_1_1Forma_af41897be30156c06741f924722e654f5.html#af41897be30156c06741f924722e654f5" title="Open or show the EventManager inspection window." alt="" coords="5,352,186,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="264,302,187,342,159,354,156,349,185,337,268,299"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a9563fe8292595a238e507c2ff54f787e.html#a9563fe8292595a238e507c2ff54f787e" title="Open or show the NodeGraphManager inspection window." alt="" coords="5,421,186,466"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="298,303,249,360,219,387,187,411,166,423,163,419,184,407,216,383,246,356,294,307"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Portal_1_1Forma_abb516f8bf31335193993acea55db7843.html#abb516f8bf31335193993acea55db7843" title="Open or show the TaskScheduler inspection window." alt="" coords="5,491,186,535"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="309,305,290,348,263,394,228,440,187,480,169,493,166,488,184,476,224,436,258,391,285,345,305,309"/>
+</map>
