@@ -1,0 +1,20 @@
+<map id="MayaFlux::Yantra::ComputeMatrix" name="MayaFlux::Yantra::ComputeMatrix">
+<area shape="rect" id="Node000001" title="Local execution orchestrator for computational operations." alt="" coords="248,1693,456,2380"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,1371,216,1461"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,1472,251,1770,246,1771,132,1477"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1OperationPool.html" title="Thread&#45;safe pool for managing named operation instances." alt="" coords="241,1212,463,1620"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="353,1617,355,1677,349,1675,351,1622"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Parallel_1_1AsyncGroup.html" title=" " alt="" coords="488,1282,643,1550"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="521,1547,463,1721,458,1719,518,1552"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="322,419,532,709"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="396,706,386,807,381,916,384,973,390,1029,401,1085,417,1138,429,1161,444,1175,461,1189,478,1211,509,1267,503,1267,474,1214,457,1193,441,1179,425,1164,412,1140,396,1086,385,1030,378,973,376,916,381,806,395,711"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Parallel_1_1AsyncGroup.html" title="Owns a set of in&#45;flight std::async futures on behalf of a subsystem." alt="" coords="495,782,636,1139"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="477,706,500,766,495,766,477,711"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title="Lock&#45;free, unbounded, multi&#45;producer collection of in&#45;flight items." alt="" coords="419,5,666,346"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="459,362,460,370,448,419,442,418,454,369,461,357"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Memory_1_1SweepList.html" title=" " alt="" coords="555,419,765,709"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="617,357,623,369,636,419,631,419,617,370,617,363"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="673,706,679,815,676,937,665,1064,654,1128,640,1189,617,1267,612,1265,635,1188,649,1127,659,1064,671,936,674,815,672,712"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="602,706,597,734,590,766,584,765,592,732,600,711"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="566,1152,568,1283,563,1282,565,1157"/>
+</map>

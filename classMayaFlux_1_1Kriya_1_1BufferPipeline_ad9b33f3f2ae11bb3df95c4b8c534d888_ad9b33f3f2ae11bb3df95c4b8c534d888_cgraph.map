@@ -1,0 +1,16 @@
+<map id="MayaFlux::Kriya::BufferPipeline::parallel" name="MayaFlux::Kriya::BufferPipeline::parallel">
+<area shape="rect" id="Node000001" title="Execute operations in parallel within the current cycle." alt="" coords="5,64,232,109"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a14c11b8660a7cf766e7afe2fd643460f.html#a14c11b8660a7cf766e7afe2fd643460f" title=" " alt="" coords="286,29,512,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,70,273,67,268,69,233,75"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a9623a5f6955d5285f8035dd3dff34f88.html#a9623a5f6955d5285f8035dd3dff34f88" title="Set execution priority for scheduler ordering." alt="" coords="280,99,518,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="232,98,267,104,261,105,232,103"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="346,28,344,19,353,10,371,5,399,3,429,5,448,14,443,14,427,10,399,8,372,10,356,15,349,21,351,30"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a26be6275189effd1a9acbd7f2bd9a914.html#a26be6275189effd1a9acbd7f2bd9a914" title=" " alt="" coords="566,99,804,143"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="518,118,553,121,548,121,519,124"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a568cd5264502e48de8fc437c4e0149d6.html#a568cd5264502e48de8fc437c4e0149d6" title="Create a capture operation using BufferCapture configuration." alt="" coords="852,99,1091,143"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="805,127,840,130,834,130,805,133"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_aca2194bbbb9cc45ad3f81d02fe748b8b.html#aca2194bbbb9cc45ad3f81d02fe748b8b" title="Getters for user defined tag." alt="" coords="852,168,1091,213"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="781,141,864,164,859,164,780,147"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="849,112,820,115,820,109,855,112"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="918,97,916,88,925,79,944,74,972,72,1002,74,1022,84,1017,83,1001,80,971,77,945,79,928,84,921,90,922,100"/>
+</map>

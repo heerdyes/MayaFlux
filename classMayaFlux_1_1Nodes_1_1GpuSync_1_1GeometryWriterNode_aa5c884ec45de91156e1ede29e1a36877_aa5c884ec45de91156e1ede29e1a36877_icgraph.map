@@ -1,0 +1,13 @@
+<map id="MayaFlux::Nodes::GpuSync::GeometryWriterNode::set_indices" name="MayaFlux::Nodes::GpuSync::GeometryWriterNode::set_indices">
+<area shape="rect" id="Node000001" title="Set index buffer for indexed drawing." alt="" coords="1046,32,1245,93"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1MeshWriterNode_ae25f2a644f82c96f8f1a862d401e472f.html#ae25f2a644f82c96f8f1a862d401e472f" title="Compute GPU data for this frame." alt="" coords="748,40,998,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1027,62,998,65,998,60,1033,62"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a3b05244a99b639a2b98cf60744654a2b.html#a3b05244a99b639a2b98cf60744654a2b" title=" " alt="" coords="501,40,700,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="730,62,701,65,701,60,735,62"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a8d93283e3887f0b2a717c407a008d703.html#a8d93283e3887f0b2a717c407a008d703" title="Re&#45;extract the isosurface if dirty, then upload via parent." alt="" coords="253,5,453,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="483,46,453,44,453,39,488,46"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a61950494104522a83fb51c0149ea3345.html#a61950494104522a83fb51c0149ea3345" title="Construct and evaluate the initial isosurface." alt="" coords="253,75,452,119"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="488,78,453,86,453,80,483,79"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1SDFNode_a60ac44da0ad9399e9e4eb82eae05a275.html#a60ac44da0ad9399e9e4eb82eae05a275" title=" " alt="" coords="5,5,205,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,28,205,30,205,25,240,27"/>
+</map>

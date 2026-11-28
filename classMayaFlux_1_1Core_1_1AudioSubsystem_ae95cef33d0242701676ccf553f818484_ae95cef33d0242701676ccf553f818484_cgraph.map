@@ -1,0 +1,31 @@
+<map id="MayaFlux::Core::AudioSubsystem::~AudioSubsystem" name="MayaFlux::Core::AudioSubsystem::~AudioSubsystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,225,246,270"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a68853e4924288af31bf879845a6471d6.html#a68853e4924288af31bf879845a6471d6" title="Pause audio processing without stopping the stream." alt="" coords="294,52,534,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,223,208,165,249,134,292,107,308,101,304,105,295,111,252,138,212,169,150,227"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_aee1e241d09520e5661e05a4b50eead99.html#aee1e241d09520e5661e05a4b50eead99" title="Register audio backend callbacks for real&#45;time processing." alt="" coords="294,121,534,166"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,222,293,176,318,170,313,172,295,181,179,227"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_ae104f02318dc04fb02d5830be62c9f87.html#ae104f02318dc04fb02d5830be62c9f87" title="Resume audio processing after pause." alt="" coords="294,191,534,235"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="245,231,281,228,276,230,247,236"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a154604a3069bdf0c84b973ca45240bf3.html#a154604a3069bdf0c84b973ca45240bf3" title="Shutdown and cleanup audio resources." alt="" coords="294,260,534,305"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="246,260,281,265,276,267,247,265"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a1359ed9170dec500174dc53fde2579c1.html#a1359ed9170dec500174dc53fde2579c1" title="Stop audio processing and streaming." alt="" coords="582,337,822,382"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="172,268,230,293,294,314,363,329,434,340,569,355,564,356,433,345,362,334,293,320,228,298,172,273"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a745a5d31ef0b095e1351a794806ed289.html#a745a5d31ef0b095e1351a794806ed289" title="Start audio processing and streaming." alt="" coords="294,380,534,425"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="156,268,219,313,295,359,326,374,320,374,292,363,216,318,155,273"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a5d75ecc901d686219b8b39ca4ad68ca4.html#a5d75ecc901d686219b8b39ca4ad68ca4" title="Processes both input and output data in full&#45;duplex mode." alt="" coords="582,63,822,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="526,118,577,110,572,112,528,123"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a901fabae6c3bd8f099ab2381ba358ac4.html#a901fabae6c3bd8f099ab2381ba358ac4" title="Processes input data from audio interface." alt="" coords="870,5,1111,50"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="511,119,532,107,547,93,555,77,564,62,581,48,647,23,718,9,789,4,857,8,852,9,789,10,719,14,649,28,583,53,568,65,560,80,551,96,536,111,513,123"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a528e097a9ed4c0852b3d16be5ba37c75.html#a528e097a9ed4c0852b3d16be5ba37c75" title="Processes output data for audio interface." alt="" coords="870,77,1111,122"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="534,136,822,117,857,116,852,117,823,122,535,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="817,59,862,53,857,54,819,65"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="823,88,857,92,852,93,823,94"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="602,183,802,227"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="499,257,604,231,599,233,501,262"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="500,303,604,333,599,333,500,308"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_af56fb38c9e3a502f619f6205beb49384.html#af56fb38c9e3a502f619f6205beb49384" title="Unregister a service." alt="" coords="596,252,808,313"/>
+<area shape="poly" id="edge14_Node000008_Node000012" title=" " alt="" coords="534,280,583,282,578,283,535,285"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="890,174,1091,236"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="802,202,877,205,872,205,803,208"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="935,172,936,164,946,155,964,149,991,148,1021,150,1041,160,1036,160,1020,156,990,153,965,155,949,160,941,166,939,176"/>
+</map>

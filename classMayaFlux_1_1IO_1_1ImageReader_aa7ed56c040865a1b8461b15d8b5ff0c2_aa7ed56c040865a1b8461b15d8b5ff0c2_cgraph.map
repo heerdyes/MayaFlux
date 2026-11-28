@@ -1,0 +1,27 @@
+<map id="MayaFlux::IO::ImageReader::load_into_buffer" name="MayaFlux::IO::ImageReader::load_into_buffer">
+<area shape="rect" id="Node000001" title="Load image directly into an existing VKBuffer." alt="" coords="5,111,208,156"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Buffers_aac5d05cf9bfc11ce6df03c3697b9e7ef.html#aac5d05cf9bfc11ce6df03c3697b9e7ef" title="Upload raw data to GPU buffer (auto&#45;detects host&#45;visible vs device&#45;local)." alt="" coords="256,111,403,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,131,243,133,238,134,209,136"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Buffers_a64c6abe8842e398d178e4275a4d4b404.html#a64c6abe8842e398d178e4275a4d4b404" title="Create staging buffer for transfers." alt="" coords="451,42,613,86"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,108,448,93,453,91,398,113"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Buffers_aef0500ee2ec9a75e2fe565ff287d81d5.html#aef0500ee2ec9a75e2fe565ff287d81d5" title="Upload data to a device&#45;local buffer using a staging buffer." alt="" coords="456,180,609,225"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="397,154,453,175,448,175,396,159"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Buffers_ade245c667165a5cba39db1a67391080c.html#ade245c667165a5cba39db1a67391080c" title="Upload data to a host&#45;visible buffer." alt="" coords="457,111,607,156"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="403,131,444,133,439,134,404,136"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="678,107,845,168"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="604,84,666,106,661,106,604,90"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="661,38,862,82"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="613,60,648,62,643,63,614,65"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="914,29,1114,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="862,58,901,60,896,60,862,63"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="965,27,966,19,975,10,991,5,1014,3,1041,5,1059,15,1053,15,1039,11,1014,8,992,10,978,15,971,21,969,31"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="608,178,661,166,666,165,610,184"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="595,177,612,166,627,148,635,130,643,111,660,93,664,92,669,90,663,97,647,114,639,132,631,151,615,170,597,182"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a7893291a314cd16a4086b4af5547be3b.html#a7893291a314cd16a4086b4af5547be3b" title="Get raw buffer info for GPU upload." alt="" coords="674,192,849,237"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="609,204,661,209,656,209,609,209"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1DataAccess_a22ed77a7c33e4413867656e1e7fa4fa7.html#a22ed77a7c33e4413867656e1e7fa4fa7" title=" " alt="" coords="910,192,1119,237"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="849,212,897,215,892,215,849,217"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="608,132,665,136,660,136,608,137"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="603,108,672,88,678,87,605,113"/>
+<area shape="poly" id="edge14_Node000010_Node000008" title=" " alt="" coords="596,154,662,178,683,187,678,187,660,183,595,159"/>
+</map>

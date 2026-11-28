@@ -1,0 +1,81 @@
+<map id="MayaFlux::Nodes::atomic_add_flag" name="MayaFlux::Nodes::atomic_add_flag">
+<area shape="rect" id="Node000001" title="Atomically adds a flag to a node state." alt="" coords="785,560,973,605"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Node_a7b58165202be65fc4625724d6d4f8616.html#a7b58165202be65fc4625724d6d4f8616" title="Exclude this node&#39;s output from the graph it is registered in." alt="" coords="524,5,735,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="876,544,873,449,867,388,855,321,838,252,813,184,779,120,735,64,723,53,723,48,739,60,784,118,818,182,843,250,861,320,872,387,878,449,881,546"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1RootNode_a4e2e056d21673261a19294c42b11cb65.html#a4e2e056d21673261a19294c42b11cb65" title="Processes a single frame from all registered nodes." alt="" coords="526,75,733,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="875,544,867,461,847,351,829,292,805,235,774,181,735,134,723,122,722,117,739,130,779,178,810,232,834,290,852,349,873,460,880,546"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1BinaryOpNode_a8fae564fe72bb7d724f53eb5ace2b6ef.html#a8fae564fe72bb7d724f53eb5ace2b6ef" title="Processes a single sample through both nodes and combines the results." alt="" coords="528,144,731,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="872,544,861,473,838,381,820,333,797,286,769,242,736,203,722,192,722,187,739,199,774,239,802,283,825,331,843,380,866,472,877,546"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1ChainNode_a6c75109f5288690e52abf73747ac590b.html#a6c75109f5288690e52abf73747ac590b" title="Processes a single data sample." alt="" coords="523,213,736,258"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="868,544,853,485,828,412,789,337,764,303,736,272,721,261,720,256,739,268,768,299,794,334,833,410,859,484,873,545"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a6e5c7168192f7ac506f120edaae73185.html#a6e5c7168192f7ac506f120edaae73185" title="Processes a single data sample." alt="" coords="524,283,736,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="863,545,845,500,818,445,781,389,760,364,736,342,719,330,719,325,739,338,764,360,786,386,822,442,850,497,868,546"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1FIR_a071284d0c86de8a9edb5d7c575c3eba4.html#a071284d0c86de8a9edb5d7c575c3eba4" title="Processes a single sample through the FIR filter." alt="" coords="538,352,721,397"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="855,547,806,479,773,442,736,411,717,400,716,395,739,407,777,439,811,475,860,547"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1IIR_a6859dce1d8f4deb25b345da083da8f0d.html#a6859dce1d8f4deb25b345da083da8f0d" title="Processes a single sample through the IIR filter." alt="" coords="538,421,721,466"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="838,550,792,515,736,481,711,469,710,464,739,476,795,511,844,550"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Counter_ada8aba131b5c5179a875e823d9e50d35.html#ada8aba131b5c5179a875e823d9e50d35" title="Processes a single data sample." alt="" coords="526,491,733,535"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="779,556,713,539,712,533,784,555"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a871f16ab043c372dedbf9f5c69965960.html#a871f16ab043c372dedbf9f5c69965960" title="Processes a single input sample and generates an impulse sample." alt="" coords="526,560,733,605"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="767,583,735,585,733,580,772,581"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a4cd7a43ebf1ff5518bf9b006bad898fe.html#a4cd7a43ebf1ff5518bf9b006bad898fe" title="Processes a single input sample through the logic function." alt="" coords="526,629,733,674"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="779,611,714,631,711,626,784,608"/>
+<area shape="rect" id="Node000023" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Phasor_ab93135693b484d64f98ff479e86c447c.html#ab93135693b484d64f98ff479e86c447c" title="Processes a single input sample and generates a phasor sample." alt="" coords="526,711,733,755"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="841,613,793,653,739,689,691,712,688,708,736,684,790,649,837,616"/>
+<area shape="rect" id="Node000026" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Polynomial_a6c5eaaf26f00522a8ee26bf0cd38c1e9.html#a6c5eaaf26f00522a8ee26bf0cd38c1e9" title="Processes a single sample." alt="" coords="522,780,737,825"/>
+<area shape="poly" id="edge29_Node000001_Node000026" title=" " alt="" coords="861,617,813,695,778,735,739,770,718,782,716,777,736,765,775,732,808,692,857,620"/>
+<area shape="rect" id="Node000029" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Sine_af63eeb6345c84fd7e61860b99ca369bb.html#af63eeb6345c84fd7e61860b99ca369bb" title="Processes a single input sample and generates a sine wave sample." alt="" coords="526,849,733,894"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="869,618,851,670,824,728,787,788,764,815,739,839,721,851,718,846,736,835,760,811,783,785,820,726,847,668,865,622"/>
+<area shape="rect" id="Node000032" href="$classMayaFlux_1_1Nodes_1_1RootNode_a919034f3da66aac25a12725b592bcf1b.html#a919034f3da66aac25a12725b592bcf1b" title="Processes a single sample from all registered nodes." alt="" coords="526,919,733,963"/>
+<area shape="poly" id="edge37_Node000001_Node000032" title=" " alt="" coords="873,618,860,683,834,760,817,800,795,839,769,876,739,908,722,920,720,916,736,904,765,873,791,837,812,798,830,758,855,682,870,622"/>
+<area shape="rect" id="Node000034" href="$classMayaFlux_1_1Buffers_1_1FilterProcessor_ad603f0595565a52d71b5e28edc47a290.html#ad603f0595565a52d71b5e28edc47a290" title=" " alt="" coords="542,988,717,1049"/>
+<area shape="poly" id="edge39_Node000001_Node000034" title=" " alt="" coords="876,618,866,694,842,789,824,839,801,889,773,936,739,978,719,994,716,989,735,974,769,933,797,886,819,837,837,788,861,693,873,622"/>
+<area shape="rect" id="Node000035" href="$classMayaFlux_1_1Nodes_1_1RootNode_a827a622849583085c5b8486cb1641a6f.html#a827a622849583085c5b8486cb1641a6f" title="Adds a node to this root node." alt="" coords="526,1073,733,1118"/>
+<area shape="poly" id="edge40_Node000001_Node000035" title=" " alt="" coords="879,618,875,709,867,766,855,827,838,891,813,953,781,1011,739,1063,724,1075,722,1070,735,1059,776,1008,808,950,832,889,850,826,862,765,870,709,876,622"/>
+<area shape="rect" id="Node000036" href="$classMayaFlux_1_1Nodes_1_1RootNode_a3223d79efd0c1efec1bbbc0ac0e70902.html#a3223d79efd0c1efec1bbbc0ac0e70902" title="Removes a node from this root node." alt="" coords="526,1143,733,1187"/>
+<area shape="poly" id="edge41_Node000001_Node000036" title=" " alt="" coords="874,618,858,737,829,889,810,966,789,1035,765,1093,739,1132,724,1145,722,1140,735,1129,761,1090,784,1034,805,964,823,888,852,736,871,622"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Node_a751ac13f388cce157e9a95ed01ba6814.html#a751ac13f388cce157e9a95ed01ba6814" title="Old name of exclude_output_from_graph()." alt="" coords="279,5,456,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,29,457,30,455,25,510,26"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1RootNode_ab5b73c4583a86786b22e2918f9f60b62.html#ab5b73c4583a86786b22e2918f9f60b62" title="Processes multiple frames from all registered nodes." alt="" coords="264,75,470,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="509,99,472,99,469,95,513,95"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1BinaryOpNode_aa542907435255abd16572f736ba82e2d.html#aa542907435255abd16572f736ba82e2d" title="Processes multiple samples through both nodes and combines the results." alt="" coords="266,144,468,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="511,168,470,169,467,164,515,165"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1ChainNode_a3e207440f2ca922b104b34793a5408e2.html#a3e207440f2ca922b104b34793a5408e2" title="Processes multiple samples at once." alt="" coords="261,213,474,258"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="505,237,476,238,473,233,509,234"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1CompositeOpNode_a7d611787a0c8d858f159f9f5acf61373.html#a7d611787a0c8d858f159f9f5acf61373" title="Processes multiple samples at once." alt="" coords="261,283,474,327"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="506,306,475,307,473,303,510,304"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Counter_a5a79205fb49862526c6867f1ccb34d98.html#a5a79205fb49862526c6867f1ccb34d98" title="Processes multiple samples at once." alt="" coords="264,352,471,397"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="527,484,520,480,504,465,495,449,487,433,472,418,443,400,442,395,476,414,491,430,500,446,508,461,524,476,532,483"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Counter_aeec43a55e8bb63ece5a835945c908ab6.html#aeec43a55e8bb63ece5a835945c908ab6" title=" " alt="" coords="5,383,213,427"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="539,486,521,481,473,462,338,434,214,417,212,412,339,429,475,457,523,476,544,484"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="246,390,215,395,211,391,250,387"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a5aa86d7acca466adab508d227acd428d.html#a5aa86d7acca466adab508d227acd428d" title="Processes multiple samples at once." alt="" coords="264,472,471,517"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="540,555,521,550,434,520,433,515,523,545,545,554"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Impulse_a1f36e6dfab10c0a1186688e83f17e581.html#a1f36e6dfab10c0a1186688e83f17e581" title="Virtual destructor." alt="" coords="5,503,213,547"/>
+<area shape="poly" id="edge20_Node000017_Node000019" title=" " alt="" coords="508,571,214,539,212,534,512,567"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="246,510,215,515,211,511,250,507"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a99bea86cf7a74676b8a309df546d8007.html#a99bea86cf7a74676b8a309df546d8007" title="Processes multiple samples in batch mode." alt="" coords="264,592,471,637"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="508,636,472,632,471,627,513,634"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a9fe85fff12efa13336741b97ce2c53da.html#a9fe85fff12efa13336741b97ce2c53da" title=" " alt="" coords="5,623,213,667"/>
+<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="509,653,261,652,214,650,212,646,261,646,513,650"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="246,630,215,635,211,631,250,627"/>
+<area shape="rect" id="Node000024" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Phasor_a565ede5187c3f983665b43006a1b4d18.html#a565ede5187c3f983665b43006a1b4d18" title="Processes multiple samples at once." alt="" coords="264,712,471,757"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="508,735,472,736,470,731,513,733"/>
+<area shape="rect" id="Node000025" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Phasor_a966ab63a17200ea8cf5ac057663a7180.html#a966ab63a17200ea8cf5ac057663a7180" title="Virtual destructor." alt="" coords="5,743,213,787"/>
+<area shape="poly" id="edge28_Node000023_Node000025" title=" " alt="" coords="528,761,474,772,407,777,338,779,214,775,212,770,338,774,406,772,474,766,533,758"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="246,750,214,755,212,750,250,747"/>
+<area shape="rect" id="Node000027" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Polynomial_afb0f9f325eeff81f429ee11b15cc5aac.html#afb0f9f325eeff81f429ee11b15cc5aac" title="Processes multiple samples at once." alt="" coords="264,832,471,877"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="504,828,473,836,471,831,509,826"/>
+<area shape="rect" id="Node000028" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Polynomial_a4deb6b6ade2063c4d4ea5b1c9a10bcf3.html#a4deb6b6ade2063c4d4ea5b1c9a10bcf3" title=" " alt="" coords="5,875,213,919"/>
+<area shape="poly" id="edge32_Node000026_Node000028" title=" " alt="" coords="528,834,524,839,509,852,501,866,492,880,475,891,410,913,341,922,274,923,214,918,212,913,274,918,341,917,409,907,473,887,488,876,497,863,505,849,520,835,533,831"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="246,876,214,882,212,878,250,872"/>
+<area shape="rect" id="Node000030" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Sine_a125814268df2731f1cc48170d935d6c1.html#a125814268df2731f1cc48170d935d6c1" title="Processes multiple samples at once." alt="" coords="264,952,471,997"/>
+<area shape="poly" id="edge34_Node000029_Node000030" title=" " alt="" coords="535,901,523,909,475,935,432,954,430,949,473,931,521,904,540,899"/>
+<area shape="rect" id="Node000031" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Sine_aae3f2011b788cb82e6b3bb8e97e9fb2d.html#aae3f2011b788cb82e6b3bb8e97e9fb2d" title="Virtual destructor." alt="" coords="5,969,213,1014"/>
+<area shape="poly" id="edge36_Node000029_Node000031" title=" " alt="" coords="529,901,524,908,513,921,507,933,502,961,497,987,489,1000,475,1011,439,1030,399,1041,358,1046,317,1046,238,1035,172,1017,171,1012,239,1030,317,1040,358,1040,398,1035,437,1025,473,1007,485,996,492,985,497,960,502,932,509,918,520,904,524,904"/>
+<area shape="poly" id="edge35_Node000030_Node000031" title=" " alt="" coords="246,984,214,987,212,982,250,981"/>
+<area shape="rect" id="Node000033" href="$classMayaFlux_1_1Nodes_1_1RootNode_aedc8fc75d7c7ca80e448f9949aad020a.html#aedc8fc75d7c7ca80e448f9949aad020a" title="Processes all registered nodes and combines their outputs." alt="" coords="264,1072,470,1117"/>
+<area shape="poly" id="edge38_Node000032_Node000033" title=" " alt="" coords="530,970,524,978,508,996,500,1015,492,1035,476,1055,446,1074,443,1069,472,1051,488,1032,495,1013,503,993,520,974,525,973"/>
+<area shape="rect" id="Node000037" href="$classMayaFlux_1_1Nodes_1_1RootNode_af942c3c30039d700972aa5fb309ad822.html#af942c3c30039d700972aa5fb309ad822" title="Terminates all nodes registered with this root node." alt="" coords="264,1143,470,1187"/>
+<area shape="poly" id="edge42_Node000036_Node000037" title=" " alt="" coords="508,1165,471,1168,471,1162,514,1165"/>
+</map>

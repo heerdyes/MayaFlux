@@ -1,0 +1,14 @@
+<map id="MayaFlux::Core::AudioSubsystem::initialize" name="MayaFlux::Core::AudioSubsystem::initialize">
+<area shape="rect" id="Node000001" title="Initialize audio processing with provided handle." alt="" coords="5,42,246,86"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_aca9a2ea6c2e17b011cc38d879974d73f.html#aca9a2ea6c2e17b011cc38d879974d73f" title=" " alt="" coords="294,7,534,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,47,281,45,276,47,247,52"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Core_1_1AudioSubsystem_a2ada5fcceecc70a2a49005d51d1977ee.html#a2ada5fcceecc70a2a49005d51d1977ee" title=" " alt="" coords="294,76,534,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,76,281,82,275,83,247,81"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="582,38,782,82"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,79,569,76,564,77,535,84"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a22c6ffe496c721c1bdfe28c9a86c1c4f.html#a22c6ffe496c721c1bdfe28c9a86c1c4f" title="Register a backend service capability." alt="" coords="584,107,780,168"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="534,114,572,121,566,121,534,119"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="830,29,1031,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="783,58,818,60,812,60,783,63"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="882,27,883,19,892,10,908,5,931,3,957,5,974,15,969,15,955,11,930,8,909,10,895,15,888,21,886,31"/>
+</map>

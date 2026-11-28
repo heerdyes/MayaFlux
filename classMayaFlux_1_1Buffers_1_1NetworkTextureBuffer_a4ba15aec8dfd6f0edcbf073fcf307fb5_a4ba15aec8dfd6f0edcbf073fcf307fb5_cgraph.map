@@ -1,0 +1,17 @@
+<map id="MayaFlux::Buffers::NetworkTextureBuffer::NetworkTextureBuffer" name="MayaFlux::Buffers::NetworkTextureBuffer::NetworkTextureBuffer">
+<area shape="rect" id="Node000001" title="Create buffer from network with optional texture source." alt="" coords="5,83,177,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_a09a747b9b0a8d796ca0bb2ae91181221.html#a09a747b9b0a8d796ca0bb2ae91181221" title="Create geometry buffer from network." alt="" coords="225,83,413,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,111,211,113,207,114,177,116"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1NetworkGeometryBuffer_abdc12d47c20fc3f0d9ac1976151b4614.html#abdc12d47c20fc3f0d9ac1976151b4614" title="Calculate initial buffer size based on network node count." alt="" coords="462,5,643,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,80,450,70,445,72,414,85"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a9070538a7af526d6943272f4d6d842a4.html#a9070538a7af526d6943272f4d6d842a4" title=" " alt="" coords="461,91,644,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,111,448,113,443,114,414,116"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a71bfbd383ca91bbd5541b653939d89a2.html#a71bfbd383ca91bbd5541b653939d89a2" title="Construct an unregistered VKBuffer." alt="" coords="479,160,626,205"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="414,139,467,157,462,157,413,144"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a0b88df705302552cb7b6442dd31ee2c3.html#a0b88df705302552cb7b6442dd31ee2c3" title="Infer Kakshya::DataDimension entries from a given byte count." alt="" coords="692,113,891,175"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="626,168,674,163,680,162,627,174"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="713,199,870,244"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="627,192,700,206,695,206,627,197"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="939,199,1085,244"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="871,219,926,221,921,222,871,224"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="MayaFlux::Nodes::Generator::Generator::notify_tick" name="MayaFlux::Nodes::Generator::Generator::notify_tick">
+<area shape="rect" id="Node000001" title="Notifies all registered callbacks with the current context." alt="" coords="779,100,987,145"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Polynomial_a6c5eaaf26f00522a8ee26bf0cd38c1e9.html#a6c5eaaf26f00522a8ee26bf0cd38c1e9" title="Processes a single sample." alt="" coords="516,31,731,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="779,95,710,79,710,73,785,95"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Random_ae916ec005ad9fe95ad384e891ea0103a.html#ae916ec005ad9fe95ad384e891ea0103a" title="Generates a single stochastic value." alt="" coords="520,100,727,145"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="761,123,728,125,728,120,766,122"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Sine_af63eeb6345c84fd7e61860b99ca369bb.html#af63eeb6345c84fd7e61860b99ca369bb" title="Processes a single input sample and generates a sine wave sample." alt="" coords="520,169,727,214"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="785,149,710,171,709,166,779,150"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Polynomial_afb0f9f325eeff81f429ee11b15cc5aac.html#afb0f9f325eeff81f429ee11b15cc5aac" title="Processes multiple samples at once." alt="" coords="261,5,468,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="498,41,469,40,468,35,503,41"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Polynomial_a4deb6b6ade2063c4d4ea5b1c9a10bcf3.html#a4deb6b6ade2063c4d4ea5b1c9a10bcf3" title=" " alt="" coords="5,49,213,94"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="498,61,468,65,214,73,213,67,468,60,503,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,49,214,56,212,51,248,47"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Sine_a125814268df2731f1cc48170d935d6c1.html#a125814268df2731f1cc48170d935d6c1" title="Processes multiple samples at once." alt="" coords="261,129,468,174"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="502,173,468,170,469,165,507,173"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Sine_aae3f2011b788cb82e6b3bb8e97e9fb2d.html#aae3f2011b788cb82e6b3bb8e97e9fb2d" title="Virtual destructor." alt="" coords="5,145,213,190"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="502,193,386,195,260,189,213,185,213,179,261,184,387,189,507,193"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="243,160,213,164,213,159,248,159"/>
+</map>

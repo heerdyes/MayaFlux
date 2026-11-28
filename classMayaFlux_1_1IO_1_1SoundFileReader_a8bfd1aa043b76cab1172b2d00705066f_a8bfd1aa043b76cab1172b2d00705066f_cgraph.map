@@ -1,0 +1,11 @@
+<map id="MayaFlux::IO::SoundFileReader::read_frames" name="MayaFlux::IO::SoundFileReader::read_frames">
+<area shape="rect" id="Node000001" title="Read a specific number of frames from the file." alt="" coords="5,65,230,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1SoundFileReader_a6b31f93de0d059ff79310a277024cf97.html#a6b31f93de0d059ff79310a277024cf97" title="Decode num_frames PCM frames starting at offset." alt="" coords="278,5,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,62,273,53,268,55,223,67"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1SoundFileReader_a800c7fe05bac701dcfa6a826ad78c22e.html#a800c7fe05bac701dcfa6a826ad78c22e" title="Set the last error message." alt="" coords="550,65,774,110"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="230,85,535,85,533,90,230,90"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1SoundFileReader_a556fc1aa59ae42f3ecb37e33238d4642.html#a556fc1aa59ae42f3ecb37e33238d4642" title="Seek the demuxer and flush the codec to the given frame position." alt="" coords="278,125,502,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,108,273,121,268,122,222,113"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,48,546,61,540,62,494,53"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="494,122,540,114,546,113,495,127"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MayaFlux::Nodes::Filters::FilterContextGpu" name="MayaFlux::Nodes::Filters::FilterContextGpu">
+<area shape="rect" id="Node000001" title="GPU&#45;augmented filter context for callbacks." alt="" coords="140,402,312,492"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1FilterContext.html" title="Specialized context for filter node callbacks." alt="" coords="28,195,200,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,362,200,403,195,402,171,367"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1NodeContext.html" title="Base context class for node callbacks." alt="" coords="5,5,222,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,157,116,196,111,195,113,162"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuVectorData.html" title="GPU&#45;uploadable 1D array data interface." alt="" coords="224,193,454,354"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="280,365,256,405,252,401,276,368"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::ShaderProcessor::resolve_pending_dispatch" name="MayaFlux::Buffers::ShaderProcessor::resolve_pending_dispatch">
+<area shape="rect" id="Node000001" title="Resolve an outstanding asynchronous submission." alt="" coords="5,98,191,160"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="239,29,435,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,96,253,78,249,81,192,101"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_ac68d47c3acf25f5a69dbba4fc6b82a7f.html#ac68d47c3acf25f5a69dbba4fc6b82a7f" title="True while an asynchronous submission is outstanding." alt="" coords="263,98,411,160"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="191,126,250,128,245,130,192,132"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_ab674b8ea0cbd04326fcd10b02184ae56.html#ab674b8ea0cbd04326fcd10b02184ae56" title="Called once when an asynchronous submission is observed complete." alt="" coords="260,184,414,245"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="187,158,248,181,243,182,186,163"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="483,29,679,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,49,470,51,465,52,436,54"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="727,29,958,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="680,49,714,51,709,52,680,54"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="793,27,791,19,800,10,817,5,843,3,871,5,889,14,884,14,869,10,842,8,818,10,803,15,797,21,798,30"/>
+</map>

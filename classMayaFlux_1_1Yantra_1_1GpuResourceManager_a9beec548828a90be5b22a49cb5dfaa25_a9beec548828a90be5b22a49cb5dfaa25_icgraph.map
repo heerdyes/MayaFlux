@@ -1,0 +1,7 @@
+<map id="MayaFlux::Yantra::GpuResourceManager::record_sequence_commands" name="MayaFlux::Yantra::GpuResourceManager::record_sequence_commands">
+<area shape="rect" id="Node000001" title="Record one command buffer holding a dispatch per key, with the barriers each stage&#39;s hazards owe the ..." alt="" coords="309,32,536,93"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1GpuResourceManager_a83435fa81f14d203c7a855493e4aa34e.html#a83435fa81f14d203c7a855493e4aa34e" title="Record a dispatch for each requested key into one command buffer via ComputePress::record_sequence,..." alt="" coords="19,5,247,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,47,247,44,247,39,296,46"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1GpuResourceManager_ac3784bf8a1a21ea80b3b52ebf188e42d.html#ac3784bf8a1a21ea80b3b52ebf188e42d" title="Non&#45;blocking counterpart of dispatch_sequence." alt="" coords="5,75,261,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,78,262,84,261,79,296,77"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="MayaFlux::IO::DelimitedTextWriter::is_open" name="MayaFlux::IO::DelimitedTextWriter::is_open">
+<area shape="rect" id="Node000001" title="Whether an output file is open." alt="" coords="773,206,980,251"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_aa22ab0bfa911313eb2404a75662201f6.html#aa22ab0bfa911313eb2404a75662201f6" title="Finalize and close the current file." alt="" coords="519,51,725,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="830,196,724,127,673,99,673,94,727,122,835,197"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_ae5b38ad4299bda6b4859c7da1242f06e.html#ae5b38ad4299bda6b4859c7da1242f06e" title="Create or truncate a CSV or TSV file." alt="" coords="262,111,468,156"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="755,204,725,200,469,154,469,149,726,195,761,204"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a8a3179ed358ea47fc4e78ac15abef67a.html#a8a3179ed358ea47fc4e78ac15abef67a" title="Flush the current file without closing it." alt="" coords="262,181,468,225"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="756,224,469,211,469,206,760,222"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a185d5411c03d338570de18c821626587.html#a185d5411c03d338570de18c821626587" title="Override the extension&#45;selected delimiter." alt="" coords="262,250,468,295"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="756,239,469,266,468,261,761,238"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a9c413529b174e02246f8f624c03d944c.html#a9c413529b174e02246f8f624c03d944c" title="Select whether a header record is written." alt="" coords="519,291,725,336"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="796,256,692,293,690,288,791,257"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a828aa791115c552bb7534d73d680ac61.html#a828aa791115c552bb7534d73d680ac61" title="Encode a bounded slice using the open file&#39;s layout." alt="" coords="519,361,725,405"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="844,261,790,308,727,351,701,363,700,358,724,346,787,304,839,263"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_a75c6c86b93c7ecae45d6cb2abcc9d04a.html#a75c6c86b93c7ecae45d6cb2abcc9d04a" title=" " alt="" coords="5,215,212,260"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,46,492,26,416,11,376,8,336,10,298,18,261,32,234,49,209,71,169,122,139,174,120,216,116,214,134,171,164,119,205,67,230,45,258,27,296,13,336,5,376,3,417,6,494,21,560,45"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="506,101,465,113,463,108,511,99"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1IO_1_1DelimitedTextWriter_adaa61aa18599a94f982805681af6400a.html#adaa61aa18599a94f982805681af6400a" title=" " alt="" coords="260,42,471,87"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="501,70,472,71,471,66,506,69"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="149,201,135,196,108,194,84,196,69,201,63,207,65,215,60,215,58,205,67,196,83,191,109,189,136,191,154,199"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="275,163,261,171,157,217,154,213,259,166,280,160"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="244,220,213,226,211,221,249,218"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="244,257,213,254,212,249,249,256"/>
+<area shape="poly" id="edge13_Node000008_Node000003" title=" " alt="" coords="501,324,385,326,321,321,259,310,199,289,148,263,148,258,201,284,260,305,322,315,385,321,506,323"/>
+<area shape="poly" id="edge15_Node000009_Node000003" title=" " alt="" coords="501,378,383,365,320,351,259,332,192,299,139,263,139,258,194,295,261,327,321,346,384,359,506,378"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MayaFlux::Yantra::FluentExecutor::record_error" name="MayaFlux::Yantra::FluentExecutor::record_error">
+<area shape="rect" id="Node000001" title=" " alt="" coords="466,109,648,154"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1FluentExecutor_a4b113b1229bb1083daf41c317e8e5950.html#a4b113b1229bb1083daf41c317e8e5950" title="Apply a custom transformation function within the chain." alt="" coords="236,5,418,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,102,417,65,390,53,390,48,419,60,502,101"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1FluentExecutor_a42b9b05a3a317e35882bc8a4cf6c8513.html#a42b9b05a3a317e35882bc8a4cf6c8513" title="Apply a side&#45;effect function without changing data or type." alt="" coords="236,75,418,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="448,116,419,113,418,108,453,115"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1FluentExecutor_ac560a9d8417fe71c2e8beeef41c5d249.html#ac560a9d8417fe71c2e8beeef41c5d249" title="Chain an anonymous operation instance by type." alt="" coords="236,144,418,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,148,419,155,418,150,453,147"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1FluentExecutor_a497cf99e328aed3a9c80f4f310114ded.html#a497cf99e328aed3a9c80f4f310114ded" title="Chain a named operation fetched from the executor&#39;s pool." alt="" coords="236,213,418,258"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="502,161,419,203,391,215,389,210,417,199,497,162"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1FluentExecutor_a5c6f43fdde31b2c70e1eb777900ddb8f.html#a5c6f43fdde31b2c70e1eb777900ddb8f" title="Execute an operation conditionally on a boolean flag." alt="" coords="5,109,188,154"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="218,151,189,148,188,143,223,150"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1FluentExecutor_a126f3dce3214d49958c8287c435cb1fd.html#a126f3dce3214d49958c8287c435cb1fd" title="Execute an operation conditionally on a predicate over the raw data." alt="" coords="5,179,188,223"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="218,183,189,190,188,185,223,182"/>
+</map>

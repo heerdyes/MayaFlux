@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Network::is_concatenable_topology" name="MayaFlux::Nodes::Network::is_concatenable_topology">
+<area shape="rect" id="Node000001" title="Whether two adjacent spans of this topology can be concatenated without altering the primitives they ..." alt="" coords="304,109,502,154"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1AssemblyOperator_a5251c995c9db5a302012c6681e68a73c.html#a5251c995c9db5a302012c6681e68a73c" title="Coalesces adjacent items sharing a concatenable topology into one run; strip/fan items are always rep..." alt="" coords="5,5,256,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,103,255,65,221,53,221,48,257,60,348,101"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PathOperator_a12e77e2a73ebf1cd7c3bba763d801009.html#a12e77e2a73ebf1cd7c3bba763d801009" title="Coalesces adjacent paths sharing a concatenable topology into one run." alt="" coords="23,75,238,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,118,238,113,238,108,291,116"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1PhysicsOperator_a477b4b6617f60fb0df8eb16f8638ad6b.html#a477b4b6617f60fb0df8eb16f8638ad6b" title="Coalesces adjacent point collections sharing a concatenable topology into one run." alt="" coords="13,144,248,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,147,249,154,248,149,291,145"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1TopologyOperator_ad2e3909082b317cd9c21d68cfafcb484.html#ad2e3909082b317cd9c21d68cfafcb484" title="Coalesces adjacent topology graphs sharing a concatenable topology into one run." alt="" coords="8,213,253,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="348,161,257,203,222,215,220,210,255,199,342,162"/>
+</map>

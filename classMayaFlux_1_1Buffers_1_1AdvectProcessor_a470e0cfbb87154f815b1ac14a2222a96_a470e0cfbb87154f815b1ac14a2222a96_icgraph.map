@@ -1,0 +1,9 @@
+<map id="MayaFlux::Buffers::AdvectProcessor::write_tail" name="MayaFlux::Buffers::AdvectProcessor::write_tail">
+<area shape="rect" id="Node000001" title="Write time step and dissipation past the shared prefix." alt="" coords="211,99,409,144"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a0c6b57249714b70c283637ab685668ef.html#a0c6b57249714b70c283637ab685668ef" title="Reserve the full parameter block and write the step and dissipation words." alt="" coords="7,5,161,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,94,161,68,161,63,237,92"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_ad217a4a12dc3262a352bb40dfbc3da33.html#ad217a4a12dc3262a352bb40dfbc3da33" title="Set the multiplicative decay applied to the carried value." alt="" coords="5,91,163,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,122,164,124,162,119,198,121"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1AdvectProcessor_a80c13372f5ed50e9e25f0216c5534a48.html#a80c13372f5ed50e9e25f0216c5534a48" title="Set the integration step passed to the shader each cycle." alt="" coords="5,176,163,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,151,164,180,162,175,237,149"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="MayaFlux::Yantra::Vision::VisionMatrix::result" name="MayaFlux::Yantra::Vision::VisionMatrix::result">
+<area shape="rect" id="Node000001" title="The VisionResult of the sequence that served intent in the last completed analysis,..." alt="" coords="5,35,187,79"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_aac119f2c2148660efe48860483c24c7e.html#aac119f2c2148660efe48860483c24c7e" title="The matrix&#39;s &quot;analyze&quot; operation." alt="" coords="464,5,645,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,32,234,20,345,13,451,18,446,19,345,18,235,25,175,37"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kinesis_1_1Vision_ab826a6dbabf0cf391807b64305ce9929.html#ab826a6dbabf0cf391807b64305ce9929" title="Resolve a VisionQuery into the ResolvedSequences needed to satisfy every active intent." alt="" coords="251,104,400,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,77,239,99,234,100,172,83"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a1fa643396f51bce7e536a313e3ae0934.html#a1fa643396f51bce7e536a313e3ae0934" title="The VisionResult of every sequence the analyzer&#39;s last completed analysis ran, with each step&#39;s image..." alt="" coords="235,35,416,79"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,54,222,56,217,58,187,60"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1ComputeMatrix_a2e1cc18085d6c69d3df38a21c8fd5f32.html#a2e1cc18085d6c69d3df38a21c8fd5f32" title="Get a named operation from this matrix." alt="" coords="693,5,894,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="646,25,681,27,675,28,646,30"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_1_1Kinesis_a7a69e068e36f478ecb84dc0cff611244.html#a7a69e068e36f478ecb84dc0cff611244" title="Sequential composition: evaluate first, feed result into second." alt="" coords="480,104,629,149"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="400,124,468,126,463,126,400,129"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="416,43,451,41,446,42,417,48"/>
+</map>

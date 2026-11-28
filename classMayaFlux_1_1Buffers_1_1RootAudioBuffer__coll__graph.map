@@ -1,0 +1,20 @@
+<map id="MayaFlux::Buffers::RootAudioBuffer" name="MayaFlux::Buffers::RootAudioBuffer">
+<area shape="rect" id="Node000001" title="Top&#45;level aggregation buffer for computational data streams." alt="" coords="364,2085,564,2510"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RootBuffer.html" title=" " alt="" coords="366,1319,562,2036"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,2049,466,2086,462,2084,463,2054"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1AudioBuffer.html" title="Concrete audio implementation of the Buffer interface for double&#45;precision audio data." alt="" coords="200,620,416,1156"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,1168,396,1319,391,1319,364,1173"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1Buffer.html" title="Backend&#45;agnostic interface for sequential data storage and transformation." alt="" coords="5,144,221,457"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,468,222,620,217,620,170,473"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="39,5,188,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,107,116,144,111,144,113,112"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Buffers_1_1BufferRoutingState.html" title="Represents the state of routing transitions for a buffer." alt="" coords="245,189,382,412"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="313,409,313,603,308,603,312,414"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Buffers_1_1RootBuffer_1_1PendingBufferOp.html" title="Structure for storing pending buffer add/remove operations." alt="" coords="430,225,594,376"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="498,373,488,450,479,530,466,728,459,929,457,1303,452,1303,454,929,461,727,474,529,483,450,497,378"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Buffers_1_1RootBuffer.html" title=" " alt="" coords="609,530,804,1246"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="535,373,583,505,593,529,606,564,601,565,588,531,578,507,535,378"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="606,1217,564,1361,559,1360,604,1222"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="667,264,746,336"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="707,349,709,530,704,530,706,354"/>
+</map>

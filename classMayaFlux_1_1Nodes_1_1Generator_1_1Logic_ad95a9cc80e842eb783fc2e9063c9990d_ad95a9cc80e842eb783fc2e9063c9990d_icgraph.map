@@ -1,0 +1,18 @@
+<map id="MayaFlux::Nodes::Generator::Logic::history_linearized_view" name="MayaFlux::Nodes::Generator::Logic::history_linearized_view">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1282,96,1507,141"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a4cd7a43ebf1ff5518bf9b006bad898fe.html#a4cd7a43ebf1ff5518bf9b006bad898fe" title="Processes a single input sample through the logic function." alt="" coords="516,65,723,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1264,114,724,94,724,89,1269,113"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a24fe3adaafc789f42b92eb0294f9575e.html#a24fe3adaafc789f42b92eb0294f9575e" title="Updates the context with the latest sample value." alt="" coords="1027,125,1234,170"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1269,132,1235,139,1234,133,1264,133"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a99bea86cf7a74676b8a309df546d8007.html#a99bea86cf7a74676b8a309df546d8007" title="Processes multiple samples in batch mode." alt="" coords="261,5,468,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,61,462,53,462,48,510,61"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_a9fe85fff12efa13336741b97ce2c53da.html#a9fe85fff12efa13336741b97ce2c53da" title=" " alt="" coords="5,65,213,110"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="499,90,213,90,213,85,501,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,55,208,67,206,62,254,53"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_af10ea4c6662404570141818fe29693ea.html#af10ea4c6662404570141818fe29693ea" title="Notifies all registered callbacks about a new sample." alt="" coords="771,125,979,170"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1008,148,979,150,979,145,1014,148"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="760,121,717,113,718,108,765,121"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1Generator_1_1Logic_ac29f7cc81f95277d8686a1d296f334f2.html#ac29f7cc81f95277d8686a1d296f334f2" title="Processes multiple parallel inputs." alt="" coords="261,125,468,170"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="753,148,468,150,468,145,758,147"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="249,121,207,113,207,108,254,121"/>
+</map>

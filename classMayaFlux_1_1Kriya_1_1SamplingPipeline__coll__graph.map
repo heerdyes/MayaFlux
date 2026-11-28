@@ -1,0 +1,19 @@
+<map id="MayaFlux::Kriya::SamplingPipeline" name="MayaFlux::Kriya::SamplingPipeline">
+<area shape="rect" id="Node000001" title="Pipeline&#45;coordinated polyphonic playback of a bounded audio stream." alt="" coords="256,2011,442,2480"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1BufferManager.html" title="Token&#45;based multimodal buffer management system for unified data stream processing." alt="" coords="32,1192,214,1712"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,1709,198,1825,229,1937,253,2009,248,2009,224,1939,193,1826,169,1715"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler.html" title="Token&#45;based multimodal task scheduling system for unified coroutine processing." alt="" coords="238,966,460,1938"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,1935,352,1995,347,1993,348,1940"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1SampleClock.html" title="Sample&#45;accurate timing system for audio processing domain." alt="" coords="5,430,216,681"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,678,228,965,237,998,231,999,223,967,146,683"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Vruta_1_1IClock.html" title="Abstract base interface for all clock types in the multimodal scheduling system." alt="" coords="28,5,194,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="111,201,113,430,108,430,111,207"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Vruta_1_1TaskScheduler_1_1PendingTaskOp.html" title=" " alt="" coords="240,500,459,611"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="350,608,352,949,347,949,349,614"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1Vruta_1_1TaskEntry.html" title=" " alt="" coords="255,50,444,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="350,142,352,482,347,482,349,147"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kriya_1_1CaptureBuilder.html" title="Fluent builder interface for constructing BufferCapture configurations." alt="" coords="491,1296,677,1608"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="556,1606,521,1769,475,1939,450,2009,446,2007,469,1937,516,1768,553,1611"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kriya_1_1BufferCapture.html" title="Flexible data capture interface for buffer&#45;based processing pipelines." alt="" coords="483,262,698,848"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="589,846,588,1279,583,1279,588,851"/>
+</map>

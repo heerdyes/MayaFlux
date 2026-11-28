@@ -1,0 +1,14 @@
+<map id="MayaFlux::Nodes::Network::ResonatorNetwork::apply_broadcast_parameter" name="MayaFlux::Nodes::Network::ResonatorNetwork::apply_broadcast_parameter">
+<area shape="rect" id="Node000001" title="Apply a BROADCAST value to the named parameter across all resonators." alt="" coords="5,44,203,106"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ResonatorNetwork_a89422384f591cf7be40324957a734cba.html#a89422384f591cf7be40324957a734cba" title="Set centre frequency of all resonators uniformly." alt="" coords="260,5,458,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,57,247,53,242,54,204,62"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ResonatorNetwork_a4e5df60f99085dfff1752ffea8193d7c.html#a4e5df60f99085dfff1752ffea8193d7c" title="Set Q factor of all resonators uniformly." alt="" coords="251,91,467,136"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="203,87,238,95,232,95,203,93"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ResonatorNetwork_a66387249a8bc89954017998babd26db9.html#a66387249a8bc89954017998babd26db9" title="Set centre frequency of a single resonator and recompute its coefficients." alt="" coords="515,5,712,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,34,502,36,497,36,458,39"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ResonatorNetwork_a47653e6f983490bb1a16698c723e9f93.html#a47653e6f983490bb1a16698c723e9f93" title="Compute RBJ biquad bandpass coefficients and push them into a resonator&#39;s IIR." alt="" coords="760,52,1027,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="713,47,748,54,742,54,713,52"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ResonatorNetwork_a871a6d5042b8462267ea7bafe0d7bf66.html#a871a6d5042b8462267ea7bafe0d7bf66" title="Set Q factor of a single resonator and recompute its coefficients." alt="" coords="515,91,712,136"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="467,111,502,113,497,114,468,116"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="712,97,742,96,748,95,713,103"/>
+</map>

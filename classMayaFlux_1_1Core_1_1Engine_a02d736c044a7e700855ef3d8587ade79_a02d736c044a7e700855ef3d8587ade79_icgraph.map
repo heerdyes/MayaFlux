@@ -1,0 +1,45 @@
+<map id="MayaFlux::Core::Engine::get_stream_info" name="MayaFlux::Core::Engine::get_stream_info">
+<area shape="rect" id="Node000001" title="Gets the current stream configuration." alt="" coords="706,404,882,448"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Config_a5249afad2e4d9b92e843da6b0d089926.html#a5249afad2e4d9b92e843da6b0d089926" title="Gets the buffer size from the default engine." alt="" coords="492,126,656,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,389,723,309,691,263,656,220,607,174,607,169,660,216,696,260,727,307,776,390"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Config_add02a960f8fdc0d03e7d4c0aa3c2b518.html#add02a960f8fdc0d03e7d4c0aa3c2b518" title="Gets the stream configuration from the default engine." alt="" coords="492,230,656,275"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="763,391,717,340,688,313,657,289,638,278,638,273,660,285,691,309,721,337,769,391"/>
+<area shape="rect" id="Node000013" href="$namespaceMayaFlux_1_1Config_aea5cc2f1c8447b25797ca248da512ff0.html#aea5cc2f1c8447b25797ca248da512ff0" title="Gets the number of output channels from the default engine." alt="" coords="492,300,656,344"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="735,396,657,359,632,347,632,342,659,354,740,396"/>
+<area shape="rect" id="Node000014" href="$namespaceMayaFlux_1_1Config_ad8c6968db02415b5ba48863063076989.html#ad8c6968db02415b5ba48863063076989" title="Gets the sample rate from the default engine." alt="" coords="492,369,656,414"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="689,410,657,407,656,401,694,409"/>
+<area shape="rect" id="Node000016" href="$namespaceMayaFlux_ae9491ecc376aeb1f55b68a86f00c9395.html#ae9491ecc376aeb1f55b68a86f00c9395" title="Converts samples to blocks based on current block size." alt="" coords="490,438,658,483"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="688,443,660,450,658,445,694,441"/>
+<area shape="rect" id="Node000017" href="$namespaceMayaFlux_acfc933dacfd681dbf41488034ea2c338.html#acfc933dacfd681dbf41488034ea2c338" title="Converts a number of audio samples to the equivalent time duration in seconds." alt="" coords="490,508,658,552"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="740,455,659,498,633,509,631,504,657,493,735,457"/>
+<area shape="rect" id="Node000018" href="$namespaceMayaFlux_a9b0f018819c16aeaf3c79625209b8898.html#a9b0f018819c16aeaf3c79625209b8898" title="Converts a time duration in seconds to the equivalent number of processing blocks." alt="" coords="491,577,657,622"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="768,459,721,515,691,542,660,567,639,579,637,574,657,562,688,538,717,511,764,462"/>
+<area shape="rect" id="Node000020" href="$namespaceMayaFlux_a61246cf5ed5930d655fc4ac7005ff98b.html#a61246cf5ed5930d655fc4ac7005ff98b" title="Converts a time duration in seconds to the equivalent number of audio samples." alt="" coords="491,646,657,691"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="779,461,760,503,734,549,700,595,660,636,642,648,640,643,657,632,696,592,729,546,756,500,775,464"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_a36c554a7012df7e010ff0b6cea17420f.html#a36c554a7012df7e010ff0b6cea17420f" title="Construct a built SamplingPipeline from an audio file." alt="" coords="248,5,442,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="537,116,493,80,441,47,416,36,414,31,443,42,497,76,542,115"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_a56313717fe4a452b14cd3e82681a916e.html#a56313717fe4a452b14cd3e82681a916e" title="Construct a built SamplingPipeline from an existing DynamicSoundStream." alt="" coords="248,57,442,102"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="481,122,422,105,421,100,486,120"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_af2d4183c9032d1c946ffb1d85eff66b7.html#af2d4183c9032d1c946ffb1d85eff66b7" title="Begin describing several taps that read an existing DynamicSoundStream." alt="" coords="264,126,426,171"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="475,150,428,151,425,146,479,147"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_ad01d9cdd4e1687f97a0edca6641e6daa.html#ad01d9cdd4e1687f97a0edca6641e6daa" title="Constructs and initializes per&#45;channel SoundContainerBuffers without registering them." alt="" coords="252,196,438,240"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="482,177,423,197,420,193,486,174"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_aa720d9a11b0f2dd92f3997b8a3065162.html#aa720d9a11b0f2dd92f3997b8a3065162" title="Construct a built SamplingPipeline from a file picked in a dialog." alt="" coords="5,65,200,93"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="230,81,202,81,199,77,234,78"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_a21ed01fad567a52087afd33137abe4ea.html#a21ed01fad567a52087afd33137abe4ea" title="Begin describing several taps that read one audio file." alt="" coords="8,127,197,154"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="246,147,199,146,196,141,250,144"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_a56f3a691551ac448a2708a1d0d39723d.html#a56f3a691551ac448a2708a1d0d39723d" title="Begin describing several taps that read a file picked in a dialog." alt="" coords="8,179,197,206"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="246,168,184,180,181,176,250,164"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Config_a926b14a6baa31cfcd77dcb32ca8a2417.html#a926b14a6baa31cfcd77dcb32ca8a2417" title="Load engine configuration from a JSON file, applying any present fields to the pre&#45;Init config struct..." alt="" coords="260,265,430,310"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="475,268,431,277,429,272,480,266"/>
+<area shape="rect" id="Node000012" href="$main_8cpp_a0ddf1224851353fc92bfbff6f499fa97.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="75,273,130,301"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="242,289,131,290,129,285,246,285"/>
+<area shape="rect" id="Node000015" href="$namespaceMayaFlux_a42b2c8e5c1d81bfa9612963f09ecaa1d.html#a42b2c8e5c1d81bfa9612963f09ecaa1d" title="Make a circular stream that keeps the most recent seconds of a signal." alt="" coords="262,377,428,405"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="474,392,429,394,428,389,479,390"/>
+<area shape="rect" id="Node000019" href="$namespaceMayaFlux_a91a577cf9a518db7f561907cb51239a6.html#a91a577cf9a518db7f561907cb51239a6" title="Routes a buffer from its current channel to a target channel with fade." alt="" coords="259,585,431,613"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="473,600,432,602,431,597,478,599"/>
+<area shape="rect" id="Node000021" href="$namespaceMayaFlux_a3007544776c384d1c0e640f3a0d645e3.html#a3007544776c384d1c0e640f3a0d645e3" title="@breif Moves the network from its current channel(s) to the specified channel(s) with an optional fad..." alt="" coords="251,645,438,673"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="473,665,439,666,439,660,478,664"/>
+<area shape="rect" id="Node000022" href="$namespaceMayaFlux_a5e7ec95e02b8766a3aee0d66f51ac239.html#a5e7ec95e02b8766a3aee0d66f51ac239" title="@breif Moves the node from its current channel(s) to the specified channel(s) with an optional fade t..." alt="" coords="262,697,428,725"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="478,686,423,699,423,694,473,687"/>
+</map>

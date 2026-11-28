@@ -1,0 +1,23 @@
+<map id="MayaFlux::Yantra::Vision::VisionWorkflow::process_to_container" name="MayaFlux::Yantra::Vision::VisionWorkflow::process_to_container">
+<area shape="rect" id="Node000001" title="Run query over the layers of frames in order and record what extract takes from each into a collectio..." alt="" coords="5,136,192,197"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a25ca13f0e093395e60035bf472b2be3f.html#a25ca13f0e093395e60035bf472b2be3f" title=" " alt="" coords="474,144,655,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,148,239,142,333,138,426,142,461,148,456,149,426,148,333,143,240,148,193,153"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a5e837adbce7a0442c0708ea40306595a.html#a5e837adbce7a0442c0708ea40306595a" title="Run query over frames in order and record what extract takes from each into a collection." alt="" coords="240,181,426,242"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="192,182,227,190,222,191,192,187"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a9396645f14a650024aa7724c52cda201.html#a9396645f14a650024aa7724c52cda201" title="Extract from image with analysis and keep all three until the next call." alt="" coords="703,144,885,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="655,164,690,166,685,167,656,169"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_adaed1e8368814d0c951757af47144c1c.html#adaed1e8368814d0c951757af47144c1c" title="The analysis of the last execute() or extract(), empty before the first." alt="" coords="942,5,1124,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="819,141,869,101,931,60,942,57,947,56,934,65,872,105,822,146"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a93254d1d91091821b4aaf40c0f80008f.html#a93254d1d91091821b4aaf40c0f80008f" title=" " alt="" coords="940,75,1126,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="873,141,936,125,941,124,874,146"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionMatrix_a03870ef28ce7eab0fc4ad6a4334f065a.html#a03870ef28ce7eab0fc4ad6a4334f065a" title="The matrix&#39;s &quot;extract&quot; operation, or null when the matrix was built without a mode." alt="" coords="942,144,1124,189"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="885,164,930,166,924,167,886,169"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Kakshya_af5ec386238cee0fa856ba134f6bdcd06.html#af5ec386238cee0fa856ba134f6bdcd06" title="Get a value from a metadata map by key." alt="" coords="954,213,1112,258"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="874,187,942,209,937,209,873,192"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Yantra_1_1ComputeMatrix_a5b064bba44b2960b504026943971f485.html#a5b064bba44b2960b504026943971f485" title="Create a fluent executor for chaining operations." alt="" coords="933,283,1133,327"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="821,187,872,228,934,268,947,277,942,276,931,273,869,232,820,192"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1ComputeMatrix_a2e1cc18085d6c69d3df38a21c8fd5f32.html#a2e1cc18085d6c69d3df38a21c8fd5f32" title="Get a named operation from this matrix." alt="" coords="1181,144,1381,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1124,164,1168,166,1163,167,1124,169"/>
+<area shape="poly" id="edge10_Node000010_Node000002" title=" " alt="" coords="425,191,461,186,456,188,427,196"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="288,179,288,170,297,162,312,156,333,154,357,157,374,166,368,167,356,162,333,159,313,161,300,166,293,173,292,182"/>
+</map>

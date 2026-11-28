@@ -1,0 +1,21 @@
+<map id="MayaFlux::Yantra::GpuDispatchCore::readback_primary" name="MayaFlux::Yantra::GpuDispatchCore::readback_primary">
+<area shape="rect" id="Node000001" title="Read back the primary output buffer into a float vector." alt="" coords="840,160,1065,205"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1ShaderExecutionContext_ad608c762cd34187f4a6a8378b8c4cef9.html#ad608c762cd34187f4a6a8378b8c4cef9" title="Collect the result of the last async dispatch." alt="" coords="584,5,770,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="906,151,853,117,791,81,768,70,768,65,794,76,856,112,911,152"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_aa6050896b73bf5bad43fb5a01ea4dac6.html#aa6050896b73bf5bad43fb5a01ea4dac6" title="Collect SSBO readback after a signaled async dispatch." alt="" coords="562,91,792,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="843,156,769,139,769,134,849,156"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_a899fb89ec912ff8a784fa8d4efadbe39.html#a899fb89ec912ff8a784fa8d4efadbe39" title="Full single&#45;pass dispatch." alt="" coords="565,230,789,274"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="849,209,769,232,768,227,843,210"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ab2351a76c5db238842099c55a1d08386.html#ab2351a76c5db238842099c55a1d08386" title="Multi&#45;pass (chained) dispatch." alt="" coords="565,160,789,205"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="822,183,790,185,790,180,827,183"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Yantra_1_1GpuDispatchCore_ae61ec8192d0351c52666afe165975175.html#ae61ec8192d0351c52666afe165975175" title="Multi&#45;pass dispatch where a GPU&#45;resident indirect buffer gates each pass&#39;s workgroup count instead of..." alt="" coords="565,299,789,360"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="911,213,856,253,794,289,769,301,767,295,791,284,853,249,906,215"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1GpuExecutionContext_a1dbe3b76ec8aefe2f57803a889443155.html#a1dbe3b76ec8aefe2f57803a889443155" title=" " alt="" coords="248,213,514,292"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="547,252,514,255,514,250,552,252"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Yantra_1_1TextureExecutionContext_a1bc14e2d9ca15b3a0aec0fa8f92a7f4c.html#a1bc14e2d9ca15b3a0aec0fa8f92a7f4c" title="Override for CHAINED mode: skips collect_gpu_outputs()." alt="" coords="5,230,200,274"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="229,253,201,255,200,250,235,251"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="561,210,515,224,514,218,566,209"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="547,179,404,184,325,191,248,203,201,215,157,232,154,227,199,210,247,198,325,186,404,179,552,177"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="547,296,514,290,514,284,552,296"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="547,331,404,327,325,318,247,305,200,293,157,278,158,272,202,288,248,300,325,313,404,321,552,331"/>
+</map>

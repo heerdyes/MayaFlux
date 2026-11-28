@@ -1,0 +1,12 @@
+<map id="MayaFlux::Vruta::NetworkSource::NetworkSource" name="MayaFlux::Vruta::NetworkSource::NetworkSource">
+<area shape="rect" id="Node000001" title="Open a network endpoint and begin receiving." alt="" coords="5,91,197,136"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="262,5,428,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,88,249,66,244,69,175,93"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="245,91,445,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,111,232,113,227,114,198,116"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Vruta_1_1NetworkSource_af3c7c0d65ba4d7afd1a39165a23b7ca0.html#af3c7c0d65ba4d7afd1a39165a23b7ca0" title="Signal that a message arrived (called from Asio IO thread)." alt="" coords="249,160,440,205"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="183,134,252,155,247,156,182,139"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="493,83,693,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,111,480,113,475,114,446,116"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="545,81,546,72,555,63,571,58,593,56,619,59,637,69,631,68,618,64,593,61,572,63,558,68,550,75,549,84"/>
+</map>

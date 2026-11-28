@@ -1,0 +1,27 @@
+<map id="MayaFlux::Buffers::BufferManager::add_buffer" name="MayaFlux::Buffers::BufferManager::add_buffer">
+<area shape="rect" id="Node000001" title="Adds a buffer to a token and channel." alt="" coords="458,391,652,435"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nexus_ae2eb701e486691d2ccdc0b4d3959f78b.html#ae2eb701e486691d2ccdc0b4d3959f78b" title="Create and register an audio sink on channel." alt="" coords="244,144,410,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="521,380,348,191,350,187,526,379"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Nexus_aefc276015e036bd904538974482493f7.html#aefc276015e036bd904538974482493f7" title="Create and register a render sink targeting window." alt="" coords="244,352,410,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="440,394,411,391,410,386,445,394"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Buffers_1_1BufferManager_ae351e1fef733dce0dcecfc8dda89a56a.html#ae351e1fef733dce0dcecfc8dda89a56a" title="Creates a specialized audio buffer and adds it to the specified token/channel." alt="" coords="244,421,410,482"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="440,433,411,440,410,435,445,431"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Buffers_1_1BufferManager_a6fbd54d3913dc39e42cbcf5b7769acc5.html#a6fbd54d3913dc39e42cbcf5b7769acc5" title="Creates a specialized vulkan buffer and adds it to the specified token/channel." alt="" coords="244,506,410,568"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="504,443,411,497,390,508,388,503,409,492,499,444"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nexus_1_1Agent_a81c922a060f670a5044138b0ccb5cfef.html#a81c922a060f670a5044138b0ccb5cfef" title="Register an audio output on channel." alt="" coords="10,5,191,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,134,245,99,194,65,173,53,171,48,197,60,249,95,293,133"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Agent_ae2038b482c01a3c1c8405d13ca25753f.html#ae2038b482c01a3c1c8405d13ca25753f" title="Register an audio output on channel with a producer function." alt="" coords="10,75,191,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="235,140,177,123,175,117,239,138"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nexus_1_1Emitter_a58f27e785d9b7d003d48bd7143557ee5.html#a58f27e785d9b7d003d48bd7143557ee5" title="Register an audio output on channel." alt="" coords="5,144,196,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,168,198,169,195,164,230,165"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Emitter_ab975f39766c8f508604023e5d1a3c8f6.html#ab975f39766c8f508604023e5d1a3c8f6" title="Register an audio output on channel with a producer function." alt="" coords="5,213,196,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="235,196,178,215,174,211,239,192"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nexus_1_1Agent_a5e774c6dcc913e4abf5cd1c62b984ff1.html#a5e774c6dcc913e4abf5cd1c62b984ff1" title="Register a render output targeting window." alt="" coords="10,283,191,327"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="235,348,176,331,176,325,240,346"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nexus_1_1Agent_aa8d5941eada9cc6923e55ccb53672a35.html#aa8d5941eada9cc6923e55ccb53672a35" title="Register a render output targeting window with a producer function." alt="" coords="10,352,191,397"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="226,376,192,377,190,372,231,373"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nexus_1_1Emitter_a89d25f43665b9086c73083378483b797.html#a89d25f43665b9086c73083378483b797" title="Register a render output targeting window." alt="" coords="5,421,196,466"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="235,403,177,423,175,418,239,400"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nexus_1_1Emitter_aa79ab1cb084d0a65ca9b2934585d9115.html#aa79ab1cb084d0a65ca9b2934585d9115" title="Register a render output targeting window with a producer function." alt="" coords="5,491,196,535"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="251,404,245,411,230,428,222,445,214,463,197,480,178,493,176,488,194,476,209,460,217,443,226,425,242,407,246,407"/>
+</map>

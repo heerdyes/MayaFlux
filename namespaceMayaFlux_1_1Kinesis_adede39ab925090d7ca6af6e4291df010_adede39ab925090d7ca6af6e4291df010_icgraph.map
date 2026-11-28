@@ -1,0 +1,16 @@
+<map id="MayaFlux::Kinesis::constant" name="MayaFlux::Kinesis::constant">
+<area shape="rect" id="Node000001" title="Tendency returning a fixed value regardless of input." alt="" coords="578,156,726,201"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a416f2ca7933fbd97afcaa78559311a9b.html#a416f2ca7933fbd97afcaa78559311a9b" title="Read the ring this many seconds behind its write head, at least two frames." alt="" coords="309,29,499,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="613,145,574,117,529,89,499,76,499,71,531,84,578,112,618,146"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_aa0af196b6b3ad0f9144375742d8596e1.html#aa0af196b6b3ad0f9144375742d8596e1" title="Make the current tap trail the write head of a live ring by seconds." alt="" coords="278,122,530,150"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="560,163,488,153,488,147,566,163"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a643bc673cba78e18c9bebe58d7198fca.html#a643bc673cba78e18c9bebe58d7198fca" title="Restart the current tap every seconds." alt="" coords="292,197,516,242"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="560,194,517,204,516,198,566,193"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1FrameSeekProcessor_a46cf25d8586632f0dbe3457d9298fdb5.html#a46cf25d8586632f0dbe3457d9298fdb5" title="Trail a stream that is being written by a fixed number of frames." alt="" coords="308,267,500,311"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="610,209,572,236,531,257,500,269,498,264,529,252,569,231,605,211"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="443,14,429,10,404,8,381,10,366,15,360,21,362,30,357,28,355,19,363,10,379,5,404,3,431,5,448,14"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="445,107,432,103,404,100,378,102,363,107,360,113,366,122,361,121,355,113,360,103,377,97,404,95,433,98,450,106"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1TapSetBuilder_a09461e6db914cac08990ad1017164474.html#a09461e6db914cac08990ad1017164474" title="Build the taps and start them." alt="" coords="5,113,230,158"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="260,137,231,138,229,133,265,135"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="443,182,429,178,404,176,381,178,366,183,360,189,362,198,357,195,355,187,363,178,379,173,404,171,431,173,448,182"/>
+</map>

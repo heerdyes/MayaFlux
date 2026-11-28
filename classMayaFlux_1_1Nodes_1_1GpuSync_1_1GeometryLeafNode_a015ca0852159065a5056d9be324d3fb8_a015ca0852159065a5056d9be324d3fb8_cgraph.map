@@ -1,0 +1,17 @@
+<map id="MayaFlux::Nodes::GpuSync::GeometryLeafNode::GeometryLeafNode" name="MayaFlux::Nodes::GpuSync::GeometryLeafNode::GeometryLeafNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,223,297,268"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryLeafNode_a421ace8a41a58634ad423d66bd9f52d3.html#a421ace8a41a58634ad423d66bd9f52d3" title=" " alt="" coords="345,184,636,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,226,332,224,327,226,298,231"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryLeafNode_aff4935c900e8f3e39e08f50374d94175.html#aff4935c900e8f3e39e08f50374d94175" title="Replace geometry with plain positions (color/scalar/normal/uv default)." alt="" coords="391,253,590,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="297,259,378,270,373,272,297,265"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a139436030274491d41f40afdaab1037b.html#a139436030274491d41f40afdaab1037b" title="Constructor." alt="" coords="684,5,925,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,182,592,130,683,76,697,72,693,75,685,81,595,135,522,186"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a2af66b4d6e597e5bdcab976402e68cbd.html#a2af66b4d6e597e5bdcab976402e68cbd" title="Primitive topology this node&#39;s vertex data represents." alt="" coords="705,91,904,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="575,181,693,152,688,153,576,186"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_ad5f8bb454545911e4cef60543eb8e6be.html#ad5f8bb454545911e4cef60543eb8e6be" title="Resize vertex buffer to hold specified number of vertices." alt="" coords="697,176,912,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="636,204,684,206,679,207,637,209"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_a79b8530548d0f4b4c464071439faaac5.html#a79b8530548d0f4b4c464071439faaac5" title="Set cached vertex layout." alt="" coords="705,261,904,323"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="591,227,637,239,693,257,687,257,635,244,590,232"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GeometryWriterNode_ae5284939e0d0c2d570576488644f8068.html#ae5284939e0d0c2d570576488644f8068" title="Set vertex stride (bytes per vertex)." alt="" coords="705,347,904,408"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="618,227,638,240,656,263,663,287,669,310,686,333,695,342,689,340,682,337,664,312,658,288,652,265,634,243,617,232"/>
+</map>

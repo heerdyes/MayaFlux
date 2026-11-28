@@ -1,0 +1,16 @@
+<map id="MayaFlux::Nodes::NodeGraphManager::get_all_root_nodes" name="MayaFlux::Nodes::NodeGraphManager::get_all_root_nodes">
+<area shape="rect" id="Node000001" title="Get spans of root nodes for a token (for custom processing)." alt="" coords="807,30,1023,75"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ad54ac062c3ed2334c059b37005385128.html#ad54ac062c3ed2334c059b37005385128" title=" " alt="" coords="5,34,221,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="810,27,759,21,622,10,514,10,407,20,269,35,222,41,220,36,268,30,406,15,514,5,622,4,760,15,815,26"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_afa9b1939a0837b23079557de7481ce2a.html#afa9b1939a0837b23079557de7481ce2a" title="Process all nodes in a specific token domain Calls registered processor if available,..." alt="" coords="544,30,759,75"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="789,53,760,55,759,50,794,52"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_a0c180caaaa076b2a2609bc1d1f9258ea.html#a0c180caaaa076b2a2609bc1d1f9258ea" title="Terminates all active processing across all tokens and channels." alt="" coords="544,115,759,177"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="838,80,741,117,740,112,833,81"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="526,53,269,54,222,55,220,50,269,49,530,49"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_a749bef701cfc06a93ce3c4a6c3ef3d07.html#a749bef701cfc06a93ce3c4a6c3ef3d07" title="Process all active tokens sequentially." alt="" coords="275,64,490,108"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="526,68,491,75,490,70,531,67"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="256,73,222,71,221,66,261,72"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="526,148,402,144,334,136,268,123,209,104,158,82,158,77,211,99,269,118,335,130,402,139,531,147"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1NodeGraphManager_ac72e466978d6713dfcbc620c50567363.html#ac72e466978d6713dfcbc620c50567363" title="Destroys the NodeGraphManager." alt="" coords="269,184,496,228"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="531,173,486,186,485,180,526,174"/>
+</map>

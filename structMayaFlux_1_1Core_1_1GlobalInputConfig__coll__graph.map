@@ -1,0 +1,13 @@
+<map id="MayaFlux::Core::GlobalInputConfig" name="MayaFlux::Core::GlobalInputConfig">
+<area shape="rect" id="Node000001" title="Configuration for the InputSubsystem." alt="" coords="518,285,714,508"/>
+<area shape="rect" id="Node000002" href="$structMayaFlux_1_1Core_1_1HIDBackendInfo.html" title="HID backend configuration." alt="" coords="5,5,230,212"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,201,243,209,308,249,376,285,505,347,500,348,374,290,306,253,240,214,230,206"/>
+<area shape="rect" id="Node000003" href="$structMayaFlux_1_1Core_1_1MIDIBackendInfo.html" title="MIDI backend configuration." alt="" coords="254,5,485,212"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="458,209,513,272,507,272,457,214"/>
+<area shape="rect" id="Node000004" href="$structMayaFlux_1_1Core_1_1OSCConfigInfo.html" title="OSC backend configuration." alt="" coords="510,5,723,212"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="618,209,619,269,614,267,615,214"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Core_1_1SerialBackendInfo.html" title="Serial backend configuration." alt="" coords="747,39,984,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="808,177,725,274,722,270,804,179"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Core_1_1TabletBackendInfo.html" title="Tablet backend configuration." alt="" coords="1008,39,1248,178"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1048,177,998,214,861,289,731,350,729,345,859,284,995,209,1043,179"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="MayaFlux::Kriya::ChimeraBuilder::current" name="MayaFlux::Kriya::ChimeraBuilder::current">
+<area shape="rect" id="Node000001" title=" " alt="" coords="482,421,672,466"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_aa48117904bd104a6bf5b7ed26bb0c162.html#aa48117904bd104a6bf5b7ed26bb0c162" title="Seconds after start() before the layer begins to be fed." alt="" coords="244,5,434,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="570,405,558,335,534,243,516,195,493,148,465,104,432,64,419,53,418,48,436,60,470,100,498,145,521,193,539,241,563,333,575,407"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_ad4daf8d2ed13af5ff1dd71d179826a29.html#ad4daf8d2ed13af5ff1dd71d179826a29" title="Refresh a ring or GPU image layer every this many frames." alt="" coords="244,75,434,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="566,405,551,347,524,274,485,199,461,164,432,134,418,122,417,117,436,130,465,161,490,196,529,272,556,346,571,407"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a478662f92f6123dc6ade8cd66c0f74d3.html#a478662f92f6123dc6ade8cd66c0f74d3" title="Fit frames of another extent into this layer in this way, instead of the buffer&#39;s." alt="" coords="244,144,434,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="561,406,542,361,514,306,478,251,432,203,417,192,416,187,436,199,482,248,519,304,547,359,566,407"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a358bfe7de9a6a21072c422dac096d959.html#a358bfe7de9a6a21072c422dac096d959" title="Fill the layer once with a still image." alt="" coords="244,213,434,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="552,408,503,340,470,304,432,273,414,261,413,256,436,268,473,300,507,337,557,408"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a01dd6b61ab3b8b8032ecd13f9b73d898.html#a01dd6b61ab3b8b8032ecd13f9b73d898" title="Feed the layer by copying a GPU image every frame." alt="" coords="244,283,434,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="535,412,488,377,433,342,409,330,408,325,435,337,491,372,540,411"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_ab8f421a3d1d33ded5572fb6a8ee3ac6c.html#ab8f421a3d1d33ded5572fb6a8ee3ac6c" title="Feed the layer from a ring that is being recorded." alt="" coords="244,352,434,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="481,417,419,400,418,395,486,416"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a49ad4148139c3fc4af88fdef61923ef1.html#a49ad4148139c3fc4af88fdef61923ef1" title="Feed the layer from a texture collection that is being appended to." alt="" coords="244,421,434,466"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="464,445,435,446,433,441,469,443"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_ae76d6b169ae92f02134e05d29a173fed.html#ae76d6b169ae92f02134e05d29a173fed" title="Feed the layer from the stream the pipeline records, read when start() runs." alt="" coords="244,491,434,535"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="481,472,420,492,417,488,486,469"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_ada5820181e53e3220dc9913c7293875d.html#ada5820181e53e3220dc9913c7293875d" title="Read the ring behind its write head by a lag that varies with time, in seconds since the layer entere..." alt="" coords="244,560,434,605"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="536,478,491,515,435,550,410,562,407,557,433,545,488,510,540,474"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a56d001d689c7aa8c213717c8fa282871.html#a56d001d689c7aa8c213717c8fa282871" title="Weight passed to the shader for the layer." alt="" coords="244,629,434,674"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="557,478,507,550,473,587,436,619,415,631,412,627,432,615,470,583,503,547,553,481"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a218c8e499eaf76b8a12767a45c8b6673.html#a218c8e499eaf76b8a12767a45c8b6673" title="Params for the layer in the buffer&#39;s per&#45;layer data, such as placement." alt="" coords="244,699,434,743"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="565,479,547,528,519,584,482,640,436,688,418,700,415,696,432,684,478,636,514,581,542,526,562,483"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_ab72955541331a504117a16590202a717.html#ab72955541331a504117a16590202a717" title="Blend the two frames around a ring position, so slow or varying time does not step." alt="" coords="244,768,434,813"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="570,479,556,542,529,615,490,691,465,726,436,758,419,770,417,765,432,754,461,723,485,688,524,613,551,540,567,483"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a240b705964c90d3326f95a5118c2a5c8.html#a240b705964c90d3326f95a5118c2a5c8" title="Play a layer without a lag at this multiple of the ring&#39;s frame rate." alt="" coords="244,837,434,882"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="574,479,563,554,539,646,521,694,498,742,470,787,436,827,420,839,418,834,432,823,465,784,493,740,516,692,534,644,558,553,571,484"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kriya_1_1ChimeraBuilder_a9e3f969cbf6a6a72a91c13d4d2ed1719.html#a9e3f969cbf6a6a72a91c13d4d2ed1719" title="Fill the layer once with an image file, loaded now as RGBA." alt="" coords="5,352,196,397"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="226,376,197,377,195,372,230,373"/>
+</map>

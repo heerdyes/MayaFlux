@@ -1,0 +1,21 @@
+<map id="MayaFlux::Buffers::RenderProcessor::bind_texture" name="MayaFlux::Buffers::RenderProcessor::bind_texture">
+<area shape="rect" id="Node000001" title="Bind a texture to a named descriptor." alt="" coords="5,101,172,162"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_a065b63736ca93e3162c1395c8daaac25.html#a065b63736ca93e3162c1395c8daaac25" title="Bind a texture to a descriptor binding point." alt="" coords="220,101,386,162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,129,207,131,202,133,173,134"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="434,37,630,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,103,447,86,442,88,387,108"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a335ffb0c43b53ec263ab6559ac29476b.html#a335ffb0c43b53ec263ab6559ac29476b" title="Get the global texture manager instance." alt="" coords="434,109,630,154"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="386,129,421,131,416,132,387,134"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Buffers_1_1ShaderProcessor_a1fd501788f3b88dcf76ff38d6812e81b.html#a1fd501788f3b88dcf76ff38d6812e81b" title="Resolve logical descriptor set index to actual index." alt="" coords="440,178,625,240"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="387,157,427,173,422,173,386,162"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="678,36,875,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="630,56,665,59,660,59,631,62"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="923,29,1153,74"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="875,53,910,55,904,55,876,58"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="989,27,987,19,995,10,1012,5,1038,3,1066,5,1084,14,1079,14,1065,10,1038,8,1013,10,998,15,992,21,993,30"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a6887ad297693c2392be7960daab06002.html#a6887ad297693c2392be7960daab06002" title=" " alt="" coords="678,111,875,155"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="631,130,665,132,660,133,631,135"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1TextureLoom_a2e37455847093a97afc3d269993184ad.html#a2e37455847093a97afc3d269993184ad" title=" " alt="" coords="935,123,1140,167"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="875,135,922,139,917,140,875,140"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="989,121,987,112,995,104,1012,98,1038,96,1066,98,1084,108,1079,107,1065,104,1038,101,1013,103,998,108,992,114,993,124"/>
+</map>

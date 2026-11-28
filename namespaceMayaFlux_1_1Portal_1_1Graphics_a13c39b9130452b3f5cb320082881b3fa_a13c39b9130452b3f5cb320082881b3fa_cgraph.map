@@ -1,0 +1,29 @@
+<map id="MayaFlux::Portal::Graphics::stop" name="MayaFlux::Portal::Graphics::stop">
+<area shape="rect" id="Node000001" title="Stop all Portal::Graphics operations." alt="" coords="5,227,202,271"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a89b259adf28ef041294928959e03fa9c.html#a89b259adf28ef041294928959e03fa9c" title=" " alt="" coords="250,41,446,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,224,176,168,211,137,248,108,280,91,276,95,251,113,215,141,180,172,127,228"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1RenderFlow_a427f34bcec94e920d4dbbb76ae7f175f.html#a427f34bcec94e920d4dbbb76ae7f175f" title=" " alt="" coords="250,123,446,167"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="148,224,249,177,268,172,263,175,251,182,151,228"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="250,192,446,237"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="201,233,236,229,232,232,203,237"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a544f1fadb55c58459349ebcc9254eaf2.html#a544f1fadb55c58459349ebcc9254eaf2" title=" " alt="" coords="250,261,446,306"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="201,260,237,267,232,268,203,266"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1RenderFlow_a5caaefa7ac32568cf867e030ad65a48e.html#a5caaefa7ac32568cf867e030ad65a48e" title=" " alt="" coords="250,331,446,375"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="150,269,251,316,268,324,263,325,249,321,149,274"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a801c60f0413377246f917c64dc54ad50.html#a801c60f0413377246f917c64dc54ad50" title="Stop active command recording and free command buffers." alt="" coords="250,400,446,445"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="124,269,178,327,213,358,251,385,261,393,256,392,248,390,210,362,175,331,122,274"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_acd2b96492e701fa8518ef8d19e317441.html#acd2b96492e701fa8518ef8d19e317441" title=" " alt="" coords="496,29,722,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,57,483,57,479,59,448,62"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="560,28,558,19,567,10,584,5,609,3,637,5,656,14,650,14,636,10,609,8,585,10,569,15,563,21,565,30"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1RenderFlow_ac4755ca2646bfa89ba72eed83150db73.html#ac4755ca2646bfa89ba72eed83150db73" title=" " alt="" coords="511,123,707,167"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="446,142,498,144,493,146,447,148"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="560,121,558,112,567,104,584,98,609,96,637,98,656,107,650,108,636,104,609,101,585,103,569,108,563,114,565,123"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="494,216,724,261"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="446,221,481,226,476,227,447,226"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="560,214,558,206,567,197,584,191,609,189,637,192,656,201,650,201,636,197,609,195,585,197,569,201,563,207,565,217"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a52651a5a78f0c50974d443de43c776ac.html#a52651a5a78f0c50974d443de43c776ac" title="Free all allocated command buffers." alt="" coords="511,357,707,418"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="446,407,493,403,498,402,447,412"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a148fdbfbb76b1df59986ea791e772885.html#a148fdbfbb76b1df59986ea791e772885" title="Get logical device handle." alt="" coords="772,400,977,445"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="447,426,494,428,609,430,724,428,754,429,760,429,724,433,609,435,494,433,446,431"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="708,398,760,407,754,407,708,403"/>
+</map>

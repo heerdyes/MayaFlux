@@ -1,0 +1,13 @@
+<map id="MayaFlux::Kakshya::SpatialRegionProcessor::process" name="MayaFlux::Kakshya::SpatialRegionProcessor::process">
+<area shape="rect" id="Node000001" title="Extract all active regions from processed_data[0] in parallel." alt="" coords="5,32,180,93"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Kakshya_ad322e2da4b0bd3c2aacd5935dfa0cd39.html#ad322e2da4b0bd3c2aacd5935dfa0cd39" title="Extract the data described by region from src using the container&#39;s dimension descriptors." alt="" coords="228,40,385,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,60,215,62,209,63,181,65"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_aae6a6e0c3cb0bad70acafc465c1ac867.html#aae6a6e0c3cb0bad70acafc465c1ac867" title="Extract a region of data from a flat data span using a Region and dimension info." alt="" coords="433,40,590,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,60,420,62,415,63,386,65"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Kakshya_a11d6fefbc337609345969f80012578d0.html#a11d6fefbc337609345969f80012578d0" title="Convert N&#45;dimensional coordinates to a linear index for interleaved data." alt="" coords="638,5,800,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="591,46,620,44,626,43,591,52"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Kakshya_1_1Region_a872fb07c970339241d47d9afebae5e41.html#a872fb07c970339241d47d9afebae5e41" title="Get the total volume (number of elements) in the region." alt="" coords="640,75,798,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="591,73,628,81,622,81,591,78"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1Region_a7bd0f533faffde4edf348e70202065f8.html#a7bd0f533faffde4edf348e70202065f8" title="Get the span (length) of the region along a dimension." alt="" coords="848,75,1005,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="798,94,835,97,829,97,798,100"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MayaFlux::Nodes::Network::AssemblyOperator::topology_runs" name="MayaFlux::Nodes::Network::AssemblyOperator::topology_runs">
+<area shape="rect" id="Node000001" title="Coalesces adjacent items sharing a concatenable topology into one run; strip/fan items are always rep..." alt="" coords="5,5,256,50"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Nodes_1_1Network_a52bc6c18eea5515f0ebd8fd4291c4801.html#a52bc6c18eea5515f0ebd8fd4291c4801" title="Whether two adjacent spans of this topology can be concatenated without altering the primitives they ..." alt="" coords="304,5,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,25,290,28,285,28,256,30"/>
+</map>

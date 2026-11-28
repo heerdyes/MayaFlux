@@ -1,0 +1,15 @@
+<map id="MayaFlux::internal::live_arena_find" name="MayaFlux::internal::live_arena_find">
+<area shape="rect" id="Node000001" title="Locates an existing directory entry by key." alt="" coords="424,49,567,94"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1internal_ac198c636ae0efb46000323e05c20824c.html#ac198c636ae0efb46000323e05c20824c" title="Allocates size bytes from the arena with alignment." alt="" coords="229,6,372,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,53,372,47,372,41,412,52"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1internal_a874455c63042dd543efe24006b6b2a00.html#a874455c63042dd543efe24006b6b2a00" title="Registers an externally owned shared_ptr under key." alt="" coords="225,84,376,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="406,87,377,95,376,90,411,86"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_a85dab72a57cc4840e446959f4ead11b1.html#a85dab72a57cc4840e446959f4ead11b1" title="Constructs a T in&#45;place inside the live arena and registers it under key." alt="" coords="11,5,171,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,26,173,25,171,20,216,23"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_a134fdf828e5fdf7b5b829b7238b81a34.html#a134fdf828e5fdf7b5b829b7238b81a34" title="Exposes an existing shared_ptr&#45;managed object to the live arena under key." alt="" coords="5,57,177,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,92,177,88,177,83,212,90"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_ade26929a1c20b6917d14f66308095ccc.html#ade26929a1c20b6917d14f66308095ccc" title="Exposes an existing raw pointer to the live arena under key." alt="" coords="5,109,177,137"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="207,114,178,119,176,113,212,113"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_a906e2136e39b1bcf9e5a10c4f121f6b9.html#a906e2136e39b1bcf9e5a10c4f121f6b9" title="Exposes obj under the first free key of the form &quot;prefix_N&quot;." alt="" coords="5,161,177,206"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="226,133,154,163,153,158,221,135"/>
+</map>

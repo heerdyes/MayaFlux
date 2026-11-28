@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::MixSource::matches_buffer" name="MayaFlux::Buffers::MixSource::matches_buffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="874,91,1072,136"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1MixProcessor_a961a3256abb1c3f27532de3a806fdddb.html#a961a3256abb1c3f27532de3a806fdddb" title="register an AudioBuffer source to be mixed into the output of specified channel" alt="" coords="659,40,826,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="856,92,826,89,826,84,861,92"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1MixProcessor_aab2bd429bd111842b475db8f27f17390.html#aab2bd429bd111842b475db8f27f17390" title="Removes a source buffer from the mix." alt="" coords="659,125,826,187"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="861,134,827,143,826,138,856,135"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1BufferSupplyMixing_a8bf7ecf32728729ec63ce7fc7d13bdeb.html#a8bf7ecf32728729ec63ce7fc7d13bdeb" title="Supplies an external audio buffer to a specific token and channel." alt="" coords="439,40,611,102"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="641,71,612,73,612,68,646,71"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1BufferSupplyMixing_a327d6aba60b88382cf4e9772615d5afc.html#a327d6aba60b88382cf4e9772615d5afc" title="Routes a buffer&#39;s processing from one channel to another with fade." alt="" coords="213,5,391,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="421,55,392,53,391,47,426,55"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1BufferSupplyMixing_a5e7a63e362ddc2e633f166c1bdf1bf04.html#a5e7a63e362ddc2e633f166c1bdf1bf04" title=" " alt="" coords="5,40,165,102"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="421,78,391,81,213,81,166,79,165,74,213,76,391,76,426,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="195,54,166,61,164,56,199,52"/>
+</map>

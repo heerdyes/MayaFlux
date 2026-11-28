@@ -1,0 +1,11 @@
+<map id="MayaFlux::Nodes::Network::NodeNetwork::extract_node_samples" name="MayaFlux::Nodes::Network::NodeNetwork::extract_node_samples">
+<area shape="rect" id="Node000001" title="Extract num_samples from node into buffer using snapshot guard." alt="" coords="311,113,508,174"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Network_1_1RelationNetwork_ab34ff22d82c6bb26962bffd7888b0620.html#ab34ff22d82c6bb26962bffd7888b0620" title="Advance a slot&#39;s node for a block, through the snapshot sequence." alt="" coords="8,5,260,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,105,262,65,230,53,229,48,264,60,349,104"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Network_1_1NodeNetwork_a69b521d0a9d42313b84f7e1b645185fd.html#a69b521d0a9d42313b84f7e1b645185fd" title="Build neighbor map for CHAIN topology." alt="" coords="34,74,234,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,128,235,122,234,116,298,127"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Network_1_1ModalNetwork_a0a7a7f26a40306a856e5be65c610f1a7.html#a0a7a7f26a40306a856e5be65c610f1a7" title="Process the network for the given number of samples." alt="" coords="21,160,247,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,160,248,169,247,164,298,159"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Network_1_1WaveguideNetwork_a474473fbb4038d846ed350acbd7e7312.html#a474473fbb4038d846ed350acbd7e7312" title="Process the network for the given number of samples." alt="" coords="5,229,263,274"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="341,181,264,219,229,231,227,226,262,215,336,183"/>
+</map>

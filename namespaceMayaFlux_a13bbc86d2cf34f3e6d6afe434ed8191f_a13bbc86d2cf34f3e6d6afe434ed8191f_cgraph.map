@@ -1,0 +1,46 @@
+<map id="MayaFlux::record_into" name="MayaFlux::record_into">
+<area shape="rect" id="Node000001" title="Record several sources into consecutive channels of a stream." alt="" coords="5,215,172,243"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_a661fe2e26577560e051b8112e531723c.html#a661fe2e26577560e051b8112e531723c" title="Record a signal into one channel of a stream, a block at a time." alt="" coords="220,215,386,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,226,207,228,202,230,173,232"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_aa1955a73119c9e977f59ab989e74597e.html#aa1955a73119c9e977f59ab989e74597e" title="Creates a new buffer pipeline instance." alt="" coords="464,135,643,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,212,461,183,456,185,355,217"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a0ac7d04d700cd62771bf75748a1f2c91.html#a0ac7d04d700cd62771bf75748a1f2c91" title="Create a routing operation to DynamicSoundStream destination." alt="" coords="434,241,672,286"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="386,238,421,245,416,245,387,243"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a28ade831a9d3861f7bbd931c6d545069.html#a28ade831a9d3861f7bbd931c6d545069" title=" " alt="" coords="726,5,953,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="588,132,648,96,719,60,740,54,735,57,721,65,650,100,590,137"/>
+<area shape="rect" id="Node000005" href="$namespaceMayaFlux_ab62f030499d58eb3e1d5c43ca3bc230e.html#ab62f030499d58eb3e1d5c43ca3bc230e" title="Gets the buffer manager from the default engine." alt="" coords="760,75,919,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="643,136,747,116,742,118,644,141"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_ac4ab74951370ff0dd899203f3b94c775.html#ac4ab74951370ff0dd899203f3b94c775" title="Gets the default engine instance." alt="" coords="1041,138,1211,166"/>
+<area shape="poly" id="edge15_Node000003_Node000007" title=" " alt="" coords="643,154,1028,152,1023,154,643,159"/>
+<area shape="rect" id="Node000015" href="$namespaceMayaFlux_aebfa66114d29585723a0c38dfe4c75b9.html#aebfa66114d29585723a0c38dfe4c75b9" title="Gets the task scheduler from the default engine." alt="" coords="747,194,932,222"/>
+<area shape="poly" id="edge16_Node000003_Node000015" title=" " alt="" coords="643,170,745,190,740,191,644,176"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1Engine_ae91ca2d8b17039d5aab98e53258bb777.html#ae91ca2d8b17039d5aab98e53258bb777" title="Gets the buffer manager." alt="" coords="1038,69,1214,114"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="919,93,1025,93,1020,94,920,98"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="919,109,1037,134,1032,135,919,115"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1internal_ac0f0b4b1cae6af4441db0ea022e15583.html#ac0f0b4b1cae6af4441db0ea022e15583" title=" " alt="" coords="1293,129,1462,174"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1211,149,1280,151,1275,152,1212,154"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1internal_a3cc5413e05c2f9c9f04372841aa0a5b1.html#a3cc5413e05c2f9c9f04372841aa0a5b1" title=" " alt="" coords="1510,129,1654,174"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1463,149,1498,151,1493,152,1463,154"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1internal_ac4d6952d58cdfd56964a883d40aa655d.html#ac4d6952d58cdfd56964a883d40aa655d" title=" " alt="" coords="1702,95,1894,139"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1654,137,1684,135,1689,134,1655,143"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Journal_1_1Archivist_a82e2d12db8781df4afc43ef4c1fba2be.html#a82e2d12db8781df4afc43ef4c1fba2be" title="Shutdown the logging system." alt="" coords="1723,164,1872,209"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="1654,161,1710,172,1705,172,1654,166"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1internal_ac26a7a92aa4af34c366aad03b68ea71e.html#ac26a7a92aa4af34c366aad03b68ea71e" title=" " alt="" coords="1944,95,2087,139"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1894,114,1931,117,1925,117,1895,120"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Journal_1_1Archivist_a8b7829e34d79ec5bbbf02e3d4afbdab9.html#a8b7829e34d79ec5bbbf02e3d4afbdab9" title="Get the singleton instance of the Archivist." alt="" coords="1942,164,2088,209"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1873,184,1929,186,1924,186,1873,189"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Journal_1_1Archivist_a89abaefd2bfc4c39e9dbd92e5c6a7337.html#a89abaefd2bfc4c39e9dbd92e5c6a7337" title=" " alt="" coords="2136,164,2283,209"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="2089,184,2124,186,2119,186,2089,189"/>
+<area shape="poly" id="edge14_Node000014_Node000014" title=" " alt="" coords="2172,162,2171,154,2177,145,2190,139,2210,137,2230,140,2244,149,2239,148,2229,145,2209,143,2192,145,2181,149,2176,155,2177,165"/>
+<area shape="poly" id="edge17_Node000015_Node000007" title=" " alt="" coords="914,191,1039,168,1034,170,915,196"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Core_1_1Engine_ae1a29a6547fe253fbb389413040276d2.html#ae1a29a6547fe253fbb389413040276d2" title="Gets the task scheduler." alt="" coords="1038,189,1214,234"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="932,206,1025,210,1020,211,932,212"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a26be6275189effd1a9acbd7f2bd9a914.html#a26be6275189effd1a9acbd7f2bd9a914" title=" " alt="" coords="720,283,959,327"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="673,278,708,286,702,286,673,284"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_a568cd5264502e48de8fc437c4e0149d6.html#a568cd5264502e48de8fc437c4e0149d6" title="Create a capture operation using BufferCapture configuration." alt="" coords="1007,283,1245,327"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="959,311,994,314,989,314,959,317"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Kriya_1_1BufferOperation_aca2194bbbb9cc45ad3f81d02fe748b8b.html#aca2194bbbb9cc45ad3f81d02fe748b8b" title="Getters for user defined tag." alt="" coords="1007,352,1245,397"/>
+<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="935,325,1019,348,1013,348,935,331"/>
+<area shape="poly" id="edge22_Node000019_Node000018" title=" " alt="" coords="1004,296,974,299,974,293,1009,296"/>
+<area shape="poly" id="edge23_Node000019_Node000019" title=" " alt="" coords="1078,281,1077,273,1085,264,1101,258,1126,256,1153,259,1171,268,1165,267,1152,264,1126,261,1102,263,1088,268,1082,274,1083,284"/>
+</map>

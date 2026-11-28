@@ -1,0 +1,31 @@
+<map id="MayaFlux::Nodes::Node::process_batch" name="MayaFlux::Nodes::Node::process_batch">
+<area shape="rect" id="Node000001" title="Processes multiple samples at once." alt="" coords="5,179,182,223"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Node_af1a1e001468fe515fa86db3682b4ccb6.html#af1a1e001468fe515fa86db3682b4ccb6" title="Registers a callback to be called on each tick." alt="" coords="240,5,416,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,177,159,119,192,88,228,60,240,56,236,59,231,65,195,92,163,123,114,180"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1Node_a290c190252ac9250b8a86ff79dfe8970.html#a290c190252ac9250b8a86ff79dfe8970" title="Registers a conditional callback." alt="" coords="240,75,416,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="134,176,229,129,247,124,243,127,231,134,137,180"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Nodes_1_1Node_aaad89b6ffb022436d329d2df2bd44e31.html#aaad89b6ffb022436d329d2df2bd44e31" title="Removes all registered callbacks." alt="" coords="240,144,416,189"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="181,186,227,180,223,183,183,190"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Nodes_1_1Node_acee05aa115e21d16fb4ef93b4f8325b1.html#acee05aa115e21d16fb4ef93b4f8325b1" title="Removes a previously registered conditional callback." alt="" coords="230,213,427,258"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="181,211,217,218,212,220,183,217"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Nodes_1_1Node_ab5a5510902f880e76853b7c39783d058.html#ab5a5510902f880e76853b7c39783d058" title="Removes a previously registered callback." alt="" coords="240,283,416,327"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="136,221,231,268,248,276,242,277,229,273,135,226"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Nodes_1_1Node_a616a185e0d4025da8ddbc5561a778581.html#a616a185e0d4025da8ddbc5561a778581" title="Resets the processed state of the node and any attached input nodes." alt="" coords="240,356,416,401"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="112,221,163,279,196,310,231,337,248,349,242,349,228,342,192,314,159,282,111,226"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nodes_af9746d6dff046dc19006502ebf0ccdda.html#af9746d6dff046dc19006502ebf0ccdda" title="Adds a callback to the collection if an equivalent one is not already present." alt="" coords="499,5,669,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,25,486,27,481,29,418,30"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Nodes_a423e97549712577dcfb222a2abef6f23.html#a423e97549712577dcfb222a2abef6f23" title="Returns true if an equivalent callback is already present in the collection." alt="" coords="741,5,938,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="669,25,729,27,724,28,671,30"/>
+<area shape="rect" id="Node000006" href="$namespaceMayaFlux_1_1Nodes_aa995eb0e67c4e7da29783ff14293700d.html#aa995eb0e67c4e7da29783ff14293700d" title="Adds a conditional callback if the exact pair is not already present." alt="" coords="488,75,680,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="416,94,475,96,470,98,418,100"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Nodes_a1d792a9c7c4adccf80fff01afb356cb7.html#a1d792a9c7c4adccf80fff01afb356cb7" title="Returns true if the exact callback+condition pair is already present." alt="" coords="741,75,938,119"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="680,94,729,96,723,98,681,100"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Nodes_a38e4a966173189537a80e4a6c6f90219.html#a38e4a966173189537a80e4a6c6f90219" title="Removes all conditional callbacks whose condition target_type() matches." alt="" coords="475,213,693,258"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="427,233,462,235,457,236,428,238"/>
+<area shape="rect" id="Node000012" href="$namespaceMayaFlux_1_1Nodes_a9bef7514ee6edbb158c95cd923d991f6.html#a9bef7514ee6edbb158c95cd923d991f6" title="Removes all callbacks whose target_type() matches that of the supplied callback." alt="" coords="499,283,669,327"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="417,302,486,305,481,305,417,308"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Nodes_1_1Node_a9e6c5b1744c554c1d12a1bcf0490b2c4.html#a9e6c5b1744c554c1d12a1bcf0490b2c4" title="Resets the processed state of the node directly." alt="" coords="496,352,672,413"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="417,377,483,381,478,381,417,382"/>
+<area shape="rect" id="Node000015" href="$namespaceMayaFlux_1_1Nodes_a88c692052149167c04433fa84013bf15.html#a88c692052149167c04433fa84013bf15" title="Atomically removes a flag from a node state." alt="" coords="746,360,933,405"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="673,380,733,382,727,382,673,385"/>
+</map>

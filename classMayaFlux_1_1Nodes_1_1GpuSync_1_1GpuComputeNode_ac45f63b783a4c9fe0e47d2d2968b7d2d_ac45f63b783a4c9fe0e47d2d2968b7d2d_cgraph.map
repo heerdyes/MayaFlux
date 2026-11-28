@@ -1,0 +1,14 @@
+<map id="MayaFlux::Nodes::GpuSync::GpuComputeNode::compute_frame" name="MayaFlux::Nodes::GpuSync::GpuComputeNode::compute_frame">
+<area shape="rect" id="Node000001" title="Drive the async dispatch lifecycle." alt="" coords="5,68,265,113"/>
+<area shape="rect" id="Node000002" href="$namespaceMayaFlux_1_1Portal_1_1Graphics_a715d57394465ff2924727d7c82d87e7b.html#a715d57394465ff2924727d7c82d87e7b" title="Get the global shader compiler instance." alt="" coords="327,32,523,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,72,314,68,309,69,266,77"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GpuComputeNode_ad2ab5112794abfc426639f331f749747.html#ad2ab5112794abfc426639f331f749747" title="Notifies all registered callbacks with the current context." alt="" coords="313,103,537,147"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="265,103,300,110,295,110,265,109"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_ab22eaae6b8210236918b85f409fc4c49.html#ab22eaae6b8210236918b85f409fc4c49" title=" " alt="" coords="588,29,784,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="523,51,575,53,569,53,524,56"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ShaderFoundry_a04787d746182c59dc4a839640ff8bc5b.html#a04787d746182c59dc4a839640ff8bc5b" title=" " alt="" coords="834,29,1065,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="784,49,821,51,816,52,784,54"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="900,27,898,19,906,10,924,5,950,3,978,5,996,14,991,14,977,10,949,8,925,10,909,15,903,21,904,30"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nodes_1_1GpuSync_1_1GpuComputeNode_adf52c667a12a86d027fbc2da6525200b.html#adf52c667a12a86d027fbc2da6525200b" title="Updates the context object with the current node state." alt="" coords="585,98,786,160"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="537,124,572,127,567,127,538,129"/>
+</map>

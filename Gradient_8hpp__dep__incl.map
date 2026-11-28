@@ -1,0 +1,70 @@
+<map id="Gradient.hpp" name="Gradient.hpp">
+<area shape="rect" id="Node000001" title="Gradient and edge detection on normalised float image spans." alt="" coords="1366,5,1471,33"/>
+<area shape="rect" id="Node000002" href="$Gradient_8cpp.html" title=" " alt="" coords="1117,81,1221,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1357,39,1215,83,1213,78,1362,37"/>
+<area shape="rect" id="Node000003" href="$Harris_8cpp.html" title=" " alt="" coords="1246,81,1333,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1385,40,1313,83,1311,78,1380,42"/>
+<area shape="rect" id="Node000004" href="$OpticalFlow_8cpp.html" title=" " alt="" coords="1356,81,1481,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1420,47,1421,82,1416,79,1417,51"/>
+<area shape="rect" id="Node000005" href="$VisionContext_8hpp.html" title=" " alt="" coords="1504,81,1645,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1460,37,1550,81,1544,80,1460,43"/>
+<area shape="rect" id="Node000008" href="$VisionExecutor_8cpp.html" title=" " alt="" coords="1875,232,2018,260"/>
+<area shape="poly" id="edge38_Node000001_Node000008" title=" " alt="" coords="1486,29,1565,45,1658,70,1757,106,1805,129,1851,154,1901,193,1938,233,1933,231,1897,197,1848,159,1803,134,1755,111,1657,76,1564,50,1487,34"/>
+<area shape="rect" id="Node000006" href="$VisionExecutor_8hpp.html" title="Dispatch engine for VisionSequence execution." alt="" coords="1693,157,1837,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1623,112,1734,156,1729,156,1623,117"/>
+<area shape="rect" id="Node000011" href="$VisionGpuDispatch_8hpp.html" title="GPU execution layer for Kinesis::Vision::VisionSequence." alt="" coords="1488,157,1661,184"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="1576,122,1577,158,1572,155,1573,127"/>
+<area shape="rect" id="Node000028" href="$VisionInsight_8hpp.html" title="Caller&#45;supplied context and GPU&#45;derived output for turning a raw VisionResult into something a caller..." alt="" coords="1330,157,1464,184"/>
+<area shape="poly" id="edge32_Node000005_Node000028" title=" " alt="" coords="1531,114,1429,159,1428,154,1526,116"/>
+<area shape="rect" id="Node000029" href="$VisionQuery_8hpp.html" title="Per&#45;intent parameters and resolution into a set of VisionSequences." alt="" coords="1173,157,1299,184"/>
+<area shape="poly" id="edge35_Node000005_Node000029" title=" " alt="" coords="1496,113,1297,159,1296,153,1501,112"/>
+<area shape="rect" id="Node000007" href="$ImageCVProcessor_8hpp.html" title=" " alt="" coords="1504,232,1674,260"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1722,190,1621,234,1620,229,1717,191"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1812,188,1917,232,1912,232,1811,193"/>
+<area shape="rect" id="Node000009" href="$VisionProcessor_8hpp.html" title=" " alt="" coords="1699,232,1850,260"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1770,198,1775,233,1771,230,1767,202"/>
+<area shape="rect" id="Node000010" href="$VisionProcessor_8cpp.html" title=" " alt="" coords="1699,308,1850,336"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1776,274,1777,309,1772,306,1773,278"/>
+<area shape="poly" id="edge17_Node000011_Node000007" title=" " alt="" coords="1582,198,1589,233,1584,230,1579,202"/>
+<area shape="poly" id="edge31_Node000011_Node000009" title=" " alt="" coords="1625,187,1741,232,1736,232,1624,193"/>
+<area shape="rect" id="Node000012" href="$DispatchLayouts_8hpp.html" title=" " alt="" coords="673,232,830,260"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1470,185,1110,221,831,242,830,237,1109,215,1475,184"/>
+<area shape="rect" id="Node000018" href="$VisionAnalyzer_8hpp.html" title="FunctionalOperation&lt;shared_ptr&lt;SignalSourceContainer&gt;, vector&lt;DataVariant&gt;&gt; whose real API matches En..." alt="" coords="1163,232,1308,260"/>
+<area shape="poly" id="edge18_Node000011_Node000018" title=" " alt="" coords="1501,188,1297,234,1296,229,1496,189"/>
+<area shape="rect" id="Node000026" href="$VisionExtractor_8hpp.html" title="GPU getter for what VisionAnalyzer found." alt="" coords="1333,232,1480,260"/>
+<area shape="poly" id="edge27_Node000011_Node000026" title=" " alt="" coords="1533,190,1437,234,1435,229,1528,192"/>
+<area shape="rect" id="Node000013" href="$VisionComponentsDispatch_8cpp.html" title=" " alt="" coords="216,308,443,336"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="659,264,406,310,405,305,663,262"/>
+<area shape="rect" id="Node000014" href="$VisionFeatureDispatch_8cpp.html" title=" " alt="" coords="861,308,1056,336"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="803,263,924,307,919,307,803,268"/>
+<area shape="rect" id="Node000015" href="$VisionFlowDispatch_8cpp.html" title=" " alt="" coords="466,308,643,336"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="705,265,590,310,589,305,700,267"/>
+<area shape="rect" id="Node000016" href="$VisionGpuDispatch_8cpp.html" title=" " alt="" coords="666,308,838,336"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="754,274,754,309,750,306,750,278"/>
+<area shape="rect" id="Node000017" href="$VisionImageDispatch_8cpp.html" title=" " alt="" coords="5,308,192,336"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="655,261,430,288,204,311,193,312,191,307,204,305,429,282,660,259"/>
+<area shape="rect" id="Node000019" href="$VisionAnalyzer_8cpp.html" title=" " alt="" coords="1080,308,1224,336"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1212,269,1168,310,1166,305,1207,272"/>
+<area shape="rect" id="Node000020" href="$VisionMatrix_8hpp.html" title=" " alt="" coords="1298,308,1430,336"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="1272,265,1344,308,1339,307,1271,271"/>
+<area shape="rect" id="Node000025" href="$WorkflowIncludes_8hpp.html" title="Top level headers for the Yantra compute layer and its workflows." alt="" coords="1248,459,1411,487"/>
+<area shape="poly" id="edge26_Node000018_Node000025" title=" " alt="" coords="1243,273,1261,338,1289,410,1320,460,1316,458,1284,413,1256,339,1240,277"/>
+<area shape="rect" id="Node000021" href="$VisionMatrix_8cpp.html" title=" " alt="" coords="1299,384,1429,411"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="1366,350,1366,385,1362,381,1362,353"/>
+<area shape="rect" id="Node000022" href="$VisionWorkflow_8hpp.html" title=" " alt="" coords="1075,384,1223,411"/>
+<area shape="poly" id="edge22_Node000020_Node000022" title=" " alt="" coords="1314,341,1188,386,1187,381,1308,342"/>
+<area shape="rect" id="Node000023" href="$Rigs_8cpp.html" title=" " alt="" coords="975,459,1051,487"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="1114,418,1038,461,1037,456,1109,420"/>
+<area shape="rect" id="Node000024" href="$VisionWorkflow_8cpp.html" title=" " alt="" coords="1076,459,1223,487"/>
+<area shape="poly" id="edge24_Node000022_Node000024" title=" " alt="" coords="1151,425,1151,461,1147,457,1147,429"/>
+<area shape="poly" id="edge25_Node000022_Node000025" title=" " alt="" coords="1196,415,1300,459,1295,459,1195,420"/>
+<area shape="poly" id="edge29_Node000026_Node000020" title=" " alt="" coords="1394,272,1373,310,1370,305,1389,275"/>
+<area shape="poly" id="edge30_Node000026_Node000025" title=" " alt="" coords="1426,271,1444,307,1457,361,1455,385,1443,413,1431,429,1414,443,1378,461,1376,456,1411,438,1427,425,1439,410,1450,384,1452,362,1439,309,1424,275"/>
+<area shape="rect" id="Node000027" href="$VisionExtractor_8cpp.html" title=" " alt="" coords="1504,308,1650,336"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="1451,264,1550,308,1544,307,1451,269"/>
+<area shape="poly" id="edge33_Node000028_Node000018" title=" " alt="" coords="1357,190,1265,234,1264,229,1352,192"/>
+<area shape="poly" id="edge34_Node000028_Node000026" title=" " alt="" coords="1402,198,1407,233,1403,230,1399,202"/>
+<area shape="poly" id="edge36_Node000029_Node000018" title=" " alt="" coords="1238,198,1238,234,1234,230,1234,202"/>
+<area shape="rect" id="Node000030" href="$VisionQuery_8cpp.html" title=" " alt="" coords="524,232,649,260"/>
+<area shape="poly" id="edge37_Node000029_Node000030" title=" " alt="" coords="1155,179,934,203,662,235,650,237,649,231,661,230,934,197,1160,178"/>
+</map>

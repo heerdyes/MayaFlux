@@ -1,0 +1,41 @@
+<map id="MayaFlux::Kakshya::SoundStreamContainer::get_span_cache" name="MayaFlux::Kakshya::SoundStreamContainer::get_span_cache">
+<area shape="rect" id="Node000001" title="Get the cached spans for each channel, recomputing if dirty." alt="" coords="912,475,1083,536"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a795f33cdaf077387519ea7e98d323abe.html#a795f33cdaf077387519ea7e98d323abe" title="Copy arbitrary frames into a caller&#45;owned buffer without allocating." alt="" coords="689,91,860,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="972,460,924,364,861,251,798,155,800,150,866,248,928,361,977,461"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a042de125fda620e471fd2a02de28805a.html#a042de125fda620e471fd2a02de28805a" title="Get the audio data as a specific type." alt="" coords="689,261,860,323"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="968,461,922,399,894,366,862,337,847,326,848,321,865,333,898,363,927,396,973,462"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a0065697969c7ef39b4106f22a42d24cb.html#a0065697969c7ef39b4106f22a42d24cb" title=" " alt="" coords="689,347,860,408"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="935,466,862,422,842,411,843,406,865,418,941,466"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a366fd2622123be4b7668420d9b6a32dd.html#a366fd2622123be4b7668420d9b6a32dd" title="Get data for a specific region." alt="" coords="689,432,860,494"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="894,487,861,482,861,477,899,486"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_acd17dbf04a855d83c843a1d3027d8b2c.html#acd17dbf04a855d83c843a1d3027d8b2c" title="Get data for multiple regions efficiently." alt="" coords="685,517,864,579"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="894,525,865,534,863,528,899,524"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_abb366b00cab7974aa43a29c38aea9bbf.html#abb366b00cab7974aa43a29c38aea9bbf" title="Get data for multiple region segments efficiently." alt="" coords="689,603,860,664"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="941,544,865,593,843,605,841,600,862,589,936,546"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a3f0f1c99cb75501deb6acb2154e24d42.html#a3f0f1c99cb75501deb6acb2154e24d42" title="Type&#45;erased single&#45;element read." alt="" coords="689,688,860,750"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="972,548,927,615,898,648,865,678,849,690,847,685,862,674,894,645,922,612,968,551"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a6303eb21b6881926d4aa4d284fa837b6.html#a6303eb21b6881926d4aa4d284fa837b6" title="Type&#45;erased single&#45;element write." alt="" coords="689,773,860,835"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="984,549,967,600,941,656,908,713,866,763,851,775,849,770,862,760,903,710,937,653,962,598,980,553"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1CursorAccessProcessor_a8e8621b9139d1f7a4c40f29def3afccb.html#a8e8621b9139d1f7a4c40f29def3afccb" title=" " alt="" coords="464,5,636,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="675,86,634,70,633,65,680,84"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1DynamicSoundStream_abb8dcc80406d0efa71a238aa77aa38aa.html#abb8dcc80406d0efa71a238aa77aa38aa" title="Copy the most recent frames into a new stream, oldest first." alt="" coords="463,91,637,152"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="671,123,639,124,637,119,676,120"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1CursorAccessProcessor_a13d09e4d738e714908dd081cad01d1b5.html#a13d09e4d738e714908dd081cad01d1b5" title="Extract one block of frames into container processed_data[0]." alt="" coords="244,5,415,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="447,38,417,38,414,34,451,35"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1CursorAccessProcessor_ad9537c171a7c8dcd51260b756a412929.html#ad9537c171a7c8dcd51260b756a412929" title=" " alt="" coords="5,5,196,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,38,198,38,195,34,230,34"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a06171d2f25b9f808a57fbacab24899a5.html#a06171d2f25b9f808a57fbacab24899a5" title=" " alt="" coords="464,176,636,238"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="675,256,634,241,633,236,680,255"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a434879b574d2efee512dbb277bf691ab.html#a434879b574d2efee512dbb277bf691ab" title="Get a raw pointer to the underlying data storage." alt="" coords="464,261,636,323"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="671,293,637,295,636,290,676,291"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a2df106c31610185cee99251f3bad8aa7.html#a2df106c31610185cee99251f3bad8aa7" title="Peek at data without advancing the read position." alt="" coords="464,347,636,408"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="675,330,634,348,632,344,680,328"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_acdadef8879eb369602874096d18db8ac.html#acdadef8879eb369602874096d18db8ac" title="Implementation&#45;specific method to retrieve multiple frames." alt="" coords="244,176,415,238"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="446,208,417,209,414,204,451,206"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_aa439bfd4e77f899c063e07263effaaa3.html#aa439bfd4e77f899c063e07263effaaa3" title="Read data sequentially from the current position." alt="" coords="244,347,415,408"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="446,379,416,380,414,375,451,376"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kakshya_1_1DynamicSoundStream_ac6e06b13caf268f8a130a8127a4bd4c5.html#ac6e06b13caf268f8a130a8127a4bd4c5" title="Read audio frames using sequential reading with automatic position management." alt="" coords="13,347,188,408"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="226,379,190,380,187,375,230,376"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1SoundStreamContainer_a4c3e9b92f29f952532c6e1d462cf8120.html#a4c3e9b92f29f952532c6e1d462cf8120" title="Implementation&#45;specific method to retrieve a frame span." alt="" coords="464,432,636,494"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="675,415,634,434,632,429,680,413"/>
+</map>

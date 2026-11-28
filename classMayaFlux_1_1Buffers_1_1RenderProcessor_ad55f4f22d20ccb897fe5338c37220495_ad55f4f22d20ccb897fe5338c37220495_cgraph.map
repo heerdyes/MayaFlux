@@ -1,0 +1,14 @@
+<map id="MayaFlux::Buffers::RenderProcessor::set_alpha_blending" name="MayaFlux::Buffers::RenderProcessor::set_alpha_blending">
+<area shape="rect" id="Node000001" title="Toggle standard alpha blending." alt="" coords="5,48,164,110"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_a17639c739fc2085375eef2b95d637bb2.html#a17639c739fc2085375eef2b95d637bb2" title="Disable blending on the color attachment, restoring opaque writes." alt="" coords="212,5,397,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,61,199,56,194,58,165,66"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_a53201a69676fbc7e095aa77e7d64f200.html#a53201a69676fbc7e095aa77e7d64f200" title="Enable standard alpha blending (src_alpha, one_minus_src_alpha)." alt="" coords="213,91,396,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,92,200,100,195,101,164,97"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1RenderProcessor_a136e2f3b1509673fac3f61277056d0a1.html#a136e2f3b1509673fac3f61277056d0a1" title="Set blend mode for color attachment." alt="" coords="464,5,622,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,34,451,36,446,37,398,39"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="392,88,447,70,452,69,393,93"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Portal_1_1Graphics_1_1BlendAttachmentConfig_af93edf92edfeae2c1d5a5ace90e86053.html#af93edf92edfeae2c1d5a5ace90e86053" title="Create standard alpha blending configuration." alt="" coords="445,91,641,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="396,119,432,121,427,122,396,124"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Portal_1_1Graphics_1_1BlendAttachmentConfig_a18d5620d612d811c865101063ff9938b.html#a18d5620d612d811c865101063ff9938b" title=" " alt="" coords="689,91,886,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="642,119,676,121,671,122,642,124"/>
+</map>

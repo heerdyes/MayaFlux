@@ -1,0 +1,15 @@
+<map id="MayaFlux::Buffers::VideoContainerBuffer::~VideoContainerBuffer" name="MayaFlux::Buffers::VideoContainerBuffer::~VideoContainerBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,185,222"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Buffers_1_1VideoContainerBuffer_acb11a5e68bdb84e85c30cf801b1fe2f6.html#acb11a5e68bdb84e85c30cf801b1fe2f6" title="Override to wire VideoStreamReader as default and TextureProcessor as preprocessor." alt="" coords="233,160,393,222"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,188,219,190,215,192,186,193"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ab5841c2fedf2144f9c3194d5597b3f82.html#ab5841c2fedf2144f9c3194d5597b3f82" title="Controls whether the buffer should use default processing." alt="" coords="460,5,648,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,157,386,116,440,77,451,73,447,76,442,81,389,120,345,161"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6cf409969c192851ab2cf7f0315d2a49.html#a6cf409969c192851ab2cf7f0315d2a49" title="Access the buffer&#39;s processing chain." alt="" coords="441,91,667,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="393,161,440,146,466,140,461,142,442,151,395,166"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a6e843b1ce9e90e2df2501d28e60eab52.html#a6e843b1ce9e90e2df2501d28e60eab52" title="Set the buffer&#39;s default processor." alt="" coords="474,160,634,222"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="393,188,462,190,457,192,394,193"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a93f1d139e1fc4ab7689f2a205bf76563.html#a93f1d139e1fc4ab7689f2a205bf76563" title="Replace the buffer&#39;s processing chain." alt="" coords="442,246,667,290"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="394,215,442,231,466,241,461,241,440,236,393,221"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Buffers_1_1TextureBuffer_ad62923a39d1e68b0b7af5a8944f2c543.html#ad62923a39d1e68b0b7af5a8944f2c543" title="Allow inherited classes to set the TextureProcessor directly." alt="" coords="459,315,649,376"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="344,220,389,261,442,301,451,308,446,307,440,305,386,265,343,225"/>
+</map>

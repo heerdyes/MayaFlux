@@ -1,0 +1,17 @@
+<map id="MayaFlux::Kriya::NetworkAwaiter" name="MayaFlux::Kriya::NetworkAwaiter">
+<area shape="rect" id="Node000001" title="Awaiter for suspending a coroutine until a network message arrives." alt="" coords="241,2705,421,3040"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1EventAwaiter.html" title="Abstract base for all event&#45;driven awaiters." alt="" coords="5,2294,217,2545"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,2556,253,2705,247,2706,178,2561"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1NetworkSource.html" title="Awaitable broadcast message stream for a network endpoint." alt="" coords="241,2208,422,2632"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,2629,334,2689,329,2687,330,2634"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1EventSource.html" title="Abstract base for all awaitable signal sources." alt="" coords="152,1626,358,1922"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="275,1934,309,2208,304,2208,274,1940"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Memory_1_1RingBuffer.html" title=" " alt="" coords="383,1414,650,2135"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="414,2132,399,2192,394,2191,412,2137"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Memory_1_1RingBuffer.html" title=" " alt="" coords="396,721,637,1318"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="517,1331,519,1415,514,1414,516,1336"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Memory_1_1RingBuffer.html" title="Policy&#45;driven unified circular buffer implementation." alt="" coords="385,5,648,603"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="517,615,519,721,514,721,516,620"/>
+<area shape="rect" id="Node000008" href="$structMayaFlux_1_1Core_1_1NetworkMessage.html" title="A received datagram or framed message with sender metadata." alt="" coords="445,2361,679,2478"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="535,2476,426,2692,422,2689,531,2480"/>
+</map>

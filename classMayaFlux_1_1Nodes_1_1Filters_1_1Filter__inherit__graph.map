@@ -1,0 +1,9 @@
+<map id="MayaFlux::Nodes::Filters::Filter" name="MayaFlux::Nodes::Filters::Filter">
+<area shape="rect" id="Node000001" title="Base class for computational signal transformers implementing difference equations." alt="" coords="118,908,315,1640"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1FIR.html" title="Finite Impulse Response filter implementation." alt="" coords="5,1688,206,1850"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,1652,126,1689,121,1687,130,1657"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nodes_1_1Filters_1_1IIR.html" title="Infinite Impulse Response filter implementation." alt="" coords="230,1688,427,1850"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="304,1652,313,1689,308,1687,301,1657"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nodes_1_1Node.html" title="Base interface for all computational processing nodes." alt="" coords="119,5,314,860"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,873,219,909,214,908,216,878"/>
+</map>

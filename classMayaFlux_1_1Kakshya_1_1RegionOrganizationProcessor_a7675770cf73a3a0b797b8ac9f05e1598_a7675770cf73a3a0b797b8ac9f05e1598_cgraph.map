@@ -1,0 +1,15 @@
+<map id="MayaFlux::Kakshya::RegionOrganizationProcessor::RegionOrganizationProcessor" name="MayaFlux::Kakshya::RegionOrganizationProcessor::RegionOrganizationProcessor">
+<area shape="rect" id="Node000001" title="Construct a region organization processor for a given container." alt="" coords="5,91,226,152"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_adfd4b78cb83865cd035277c9d82a1533.html#adfd4b78cb83865cd035277c9d82a1533" title="Attach this processor to a signal source container." alt="" coords="274,91,435,152"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,119,261,121,256,122,227,124"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a20574208db40f323df3cf6ac9178ca79.html#a20574208db40f323df3cf6ac9178ca79" title="Organize container data into structured regions." alt="" coords="483,91,672,152"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,119,470,121,465,122,436,124"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a8b4b4bbc9aa5c99444e8a1a27ab6c374.html#a8b4b4bbc9aa5c99444e8a1a27ab6c374" title="Advance position according to memory layout and looping." alt="" coords="748,5,910,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="670,88,731,69,736,68,671,93"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a29b649c1806d006bfd1172e19eadf6f1.html#a29b649c1806d006bfd1172e19eadf6f1" title="Cache a region&#39;s data if beneficial and not already cached." alt="" coords="736,91,922,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="672,119,723,121,718,122,673,124"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase_a8d67fba8bb619b5bc20a8c271440973a.html#a8d67fba8bb619b5bc20a8c271440973a" title="Ensure output data is properly dimensioned for region extraction." alt="" coords="720,176,938,238"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="671,150,724,171,719,170,670,156"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Kakshya_1_1RegionSegment_a4b1f6f95db006ac5486f391f1f23a957.html#a4b1f6f95db006ac5486f391f1f23a957" title="Get the total number of elements in the segment." alt="" coords="986,91,1176,152"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="923,119,973,121,967,122,923,124"/>
+</map>

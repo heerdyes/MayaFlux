@@ -1,0 +1,47 @@
+<map id="MayaFlux::Kakshya::PlotContainer::operator=" name="MayaFlux::Kakshya::PlotContainer::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,492,189,537"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a5b8b4efef67693636f67ff1f2c7d0a45.html#a5b8b4efef67693636f67ff1f2c7d0a45" title="Add a named series with a given capacity, zero&#45;initialised." alt="" coords="253,9,440,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,491,102,412,121,300,139,238,163,177,194,120,235,69,246,60,244,65,239,72,199,123,168,179,144,240,126,301,107,413,101,492"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a0072a7307529a0ac932725dd009866e1.html#a0072a7307529a0ac932725dd009866e1" title="Bind a series to a Node." alt="" coords="268,83,426,127"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="97,491,106,423,129,328,146,277,169,227,199,179,235,138,256,124,253,129,238,142,203,183,174,229,151,279,134,330,112,424,103,492"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a67be6382e9479c1f7a6d3912f3ce9537.html#a67be6382e9479c1f7a6d3912f3ce9537" title="Get the dimensions describing the structure of the data." alt="" coords="237,221,457,266"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="103,491,120,445,147,388,185,328,209,300,235,276,244,272,241,276,238,280,213,304,190,331,152,390,125,448,108,492"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_acc800538b00214dcef4769a11dce9784.html#acc800538b00214dcef4769a11dce9784" title="Get the total number of elements in the container." alt="" coords="259,290,434,352"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="112,490,163,427,197,392,235,362,247,356,244,360,238,366,200,396,166,431,116,493"/>
+<area shape="rect" id="Node000013" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a33bbc3ace1a26e982bc7d715a7e0b2cd.html#a33bbc3ace1a26e982bc7d715a7e0b2cd" title="Construct an empty container." alt="" coords="244,376,450,421"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="130,490,180,459,236,431,254,425,250,428,238,435,182,464,134,493"/>
+<area shape="rect" id="Node000014" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_aa60223e72e568154fceeb5d447499ec0.html#aa60223e72e568154fceeb5d447499ec0" title="Resize a series." alt="" coords="268,445,426,506"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="188,498,255,488,251,492,191,502"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_ab335a3b47ca1a2bbfe8723d695b24e30.html#ab335a3b47ca1a2bbfe8723d695b24e30" title="Return the number of series." alt="" coords="247,531,446,575"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="188,526,234,534,230,537,190,531"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a9e5bea6eb51bcb8b4e83ea0cdae28336.html#a9e5bea6eb51bcb8b4e83ea0cdae28336" title="Return the name of a series." alt="" coords="247,600,447,645"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="136,534,238,585,256,593,251,595,236,590,137,540"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_af4b9b6e8fd89f2091df8e9630afa958f.html#af4b9b6e8fd89f2091df8e9630afa958f" title="Return the role of a series." alt="" coords="253,669,441,714"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="114,534,167,595,201,627,238,655,248,661,243,663,235,659,197,631,163,598,115,540"/>
+<area shape="rect" id="Node000018" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_aa75e6aee824e3b98c3f0ef9dc0a2142f.html#aa75e6aee824e3b98c3f0ef9dc0a2142f" title="Return the sample count of a series." alt="" coords="252,739,442,783"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="107,535,128,577,155,627,192,679,238,724,246,730,240,731,235,728,188,683,151,630,123,579,107,540"/>
+<area shape="rect" id="Node000019" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_ae3eb0422e37baf35f124e7d60942b354.html#ae3eb0422e37baf35f124e7d60942b354" title="Push raw sample data into a series." alt="" coords="263,152,431,197"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="100,491,113,434,138,358,156,317,177,277,204,240,235,207,251,197,248,202,238,211,208,243,182,280,160,319,143,360,118,435,105,492"/>
+<area shape="rect" id="Node000020" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a1307ea6bd4f1115592b65a8190303dfa.html#a1307ea6bd4f1115592b65a8190303dfa" title="Remove the source binding for a series." alt="" coords="266,808,428,853"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="103,534,120,589,146,658,185,731,210,764,238,794,255,806,250,807,235,798,205,768,180,734,141,660,115,591,103,540"/>
+<area shape="rect" id="Node000021" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a6ca42af8a97b9f3459b690844335ff32.html#a6ca42af8a97b9f3459b690844335ff32" title="Write a single sample within a series." alt="" coords="268,877,426,938"/>
+<area shape="poly" id="edge22_Node000001_Node000021" title=" " alt="" coords="101,534,115,600,138,687,156,734,178,781,206,824,239,863,257,879,252,879,235,867,201,827,174,783,151,736,133,689,110,601,101,540"/>
+<area shape="rect" id="Node000022" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a521e33273355675ee8c46e23ba0b484b.html#a521e33273355675ee8c46e23ba0b484b" title="Write the full sample buffer for a series." alt="" coords="268,962,426,1024"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="99,534,108,614,128,724,146,783,169,843,200,899,239,948,257,965,252,965,235,952,196,902,165,845,141,785,123,725,103,615,99,540"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="510,5,667,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,28,497,28,492,31,442,32"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="728,5,875,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="666,25,715,26,710,29,669,30"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a0d7026e5d49589ff8cbe2080c6033b10.html#a0d7026e5d49589ff8cbe2080c6033b10" title="Return the PlotProcessor, creating and attaching it if absent." alt="" coords="508,160,669,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="421,125,458,137,497,152,492,154,456,142,423,130"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_a24a62108828e0700c77eae7bb24b430f.html#a24a62108828e0700c77eae7bb24b430f" title="Mark the container as ready or not ready for processing." alt="" coords="505,74,672,136"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="425,103,492,103,487,107,427,107"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_ab6f0eae594de9f6c525c0d1afd41d628.html#ab6f0eae594de9f6c525c0d1afd41d628" title="Create and configure a default processor for this container." alt="" coords="722,160,881,221"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="668,188,709,189,705,192,671,193"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_abf2b2c76f1772c28f6934d73fcdeb138.html#abf2b2c76f1772c28f6934d73fcdeb138" title="Set the default data processor for this container." alt="" coords="931,160,1121,221"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="880,188,918,189,913,191,882,193"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1PlotContainer_acdc3081c6086bc930cdce5403594c6af.html#acdc3081c6086bc930cdce5403594c6af" title="Update the processing state of the container." alt="" coords="720,74,883,136"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="671,103,707,104,702,106,674,107"/>
+<area shape="poly" id="edge19_Node000019_Node000006" title=" " alt="" coords="430,178,495,183,490,185,433,182"/>
+<area shape="poly" id="edge20_Node000019_Node000009" title=" " alt="" coords="426,149,492,131,488,135,429,154"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="MayaFlux::IO::IOManager::shutdown" name="MayaFlux::IO::IOManager::shutdown">
+<area shape="rect" id="Node000001" title="Unregisters IOService, releases all owned readers, clears stored buffers." alt="" coords="5,236,192,281"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="499,38,699,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,235,127,200,156,157,193,116,238,83,298,60,362,47,425,42,486,45,481,47,425,47,362,52,300,65,241,88,197,120,160,161,132,203,113,238"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1IO_1_1IOManager_a42650825f04fa23729727446b2768f45.html#a42650825f04fa23729727446b2768f45" title="Stop a running audio capture and finalise the file." alt="" coords="252,98,438,142"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="123,234,175,193,238,153,254,147,250,151,241,157,178,198,127,238"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1IO_1_1IOManager_a40df72386ac5b1110044e9aeb74c711f.html#a40df72386ac5b1110044e9aeb74c711f" title="Stop a running spatial capture and release it." alt="" coords="252,167,438,212"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="179,234,251,215,247,218,182,238"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1IO_1_1IOManager_a8509dbec9694c955073cba278b0ca6c9.html#a8509dbec9694c955073cba278b0ca6c9" title="Stop a running video capture and finalise the file." alt="" coords="252,236,438,281"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="191,256,239,258,234,260,193,261"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1IO_1_1IOManager_a827f5216d889a39a6f14007430a8203c.html#a827f5216d889a39a6f14007430a8203c" title="Stop a running volume capture and release it." alt="" coords="252,306,438,350"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="180,279,251,300,246,302,181,284"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_af56fb38c9e3a502f619f6205beb49384.html#af56fb38c9e3a502f619f6205beb49384" title="Unregister a service." alt="" coords="240,375,451,436"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="126,279,179,320,241,361,251,367,245,367,238,365,176,324,126,284"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1IO_1_1IOManager_ad48a648dd6f4394b7e92a4948f64b303.html#ad48a648dd6f4394b7e92a4948f64b303" title="Wait for all in&#45;flight save operations to complete." alt="" coords="252,460,438,505"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="111,279,133,317,161,361,198,407,241,446,249,453,244,453,238,450,194,410,157,364,128,319,110,284"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="747,29,948,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="699,58,734,59,729,61,700,63"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="799,28,800,19,809,10,825,5,848,3,874,5,891,15,886,15,872,11,847,8,826,10,812,15,805,21,804,31"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="438,96,489,85,485,88,440,100"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="516,107,682,168"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="438,124,503,130,498,132,440,129"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1IO_1_1IOManager_a0604e2f246faf9ae9d598cd28140d814.html#a0604e2f246faf9ae9d598cd28140d814" title="Retain a save task in m_save_tasks and opportunistically reclaim finished ones." alt="" coords="506,214,692,258"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="421,140,452,152,547,205,542,206,450,157,422,146"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="438,248,493,245,488,247,440,253"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="MayaFlux::Portal::Graphics::ComputePress::record_sequence" name="MayaFlux::Portal::Graphics::ComputePress::record_sequence">
+<area shape="rect" id="Node000001" title="Record multiple pipeline dispatches into one already&#45;open command buffer, inserting a barrier between..." alt="" coords="5,183,247,227"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a313d13f003f0f617d9e27addb3a3e7f3.html#a313d13f003f0f617d9e27addb3a3e7f3" title="All&#45;in&#45;one: bind pipeline + descriptors + push constants." alt="" coords="295,75,491,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,180,294,129,314,124,309,126,296,134,178,184"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a6d9d3d095a17e0a782e5c31a804663a4.html#a6d9d3d095a17e0a782e5c31a804663a4" title="Dispatch compute workgroups." alt="" coords="295,144,491,189"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="246,185,282,182,277,184,248,190"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_ac332c4ccfc787734b7e36f9033a9e0e6.html#ac332c4ccfc787734b7e36f9033a9e0e6" title="Dispatch compute workgroups indirectly." alt="" coords="295,213,491,274"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="247,220,282,227,277,228,247,225"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_a08fa9b6412b634215b72b52676318691.html#a08fa9b6412b634215b72b52676318691" title=" " alt="" coords="317,299,469,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="169,225,229,255,296,284,321,295,316,294,294,289,227,260,169,231"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a85438e9d6db2cc223c00c736f86661aa.html#a85438e9d6db2cc223c00c736f86661aa" title="Bind descriptor sets to active command buffer." alt="" coords="539,5,804,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,71,567,53,562,55,487,77"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a218fdd2df033d4258070a6e5079c46e2.html#a218fdd2df033d4258070a6e5079c46e2" title="Bind pipeline to active command buffer." alt="" coords="562,75,781,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="491,94,550,96,545,98,492,100"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Graphics_1_1ComputePress_a1fa102eb80c5e9b8008f485793dfe095.html#a1fa102eb80c5e9b8008f485793dfe095" title="Push constants to active command buffer." alt="" coords="556,144,788,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="486,117,567,139,562,140,486,123"/>
+</map>

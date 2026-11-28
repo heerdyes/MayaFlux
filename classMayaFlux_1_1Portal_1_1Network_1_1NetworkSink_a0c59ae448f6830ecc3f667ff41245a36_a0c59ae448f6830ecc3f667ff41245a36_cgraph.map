@@ -1,0 +1,12 @@
+<map id="MayaFlux::Portal::Network::NetworkSink::NetworkSink" name="MayaFlux::Portal::Network::NetworkSink::NetworkSink">
+<area shape="rect" id="Node000001" title="Open a send endpoint from a StreamConfig." alt="" coords="5,91,209,136"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a0c7a59c0847791ed0915dcd64e8df783.html#a0c7a59c0847791ed0915dcd64e8df783" title="Query for a backend service." alt="" coords="274,5,440,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,88,261,65,256,68,183,93"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_aa28c6f5592e5893508bafb62aefcc496.html#aa28c6f5592e5893508bafb62aefcc496" title="Get the global registry instance." alt="" coords="257,91,457,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,111,243,113,238,114,210,116"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Network_1_1NetworkSink_ab0a6b97b0725d6917b85ee7b50aaf1b7.html#ab0a6b97b0725d6917b85ee7b50aaf1b7" title="Return the stream name from the config." alt="" coords="260,160,454,205"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="191,134,262,155,256,156,190,139"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Registry_1_1BackendRegistry_a24066c91da2a04ba4a82b66616586604.html#a24066c91da2a04ba4a82b66616586604" title=" " alt="" coords="505,83,705,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,111,492,113,487,114,458,116"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="557,81,558,72,567,63,583,58,605,56,631,59,649,69,643,68,630,64,605,61,584,63,570,68,562,75,561,84"/>
+</map>

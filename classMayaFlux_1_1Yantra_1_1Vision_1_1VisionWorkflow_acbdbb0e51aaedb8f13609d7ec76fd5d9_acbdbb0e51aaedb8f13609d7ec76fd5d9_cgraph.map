@@ -1,0 +1,16 @@
+<map id="MayaFlux::Yantra::Vision::VisionWorkflow::process_to_stream" name="MayaFlux::Yantra::Vision::VisionWorkflow::process_to_stream">
+<area shape="rect" id="Node000001" title="Run config&#39;s matrix on its source live and return a Chimera builder over a new layer array,..." alt="" coords="5,66,192,128"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kriya_1_1BufferPipeline_a28ade831a9d3861f7bbd931c6d545069.html#a28ade831a9d3861f7bbd931c6d545069" title=" " alt="" coords="243,5,469,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,69,258,53,254,56,193,74"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a0b2372d158f118164eac79d03cef09da.html#a0b2372d158f118164eac79d03cef09da" title=" " alt="" coords="240,75,472,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,94,226,96,221,98,193,100"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a7be3e502a880c68b8fbc402b4a853884.html#a7be3e502a880c68b8fbc402b4a853884" title="Subscribe consumer and start the producer named name, which stops the run at source&#39;s end,..." alt="" coords="265,168,446,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,126,280,161,275,163,185,131"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="307,166,305,158,314,149,331,143,356,141,384,144,402,153,396,153,382,149,356,147,332,149,317,153,311,159,312,169"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Yantra_1_1Vision_1_1VisionWorkflow_a964fd04cf360c5e433781c533a6d458b.html#a964fd04cf360c5e433781c533a6d458b" title=" " alt="" coords="528,137,709,182"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="447,177,515,172,510,172,447,182"/>
+<area shape="rect" id="Node000007" href="$namespaceMayaFlux_1_1Kriya_a62435bb589511d2066c250f604e24326.html#a62435bb589511d2066c250f604e24326" title="Call callback with every value source signals, registered on events." alt="" coords="520,206,717,234"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="447,198,507,207,502,207,447,203"/>
+<area shape="rect" id="Node000006" href="$main_8cpp_a13a43e6d814de94978c515cb084873b1.html#a13a43e6d814de94978c515cb084873b1" title=" " alt="" coords="765,146,808,174"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="710,157,753,160,748,160,710,162"/>
+</map>

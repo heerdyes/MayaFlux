@@ -1,0 +1,23 @@
+<map id="MayaFlux::Core::BackendResourceManager::download_image_data" name="MayaFlux::Core::BackendResourceManager::download_image_data">
+<area shape="rect" id="Node000001" title="Download image data to a host pointer." alt="" coords="5,191,252,235"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_a0db85a56fc0aa2720febc7f3e8c3dbf9.html#a0db85a56fc0aa2720febc7f3e8c3dbf9" title="Cleanup a buffer and release associated resources." alt="" coords="311,5,557,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,189,210,125,252,90,298,60,314,55,310,58,301,65,255,94,213,129,151,192"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_aa3331f3102665cfde6c845e1304d5484.html#aa3331f3102665cfde6c845e1304d5484" title="Get VkBuffer handle (VK_NULL_HANDLE if not registered)." alt="" coords="358,75,510,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,188,230,158,299,129,345,116,341,119,301,134,233,163,173,192"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_ade826fd1619beabe131e5bb65ecf2bcd.html#ade826fd1619beabe131e5bb65ecf2bcd" title="Get all buffer resources at once (read&#45;only)." alt="" coords="358,144,510,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,195,345,185,340,187,253,200"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Buffers_1_1VKBuffer_a24641421f0730fcda540a9cf66b61635.html#a24641421f0730fcda540a9cf66b61635" title="Get mapped host pointer (nullptr if not host&#45;visible or unmapped)." alt="" coords="338,229,530,274"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="252,226,325,237,320,239,252,231"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ad1bfc97eb921df611d3503d11e6e2347.html#ad1bfc97eb921df611d3503d11e6e2347" title="Initialize a buffer for use with the graphics backend." alt="" coords="311,299,557,343"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,233,236,259,301,284,326,294,320,294,299,289,234,264,177,239"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ae611d961802ca76657d758d0a834b5aa.html#ae611d961802ca76657d758d0a834b5aa" title="Record deferred command recording for buffer operations." alt="" coords="300,368,568,413"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="151,233,215,294,256,326,301,353,316,362,310,362,298,358,253,330,212,298,150,238"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ad5f783753dbe799e95ce480237b1c86b.html#ad5f783753dbe799e95ce480237b1c86b" title="Allocate a raw VkBuffer/VkDeviceMemory pair without an owning VKBuffer object." alt="" coords="616,264,862,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="557,304,603,302,598,302,558,310"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kakshya_aa3a2745fea69caaef2cc6ed92d2f277d.html#aa3a2745fea69caaef2cc6ed92d2f277d" title="Convert DataModality enum to string representation." alt="" coords="660,333,818,378"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="557,332,648,345,642,345,557,338"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Core_1_1BackendResourceManager_ab4e39f5b542838628a267c0cfe94dba4.html#ab4e39f5b542838628a267c0cfe94dba4" title="Find a suitable memory type for Vulkan buffer allocation." alt="" coords="910,264,1157,309"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="863,284,898,286,892,287,863,289"/>
+<area shape="rect" id="Node000010" href="$namespaceMayaFlux_1_1Reflect_aad91118cbd25bd9e35a3ced9aa4e6dbd.html#aad91118cbd25bd9e35a3ced9aa4e6dbd" title="Universal enum to string converter using magic_enum (original case)." alt="" coords="960,333,1107,378"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="818,353,948,356,942,356,818,358"/>
+</map>

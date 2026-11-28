@@ -1,0 +1,15 @@
+<map id="MayaFlux::IO::VolumeCapture" name="MayaFlux::IO::VolumeCapture">
+<area shape="rect" id="Node000001" title="Records a numbered .vdb sequence from a running volume." alt="" coords="242,1676,446,2083"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Vruta_1_1TaskScheduler.html" title="Token&#45;based multimodal task scheduling system for unified coroutine processing." alt="" coords="118,631,340,1603"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,1600,314,1660,308,1659,302,1605"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Vruta_1_1SampleClock.html" title="Sample&#45;accurate timing system for audio processing domain." alt="" coords="5,262,216,513"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,511,150,614,145,614,131,516"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Vruta_1_1IClock.html" title="Abstract base interface for all clock types in the multimodal scheduling system." alt="" coords="28,5,194,189"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,201,113,263,108,263,111,207"/>
+<area shape="rect" id="Node000005" href="$structMayaFlux_1_1Vruta_1_1TaskScheduler_1_1PendingTaskOp.html" title=" " alt="" coords="240,332,459,444"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="341,441,315,615,309,614,340,446"/>
+<area shape="rect" id="Node000006" href="$structMayaFlux_1_1Vruta_1_1TaskEntry.html" title=" " alt="" coords="255,50,444,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="350,142,352,315,347,315,349,147"/>
+<area shape="rect" id="Node000007" href="$structMayaFlux_1_1IO_1_1VolumeWriteOptions.html" title="Configuration for volume writing." alt="" coords="364,1028,553,1206"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="456,1203,443,1411,430,1532,411,1652,409,1661,404,1658,405,1652,424,1531,438,1410,454,1208"/>
+</map>

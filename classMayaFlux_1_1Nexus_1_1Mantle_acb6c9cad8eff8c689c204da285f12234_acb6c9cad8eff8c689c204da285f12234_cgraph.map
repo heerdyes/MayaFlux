@@ -1,0 +1,44 @@
+<map id="MayaFlux::Nexus::Mantle::operator=" name="MayaFlux::Nexus::Mantle::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,260,193,305"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Nexus_1_1Mantle_ae3d634c82f101473e5f01eaab9e09e0f.html#ae3d634c82f101473e5f01eaab9e09e0f" title="Called at the start of every evaluate(), before any position is tested." alt="" coords="241,260,428,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,280,227,281,222,283,194,285"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Nexus_1_1Expanse_a63f198036259d05c7f2d679884b4ff35.html#a63f198036259d05c7f2d679884b4ff35" title="The box, if set." alt="" coords="721,329,919,374"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,303,177,344,242,384,304,411,355,426,476,444,576,457,619,456,673,444,703,432,731,417,779,385,784,384,734,421,705,437,674,449,620,461,576,462,476,449,354,431,303,416,239,389,174,349,124,308"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Nexus_1_1Mantle_aec56a122cb88646533bdf80a02613451.html#aec56a122cb88646533bdf80a02613451" title="Build from a box and a buffer." alt="" coords="241,180,428,225"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,257,254,228,250,232,168,262"/>
+<area shape="rect" id="Node000015" href="$classMayaFlux_1_1Nexus_1_1Mantle_a06083bc88a1e28ba95ecfdf8fadf605d.html#a06083bc88a1e28ba95ecfdf8fadf605d" title="Read the buffer&#39;s geometry again and place it to match." alt="" coords="241,111,428,155"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="121,258,173,212,239,165,253,161,249,164,242,170,177,216,125,261"/>
+<area shape="rect" id="Node000016" href="$classMayaFlux_1_1Nexus_1_1Mantle_aebbc7216b3cd7a8d3cd65f1590e46801.html#aebbc7216b3cd7a8d3cd65f1590e46801" title="Set or replace the box and place the buffer to match." alt="" coords="241,329,428,374"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="177,303,244,323,239,325,177,308"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Nexus_a61beb68adf0686b0e0fe5c3339838a3c.html#a61beb68adf0686b0e0fe5c3339838a3c" title="Place every render processor of the buffer that is not placed yet." alt="" coords="731,248,909,293"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,277,718,272,714,274,429,283"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="410,223,732,323,728,326,409,228"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Nexus_1_1Expanse_aea078199152d08aedacce595a22ad1e2.html#aea078199152d08aedacce595a22ad1e2" title="Construct with a containment predicate and crossing actions." alt="" coords="476,99,673,143"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="401,177,494,148,489,150,404,182"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Nexus_ac83eaaa11160a38fddb2d351db78e2c6.html#ac83eaaa11160a38fddb2d351db78e2c6" title="Bounds of a buffer&#39;s geometry in its own stored coordinates." alt="" coords="489,29,660,74"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="409,177,426,166,442,146,449,126,457,105,474,84,483,81,479,84,478,88,462,108,454,128,447,149,430,170,412,182"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Nexus_1_1Mantle_ad57cad5c90326b7f9f99a51980332783.html#ad57cad5c90326b7f9f99a51980332783" title=" " alt="" coords="481,168,668,213"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="428,195,468,195,463,197,429,200"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Nexus_1_1Expanse_a0671e8b59b4d60511bdcc69b8620f1a4.html#a0671e8b59b4d60511bdcc69b8620f1a4" title="Test whether a world position lies within the Expanse." alt="" coords="721,99,919,143"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="673,118,708,120,703,122,674,124"/>
+<area shape="poly" id="edge10_Node000008_Node000008" title=" " alt="" coords="529,28,527,19,535,10,551,5,575,3,601,5,618,14,612,15,599,10,575,8,552,10,538,15,533,21,534,30"/>
+<area shape="rect" id="Node000009" href="$namespaceMayaFlux_1_1Kinesis_add0440ae03f794344a8ba713e714fc70.html#add0440ae03f794344a8ba713e714fc70" title="Axis&#45;aligned bounding box of a PositionCarrying span." alt="" coords="730,38,910,66"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="660,49,717,51,712,52,662,54"/>
+<area shape="poly" id="edge17_Node000010_Node000003" title=" " alt="" coords="646,211,737,242,732,243,645,216"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="645,211,675,230,692,249,700,267,708,285,723,303,747,322,742,321,720,307,703,288,695,269,687,252,672,234,644,216"/>
+<area shape="rect" id="Node000011" href="$namespaceMayaFlux_1_1Kinesis_a724984551301a0715dc9e2113107b3b5.html#a724984551301a0715dc9e2113107b3b5" title="Transform that scales and translates one box onto another." alt="" coords="746,168,894,213"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="668,188,733,190,728,191,669,193"/>
+<area shape="rect" id="Node000012" href="$structMayaFlux_1_1Kinesis_1_1AABB3D_a0d85b0eaeb89c2c3d58fd1f8858c4ac8.html#a0d85b0eaeb89c2c3d58fd1f8858c4ac8" title=" " alt="" coords="967,99,1115,143"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="893,165,956,148,950,149,894,170"/>
+<area shape="rect" id="Node000013" href="$structMayaFlux_1_1Kinesis_1_1AABB3D_aeab9cee1b78baf556b0b7e14c99541c2.html#aeab9cee1b78baf556b0b7e14c99541c2" title=" " alt="" coords="967,168,1115,213"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="894,188,954,190,949,191,895,193"/>
+<area shape="rect" id="Node000014" href="$namespaceMayaFlux_1_1Kinesis_ace716df2f40f1b0e620049c240637942.html#ace716df2f40f1b0e620049c240637942" title="Uniform scaling of a scalar&#45;output tendency." alt="" coords="967,237,1115,282"/>
+<area shape="poly" id="edge16_Node000011_Node000014" title=" " alt="" coords="894,211,956,232,950,232,893,216"/>
+<area shape="poly" id="edge19_Node000015_Node000008" title=" " alt="" coords="401,108,494,78,489,81,404,112"/>
+<area shape="poly" id="edge20_Node000015_Node000010" title=" " alt="" coords="428,153,469,164,463,165,429,158"/>
+<area shape="poly" id="edge22_Node000016_Node000004" title=" " alt="" coords="428,349,709,351,704,353,428,354"/>
+<area shape="poly" id="edge23_Node000016_Node000010" title=" " alt="" coords="404,326,427,315,489,269,539,225,544,223,492,273,429,319,406,331"/>
+<area shape="rect" id="Node000017" href="$classMayaFlux_1_1Nexus_1_1Expanse_a68c254e884bad15b2c9609cdec8a3fcb.html#a68c254e884bad15b2c9609cdec8a3fcb" title="Set or replace the box." alt="" coords="476,389,673,434"/>
+<area shape="poly" id="edge24_Node000016_Node000017" title=" " alt="" coords="427,372,470,385,465,385,426,377"/>
+<area shape="poly" id="edge25_Node000017_Node000004" title=" " alt="" coords="668,386,709,379,714,378,669,391"/>
+</map>

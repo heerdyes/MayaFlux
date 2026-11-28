@@ -1,0 +1,19 @@
+<map id="MayaFlux::Core::Engine::Start" name="MayaFlux::Core::Engine::Start">
+<area shape="rect" id="Node000001" title="Starts the coordinated processing of all subsystems." alt="" coords="5,99,181,143"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Core_1_1Engine_a0044b71bc1b400d9339a6e91312da074.html#a0044b71bc1b400d9339a6e91312da074" title="Initializes all system components and prepares for processing." alt="" coords="235,29,410,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,96,234,78,230,80,170,101"/>
+<area shape="rect" id="Node000003" href="$namespaceMayaFlux_1_1Portal_1_1Forma_a6ae247b78d443c2a920e7cbbaa0dc93f.html#a6ae247b78d443c2a920e7cbbaa0dc93f" title="Store engine&#45;level references for use by all subsequent Forma calls." alt="" coords="233,99,413,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="180,118,220,120,214,122,181,124"/>
+<area shape="rect" id="Node000008" href="$namespaceMayaFlux_1_1Portal_1_1System_a51925160aa1000abf1704704938ceda2.html#a51925160aa1000abf1704704938ceda2" title="Initialize Portal::System." alt="" coords="229,168,417,213"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="170,141,235,162,229,164,169,147"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="279,28,278,19,285,10,300,5,323,3,348,5,364,14,359,14,346,10,323,8,301,10,288,15,283,21,284,30"/>
+<area shape="rect" id="Node000004" href="$namespaceMayaFlux_1_1Portal_1_1Forma_1_1internal_abdc2f8c3b42bcb7e0e99aae7e15a4615.html#abdc2f8c3b42bcb7e0e99aae7e15a4615" title="Accessor for the process&#45;wide Atelier." alt="" coords="472,64,652,109"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="413,105,459,101,454,102,414,111"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a2fb6e599a0001e4bb6c0c11dc5aa9154.html#a2fb6e599a0001e4bb6c0c11dc5aa9154" title=" " alt="" coords="465,133,659,178"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="414,131,452,139,447,139,414,137"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_a08a096e054a0c2a721c1a399c95af469.html#a08a096e054a0c2a721c1a399c95af469" title=" " alt="" coords="707,64,901,109"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="653,84,694,86,689,87,653,89"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Portal_1_1Forma_1_1internal_1_1Atelier_adc8bc2941915c24780f852e152d31af7.html#adc8bc2941915c24780f852e152d31af7" title=" " alt="" coords="949,64,1130,109"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="901,84,936,86,930,87,901,89"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="995,62,993,54,1001,45,1016,39,1039,37,1065,40,1081,49,1076,48,1063,45,1039,43,1017,45,1004,49,998,55,999,65"/>
+</map>

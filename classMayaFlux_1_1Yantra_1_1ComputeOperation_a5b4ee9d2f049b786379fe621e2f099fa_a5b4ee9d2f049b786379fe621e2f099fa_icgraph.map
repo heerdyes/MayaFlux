@@ -1,0 +1,9 @@
+<map id="MayaFlux::Yantra::ComputeOperation::set_gpu_backend" name="MayaFlux::Yantra::ComputeOperation::set_gpu_backend">
+<area shape="rect" id="Node000001" title="Attach a GPU execution backend." alt="" coords="280,75,485,119"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Yantra_1_1GpuAnalyzer_a45b1784943c3833827e72cf23f08c4dc.html#a45b1784943c3833827e72cf23f08c4dc" title="Construct with a configured GpuExecutionContext." alt="" coords="6,5,231,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,71,206,53,206,48,282,69"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Yantra_1_1GpuExtractor_a6857e3653072ac5839ffd2e0d8096424.html#a6857e3653072ac5839ffd2e0d8096424" title="Construct with a configured GpuExecutionContext." alt="" coords="5,75,232,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,98,233,100,232,94,267,96"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Yantra_1_1GpuSorter_a784f1da439f8336c4ded69c6b146c924.html#a784f1da439f8336c4ded69c6b146c924" title="Construct with a configured GpuExecutionContext." alt="" coords="15,144,222,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,123,207,146,206,141,277,124"/>
+</map>

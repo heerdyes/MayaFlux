@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classMayaFlux_1_1Kakshya_1_1DataProcessor.html" title="Interface for processing data within SignalSourceContainer objects." alt="" coords="5,248,163,293"/>
+<area shape="rect" id="Node000001" href="$classMayaFlux_1_1Kakshya_1_1AudioOutputAccessProcessor.html" title="Default DataProcessor for AudioOutputContainer." alt="" coords="211,5,421,50"/>
+<area shape="poly" id="edge106_Node000000_Node000001" title=" " alt="" coords="96,233,113,193,137,147,169,100,209,60,231,48,227,53,212,64,173,104,142,150,118,195,100,235"/>
+<area shape="rect" id="Node000002" href="$classMayaFlux_1_1Kakshya_1_1ContiguousAccessProcessor.html" title=" " alt="" coords="215,75,417,119"/>
+<area shape="poly" id="edge107_Node000000_Node000002" title=" " alt="" coords="107,234,151,180,178,153,209,129,235,118,231,122,212,134,182,157,154,184,111,237"/>
+<area shape="rect" id="Node000003" href="$classMayaFlux_1_1Kakshya_1_1CursorAccessProcessor.html" title="Independent cursor reader for DynamicSoundStream, writing exclusively to a dynamic slot allocated at ..." alt="" coords="230,144,402,189"/>
+<area shape="poly" id="edge108_Node000000_Node000003" title=" " alt="" coords="133,238,210,199,242,188,238,191,212,203,137,242"/>
+<area shape="rect" id="Node000004" href="$classMayaFlux_1_1Kakshya_1_1FrameAccessProcessor.html" title=" " alt="" coords="231,213,401,258"/>
+<area shape="poly" id="edge109_Node000000_Node000004" title=" " alt="" coords="177,254,232,247,228,250,179,259"/>
+<area shape="rect" id="Node000006" href="$classMayaFlux_1_1Kakshya_1_1PlotProcessor.html" title="DataProcessor that acquires per&#45;series data from heterogeneous sources and writes into PlotContainer:..." alt="" coords="237,283,394,327"/>
+<area shape="poly" id="edge111_Node000000_Node000006" title=" " alt="" coords="177,282,239,292,234,295,178,287"/>
+<area shape="rect" id="Node000007" href="$classMayaFlux_1_1Kakshya_1_1RegionProcessorBase.html" title="Base class for N&#45;dimensional region processors." alt="" coords="235,352,396,397"/>
+<area shape="poly" id="edge112_Node000000_Node000007" title=" " alt="" coords="135,298,212,337,243,351,238,352,210,342,135,303"/>
+<area shape="rect" id="Node000011" href="$classMayaFlux_1_1Kakshya_1_1VisionProcessor.html" title="DataProcessor executing a Kinesis::Vision pipeline on pixel container data." alt="" coords="237,421,394,466"/>
+<area shape="poly" id="edge116_Node000000_Node000011" title=" " alt="" coords="109,303,154,357,182,384,212,407,240,423,234,423,209,411,178,388,151,360,108,308"/>
+<area shape="rect" id="Node000012" href="$classMayaFlux_1_1Kakshya_1_1WindowAccessProcessor.html" title="Default DataProcessor for WindowContainer." alt="" coords="225,491,406,535"/>
+<area shape="poly" id="edge117_Node000000_Node000012" title=" " alt="" coords="98,304,118,345,142,391,173,437,212,476,232,491,226,490,209,480,169,440,137,394,113,348,98,309"/>
+<area shape="rect" id="Node000005" href="$classMayaFlux_1_1Kakshya_1_1FrameSeekProcessor.html" title="FrameAccessProcessor whose read position follows a function of time." alt="" coords="496,213,654,258"/>
+<area shape="poly" id="edge110_Node000004_Node000005" title=" " alt="" coords="416,233,498,235,493,237,417,238"/>
+<area shape="rect" id="Node000008" href="$classMayaFlux_1_1Kakshya_1_1RegionOrganizationProcessor.html" title="Data&#45;driven processor for organizing and processing non&#45;linear audio regions." alt="" coords="469,317,681,362"/>
+<area shape="poly" id="edge113_Node000007_Node000008" title=" " alt="" coords="412,359,471,353,466,355,413,364"/>
+<area shape="rect" id="Node000010" href="$classMayaFlux_1_1Kakshya_1_1SpatialRegionProcessor.html" title="Parallel spatial extraction processor for image&#45;modality containers." alt="" coords="488,387,662,431"/>
+<area shape="poly" id="edge115_Node000007_Node000010" title=" " alt="" coords="412,384,490,397,485,398,412,390"/>
+<area shape="rect" id="Node000009" href="$classMayaFlux_1_1Kakshya_1_1DynamicRegionProcessor.html" title="Extends RegionOrganizationProcessor with dynamic, runtime reorganization capabilities." alt="" coords="729,317,917,362"/>
+<area shape="poly" id="edge114_Node000008_Node000009" title=" " alt="" coords="697,337,731,339,726,340,697,342"/>
+</map>
